@@ -41,8 +41,8 @@ sections:
       button: Button Text
       alt: Image alt text
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
+      title: Digital Society
+      subtitle: digital singapore
       description: Infopic description
       button: Button Text
       alt: Image alt text
