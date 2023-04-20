@@ -9,7 +9,6 @@ sections:
   - hero:
       title: Committee of Supply 2023
       subtitle: Empowering Singaporeans to Thrive in Our Digital Future
-      background: /images/hero-banner.png
       button: Read more
       url: /contact-us/
       key_highlights:
