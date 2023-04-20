@@ -7,20 +7,20 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
+      title: Committee of Supply 2023
+      subtitle: Empowering Singaporeans to Thrive in Our Digital Future
       background: /images/hero-banner.png
-      button: Contact Us
+      button: Read more
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: Digital singapore
+          description: Find out what we do
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: media centre
+          description: Speeches, Press Releases, PQs
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: careers
+          description: Join the MCI Family
           url: /privacy/
   - infobar:
       title: Infobar title
