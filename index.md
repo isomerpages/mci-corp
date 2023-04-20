@@ -23,8 +23,8 @@ sections:
           description: Join the MCI Family
           url: /privacy/
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
+      title: Digital Economy
+      subtitle: digital singapore
       description: Infopic description
       button: Button Text
       alt: Image alt text
