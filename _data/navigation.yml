@@ -19,6 +19,18 @@ links:
       - title: Committee of Supply
         url: /COS
   - title: Media Centre
-    collection: example-folder
+    url: /MediaCentre
+    sublinks:
+      - title: News
+        url: /News
+      - title: Parliament
+        url: /Parliament
+      - title: Reporting in Singapore
+        url: /ReportinginSingapore
   - title: Join Us
-    url: /Join-Us
+    url: /JoinUs
+    sublinks:
+      - title: Careers
+        url: /Careers
+      - title: Scholarship
+        url: /Scholarship
