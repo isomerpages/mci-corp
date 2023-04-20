@@ -21,6 +21,7 @@ sections:
         - title: careers
           description: Join the MCI Family
           url: /privacy/
+      background: /images/cosbanner.png
   - infopic:
       title: Digital Economy
       subtitle: digital singapore
