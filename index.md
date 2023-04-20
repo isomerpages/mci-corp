@@ -50,14 +50,14 @@ sections:
       button: Find out More
       alt: Image alt text
       url: https://
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
   - resources:
       title: News
       subtitle: media Centre
       button: find out more
+  - infobar:
+      title: Livestreaming
+      subtitle: Parliament
+      description: Parliament proceedings are live-streamed on MCI's YouTube channel.
+      button: Click here
+      url: /faq/
 ---
