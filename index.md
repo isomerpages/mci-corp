@@ -22,10 +22,20 @@ sections:
         - title: careers
           description: Join the MCI Family
           url: /privacy/
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
   - infobar:
       title: Infobar title
       subtitle: Subtitle
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
+  - resources:
+      title: News
+      subtitle: media Centre
+      button: find out more
 ---
