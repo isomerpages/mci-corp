@@ -25,27 +25,31 @@ sections:
   - infopic:
       title: Digital Economy
       subtitle: digital singapore
-      description: Infopic description
-      button: Button Text
+      description: Our digital economy efforts
+      button: Find out more
       alt: Image alt text
+      url: https://
   - infopic:
       title: Digital Security
       subtitle: Digital singapore
-      description: Infopic description
-      button: Button Text
+      description: Our efforts against scams, cybersecurity etc.
+      button: Find out more
       alt: Image alt text
+      url: https://
   - infopic:
       title: Digital Infrastructure
       subtitle: digital singapore
-      description: Infopic description
-      button: Button Text
+      description: Our infrastructure investment e.g. in 5G
+      button: find out more
       alt: Image alt text
+      url: https://www.mci.gov.sg
   - infopic:
       title: Digital Society
       subtitle: digital singapore
-      description: Infopic description
-      button: Button Text
+      description: our efforts on reaching out to every person to learn digital skills
+      button: Find out More
       alt: Image alt text
+      url: https://
   - infobar:
       title: Infobar title
       subtitle: Subtitle
