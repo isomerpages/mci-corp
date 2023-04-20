@@ -29,8 +29,8 @@ sections:
       button: Button Text
       alt: Image alt text
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
+      title: Digital Security
+      subtitle: Digital singapore
       description: Infopic description
       button: Button Text
       alt: Image alt text
