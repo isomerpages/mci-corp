@@ -1,11 +1,5 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: What we Do
-    url: /What-we-do/
-  - title: Media Centre
-    collection: example-folder
-  - title: Join Us
-    url: /Join-Us
   - title: Who We Are
     url: /WhoWeAre
     sublinks:
@@ -13,3 +7,18 @@ links:
         url: /AboutUs
       - title: Agencies
         url: /Agencies
+  - title: What we do
+    url: /WhatWeDo
+    sublinks:
+      - title: Digital Singapore
+        url: /Digital Singapore
+      - title: Public Comms & Engagement
+        url: /PublicComms&Engagement
+      - title: Research & Data
+        url: /RDD
+      - title: Committee of Supply
+        url: /COS
+  - title: Media Centre
+    collection: example-folder
+  - title: Join Us
+    url: /Join-Us
