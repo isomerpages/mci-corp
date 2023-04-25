@@ -2,6 +2,7 @@ collections:
   what-we-do:
     output: true
     order:
+      - Digital Singapore/Digital Economy.md
       - Digital Singapore/Overview.md
       - Digital Singapore/.keep
       - Public Comms and Engagement/.keep
