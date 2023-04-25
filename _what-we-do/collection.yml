@@ -2,6 +2,7 @@ collections:
   what-we-do:
     output: true
     order:
+      - Committee of Supply/.keep
       - Research and Data/.keep
       - Public Comms and Engagement/.keep
       - Digital Singapore/.keep
