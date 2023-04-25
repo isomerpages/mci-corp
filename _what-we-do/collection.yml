@@ -2,4 +2,5 @@ collections:
   what-we-do:
     output: true
     order:
+      - Public Comms and Engagement/.keep
       - Digital Singapore/.keep
