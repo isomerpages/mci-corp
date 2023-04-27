@@ -8,7 +8,7 @@ links:
       - title: Agencies
         url: /Agencies
   - title: What We Do
-    url: /what-we-do/
+    url: /WhatWeDo
     sublinks:
       - title: Digital Singapore
         url: /Digital-Singapore
@@ -34,3 +34,5 @@ links:
         url: /Careers
       - title: Scholarship
         url: /Scholarship
+  - title: What We Do New
+    collection: what-we-do
