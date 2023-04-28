@@ -2,4 +2,5 @@ collections:
   who-we-are:
     output: true
     order:
+      - Agencies.md
       - About Us.md
