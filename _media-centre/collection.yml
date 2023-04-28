@@ -1,5 +1,4 @@
 collections:
   media-centre:
     output: true
-    order:
-      - Example TitleNews.md
+    order: []
