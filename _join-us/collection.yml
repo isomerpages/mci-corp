@@ -2,5 +2,5 @@ collections:
   join-us:
     output: true
     order:
-      - Scholarship.md
       - Careers.md
+      - Scholarship.md
