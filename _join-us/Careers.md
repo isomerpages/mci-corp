@@ -39,3 +39,6 @@ Language Executives provide translation services to support the Government’s p
 The Management Executives are involved in a myriad of key functions, including policy formulation for info-communications and media development as well as driving organisational excellence initiatives.  
   
 Management Executives will have the opportunity to be posted to a variety of portfolios such as policy, planning and corporate services in various Divisions, or be seconded to MCI Statutory Boards for the implementation of policies and programmes.
+
+Grants & Awards
+-------------
