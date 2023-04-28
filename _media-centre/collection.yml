@@ -2,6 +2,6 @@ collections:
   media-centre:
     output: true
     order:
-      - Reporting in Singapore.md
-      - Parliament.md
       - News.md
+      - Parliament.md
+      - Reporting in Singapore.md
