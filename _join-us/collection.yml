@@ -2,6 +2,7 @@ collections:
   join-us:
     output: true
     order:
+      - Careers/Our People.md
       - Careers/Life at MCI.md
       - Careers/Why join MCI?.md
       - Careers/.keep
