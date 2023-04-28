@@ -4,10 +4,10 @@ collections:
     order:
       - News/.keep
       - Parliament.md
-      - Reporting in Singapore/Useful Information.md
-      - Reporting in Singapore/MCI Duty Desk.md
-      - Reporting in Singapore/Accreditation.md
-      - Reporting in Singapore/Working in Singapore.md
-      - Reporting in Singapore/Setting Up Shop.md
       - Reporting in Singapore/.keep
+      - Reporting in Singapore/Setting Up Shop.md
+      - Reporting in Singapore/Working in Singapore.md
+      - Reporting in Singapore/Accreditation.md
+      - Reporting in Singapore/MCI Duty Desk.md
+      - Reporting in Singapore/Useful Information.md
       - Reporting in Singapore.md
