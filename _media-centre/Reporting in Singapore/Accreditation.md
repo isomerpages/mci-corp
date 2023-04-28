@@ -19,4 +19,3 @@ apply for a PAC
   
 To apply for Media Organisation Accreditation or a PAC, please visit the [PAC Online](http://www.mci.gov.sg/paconline) website. [](http://www.mci.gov.sg/paconline)
 For enquiries on press accreditation, email: [MCI\_PAC\_Online@mci.gov.sg](mailto:MCI_PAC_Online@mci.gov.sg)
-
