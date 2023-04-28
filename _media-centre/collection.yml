@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - News/.keep
-      - News.md
       - Parliament.md
       - Reporting in Singapore.md
