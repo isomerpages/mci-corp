@@ -4,8 +4,6 @@ permalink: /join-us/scholarship/scholarships-offered/
 description: ""
 third_nav_title: Scholarship
 ---
-### Scholarships Offered
-
 **Scholarships Offered**
 
 *   **MCI Information Service Scholarship**  
