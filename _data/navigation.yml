@@ -5,18 +5,6 @@ links:
   - title: What We Do
     collection: what-we-do
   - title: Media Centre
-    url: /MediaCentre
-    sublinks:
-      - title: News
-        url: /News
-      - title: Parliament
-        url: /Parliament
-      - title: Reporting in Singapore
-        url: /ReportinginSingapore
+    collection: example-folder
   - title: Join Us
-    url: /JoinUs
-    sublinks:
-      - title: Careers
-        url: /Careers
-      - title: Scholarship
-        url: /Scholarship
+    collection: example-folder
