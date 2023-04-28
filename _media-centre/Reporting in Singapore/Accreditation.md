@@ -4,3 +4,19 @@ permalink: /media-centre/reporting-in-singapore/accreditation/
 description: ""
 third_nav_title: Reporting in Singapore
 ---
+### Press Accreditation
+
+Media personnel working in Singapore may apply for a press accreditation card (PAC) from MCI. The PAC identifies you as a bona fide media and provides access to government information and events.    
+  
+**Eligibility**  
+• Media personnel who regularly cover government events, such as  
+editors, journalists, photographers, camera crew  
+• Applicants must be full-time employees of an accredited news  
+organisation  
+• MCI does not accredit media personnel from specialised publications  
+•  Contract staff, temporary staff, interns and freelancers are not eligible to  
+apply for a PAC  
+  
+To apply for Media Organisation Accreditation or a PAC, please visit the [PAC Online](http://www.mci.gov.sg/paconline) website. [](http://www.mci.gov.sg/paconline)
+For enquiries on press accreditation, email: [MCI\_PAC\_Online@mci.gov.sg](mailto:MCI_PAC_Online@mci.gov.sg)
+
