@@ -80,3 +80,7 @@ We believe in the power of teamwork and collaboration. This belief is reflected 
 
 # Our Culture
 At MCI, we encourage you to **Dare, Innovate, Learn and Collaborate.**
+![](/images/CDD/dare%20%20.jpg)
+![](/images/CDD/innovate.jpg) 
+![](/images/CDD/learn%20.jpg) 
+![](/images/CDD/collaborate.jpg)
