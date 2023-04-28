@@ -2,10 +2,10 @@ collections:
   who-we-are:
     output: true
     order:
-      - About Us/Old Hill Street Police Station.md
-      - About Us/Accolades.md
-      - About Us/Organisation Structure.md
-      - About Us/Political Office Holders.md
-      - About Us/Our Purpose.md
       - About Us/.keep
+      - About Us/Our Purpose.md
+      - About Us/Political Office Holders.md
+      - About Us/Organisation Structure.md
+      - About Us/Accolades.md
+      - About Us/Old Hill Street Police Station.md
       - Agencies.md
