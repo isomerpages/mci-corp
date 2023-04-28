@@ -3,7 +3,7 @@ title: Parliament
 permalink: /media-centre/parliament/
 description: ""
 ---
-
+![](/images/parliament%20(for%20website).jpg)
 Parliament proceedings are live-streamed on [MCI Singapore YouTube channel](https://go.gov.sg/mcisingapore).
 
 **Terms and Conditions for Use of Video Recordings of Parliamentary Sessions**  
