@@ -2,6 +2,7 @@ collections:
   media-centre:
     output: true
     order:
+      - News/2023.md
       - News/.keep
       - Parliament.md
       - Reporting in Singapore/.keep
