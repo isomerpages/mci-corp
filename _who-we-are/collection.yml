@@ -2,6 +2,7 @@ collections:
   who-we-are:
     output: true
     order:
+      - About Us/Senior Management.md
       - About Us/.keep
       - About Us/Our Purpose.md
       - About Us/Political Office Holders.md
