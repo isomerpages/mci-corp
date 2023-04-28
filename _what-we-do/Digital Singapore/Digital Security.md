@@ -15,3 +15,8 @@ Personal Data Protection
 ------------------------
 
 The Ministry of Communications and Information, through the Personal Data Protection Commission (PDPC) in the Infocomm Media Development Authority (IMDA), oversees and crafts policies to strengthen Singapore’s personal data protection regime. It aims to raise awareness of the importance of data protection among Singaporeans and assist businesses in building up their data protection capacity.
+
+Digital Defence
+---------------
+
+Digital Defence is one of the six pillars of Total Defence, to guard against threats from the digital domain.
