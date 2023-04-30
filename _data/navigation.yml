@@ -8,5 +8,5 @@ links:
     resource_room: true
   - title: Join Us
     collection: join-us
-  - title: Others
-    collection: others
+  - title: Resources
+    collection: resources
