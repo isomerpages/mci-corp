@@ -4,9 +4,9 @@ links:
     collection: who-we-are
   - title: What We Do
     collection: what-we-do
-  - title: Others
-    collection: others
+  - title: Media Centre
+    resource_room: true
   - title: Join Us
     collection: join-us
-  - title: News
-    resource_room: true
+  - title: Others
+    collection: others
