@@ -1,5 +1,5 @@
 collections:
-  media-centre:
+  others:
     output: true
     order:
       - News/.keep
