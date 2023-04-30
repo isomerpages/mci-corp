@@ -8,3 +8,5 @@ links:
     collection: media-centre
   - title: Join Us
     collection: join-us
+  - title: News
+    resource_room: true
