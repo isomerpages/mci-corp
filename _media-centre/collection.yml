@@ -2,7 +2,6 @@ collections:
   media-centre:
     output: true
     order:
-      - All/.keep
       - News/2023.md
       - News/.keep
       - Parliament.md
