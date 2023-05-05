@@ -2,6 +2,8 @@ collections:
   join-us:
     output: true
     order:
+      - Grants & Awards/Translation Talent Development Scheme (TTDS)Example
+        Title.md
       - Grants & Awards/.keep
       - Careers/.keep
       - Careers/Why join MCI?.md
