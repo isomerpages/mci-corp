@@ -55,3 +55,5 @@ _Empowering Singaporeans to access good tech jobs_
 \[1\] First $50 will be disbursed upon completion of the first e-invoice transaction, and next $150 will be disbursed if the remaining 9 e-invoice transactions are completed within a year from the first e-invoice transaction.
 
 \[2\] Currently, there are 9 participating banks for PayNow Corporate.
+
+Annex C-1: CSA to Launch Scheme to Develop Cybersecurity Health Plans with Funding Support for Small-Medium Enterprises
