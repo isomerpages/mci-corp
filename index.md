@@ -64,4 +64,11 @@ sections:
       description: Parliament proceedings are live-streamed on MCI's YouTube channel.
       button: Click here
       url: /what-we-do/parliament/
+  - infopic:
+      title: Careers
+      subtitle: Join us
+      description: Infopic description
+      button: Find out more
+      url: /join-us/careers/why-join-mci
+      alt: Image alt text
 ---
