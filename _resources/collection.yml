@@ -2,7 +2,6 @@ collections:
   resources:
     output: true
     order:
-      - News/.keep
       - Reporting in Singapore/.keep
       - Reporting in Singapore/Setting Up Shop.md
       - Reporting in Singapore/Working in Singapore.md
