@@ -20,7 +20,7 @@ sections:
           url: /media-centre
         - title: careers
           description: Join the MCI Family
-          url: /join-us/
+          url: /join-us/careers/why-join-mci/
       background: /images/cosbanner.png
   - infopic:
       title: Digital Economy
