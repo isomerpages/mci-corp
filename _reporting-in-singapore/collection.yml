@@ -1,5 +1,5 @@
 collections:
-  resources:
+  reporting-in-singapore:
     output: true
     order:
       - Reporting in Singapore.md
