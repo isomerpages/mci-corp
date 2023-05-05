@@ -67,7 +67,8 @@ sections:
   - infopic:
       title: Careers
       subtitle: Join us
-      description: Infopic description
+      description: Find out how you can play a key role in forging a thriving digital
+        future for Singapore.
       button: Find out more
       url: /join-us/careers/why-join-mci
       alt: Image alt text
