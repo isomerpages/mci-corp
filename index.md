@@ -72,4 +72,5 @@ sections:
       button: Find out more
       url: /join-us/careers/why-join-mci
       alt: Image alt text
+      image: /images/careers.JPG
 ---
