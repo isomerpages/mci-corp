@@ -29,7 +29,7 @@ sections:
       button: Find out more
       alt: Image alt text
       url: https://
-      image: /images/sms tan at launch of map initiative.JPG
+      image: /images/Events/foundersforumasia.JPG
   - infopic:
       title: Digital Security
       subtitle: Digital singapore
@@ -37,7 +37,7 @@ sections:
       button: Find out more
       alt: Image alt text
       url: https://
-      image: /images/the sydney dialogue.jpg
+      image: /images/Events/the sydney dialogue.jpg
   - infopic:
       title: Digital Infrastructure
       subtitle: digital singapore
@@ -45,7 +45,7 @@ sections:
       button: find out more
       alt: Image alt text
       url: https://www.mci.gov.sg
-      image: /images/foundersforumasia.JPG
+      image: /images/Events/sms tan at launch of map initiative.JPG
   - infopic:
       title: Digital Society
       subtitle: digital singapore
@@ -53,7 +53,7 @@ sections:
       button: Find out More
       alt: Image alt text
       url: https://
-      image: /images/digitalforlife1.jpg
+      image: /images/Events/dfldfl1.jpg
   - resources:
       title: News
       subtitle: media Centre
