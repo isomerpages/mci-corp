@@ -2,15 +2,7 @@ logo: /images/Logos/mci_english_horizontal_col.jpg
 links:
   - title: Who We Are
     collection: who-we-are
-  - title: What We Do
-    collection: what-we-do
-  - title: Media Centre
-    resource_room: true
-  - title: Join Us
-    collection: join-us
-  - title: Reporting In Singapore
-    collection: reporting-in-singapore
-  - title: Who We Are
+  - title: Who We Are v2
     url: /who-we-are/about-us/our-purpose/
     sublinks:
       - title: About Us
@@ -19,3 +11,11 @@ links:
         url: /who-we-are/agencies/
       - title: Contact Us
         url: /contact-us/
+  - title: What We Do
+    collection: what-we-do
+  - title: Media Centre
+    resource_room: true
+  - title: Join Us
+    collection: join-us
+  - title: Reporting In Singapore
+    collection: reporting-in-singapore
