@@ -40,4 +40,4 @@ Brothers and sisters
   
 10. Thank you once again for inviting me.
 
-PDF
+[Transcript of Welcome Remarks by Minister Josephine Teo at SingPost Buka Puasa (13 Apr)](/files/transcript%20of%20welcome%20remarks%20by%20minister%20josephine%20teo%20at%20singpost%20buka%20puasa%20(13%20apr)%20(1).pdf)
