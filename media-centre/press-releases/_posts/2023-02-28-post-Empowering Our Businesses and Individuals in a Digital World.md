@@ -56,4 +56,4 @@ _Empowering Singaporeans to access good tech jobs_
 
 \[2\] Currently, there are 9 participating banks for PayNow Corporate.
 
-[[Annex C-1: CSA to Launch Scheme to Develop Cybersecurity Health Plans with Funding Support for Small-Medium Enterprises](/files/annex%20c-1%20(1).pdf)
+[Annex C-1: CSA to Launch Scheme to Develop Cybersecurity Health Plans with Funding Support for Small-Medium Enterprises](/files/annex%20c-1%20(1).pdf)
