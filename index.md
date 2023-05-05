@@ -14,13 +14,13 @@ sections:
       key_highlights:
         - title: Digital singapore
           description: Find out what we do
-          url: https://google.com
+          url: /what-we-do/digital-singapore/overview/
         - title: media centre
           description: Speeches, Press Releases, PQs
-          url: https://gmail.com
+          url: /media-centre
         - title: careers
           description: Join the MCI Family
-          url: /privacy/
+          url: /join-us/
       background: /images/cosbanner.png
   - infopic:
       title: Digital Economy
@@ -36,7 +36,7 @@ sections:
       description: Our efforts against scams, cybersecurity etc.
       button: Find out more
       alt: Image alt text
-      url: https://
+      url: /what-we-do/digital-singapore/digital-security/
       image: /images/Events/the sydney dialogue.jpg
   - infopic:
       title: Digital Infrastructure
@@ -44,7 +44,7 @@ sections:
       description: Our infrastructure investment e.g. in 5G
       button: find out more
       alt: Image alt text
-      url: https://www.mci.gov.sg
+      url: /what-we-do/digital-singapore/digital-infrastructure/
       image: /images/Events/sms tan at launch of map initiative.JPG
   - infopic:
       title: Digital Society
@@ -52,7 +52,7 @@ sections:
       description: our efforts on reaching out to every person to learn digital skills
       button: Find out More
       alt: Image alt text
-      url: https://
+      url: /what-we-do/digital-singapore/digital-society/
       image: /images/Events/dfldfl1.jpg
   - resources:
       title: News
@@ -63,5 +63,5 @@ sections:
       subtitle: Parliament
       description: Parliament proceedings are live-streamed on MCI's YouTube channel.
       button: Click here
-      url: /faq/
+      url: /what-we-do/parliament/
 ---
