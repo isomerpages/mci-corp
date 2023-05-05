@@ -2,9 +2,6 @@ collections:
   join-us:
     output: true
     order:
-      - Grants & Awards/.keep
-      - Grants & Awards/Translation Talent Development Scheme (TTDS).md
-      - Grants & Awards/Community in Translation Events Grant.md
       - Careers/.keep
       - Careers/Why join MCI?.md
       - Careers/Life at MCI.md
@@ -15,3 +12,6 @@ collections:
       - Scholarship/Scholarships Offered.md
       - Scholarship/Eligibility Criteria & Applications.md
       - Scholarship/Frequently Asked Questions & Enquiry.md
+      - Grants & Awards/.keep
+      - Grants & Awards/Translation Talent Development Scheme (TTDS).md
+      - Grants & Awards/Community in Translation Events Grant.md
