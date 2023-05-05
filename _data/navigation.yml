@@ -10,6 +10,10 @@ links:
     collection: join-us
   - title: Reporting In Singapore
     collection: reporting-in-singapore
-  - title: test
+  - title: WWA
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: About Us
+        url: /permalink
+      - title: Agencies
+        url: /permalink
