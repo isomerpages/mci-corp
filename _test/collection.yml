@@ -1,5 +1,0 @@
-collections:
-  test:
-    output: true
-    order:
-      - Folder1/.keep
