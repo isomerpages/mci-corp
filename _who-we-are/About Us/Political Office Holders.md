@@ -31,9 +31,9 @@ third_nav_title: About Us
 </table>
 
 # Minister Josephine Teo
-# ![](/images/min%20josephine%20teo%202021-34.jpg) 
+# ![](/images/POHes/min%20josephine%20teo%202021-34.jpg)
 # Senior Minister of State Janil Puthucheary
-![](/images/sms%20janil%20(formal).jpg)
+![](/images/POHes/sms%20janil%20(formal).jpg)
 
 # Senior Minister of State Tan Kiat How
-![](/images/tan%20kiat%20how%20suit%20photo.jpg)
+![](/images/POHes/tan%20kiat%20how%20suit%20photo.jpg)
