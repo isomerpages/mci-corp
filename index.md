@@ -10,7 +10,7 @@ sections:
       title: Committee of Supply 2023
       subtitle: Empowering Singaporeans to Thrive in Our Digital Future
       button: Read more
-      url: /contact-us/
+      url: /what-we-do/committee-of-supply/2023/
       key_highlights:
         - title: Digital singapore
           description: Find out what we do
