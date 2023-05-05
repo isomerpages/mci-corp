@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Reporting in Singapore.md
       - Reporting in Singapore/.keep
       - Reporting in Singapore/Setting Up Shop.md
       - Reporting in Singapore/Working in Singapore.md
