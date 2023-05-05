@@ -28,7 +28,7 @@ sections:
       description: Our digital economy efforts
       button: Find out more
       alt: Image alt text
-      url: https://
+      url: what-we-do/digital-singapore/digita-economy/
       image: /images/Events/foundersforumasia.JPG
   - infopic:
       title: Digital Security
