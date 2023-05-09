@@ -30,8 +30,10 @@ third_nav_title: About Us
 </tbody>
 </table>
 
-# Minister Josephine Teo
+# Minister
 # ![](/images/POHes/min%20josephine%20teo%202021-34.jpg)
+**Josephine Teo**
+
 # Senior Minister of State Janil Puthucheary
 ![](/images/POHes/sms%20janil%20(formal).jpg)
 
