@@ -2,6 +2,7 @@ collections:
   cos:
     output: true
     order:
+      - COS 2023/Embracing Our Potential.md
       - COS 2023/Expanding Possibilities.md
       - COS 2023/Empowering Citizens.md
       - COS 2023/Overview.md
