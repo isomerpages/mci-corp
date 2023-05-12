@@ -2,7 +2,7 @@ collections:
   cos:
     output: true
     order:
-      - COS 2023/Example Title.md
+      - COS 2023/Empowering Citizens.md
       - COS 2023/Overview.md
       - COS 2023/.keep
       - COS 2022/.keep
