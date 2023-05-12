@@ -2,5 +2,6 @@ collections:
   cos:
     output: true
     order:
+      - COS 2021/.keep
       - COS 2022/.keep
       - COS 2023/.keep
