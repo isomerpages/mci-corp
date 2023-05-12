@@ -4,7 +4,7 @@ permalink: /cos-2023/expanding-possibilities/
 description: ""
 third_nav_title: COS 2023
 ---
-# Building Foundations for Our Digital&nbsp;Future# 
+# Building Foundations for Our Digital&nbsp;Future
 A core aspect of MCI’s work is laying the foundations for Singapore’s digital future and to continually adapt to evolving technology and needs.
 
 To do these, we will continue to invest in our digital infrastructure to power digital offerings and build strong research and innovation capabilities that will create new value from emerging technologies.
