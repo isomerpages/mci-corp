@@ -2,7 +2,6 @@ collections:
   what-we-do:
     output: true
     order:
-      - Reporting in Singapore.md
       - Digital Singapore/.keep
       - Digital Singapore/Overview.md
       - Digital Singapore/Digital Economy.md
@@ -21,4 +20,5 @@ collections:
       - Committee of Supply/COS 2023.md
       - Committee of Supply/COS 2022.md
       - Committee of Supply/COS 2021.md
+      - Reporting in Singapore.md
       - Parliament Livestream.md
