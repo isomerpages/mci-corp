@@ -10,7 +10,7 @@ sections:
       title: Ministry of Communications and Information
       subtitle: Engaging hearts and minds, a thriving digital future for all
       button: Read more
-      url: who-we-are/about-us/
+      url: who-we-are/about-us/our-purpose/
       key_highlights:
         - title: Digital singapore
           description: Find out what we do
