@@ -4,7 +4,7 @@ permalink: /who-we-are/about-us/political-office-holders/
 description: ""
 third_nav_title: About Us
 ---
-|  | <div style="width:350px;"></div> | 
+|  |  | 
 | ------------- |:-------------:|
 | ![](/images/POHes/min%20josephine%20teo%202021-34.jpg)| **Minister**<br>Josephine Teo |
 | ![](/images/POHes/sms%20janil%20(formal).jpg) | **Senior Minister of State** <br> Dr Janil Puthucheary |
