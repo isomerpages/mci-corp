@@ -22,6 +22,8 @@ Singapore 179369
 | ------------- | ------------- |
 | 1 800 837 9655 <br> [MCI\_Connects@mci.gov.sg](mailto:MCI_Connects@mci.gov.sg) <br> Opening hours: 8.30 am to 6.00 pm (Mondays to Fridays)  | mci_human_resource@mci.gov.sg  |
 
+<br>
+
 | Government Press Releases  | Whistle Blowing Channels |
 | ------------- | ------------- |
 | mci_duty_officer@mci.gov.sg  | https://www.mci.gov.sg/mci-whistleblowing  |
