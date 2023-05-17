@@ -21,5 +21,8 @@ sections:
         - title: careers
           description: Join the MCI Family
           url: /join-us/careers/why-join-mci/
+        - title: Committee of Supply
+          description: MCI Budget Debate
+          url: /what-we-do/committee-of-supply/2023/
       background: /images/old hill street police station.jpg
 ---
