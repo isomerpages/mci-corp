@@ -10,7 +10,8 @@ third_nav_title: About Us
 The certification for the quality excellence standard for organisations.
 
 **Singapore Innovation Class (SIC)**
-![](/images/Logos/iclasslogo.gif)
+<img height="150" width="148" src="/images/Logos/iclasslogo.gif">
+
 The certification for the innovation excellence niche standard for organisations. MCI is committed to building and sustaining continuous innovation excellence to enhance MCI's capabilities and capacities to achieve its mission and vision.
 
 **People Developer Standard (PDS)**
@@ -39,7 +40,7 @@ The award is presented to organisations for proactive energy management.
 
 **Awards for Old Hill Street Police Station**
 ![](/images/Logos/bca%20green%20mark.jfif)
-**BCA Green Mark Platinum Award 2020**  
+**BCA Green Mark&nbsp;Platinum Award 2020**  
 The Old Hill Street Police Station was awarded the Green Mark Platinum Award by Building and Construction Authority (BCA), for outstanding building energy efficiency, commitment to corporate social responsibility, and green operational practices. This is the highest rating tier of the internationally-recognised green building rating system.
 
 **BCA Green Mark Pearl Award 2021**  
