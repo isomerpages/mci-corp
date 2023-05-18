@@ -4,10 +4,6 @@ permalink: /who-we-are/about-us/political-office-holders/
 description: ""
 third_nav_title: About Us
 ---
-test
-![img|300x400,50%](/images/POHes/min%20josephine%20teo%20300x400.jpeg)
-
-
 |  |  | 
 | ------------- |:-------------:|
 | ![](/images/POHes/min%20josephine%20teo%20300x400.jpeg) | **Minister**<br>Josephine Teo |
