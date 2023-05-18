@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: Digital singapore
           description: Find out what we do
-          url: /what-we-do/digital-singapore/digital-economy
+          url: /what-we-do/digital-singapore/digita-economy/
         - title: media centre
           description: Speeches, Press Releases, PQs
           url: /media-centre
