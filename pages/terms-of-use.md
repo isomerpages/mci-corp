@@ -19,7 +19,7 @@ Thank you for visiting the MCI Website. By accessing and using this Website, you
   
 **Privacy Policy**   
   
-5\. Click here to review this [Website Privacy Policy Statement](https://www.mci.gov.sg/privacy-statement).   
+5\. Click here to review this [Website Privacy Policy Statement](https://www.mci.gov.sg/privacy).   
   
 **Restrictions on use of Materials**   
   
