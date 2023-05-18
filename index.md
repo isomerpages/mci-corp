@@ -4,7 +4,8 @@ title: MCI - Ministry of Communications and Information
 description: An Isomer site of the Singapore Government
 image: /images/Logos/mci_english_horizontal_col.jpg
 permalink: /
-notification: Welcome to MCI's Corporate Website!
+notification: Click <a href="/https://www.youtube.com/@SingaporeMCI">here</a>
+  for Parliament livestream.
 sections:
   - hero:
       title: Ministry of Communications and Information
