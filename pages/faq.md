@@ -23,6 +23,7 @@ If you need to film at commuter facilities (e.g. bus stops, footpaths, linkways,
 
 Please click [here](https://www.imda.gov.sg/regulations-and-licensing-listing/newspaper-permit) for guidelines on the application of permit for your publications. For further assistance, please call the Infocomm Media Development Authority at 1800 478 5478.
     
+### General
 
 **1.  How do I book the state lectern?**
     
