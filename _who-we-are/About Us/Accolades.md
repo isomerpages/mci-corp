@@ -6,13 +6,13 @@ third_nav_title: About Us
 ---
 ### MCI has attained the following awards:
 **Singapore Quality Class (SQC) Star**
-![](/images/Logos/sqcstar.jpg)
+<img style="height:150px; width:148px;" src="/images/Logos/sqcstar.jpg">
 The certification for the quality excellence standard for organisations.
 
 **Singapore Innovation Class (SIC)**
-<img height="150" width="148" src="/images/Logos/iclasslogo.gif">
+<img style="height:150px; width:148px;" src="/images/Logos/iclasslogo.gif">
 
-test
+test 2
 
 The certification for the innovation excellence niche standard for organisations. MCI is committed to building and sustaining continuous innovation excellence to enhance MCI's capabilities and capacities to achieve its mission and vision.
 
