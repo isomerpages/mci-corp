@@ -12,6 +12,8 @@ The certification for the quality excellence standard for organisations.
 **Singapore Innovation Class (SIC)**
 <img height="150" width="148" src="/images/Logos/iclasslogo.gif">
 
+test
+
 The certification for the innovation excellence niche standard for organisations. MCI is committed to building and sustaining continuous innovation excellence to enhance MCI's capabilities and capacities to achieve its mission and vision.
 
 **People Developer Standard (PDS)**
