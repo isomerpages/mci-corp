@@ -5,6 +5,9 @@ description: ""
 third_nav_title: About Us
 ---
 ### MCI has attained the following awards:
+|   |   |   |   |   |
+|---|---|---|---|---|
+| ![](/images/Logos/sqcstar.jpg)  | ![](/images/Logos/iclasslogo.gif)  |![](/images/Logos/pdlogo.gif)   | ![](/images/Logos/tdalogo.jpg)  | ![](/images/Logos/singapore-health-award.jpg)  |
 
 **Singapore Quality Class (SQC) Star**
 ![](/images/Logos/sqcstar.jpg)
