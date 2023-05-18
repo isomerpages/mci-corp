@@ -5,11 +5,6 @@ description: ""
 third_nav_title: About Us
 ---
 ### MCI has attained the following awards:
-|   |   |   |
-|---|---|---|
-| ![](/images/Logos/sqcstar.jpg)  | ![](/images/Logos/iclasslogo.gif)  |   |
-
-
 **Singapore Quality Class (SQC) Star**
 ![](/images/Logos/sqcstar.jpg)
 The certification for the quality excellence standard for organisations.
