@@ -64,5 +64,6 @@ Distinguished guests
 	
 [^1]: _Digital 2022 Global Overview Report_, by We Are Social and Hootsuite. This data point pertains to the average Singapore user; no public data specific to youths in Singapore.
 	
+![](/images/Media%20Centre/pdf%20speech.png)
 	
 </div>
