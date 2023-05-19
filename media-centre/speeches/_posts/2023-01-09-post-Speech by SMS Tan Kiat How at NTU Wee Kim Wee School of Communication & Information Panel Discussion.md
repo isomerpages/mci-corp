@@ -64,4 +64,4 @@ Distinguished guests
  
 [^1]: _Digital 2022 Global Overview Report_, by We Are Social and Hootsuite. This data point pertains to the average Singapore user; no public data specific to youths in Singapore.	
 
-<a rel="some text" href="/files/Speeches%202023/speech%20by%20sms%20tan%20kiat%20how%20at%20ntu%20wkwsci%20panel%20discussion%20event%20on%209%20jan%202023.pdf"><img style="height:108px; width:200px;" src="/images/Media%20Centre/pdf%20speech.png"></a>
+[PDF version of speech](/files/Speeches%202023/speech%20by%20sms%20tan%20kiat%20how%20at%20ntu%20wkwsci%20panel%20discussion%20event%20on%209%20jan%202023.pdf)
