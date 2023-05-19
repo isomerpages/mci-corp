@@ -34,3 +34,4 @@ Colleagues and friends
 18. With this strong commitment from both the government and industry, I am confident that even with recent headwinds, our tech sector can continue to grow. I wish Temus all the best and for the success of its “Step IT Up” programme.
 19. Thank you.
 
+[PDF version of the speech](/files/Speeches%202023/speech%20by%20minister%20josephine%20teo%20at%20temus%20step%20it%20up%20launch%20on%2026%20jan%202023.pdf)
