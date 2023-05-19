@@ -2,17 +2,17 @@ title: MCI - Ministry of Communications and Information
 url: https://mci.gov.sg
 favicon: /images/Logos/mci_english_horizontal_col.jpg
 colors:
-  primary-color: "#8b8588"
+  primary-color: "#a7002d"
   secondary-color: "#127852"
   media-colors:
     - title: media-color-one
-      color: "#a7002d"
+      color: "#c40233"
     - title: media-color-two
       color: "#00573f"
     - title: media-color-three
       color: "#bdbabb"
     - title: media-color-four
-      color: "#c40233"
+      color: "#8b8588"
     - title: media-color-five
       color: "#4a4a4a"
 description: An Isomer site of the Singapore Government
