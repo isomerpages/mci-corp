@@ -11,9 +11,9 @@ image: ""
 QUESTION FOR WRITTEN ANSWER
 ---------------------------
 
-**50. **Mr Leong Mun Wai:**** To ask the Minister for Communications and Information (a) for each year from 2011 to 2021, how much is the Government’s annual spending for advertising on (i) traditional media such as print and television advertisements (ii) online media such as Facebook and TikTok advertisements and (iii) sponsored posts and videos by online content creators and influencers; and (b) what is the total number of impressions and clicks for each advertising medium for the same period.
+**50. Mr Leong Mun Wai:** To ask the Minister for Communications and Information (a) for each year from 2011 to 2021, how much is the Government’s annual spending for advertising on (i) traditional media such as print and television advertisements (ii) online media such as Facebook and TikTok advertisements and (iii) sponsored posts and videos by online content creators and influencers; and (b) what is the total number of impressions and clicks for each advertising medium for the same period.
 
-**Answer:** 
+**Answer:**
 
 1. In a written reply in July 2016 to Mr Dennis Tan Lip Fong’s question, the Government explained that it did not keep track of the total amount Ministries spend on online advertisements. This is because Ministries are responsible for their own advertising budget and expenditure.   
   
