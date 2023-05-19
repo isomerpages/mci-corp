@@ -2,15 +2,15 @@ title: MCI - Ministry of Communications and Information
 url: https://mci.gov.sg
 favicon: /images/Logos/mci_english_horizontal_col.jpg
 colors:
-  primary-color: "#1d7044"
-  secondary-color: "#c40233"
+  primary-color: "#8b8588"
+  secondary-color: "#127852"
   media-colors:
     - title: media-color-one
-      color: "#c40233"
+      color: "#a7002d"
     - title: media-color-two
-      color: "#858584"
+      color: "#00573f"
     - title: media-color-three
-      color: "#1d7044"
+      color: "#bdbabb"
     - title: media-color-four
       color: "#c40233"
     - title: media-color-five
