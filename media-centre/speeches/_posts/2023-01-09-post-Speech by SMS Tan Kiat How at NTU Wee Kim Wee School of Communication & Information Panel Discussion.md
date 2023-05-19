@@ -7,7 +7,7 @@ layout: post
 description: ""
 image: /images/old hill street police station.jpg
 ---
-<div style="text-align: justify">Professor May O. Lwin, Chair of Wee Kim Wee School of Communication and Information  
+Professor May O. Lwin, Chair of Wee Kim Wee School of Communication and Information  
 Distinguished guests
 
 1. A very good morning to all of you.
@@ -63,5 +63,4 @@ Distinguished guests
 28. Have a fruitful session and a panel discussion ahead and I wish you all the best in the coming year. Thank you very much.
 	
 [^1]: _Digital 2022 Global Overview Report_, by We Are Social and Hootsuite. This data point pertains to the average Singapore user; no public data specific to youths in Singapore.	
-</div>
-<a rel="some text" href="/files/Speeches%202023/speech%20by%20sms%20tan%20kiat%20how%20at%20ntu%20wkwsci%20panel%20discussion%20event%20on%209%20jan%202023.pdf"><img alt="" style="height:217px; width:400px;" src="/images/Media%20Centre/pdf%20speech.png"></a>
+<a rel="some text" href="/files/Speeches%202023/speech%20by%20sms%20tan%20kiat%20how%20at%20ntu%20wkwsci%20panel%20discussion%20event%20on%209%20jan%202023.pdf"><img style="height:136px; width:250px;" src="/images/Media%20Centre/pdf%20speech.png"></a>
