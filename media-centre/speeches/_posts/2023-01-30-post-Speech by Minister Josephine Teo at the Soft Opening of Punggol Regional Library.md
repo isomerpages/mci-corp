@@ -17,7 +17,7 @@ NLB’s Esteemed Partners and Volunteers
 
 Colleagues and Friends, Girls and Boys
 
-Introduction
+**Introduction**
 
 1 A very good morning. I am happy to join you today for this soft opening of the Punggol Regional Library. Like many people, I have been eagerly anticipating the launch. 
 
@@ -33,7 +33,7 @@ Introduction
 
 a. 	Spread across five floors, it is also the largest public library in Singapore. 
 
-b. 	More importantly, it has been designed to be an inclusive library with a rich collection and services that are designed to be accessible to all. 
+b. 	More importantly, it has been designed to be an **inclusive library with a rich collection and services that are designed to be accessible to all**. 
 
 7 Why is this important?
 
@@ -43,27 +43,27 @@ b. 	More importantly, it has been designed to be an inclusive library with a ric
 
 10 When the Punggol Regional Library opens fully in a few months’ time, it will bring to life NLB’s plan for LAB25. Other than being an Equaliser, it will be a Learning Marketplace, and will nurture an Informed Citizenry, and inspire Singapore Storytellers. 
 
-PRL’s collections and spaces for children to broaden their learning and discovery about the world, and develop 21st century skills
+**PRL’s collections and spaces for children to broaden their learning and discovery about the world, and develop 21st century skills**
 
-11 The library’s many new features and programmes will serve the needs of the many young families in Punggol. For example, here, we will find NLB’s first dedicated Toy Library - filled with toys and educational aids - to encourage children to learn through play. 
+11 The library’s many new features and programmes will **serve the needs of the many young families in Punggol**. For example, here, we will find NLB’s first dedicated Toy Library - filled with toys and educational aids - to encourage children to learn through play. 
 
-12 There is also Spark!Lab™, where children can engage in hands-on activities, inspiring them to innovate and create.  I am sure these features must be very welcome by SMS Janil as an MP of Pasir Ris-Punggol GRC!
+12 There is also **Spark!Lab™**, where children can engage in hands-on activities, inspiring them to innovate and create.  I am sure these features must be very welcome by SMS Janil as an MP of Pasir Ris-Punggol GRC!
 
-Patrons with disabilities can enjoy a suite of services and spaces specifically designed and built for them.
+**Patrons with disabilities can enjoy a suite of services and spaces specifically designed and built for them.**
 
-13 As part of NLB’s ongoing efforts to engage and support the learning needs of the disability community, the library also has a range of new and specially designed accessible features and services. 
+13 As part of NLB’s ongoing efforts to engage and support the learning needs of the disability community, the library also has a **range of new and specially designed accessible features and services**. 
 
-a. 	There is the Accessible Icon. This is the purple heart you see on facilities and spaces in the library to indicate that they are prioritised for persons with disabilities to use.
+a. 	There is the **Accessible Icon**. This is the purple heart you see on facilities and spaces in the library to indicate that they are prioritised for persons with disabilities to use.
 
-b. 	And, the new Borrow-N-Go, a passageway for wheelchair users to borrow books, as the existing borrowing stations may be challenging for some wheelchairs users to take advantage of. 
+b. 	And, the new **Borrow-N-Go**, a passageway for wheelchair users to borrow books, as the existing borrowing stations may be challenging for some wheelchairs users to take advantage of. 
 
-c. 	A new Accessible Membership is also being launched today. It gives persons with disabilities added benefits on top of basic library membership privileges, such as a longer borrowing period and free reservation of items.
+c. 	A new **Accessible Membership** is also being launched today. It gives persons with disabilities added benefits on top of basic library membership privileges, such as a longer borrowing period and free reservation of items.
 
-14 Many of the new accessible features at Punggol Regional Library have been developed following NLB’s extensive consultation with many members of the community, including more than 500 persons with disabilities and their caregivers since 2018, as well as the NLB’s Persons With Disabilities Advisory Committee. 
+14 Many of the new accessible features at Punggol Regional Library have been developed following NLB’s extensive consultation with many members of the community, including more than 500 persons with disabilities and their caregivers since 2018, as well as the **NLB’s Persons With Disabilities Advisory Committee**. 
 
-15 I want to thank members of this Committee, and everyone for generously sharing your inputs. Your words and deeds are very much in line with the spirit of Forward Singapore.  
+15 I want to thank members of this **Committee**, and everyone for generously sharing your inputs. Your words and deeds are very much in line with the spirit of Forward Singapore.  
 
-Conclusion
+**Conclusion**
 
 16 We can look forward to more innovative features and programmes for teens and adults when the library fully opens a few months later. 
 
