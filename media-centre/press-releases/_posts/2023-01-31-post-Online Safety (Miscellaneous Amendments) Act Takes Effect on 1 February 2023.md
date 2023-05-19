@@ -22,7 +22,7 @@ image: ""
   
 (b) A direction to an OCS provider to stop the delivery or communication of content to Singapore users. This can be effected by blocking flow of content from a specified source on the OCS provider (for instance, an account, group or channel) which is communicating the specified egregious content.&nbsp;  
   
-(c) &nbsp;A direction can be issued to an Internet access service provider to block access by Singapore users to the non-compliant OCS if the OCS provider fails to comply with IMDA’s direction(s).&nbsp;  
+(c) A direction can be issued to an Internet access service provider to block access by Singapore users to the non-compliant OCS if the OCS provider fails to comply with IMDA’s direction(s).&nbsp;  
   
 _Codes of Practice_  
 </span>  
