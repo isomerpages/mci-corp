@@ -8,7 +8,7 @@ description: ""
 image: /images/old hill street police station.jpg
 ---
 Professor May O. Lwin, Chair of Wee Kim Wee School of Communication and Information  
-Distinguished guests 
+Distinguished guests
 
 1. A very good morning to all of you.
 
