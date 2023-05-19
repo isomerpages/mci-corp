@@ -40,4 +40,4 @@ Brothers and sisters
   
 10. Thank you once again for inviting me.
 
-pdf version of the speech
+[pdf version of the speech](/files/Speeches%202023/transcript%20of%20welcome%20remarks%20by%20minister%20josephine%20teo%20at%20singpost%20buka%20puasa%20(13%20apr)%20(2).pdf)
