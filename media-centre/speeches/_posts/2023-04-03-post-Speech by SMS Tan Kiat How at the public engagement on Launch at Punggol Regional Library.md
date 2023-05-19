@@ -29,3 +29,5 @@ Ladies and gentlemen
 9. As it is a new service, please also give us your feedback and ideas on how NLB and its partners can support you further. Ultimately, we are here to help to enhance your prospects as an independent entrepreneur.  
   
 10. Thank you.
+
+[PDF version of the speech](/files/Speeches%202023/transcript%20of%20sms%20tan%20kiat%20how%20at%20the%20public%20engagement%20for%20launch%20at%20prl%20(1).pdf)
