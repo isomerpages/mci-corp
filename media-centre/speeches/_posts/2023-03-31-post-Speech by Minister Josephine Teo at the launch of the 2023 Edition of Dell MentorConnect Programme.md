@@ -38,3 +38,5 @@ Colleagues and friends.
   
 18.  In closing, I wish all the participants in MentorConnect a fruitful journey.  
 19.  Thank you, and I wish you a pleasant day ahead.
+
+[PDF version of the speech](/files/Speeches%202023/speech%20by%20minister%20josephine%20teo%20at%20the%20launch%20of%20the%202023%20edition%20of%20dell%20mentorconnect.pdf)
