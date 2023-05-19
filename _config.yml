@@ -3,14 +3,14 @@ url: https://mci.gov.sg
 favicon: /images/Logos/mci_english_horizontal_col.jpg
 colors:
   primary-color: "#015724"
-  secondary-color: "#951b37"
+  secondary-color: "#c40233"
   media-colors:
     - title: media-color-one
-      color: "#4a4a4a"
+      color: "#bdbabb"
     - title: media-color-two
-      color: "#4a4a4a"
+      color: "#127852"
     - title: media-color-three
-      color: "#4a4a4a"
+      color: "#a7002d"
     - title: media-color-four
       color: "#4a4a4a"
     - title: media-color-five
