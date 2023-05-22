@@ -57,5 +57,3 @@ Ladies and Gentlemen
 23. I wish all of you a fruitful discussion.  
   
 24. Thank you.
-
-[PDF Version of the Speech]()
