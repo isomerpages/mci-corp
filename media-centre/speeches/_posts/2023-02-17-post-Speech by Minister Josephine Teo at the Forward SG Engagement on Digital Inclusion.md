@@ -98,3 +98,4 @@ c.  The Government also sets up service centres to enable our citizens to come 
 \[6\] In 2020, about 14% of seniors aged 70 and above had basic or higher proficiency.  
 \[7\] About 29% of seniors in their 70s and above had developing proficiency in 2022, compared to 7% in 2020. Meanwhile, about 54% of seniors in their 70s and above had low proficiency in 2022, compared to 80% in 2020.  
 \[8\] About 45% of seniors in their 60s and 62% of seniors aged 70 and above said they did not know how to do so.
+[](/files/Speeches%202023/speech%20by%20minister%20josephine%20teo%20at%20forward%20sg%20engagement%20on%20digital%20inclusion%20.pdf)
