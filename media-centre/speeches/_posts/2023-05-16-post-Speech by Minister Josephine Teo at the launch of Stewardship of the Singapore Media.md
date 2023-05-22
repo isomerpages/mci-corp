@@ -27,11 +27,11 @@ Ladies and Gentlemen,
 
 4. It is in fact a compilation of the three lectures Patrick delivered as an IPS Fellow.
 
-a. The first lecture talked about press freedom versus regulation, and the evolution and management of Singapore’s media industry. The Q&A session was moderated by Professor Chan Heng Chee.
+	a. The first lecture talked about press freedom versus regulation, and the evolution and management of Singapore’s media industry. The Q&A session was moderated by Professor Chan Heng Chee.
 
-b. The second lecture highlighted the global challenge the media industry faces with the Internet, and explored the way forward for Internet Governance. The Q&A session was moderated by Dr Carol Soon.
+	b. The second lecture highlighted the global challenge the media industry faces with the Internet, and explored the way forward for Internet Governance. The Q&A session was moderated by Dr Carol Soon.
 
-c. The third lecture is particularly relevant because it envisions what the future of media and journalism in Singapore would look like. The Q&A session was moderated by Dr Shashi Jayakumar.
+	c. The third lecture is particularly relevant because it envisions what the future of media and journalism in Singapore would look like. The Q&A session was moderated by Dr Shashi Jayakumar.
 
 5. Patrick is uniquely positioned to have dealt with these topics. The challenge for him was that in delivering his lectures, he had to synthesise the most important insights that he had gathered over the years. In this regard, Patrick is an expert in summarising complex topics and putting them across in a very accessible manner. His ability was apparent even for me, as a reader, who was looking it from a textual perspective, rather than having the privilege of being in his lectures. 
 
@@ -43,7 +43,7 @@ c. The third lecture is particularly relevant because it envisions what the futu
  
 9. I will briefly touch on three themes in the book that resonated strongly with me.
 
-*Importance of Public Service Media for Singapore’s success*
+	*Importance of Public Service Media for Singapore’s success*
 
 10. First, the importance of local media, or legacy media, as Patrick describes it.
 
@@ -53,11 +53,9 @@ c. The third lecture is particularly relevant because it envisions what the futu
 
 13. At the same time, the business models of traditional media outlets have been disrupted by large online platforms, and quality journalism must find ways of paying for itself. 
 
-
 14. Singapore’s media outlets have not been spared this digital onslaught. As Patrick candidly says in his first lecture “**Our customers had decided to have their lunch at Google and Facebook. And they did not come back.**”
 
 15. Based on the findings from the Reuters Institute Digital News Report 2022, trust in news media in Singapore has remained largely stable over the last five years, and is amongst the highest levels in the Asia Pacific region. 
-
 
 16. Singapore’s level of trust in news media, at 43% in 2022, is comparable to the global and regional average. 
 
@@ -65,15 +63,13 @@ c. The third lecture is particularly relevant because it envisions what the futu
 
 18. As I have said before and will say again, the Government is committed to supporting our local media players to stay the course. They continue to reach the vast majority of Singaporeans, even as the competition for attention intensifies. 
 
-
 19. We want local media to thrive and be able to provide high quality, credible local content to all Singaporeans. This is why we are funding both Mediacorp and SPH Media Trust in their transformation efforts. 
 
-*Relationship between the media and Government*
+	*Relationship between the media and Government*
 
 20. The second theme I would like to touch on is the relationship between media and the Government, for now and in the future.
 
 21. It is vital that the Government and the media can operate on the basis of mutual trust and respect. 
-
 
 22. This relationship has been instrumental throughout our existence as an independent nation. 
 
@@ -82,7 +78,6 @@ c. The third lecture is particularly relevant because it envisions what the futu
 24. At its heart, this relationship is built on the significant value that the Government places on our local media’s role in nation-building. This will continue under the 4G leadership.
 
 25. If you are wondering how we will engage with the media, consider how we functioned during the COVID-19 pandemic: 
-
 
 26. The Multi-Ministerial Taskforce held regular press conferences to share the latest developments and public health measures, as well as addressed the media’s questions candidly, and very often they were tough, inconvenient questions. 
 
@@ -94,7 +89,7 @@ c. The third lecture is particularly relevant because it envisions what the futu
 
 30. Will the Government’s provision of funding change this? We see no value in putting the trust that our legacy media has built with the public at risk, if the products they create lack credibility and are ignored by audiences. It doesn’t do anyone any good. Especially in these troubled times with external challenges expected to test our model of governance, the 4G leadership will look to the media to play its role in nation-building and to help unite Singaporeans. 
 
-*Keep up with changing trends and technology*
+	*Keep up with changing trends and technology*
 
 31. This leads me to the final theme. In return for government’s support, our ask of the media companies is to strive towards successful digital transformation and be effective providers of media and news, whether in print, broadcast or on the Internet. 
 
@@ -102,7 +97,7 @@ c. The third lecture is particularly relevant because it envisions what the futu
 
 33. I urge our media companies, whether SMT or Mediacorp, to look closely at Patrick’s scenario and his assessment of the capabilities required to get there, in line with the process that he described as “backcasting”.
 
-*Conclusion*
+	*Conclusion*
 
 34. To conclude, I would like to congratulate Patrick on a book that challenges us all in thinking about the role of our local media players, and what it will take for them to continue playing this role far into the future.
 
