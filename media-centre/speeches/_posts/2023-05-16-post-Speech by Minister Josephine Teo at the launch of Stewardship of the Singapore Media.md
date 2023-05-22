@@ -7,10 +7,8 @@ layout: post
 description: ""
 image: ""
 ---
-SPEECH BY MRS JOSEPHINE TEO, MINISTER FOR COMMUNICATIONS AND INFORMATION, AT THE LAUNCH OF “STEWARDSHIP OF THE SINGAPORE MEDIA: STAYING THE COURSE” 
-ON 16 MAY 2023
+*THE EVOLUTION OF SINGAPORE’S MEDIA INDUSTRY*
 
-THE EVOLUTION OF SINGAPORE’S MEDIA INDUSTRY
 Mr Janadas Devan, Director of The Institute of Policy Studies,
 
 Mr Patrick Daniel, 11th S R Nathan Fellow for the Study of Singapore at IPS,
@@ -19,13 +17,13 @@ Distinguished guests,
 
 Ladies and Gentlemen,
 
-Introduction
+*Introduction*
 
 1. Good evening, everyone.
 
 2. Thank you for inviting me to the launch of Patrick’s book, Stewardship of the Singapore Media: Staying the Course. 
 
-3. I wanted to start off by saying the most important thing which is, “Yes, I have read the book, and I highly recommend it to you too.”
+3. I wanted to start off by saying the most important thing which is, **“Yes, I have read the book, and I highly recommend it to you too.”**
 
 4. It is in fact a compilation of the three lectures Patrick delivered as an IPS Fellow.
 
@@ -45,7 +43,7 @@ c. The third lecture is particularly relevant because it envisions what the futu
  
 9. I will briefly touch on three themes in the book that resonated strongly with me.
 
-Importance of Public Service Media for Singapore’s success
+*Importance of Public Service Media for Singapore’s success*
 
 10. First, the importance of local media, or legacy media, as Patrick describes it.
 
@@ -56,7 +54,7 @@ Importance of Public Service Media for Singapore’s success
 13. At the same time, the business models of traditional media outlets have been disrupted by large online platforms, and quality journalism must find ways of paying for itself. 
 
 
-14. Singapore’s media outlets have not been spared this digital onslaught. As Patrick candidly says in his first lecture “Our customers had decided to have their lunch at Google and Facebook. And they did not come back.”
+14. Singapore’s media outlets have not been spared this digital onslaught. As Patrick candidly says in his first lecture “**Our customers had decided to have their lunch at Google and Facebook. And they did not come back.**”
 
 15. Based on the findings from the Reuters Institute Digital News Report 2022, trust in news media in Singapore has remained largely stable over the last five years, and is amongst the highest levels in the Asia Pacific region. 
 
@@ -70,7 +68,7 @@ Importance of Public Service Media for Singapore’s success
 
 19. We want local media to thrive and be able to provide high quality, credible local content to all Singaporeans. This is why we are funding both Mediacorp and SPH Media Trust in their transformation efforts. 
 
-Relationship between the media and Government
+*Relationship between the media and Government*
 
 20. The second theme I would like to touch on is the relationship between media and the Government, for now and in the future.
 
@@ -95,14 +93,16 @@ Relationship between the media and Government
 29. This did not mean that journalists saw eye-to-eye with the Government on all issues concerning the pandemic. On some occasions, they wrote op-eds expressing their disagreement. There was editorial independence, but the media and Government operated on the same set of facts.
 
 30. Will the Government’s provision of funding change this? We see no value in putting the trust that our legacy media has built with the public at risk, if the products they create lack credibility and are ignored by audiences. It doesn’t do anyone any good. Especially in these troubled times with external challenges expected to test our model of governance, the 4G leadership will look to the media to play its role in nation-building and to help unite Singaporeans. 
-Keep up with changing trends and technology
+
+*Keep up with changing trends and technology*
 
 31. This leads me to the final theme. In return for government’s support, our ask of the media companies is to strive towards successful digital transformation and be effective providers of media and news, whether in print, broadcast or on the Internet. 
 
 32. In his third lecture, Patrick lays out a future for SMT. He describes a SMT in 2045 that is able to fully harness the benefits of technology to deliver better, more customised products to their audience. It has strong regional reach, and is financially independent because it is able to leverage technology to regain subscription and advertising revenues. What remains unchanging in this version of SMT is that it continues to provide trusted news as a public good.
 
 33. I urge our media companies, whether SMT or Mediacorp, to look closely at Patrick’s scenario and his assessment of the capabilities required to get there, in line with the process that he described as “backcasting”.
-Conclusion
+
+*Conclusion*
 
 34. To conclude, I would like to congratulate Patrick on a book that challenges us all in thinking about the role of our local media players, and what it will take for them to continue playing this role far into the future.
 
