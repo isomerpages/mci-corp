@@ -7,7 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-**ntroduction**  
+**Introduction**  
   
 1  Thank you for making time and for spending your afternoon with us. This set of conversations has been organised as part of the Forward Singapore (Forward SG) movement. This movement has to do with the idea that while we may be maturing as a society - and in many regards, are successful as a country - we have to always challenge ourselves by laying out the path towards a brighter future for ourselves and for our future generations.   
   
