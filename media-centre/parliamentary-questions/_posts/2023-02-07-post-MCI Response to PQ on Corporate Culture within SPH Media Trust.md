@@ -15,4 +15,4 @@ QUESTION FOR WRITTEN ANSWER
 **  
 Answer:  
   
-**1. This question has been addressed in my reply to Question Nos 2 to 18 for Oral Answer on the Order Paper for 6 February 2023.  
+**1. This question has been addressed in my reply to Question Nos 2 to 18 for Oral Answer on the Order Paper for 6 February 2023.
