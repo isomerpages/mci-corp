@@ -326,3 +326,5 @@ e.  the “Digital Forum of Small States” (“Digital FOSS”) which we champ
 80.   There are no guarantees that we will succeed in every project. Nor can we be sure that global developments will always be favourable. But our foundations are strong, and our investments will bear fruit.    
   
 81.  Working with our partners at home and abroad, I am confident we can Empower Singaporeans to thrive in our Digital Future! Thank you!
+
+[PDF version of the speech](/files/Speeches%202023/speech%20by%20minister%20josephine%20teo,%20at%20the%20mci%20committee%20of%20supply%20debate%20.pdf)
