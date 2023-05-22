@@ -107,3 +107,5 @@ c. The third lecture is particularly relevant because it envisions what the futu
 34. To conclude, I would like to congratulate Patrick on a book that challenges us all in thinking about the role of our local media players, and what it will take for them to continue playing this role far into the future.
 
 35. Congratulations again and thank you, Patrick!
+
+[PDF version of the speech](/files/Speeches%202023/speech%20by%20min%20josephine%20teo%20at%20the%20launch%20of%20stewardship%20of%20the%20singapore%20media%20staying%20the%20course%20.pdf)
