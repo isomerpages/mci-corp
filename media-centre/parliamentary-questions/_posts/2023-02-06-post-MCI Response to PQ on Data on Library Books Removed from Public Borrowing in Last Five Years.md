@@ -15,7 +15,7 @@ QUESTION FOR WRITTEN ANSWER
 **35. Mr Zhulkarnain Abdul Rahim:** To ask the Minister for Communications and Information (a) in the last five years, how many library books have been removed from public borrowing by the National Library Board (NLB); (b) what are the reasons for such removal and whether other measures such as labels for age appropriateness or advisory can be considered; and (c) what are the typical processes and relevant factors considered by NLB before deciding to remove such titles or publications from its repository.  
   
   
-Answer:  
+**Answer:  **
 
 1.  The National Library Board (NLB) strives to ensure that its collections are appropriate for different age groups, in line with prevailing social and cultural norms. Its collection policy also takes reference from content guidelines provided by the Infocomm Media Development Authority (IMDA). For children’s titles reviewed and assigned “Parental Guidance Recommended” Advisory, a Parental Guidance label will be shown in the library’s catalogue records and during check-out at book borrowing stations, to alert readers to potentially sensitive matter.  
   
