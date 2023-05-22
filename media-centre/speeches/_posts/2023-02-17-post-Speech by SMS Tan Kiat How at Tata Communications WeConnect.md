@@ -57,3 +57,5 @@ Ladies and Gentlemen
 23. I wish all of you a fruitful discussion.  
   
 24. Thank you.
+
+[PDF version of the speech](/files/Speeches%202023/speech%20by%20sms%20tan%20kiat%20how%20at%20tata%20communications%20weconnect%20on%2017%20feb%202023.pdf)
