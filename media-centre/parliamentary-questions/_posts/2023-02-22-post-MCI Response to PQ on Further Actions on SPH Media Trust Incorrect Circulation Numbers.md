@@ -12,9 +12,8 @@ image: ""
 QUESTION FOR WRITTEN ANSWER
 ---------------------------
 
-**1****0.** **Mr Gerald Giam Yean Song:** To ask the Minister for Communications and Information regarding the further investigations into the discrepancy in circulation figures by SPH Media Trust's Audit and Risk Committee (a) whether the Ministry will be asking the Committee to share its full investigation report with the public; and (b) when is the report expected to be completed and released.
+**10.** **Mr Gerald Giam Yean Song:** To ask the Minister for Communications and Information regarding the further investigations into the discrepancy in circulation figures by SPH Media Trust's Audit and Risk Committee (a) whether the Ministry will be asking the Committee to share its full investigation report with the public; and (b) when is the report expected to be completed and released.
 
-​
 
 **Answer:** 
 
