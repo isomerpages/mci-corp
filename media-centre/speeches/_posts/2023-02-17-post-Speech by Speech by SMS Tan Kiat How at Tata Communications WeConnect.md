@@ -58,4 +58,4 @@ Ladies and Gentlemen
   
 24. Thank you.
 
-[Speech ]()
+[PDF Version of the Speech]()
