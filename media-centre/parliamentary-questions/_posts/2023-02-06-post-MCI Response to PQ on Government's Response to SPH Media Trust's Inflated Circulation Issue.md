@@ -7,7 +7,8 @@ layout: post
 description: ""
 image: ""
 ---
-### Parliament Sitting on 6 February 2023
+
+```### Parliament Sitting on 6 February 2023
 
 QUESTION FOR ORAL ANSWER
 ------------------------
@@ -47,9 +48,9 @@ QUESTION FOR ORAL ANSWER
 **18. Ms He Ting Ru:** To ask the Minister for Communications and Information (a) whether individuals involved in initiating and perpetuating the inflated circulation figures in SPH Media Trust have been referred to the Police for further investigation; and (b) if so, how many have been referred to the Police for further investigation.   
   
   
-**Answer:  
+**Answer:  **
   
-**1. Mr Speaker, may I have your permission to address PQs 2 to 18 in today’s Order Paper, as well as related written PQs 33 and 34 together? I will also address the related matters raised in the questions by Mr Darryl David, Mr Gerald Giam, Ms Hazel Poa and Dr Wan Rizal, which are scheduled for a subsequent sitting. I invite Members to seek clarifications, if need be, at this Sitting.  
+1. Mr Speaker, may I have your permission to address PQs 2 to 18 in today’s Order Paper, as well as related written PQs 33 and 34 together? I will also address the related matters raised in the questions by Mr Darryl David, Mr Gerald Giam, Ms Hazel Poa and Dr Wan Rizal, which are scheduled for a subsequent sitting. I invite Members to seek clarifications, if need be, at this Sitting.  
   
 2. Members have asked about the internal review of circulation numbers by SPH Media Trust (SMT). The following is what we have been told by SMT, all of which is on public record:         
   
