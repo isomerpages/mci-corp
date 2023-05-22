@@ -33,9 +33,7 @@ Colleagues and Friends, Girls and Boys
 
 	a. 	Spread across five floors, it is also the largest public library in Singapore. 
 
-	b. 	More importantly, it has been designed to be an
-	
-	**inclusive library with a rich collection and services that are designed to be accessible to all**. 
+	b. 	More importantly, it has been designed to be an **inclusive library with a rich collection and services that are designed to be accessible to all**. 
 
 7. Why is this important?
 
