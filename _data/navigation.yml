@@ -6,9 +6,5 @@ links:
     collection: what-we-do
   - title: Media Centre
     resource_room: true
-  - title: COS
-    collection: cos
   - title: Join Us
     collection: join-us
-  - title: Contact Us
-    url: /contact-us
