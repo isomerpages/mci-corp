@@ -14,10 +14,10 @@ sections:
       url: who-we-are/about-us/our-purpose/
       key_highlights:
         - title: Digital singapore
-          description: Find out what we do
+          description: What we do
           url: /what-we-do/digital-singapore/digita-economy/
-        - title: media centre
-          description: Speeches, Press Releases, PQs
+        - title: News
+          description: Speeches & Press Releases
           url: /media-centre
         - title: careers
           description: Join the MCI Family
