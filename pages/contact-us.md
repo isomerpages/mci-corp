@@ -8,9 +8,9 @@ locations:
       - "140 Hill Street #01-01A"
       - Old Hill Street Police Station
       - Singapore 179369
-    title: MCI
     operating_hours: []
     maps_link: ""
+    title: MCI
 contacts:
   - content:
       - phone: 1 800 837 9655
@@ -30,6 +30,7 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: https://www.mci.gov.sg/mci-whistleblowing
+      - other: /whistleblowing/
     title: Whistle Blowing Channels
+feedback: https://form.gov.sg/5d6cbb7d2efdae001258109a
 ---
