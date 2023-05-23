@@ -8,9 +8,7 @@ notification: Click <a href="https://www.youtube.com/@SingaporeMCI">here</a> for
   Parliament livestream.
 sections:
   - hero:
-      title: Ministry of Communications and Information
-      subtitle: Engaging hearts and minds, a thriving digital future for all
-      button: Read more
+      subtitle: MINISTRY OF COMMUNICATIONS AND INFORMATION
       url: who-we-are/about-us/our-purpose/
       key_highlights:
         - title: Digital singapore
