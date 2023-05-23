@@ -8,7 +8,6 @@ notification: Click <a href="https://www.youtube.com/@SingaporeMCI">here</a> for
   Parliament livestream.
 sections:
   - hero:
-      subtitle: MINISTRY OF COMMUNICATIONS AND INFORMATION
       url: who-we-are/about-us/our-purpose/
       key_highlights:
         - title: Digital singapore
@@ -24,4 +23,5 @@ sections:
           description: MCI Budget Debate
           url: /what-we-do/committee-of-supply/2023/
       background: /images/old hill street police station.jpg
+      title: MINISTRY OF COMMUNICATIONS AND INFORMATION
 ---
