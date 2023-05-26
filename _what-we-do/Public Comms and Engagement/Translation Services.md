@@ -51,3 +51,10 @@ MCI has introduced the Information Service (Translation) Scholarship in 2015. It
 **Developing capabilities**   
   
 The Translation Talent Development Scheme (TTDS) was set up in 2018 as a co-sponsorship grant to encourage Singaporean translation and interpretation practitioners from the private sector to further develop their capabilities. Click [here](http://www.mci.gov.sg/ttds) for more information on TTDS.
+
+
+Grants & Awards
+-------------------------------------------------------
+### Translation Talent Development Scheme (TTDS)
+
+### Community-In-Translation Events Grant
