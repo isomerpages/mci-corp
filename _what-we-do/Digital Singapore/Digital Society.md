@@ -343,3 +343,9 @@ Feedback
 **Talk to us!**
 
 If you have any suggestions on how we can work together towards a digitally ready Singapore, or if you would like to contribute to this effort in any way, we would be happy to hear from you. You may email us at&nbsp;[digital\_readiness@mci.gov.sg](mailto:digital_readiness@mci.gov.sg)&nbsp;or click&nbsp;[here](https://form.gov.sg/5fd6c4ebb2a91900112328de).
+
+Digital Media and Information Literacy Framework
+================================================
+The Digital Media and Information Literacy Framework guides digital literacy programme owners and public agencies in planning media literacy and information literacy programmes.
+
+https://www.mci.gov.sg/literacy
