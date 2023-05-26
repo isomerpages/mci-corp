@@ -111,7 +111,130 @@ Gosafeonline is an online portal providing cybersecurity tips and resources for 
   
 For more information,&nbsp;visit&nbsp;[Gosafeonline](https://www.csa.gov.sg/gosafeonline)&nbsp;or email&nbsp;[gosafeonline@csa.gov.sg](mailto:gosafeonline@csa.gov.sg).
 
-GET HANDS-ON
+**Media Literacy Council**
+
+The Media Literacy Council aims to equip Singaporeans with the skills necessary to create, use and evaluate online content safely and effectively. It holds an annual Better Internet Campaign that raises public awareness on ways to stay safe, smart and kind online, covering issues such as cyber-bullying, cyber safety and security, and fake news.  
+  
+For more information, visit [Media Literacy Council](http://www.betterinternet.sg/).
+
+**MOE Cyber Wellness Resources**
+
+The Cyber Wellness resources in the Ministry of Education (MOE) Educational Technology Division’s ICT Connection website can be accessed by students, teachers and parents. This includes cyber wellness curriculum resources, just-in-time resources on the latest cyber trends and issues as well as useful tips and links.  
+  
+For more information, visit [CyberWellness](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness) or email [MOE\_Cyber\_Wellness@moe.gov.sg](mailto:MOE_Cyber_Wellness@moe.gov.sg).
+
+**North East Eldersurf Intergen Bootcamp**
+
+The North East Eldersurf Intergen Bootcamp by North East Community Development Council and Infocomm Media Development Authority (IMDA) aims to educate seniors on basic mobile device skills such as connecting to Wi-Fi, taking photos, messaging, and creating an Apple ID or Google account. To facilitate effective learning, participants will be divided into two classes - iOS and Android. Inter-generation bonding is also encouraged as students or youths will be paired up with the seniors as guides during the workshop.  
+  
+**Who is eligible?**  
+  
+1. Individuals aged 40 and above  
+2\.     Residing in North East district   
+  
+For more information, email [northeast\_cdc@pa.gov.sg](mailto:northeast_cdc@pa.gov.sg) or call 6424 4000.
+
+**Digital Pods**
+
+IMDA Digital Pods, is a series of 30-mins online learning sessions that individuals can tap on to expand their ongoing digital learning journeys online. Participants will learn a wide range of digital skills and tools that they can use for payment, entertainment and mobile accessibility, and photo/video edits. Tune into the free online sessions on every Tuesdays and Thursdays from 3pm to 3.30pm or click [here](https://www.imda.gov.sg/en/seniorsgodigital/Learn/Guided-Learning/Group-Sessions) for more information on upcoming sessions of the Digital Pods.  
+  
+For more information, visit [Digital Pods](https://www.imda.gov.sg/en/seniorsgodigital/Learn/Guided-Learning/Group-Sessions). Alternatively, you may email [info@imda.gov.sg](mailto:info@imda.gov.sg) or call 6377 3800.
+
+**Senior-friendly IT Learning Hubs**
+
+Silver Infocomm Junctions (SIJs) offer affordable and accessible infocomm courses in which seniors can learn the basics of using a mobile device and computer, as well as pick up useful cybersecurity tips. These senior-friendly IT learning hubs are conveniently located at over 30 locations islandwide, with some housed in community clubs or centres.  
+  
+The courses start from as low as $10 per hour and can be paid for using one’s SkillsFuture Credit.  
+  
+For more information, visit [Silver Infocomm Junctions](https://www.imda.gov.sg/sij). Alternatively, you may email [info@imda.gov.sg](mailto:info@imda.gov.sg) or call 6377 3800.
+
+**Seniors Tech and Read (STAR) at Public Libraries**
+
+Seniors Tech and Read (STAR) is a one-to-one service conducted by volunteers. Participants may seek the assistance of a volunteer to read to them or enquire about library-related technology questions e.g. how to setup NLB Mobile app, create your myLibrary ID or set up Wireless@SG.  
+  
+Each session may last about 45 minutes long.  
+  
+Who is eligible?  
+  
+1. All who are aged 50 and above  
+  
+For more information, visit [Go Library](http://www.nlb.gov.sg/golibrary). Alternatively, you may email [enquiry@nlb.gov.sg](mailto:enquiry@nlb.gov.sg) or call 6332 3255.
+
+**SkillsFuture Credit**
+
+SkillsFuture Credit aims to encourage individuals to take ownership of their skills development and lifelong learning. Singapore Citizens aged 25 and above have received an opening credit of S$500 since January 2016.The credits do not expire and they may look forward to receiving periodic top-ups.  
+  
+One may consider tapping on these credits to sign up for courses to learn new digital skills.  
+  
+For more information, visit [SkillsFuture Credit](https://www.skillsfuture.gov.sg/credit) or call 6785 5785.
+
+**SkillsFuture for Digital Workplace (SFDW)**
+
+The SkillsFuture for Digital Workplace (SFDW) is a 2-day national training programme that aims to equip Singaporeans with foundational digital skills in key areas of mindset, data, technology and innovation, and prepare them for technological changes in their workforce and daily lives.  
+  
+The programme is designed to help all Singaporean adults, including those planning to return to the workforce. This two-day programme is priced at $50 (including GST).  
+  
+**Who is eligible?**  
+  
+1. Singapore Citizens or Permanent Residents  
+  
+For more information, visit SFDW or call 6785 5785.
+
+**S.U.R.E Campaign**
+
+The S.U.R.E. campaign is an initiative by the National Library Board to promote the importance of information searching and discernment.  
+  
+While information literacy is not a new concern, it has become especially pertinent in this digital era where the Internet and social media floods us with a lot of content created by anyone. S.U.R.E. distils key information literacy concepts into four simple aspects:  
+  
+1. **S**ource: Look at its origins. Is it trustworthy?  
+2. **U**nderstand: Know what you’re reading. Search for clarity.  
+3. **R**esearch: Dig deeper. Go beyond the initial source.  
+4. **E**valuate: Find the balance. Exercise fair judgment.  
+For more information, visit [S.U.R.E](http://www.nlb.gov.sg/sure/). Alternatively, you may email [enquiry@nlb.gov.sg](mailto:enquiry@nlb.gov.sg) or call 6332 3255.
+
+**GET HANDS-ON**
+
+**Code for Fun Enrichment Programme**
+
+The Code for Fun Enrichment Programme is offered to all students from primary and secondary schools, to increase their exposure to coding and computational thinking. The programme includes academic learning of related concepts using programming languages, such as Scratch, and combines this with robotic kits, such as Lego WeDo, MoWay, and microcontrollers, such as Arduino and Raspberry Pi, to create an engaging coding experience for the student.  
+  
+For more information, visit [Code for Fun](https://www.imda.gov.sg/imtalent/programmes/cff). Alternatively, you may email [info@imda.gov.sg](mailto:info@imda.gov.sg) or call 6377 3800
+
+**Digital Maker Programme**
+
+The Digital Maker Programme aims to nurture a new generation of digital natives with a passion to create with technology by introducing a simple-to-use microcontroller called the “micro:bit”.  
+  
+The programme provides interested primary and secondary schools with educator’s workshops and micro:bits to incorporate digital making into their lessons and school programmes.  
+  
+For members of the public, you can attend introductory workshops which are held at various locations to learn how to create simple projects with technology. The programme is available at community clubs/centres such as Tanjong Pagar Community Club, PIXEL Labs@NLB, and various Infocomm Media Development Authority (IMDA) technology outreach events.  
+  
+For more information, visit [Digital Maker](https://www.imda.gov.sg/programme-listing/digital-maker-programme). Alternatively, you may email [info@imda.gov.sg](mailto:info@imda.gov.sg) or call 6377 3800.
+
+**Hands-On Workshops to Experiment with Technology**
+
+PIXEL Labs@NLB, located at Jurong and Tampines Regional Libraries, offer library users a dedicated space with tools, equipment, and hardware kits that enable individuals to learn, create, invent, and share skills. In addition, there are also technology talks and crafting sessions for everyone, while students and families can participate in hands-on workshops and view technology showcases. 
+
+For more information, visit [Go Library](https://www.nlb.gov.sg/golibrary). Alternatively, you may email [enquiry@nlb.gov.sg](mailto:enquiry@nlb.gov.sg) or call 6332 3255.
+
+**Lab on Wheels**
+
+The Lab on Wheels aims to ignite passion for technology through introducing new and emerging technology. It brings future technology showcases and experiences to the community, to help them see the improvements that emerging technology can bring to their everyday lives.  
+  
+The Lab on Wheels also visits special needs schools and customises coding activities and workshops for students with special needs.   
+  
+For more information, visit [Lab on Wheels](https://www.imda.gov.sg/imtalent/programmes/lab-on-wheels). Alternatively, you may email to [info@imda.gov.sg](mailto:info@imda.gov.sgg) or call 6377 3800.
+
+**TechShare at Public Libraries**
+
+TechShare is a series of programmes for seniors to experience emerging technology. Seniors can try out robots, smart home technologies, Augmented Reality (AR) and other up and coming innovations in comfortable, senior-friendly sessions at various Public Libraries.    
+  
+For more information, visit [Go Library](https://www.nlb.gov.sg/golibrary). Alternatively, you may email [enquiry@nlb.gov.sg](mailto:enquiry@nlb.gov.sg) or call 6332 3255.
+
+Technology Opportunities for Persons with Disabilities
+
+Tech Able, comprising of the Singtel Enabling Innovation Centre and the ST Engineering Enabling Technology Centre, is an integrated assistive technology space at the Enabling Village. It features a technology exhibition for persons with disabilities and provides them with assistive device assessment services. Persons with disabilities can find out about devices that will help them in their employment or daily activities.  
+  
+For more information, visit [Tech Able](http://www.enablingvillage.sg/assistive-technologies-at-the-enabling-village). Alternatively, you may email [techable@sgenable.sg](mailto:techable@sgenable.sg) or call 1800 8585 885.
 
 Digital Readiness Blueprint
 ---------------------------
