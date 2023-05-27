@@ -11,7 +11,7 @@ Connecting Citizen to Government
 
 MCI plays an important role in public communications. From listening to citizens to explaining government policies, MCI ensures that Singaporeans are heard, connected, and engaged as citizens of Singapore.
 
-GovSG 6
+GovSG 7
 --------------------------------
 <details>
   <summary>Find out more</summary>
