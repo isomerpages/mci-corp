@@ -15,7 +15,9 @@ Here are some government resources and initiatives to help you with your digital
 
 <details>
 <summary>Find out more</summary>
-    
+
+
+	
 **GET CONNECTED**
 
 **Free Internet Access at CitizenConnect Centres for Government Transactions**
@@ -313,7 +315,8 @@ No effort is too small or too simple, and everyone can play a role in this journ
 
 <details>
 <summary>Find out more</summary>
-    
+ 
+	
 **Our Singapore Fund for Digital Readiness**
 
 Have an idea on how to further strengthen Digital Readiness in the community? Our Singapore Fund for Digital Readiness provides funding of&nbsp;**up to**&nbsp;80% of supported costs for your idea, subject to a maximum of $20,000 per project. Projects that merit higher funding will be assessed on a case-by-case basis.
