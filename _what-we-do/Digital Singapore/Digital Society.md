@@ -13,10 +13,6 @@ Get Digitally Ready 5
 
 Here are some government resources and initiatives to help you with your digital journey.
 
-<details>
-<summary>Find out more</summary>
-
-<br>	
 **GET CONNECTED**
 
 **Free Internet Access at CitizenConnect Centres for Government Transactions**
@@ -241,11 +237,6 @@ Tech Able, comprising of&nbsp;the Singtel Enabling Innovation Centre and the ST 
   
 For more information, visit&nbsp;[Tech Able](http://www.enablingvillage.sg/assistive-technologies-at-the-enabling-village). Alternatively, you may&nbsp;email&nbsp;[techable@sgenable.sg](mailto:techable@sgenable.sg)&nbsp;or call 1800 8585 885.
 
-	
-	
-	
-	
-</details>
 
 
 Digital Readiness Blueprint
@@ -253,8 +244,6 @@ Digital Readiness Blueprint
 
 The Digital Readiness Blueprint sets out recommendations for building Digital Readiness in Singaporeans, guided by four strategic thrusts.
 
-<details>
-<summary>Find out more</summary>
  
 **#1: Expand and Enhance Digital Access for Inclusivity**
 
@@ -309,17 +298,12 @@ Inclusion by design also goes beyond that, which is directly digital. Policies a
 
 Watch: Embark on Your Digital Journey with Your Loved Ones! 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/vMqkKYb7VYc" height="315" width="560"></iframe>
-	
-</details>
 
 Get Involved
 ------------
 
 No effort is too small or too simple, and everyone can play a role in this journey. If you have the passion to help others go digital, WE WANT YOU!
 
-<details>
-<summary>Find out more</summary>
- 
 	
 **Our Singapore Fund for Digital Readiness**
 
@@ -358,8 +342,7 @@ Should you need any further clarification, please email&nbsp;[oursingaporefund@m
 Help seniors learn technology and promote NLB's e-resources as Friends of the&nbsp;Library!  
   
 To sign up, you can visit&nbsp;[NLB Volunteers](https://www.nlb.gov.sg/volunteers/). Alternatively, you may&nbsp;email&nbsp;[enquiry@nlb.gov.sg](mailto:enquiry@nlb.gov.sg)&nbsp;or call 6332 3800.
-    
-</details>
+
 
 Feedback
 ------------
