@@ -31,7 +31,8 @@ Eligible individuals can get one hour of free internet access daily at any of th
 
 Who is eligible?  
 
-1\. &nbsp; &nbsp; Singapore Citizens OR Permanent Resident2\. &nbsp; &nbsp; Aged 50 and above  
+1. Singapore Citizens OR Permanent Resident
+2. Aged 50 and above  
   
 Click&nbsp;[here](http://www.nlb.gov.sg/visitus/availableservices.aspx)&nbsp;for more information. Alternatively, you may&nbsp;email&nbsp;[enquiry@nlb.gov.sg](mailto:enquiry@nlb.gov.sg),&nbsp;or call 6332 3255.
 
