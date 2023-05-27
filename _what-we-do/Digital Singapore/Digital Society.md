@@ -23,7 +23,7 @@ Here are some government resources and initiatives to help you with your digital
 
 Over 25 CitizenConnect Centres located at various community clubs or centres islandwide aim to provide an easy and convenient means for the public to transact with the Government through the internet. It offers free access to internet-enabled computing devices, with staff on-hand to help citizens and residents access to&nbsp;perform online transactions.  
   
-For more information, visit&nbsp;[CitizenConnect](https://www.citizenconnectcentre.gov.sg/). Alternatively, you may&nbsp;email&nbsp;[info@tech.gov.sg](mailto:info@tech.gov.sg)&nbsp;or call 6211 2100.
+For more information, visit;[CitizenConnect](https://www.citizenconnectcentre.gov.sg/). Alternatively, you may email;[info@tech.gov.sg](mailto:info@tech.gov.sg);or call 6211 2100.
 
 **Free Internet Access at Public Libraries**
 
