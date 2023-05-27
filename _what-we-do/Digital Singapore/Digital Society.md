@@ -312,7 +312,7 @@ Get Involved
 No effort is too small or too simple, and everyone can play a role in this journey. If you have the passion to help others go digital, WE WANT YOU!
 
 <details>
-<summary>TITLE</summary>
+<summary>Find out more</summary>
     
 **Our Singapore Fund for Digital Readiness**
 
