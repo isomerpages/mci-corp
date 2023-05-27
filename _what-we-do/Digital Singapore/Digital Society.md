@@ -8,15 +8,16 @@ Comprising representatives from the public, private and people sectors, the digi
 
 If you have any suggestions on how we can work together towards a digitally ready Singapore, or if you would like to contribute to this effort in any way, we would be happy to hear from you. You may email us at&nbsp;[digital\_readiness@mci.gov.sg](mailto:digital_readiness@mci.gov.sg)&nbsp;or click&nbsp;[here](https://form.gov.sg/5fd6c4ebb2a91900112328de).![](/images/dfldfl1.jpg)
 
-Get Digitally Ready 3
+Get Digitally Ready 5
 -------------------
 
 Here are some government resources and initiatives to help you with your digital journey.
 
 <details>
 <summary>Find out more</summary>
-	
-_**GET CONNECTED**_
+
+<br>	
+**GET CONNECTED**
 
 **Free Internet Access at CitizenConnect Centres for Government Transactions**
 
