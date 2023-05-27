@@ -11,7 +11,7 @@ Connecting Citizen to Government
 
 MCI plays an important role in public communications. From listening to citizens to explaining government policies, MCI ensures that Singaporeans are heard, connected, and engaged as citizens of Singapore.
 
-GovSG 8
+GovSG
 --------------------------------
 <details>
 <summary>Find out more</summary>
@@ -22,7 +22,7 @@ GovSG 8
 We only serve the facts here on Gov.sg. If you’ve been hearing a lot of rumours and what you suspect is misinformation on the Singapore Government, just head on over to Factually on Gov.sg. We’ll clear up your doubts. Don’t be shy, we’re just a click away.
 	</p>	
 	<p>
-If websites are not your thing, we are also on [Facebook](https://www.facebook.com/gov.sg), [Twitter](https://twitter.com/govsingapore) and [YouTube](https://www.youtube.com/user/govsingapore). Post a comment and send us a question. We would love to hear from you!
+If websites are not your thing, we are also on <a href="https://www.facebook.com/gov.sg">Facebook</a>, <a href="https://twitter.com/govsingapore">Twitter</a> and <a href="https://www.youtube.com/user/govsingapore">YouTube</a>. Post a comment and send us a question. We would love to hear from you!
 	</p>
 </details>
 
