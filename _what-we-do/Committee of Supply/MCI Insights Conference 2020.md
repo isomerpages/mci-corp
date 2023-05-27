@@ -50,3 +50,39 @@ The sessions examined the evolution of content, its impact on the media value ch
 <table style="box-sizing: border-box; font-family: Lato, sans-serif; border-collapse: collapse; outline: 0px !important;" class=""><tbody style="box-sizing: border-box; font-family: Lato, sans-serif; outline: 0px !important;" class=""><tr style="box-sizing: border-box; font-family: Lato, sans-serif; outline: 0px !important;" class=""><td style="box-sizing: border-box; font-family: Lato, sans-serif; outline: 0px !important; font-size: 14px; width: 32.1562px; text-align: left; vertical-align: top;" class="">1.</td><td style="box-sizing: border-box; font-family: Lato, sans-serif; outline: 0px !important; font-size: 14px; text-align: left; vertical-align: top;" class="" colspan="2"><p style="box-sizing: border-box; font-family: Lato, sans-serif; margin-top: 0px; margin-bottom: 30px !important; outline: 0px !important; background-color: transparent; color: rgb(42, 42, 42); line-height: 22px; font-size: 14px;" class=""><strong style="box-sizing: border-box; font-family: Lato, sans-serif; font-weight: bolder; outline: 0px !important;" class="">I attended the Insights Conference and have recently tested positive for COVID-19. Whom should I contact?&nbsp;<br style="box-sizing: border-box; font-family: Lato, sans-serif; outline: 0px !important;" class=""></strong>Please reach out to<span>&nbsp;</span><a style="box-sizing: border-box; font-family: Lato, sans-serif; color: rgb(51, 122, 183); text-decoration: none; background-color: transparent; outline: 0px !important;" class="" href="mailto:MCI_Insights_Conference@mci.gov.sg">MCI_Insights_Conference@mci.gov.sg</a><span>&nbsp;</span>immediately.&nbsp;</p></td></tr><tr style="box-sizing: border-box; font-family: Lato, sans-serif; outline: 0px !important;" class=""><td style="box-sizing: border-box; font-family: Lato, sans-serif; outline: 0px !important; font-size: 14px; text-align: left; vertical-align: top;" class="">2.</td><td style="box-sizing: border-box; font-family: Lato, sans-serif; outline: 0px !important; font-size: 14px; text-align: left; vertical-align: top;" class="" colspan="2"><p style="box-sizing: border-box; font-family: Lato, sans-serif; margin-top: 0px; margin-bottom: 30px !important; outline: 0px !important; background-color: transparent; color: rgb(42, 42, 42); line-height: 22px; font-size: 14px;" class=""><strong style="box-sizing: border-box; font-family: Lato, sans-serif; font-weight: bolder; outline: 0px !important;" class="">Will there be photos or videos of the MCI Insights Conference? Can we use them?<br style="box-sizing: border-box; font-family: Lato, sans-serif; outline: 0px !important;" class=""></strong>Photos and highlights video can be found on MCI’s social media pages after 16 November. Please credit “Ministry of Communications and Information” should you use any of the content.</p><ul style="box-sizing: border-box; font-family: Lato, sans-serif; margin-top: 0px; margin-bottom: 0px; outline: 0px !important; margin-left: 40px;" class=""><li style="box-sizing: border-box; font-family: Lato, sans-serif; outline: 0px !important; font-size: 14px; padding: 0px;" class="">LinkedIn /<span>&nbsp;</span><a style="box-sizing: border-box; font-family: Lato, sans-serif; color: rgb(51, 122, 183); text-decoration: none; background-color: transparent; outline: 0px !important;" class="" target="_blank" href="https://www.linkedin.com/company/ministry-of-communications-and-information" rel="noopener noreferrer">ministryofcommunicationsandinformation</a>&nbsp;</li><li style="box-sizing: border-box; font-family: Lato, sans-serif; outline: 0px !important; font-size: 14px; padding: 0px;" class="">Facebook /<span>&nbsp;</span><a style="box-sizing: border-box; font-family: Lato, sans-serif; color: rgb(51, 122, 183); text-decoration: none; background-color: transparent; outline: 0px !important;" class="" target="_blank" href="https://www.facebook.com/SingaporeMCI/" rel="noopener noreferrer">singaporemci</a></li><li style="box-sizing: border-box; font-family: Lato, sans-serif; outline: 0px !important; font-size: 14px; padding: 0px;" class="">Instagram /<span>&nbsp;</span><a style="box-sizing: border-box; font-family: Lato, sans-serif; color: rgb(51, 122, 183); text-decoration: none; background-color: transparent; outline: 0px !important;" class="" target="_blank" href="https://www.instagram.com/singaporemci/" rel="noopener noreferrer">singaporemci</a></li><li style="box-sizing: border-box; font-family: Lato, sans-serif; outline: 0px !important; font-size: 14px; padding: 0px;" class="">Twitter /<span>&nbsp;</span><a style="box-sizing: border-box; font-family: Lato, sans-serif; color: rgb(51, 122, 183); text-decoration: none; background-color: transparent; outline: 0px !important;" class="" target="_blank" href="https://twitter.com/SingaporeMCI" rel="noopener noreferrer">singaporemci</a></li><li style="box-sizing: border-box; font-family: Lato, sans-serif; outline: 0px !important; font-size: 14px; padding: 0px;" class="">YouTube /<span>&nbsp;</span><a style="box-sizing: border-box; font-family: Lato, sans-serif; color: rgb(51, 122, 183); text-decoration: none; background-color: transparent; outline: 0px !important;" class="" target="_blank" href="https://www.youtube.com/user/MCIsingapore" rel="noopener noreferrer">singaporemci</a></li></ul></td></tr></tbody></table>
 
 **For any other queries, please feel free to drop an email**&nbsp;to&nbsp;[MCI\_Connects@mci.gov.sg](mailto:MCI_Connects@mci.gov.sg).
+
+# SPEECHES AND ANNOUNCEMENTS
+
+[INSERT LINKS BELOW]
+
+* Minister S Iswaran’s Opening Speech at MCI Insights Conference
+* PS Yong Ying-I's Closing Speech at MCI Insights Conference
+* Announcement: Emerging Stronger Together Alliance for Action on Supply Chain Digitalisation - Plans for a Common Data Infrastructure (CDI)
+* Press Release: MCI Insights Conference
+
+# VIDEOS AND PHOTOS
+### Emerging Stronger Together for a Shared Digital Future
+
+Singapore’s success in the Digital Future hinges on the close collaboration between industry stakeholders, community partners and the Government, to turn conversations into action. See how the these partnerships make a difference in the lives of all Singaporean businesses, workers, and individuals.
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/j25xQOPShnI" height="315" width="560"></iframe>
+
+### Conference Highlights
+
+Curious about what happened during the MCI Insights Conference? Find out more here:
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/T9r3d8h0oTw" height="315" width="560"></iframe>
+
+### Embracing digitalisation during COVID-19
+
+Mothership shared how they turned to digital tools and video conferencing during the pandemic. Mothership also shared their take on how Singaporeans have adapted to digitalisation in the new normal.&nbsp;  
+  
+The video is a Mothership production for the MCI-Insight Conference 2020.
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/7_j8UoAo0FI" height="315" width="560"></iframe>
+
+### Photos
+
+Please feel free to use or share any of these photos. Please credit “Ministry of Communications and Information” should you use any of these photos.  
+  
+Check out the photos&nbsp;[here](https://drive.google.com/drive/folders/1Lrj2HvluJLtG0QaVJ2tYO_ozx3kNuEqQ?usp=sharing)
