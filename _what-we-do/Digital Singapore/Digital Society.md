@@ -8,13 +8,15 @@ Comprising representatives from the public, private and people sectors, the digi
 
 If you have any suggestions on how we can work together towards a digitally ready Singapore, or if you would like to contribute to this effort in any way, we would be happy to hear from you. You may email us at&nbsp;[digital\_readiness@mci.gov.sg](mailto:digital_readiness@mci.gov.sg)&nbsp;or click&nbsp;[here](https://form.gov.sg/5fd6c4ebb2a91900112328de).![](/images/dfldfl1.jpg)
 
-Get Digitally Ready
+Get Digitally Ready 2
 -------------------
 
 Here are some government resources and initiatives to help you with your digital journey.
 
 <details>
 <summary>Find out more</summary>
+
+	
 
 
 	
@@ -241,6 +243,10 @@ Tech Able, comprising of&nbsp;the Singtel Enabling Innovation Centre and the ST 
   
 For more information, visit&nbsp;[Tech Able](http://www.enablingvillage.sg/assistive-technologies-at-the-enabling-village). Alternatively, you may&nbsp;email&nbsp;[techable@sgenable.sg](mailto:techable@sgenable.sg)&nbsp;or call 1800 8585 885.
 
+	
+	
+	
+	
 </details>
 
 
