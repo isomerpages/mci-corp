@@ -23,5 +23,5 @@ sections:
           description: MCI Budget Debate
           url: /what-we-do/committee-of-supply/2023/
       background: /images/old hill street police station.jpg
-      title: <h3> MINISTRY OF COMMUNICATIONS AND INFORMATION </h3>
+      title: <h2> MINISTRY OF COMMUNICATIONS AND INFORMATION </h2>
 ---
