@@ -50,3 +50,5 @@ I am very happy to join you this morning at this live streaming workshop and the
 19. 我鼓励更多本地企业把握数码经济所带来的机遇。政府和业界伙伴也会为本地企业提供各方 面的支持和援助，例如今天我们所推介的“壹企欣”平台。我希望各位能够充分利用这些资 源让自己的业务更上一层楼。 现在正是大家在国际市场闯出一片天地的好时机。  
   
 20. 最后，我祝愿各位在数码转型的道路上一切顺利。谢谢！
+
+[PDF version of the speech](/files/Speeches%202020/speech%20by%20sms%20sim%20ann%20at%20the%20launch%20of%20onesme%20on%2028%20sep%202020.pdf)
