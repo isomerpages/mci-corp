@@ -36,8 +36,8 @@ Ladies and Gentlemen
 
 11. I am also delighted to announce the collaboration between Nanyang Technological University (NTU) and SCS to create the first certification course based on the BoK – the Certificate in AI Ethics and Governance with NTU. This certification course will equip professionals with skills and knowledge on AI ethics, so they can deploy AI in a responsible and human-centric manner in their work. This collaboration is yet another step that we are taking to position Singapore as a global leader in AI ethics and governance.
 
-   **Government will work with industry partners to create jobs**
-  
+   **Government will work with industry partners to create jobs**    
+
 12. Beyond the work on AI, the Government will continue to work with industry partners like SCS to address evolving workforce needs. Despite the current economic downturn, the ICT sector remains a bright spot with many career opportunities for Singaporeans, ranging from tech-lite to deep tech jobs.  
   
 13. IMDA has been working with companies and industry partners to reskill and train Singaporeans for such tech jobs in the ICT sector and also across the economy. SCS is a key industry association with whom IMDA works closely, to enhance employment opportunities under the TechSkills Accelerator (TeSA) initiative.  
