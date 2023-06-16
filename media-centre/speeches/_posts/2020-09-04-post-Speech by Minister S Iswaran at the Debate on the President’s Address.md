@@ -48,10 +48,9 @@ image: ""
  
  16. **How has our openness brought benefits for Singaporeans?  Our portfolio of FTAs is a good example.  As Minister Chan Chun Sing shared earlier this week, our network of FTAs is greater than the sum of its parts; each and every FTA adds to the network effect.**
 
-    
-		* Our network of 25 FTAs provides our companies preferential access to economies that together, represent more than 85% of global GDP.  They also have rules that protect our companies’ investments.  
-    * This combination of opportunity and stability among other things, has helped attract over 750 foreign companies to establish their regional headquarters (RHQs) in Singapore with nearly 30,000 employees. They also generate demand for local businesses and ancillary legal, financial and other services.  
-    * We have also helped our SMEs to benefit from this market access; and invested in our people so that they can take on regional and global roles.
+     * Our network of 25 FTAs provides our companies preferential access to economies that together, represent more than 85% of global GDP.  They also have rules that protect our companies’ investments.
+     * This combination of opportunity and stability among other things, has helped attract over 750 foreign companies to establish their regional headquarters (RHQs) in Singapore with nearly 30,000 employees. They also generate demand for local businesses and ancillary legal, financial and other services.  
+     * We have also helped our SMEs to benefit from this market access; and invested in our people so that they can take on regional and global roles.
     
 		*New Frontiers – Digital Economy Agreements (DEAs)*
   
