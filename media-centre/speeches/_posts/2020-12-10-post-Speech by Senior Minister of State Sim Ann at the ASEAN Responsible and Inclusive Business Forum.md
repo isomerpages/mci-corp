@@ -55,4 +55,4 @@ Ladies and gentlemen,
   
 18. Let me wish everyone a fruitful session, and thank you.
 
-[](/files/Speeches%202020/speech%20by%20senior%20minister%20of%20state%20for%20communications%20and%20information%20%20national%20development%20ms%20sim%20a.pdf)
+[PDF version of the speech](/files/Speeches%202020/speech%20by%20senior%20minister%20of%20state%20for%20communications%20and%20information%20%20national%20development%20ms%20sim%20a.pdf)
