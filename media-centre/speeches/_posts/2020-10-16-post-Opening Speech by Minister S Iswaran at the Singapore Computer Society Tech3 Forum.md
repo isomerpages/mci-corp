@@ -35,13 +35,12 @@ Ladies and Gentlemen
 10. The BoK is first and foremost an industry-driven initiative, and I want to thank the many collaborators who contributed to creating the robust curricula. These include Dr Yaacob Ibrahim and Dr Chong Yoke Sin, who are the honorary patron and chairperson, respectively, of the AI Ethics and Governance Steering Committee.    
 
 11. I am also delighted to announce the collaboration between Nanyang Technological University (NTU) and SCS to create the first certification course based on the BoK – the Certificate in AI Ethics and Governance with NTU. This certification course will equip professionals with skills and knowledge on AI ethics, so they can deploy AI in a responsible and human-centric manner in their work. This collaboration is yet another step that we are taking to position Singapore as a global leader in AI ethics and governance.
-
-   **Government will work with industry partners to create jobs**    
+     **Government will work with industry partners to create jobs**
 
 12. Beyond the work on AI, the Government will continue to work with industry partners like SCS to address evolving workforce needs. Despite the current economic downturn, the ICT sector remains a bright spot with many career opportunities for Singaporeans, ranging from tech-lite to deep tech jobs.  
   
-13. IMDA has been working with companies and industry partners to reskill and train Singaporeans for such tech jobs in the ICT sector and also across the economy. SCS is a key industry association with whom IMDA works closely, to enhance employment opportunities under the TechSkills Accelerator (TeSA) initiative.  
-  
+13. IMDA has been working with companies and industry partners to reskill and train Singaporeans for such tech jobs in the ICT sector and also across the economy. SCS is a key industry association with whom IMDA works closely, to enhance employment opportunities under the TechSkills Accelerator (TeSA) initiative.
+
 14. One of the key thrusts of our partnership is the SCS Career Compass, a coordinated career support ecosystem for job matching, group mentoring, and leadership programmes by tripartite partners such as NTUC, e2i, IMDA and WSG. Under the initiative, SCS brings together a pool of experienced ICT professionals as mentors to provide jobseekers with career development advice, as well as first-hand insights into the latest trends and demands of the rapidly changing ICT landscape.   
   
 15. Since its inception in 2016, more than 700 participants have also benefitted from SCS’ Career Advisory services. These include career mentoring, career preparatory workshops and meet-the-employer sessions. One such beneficiary, Mr Tan Keng Hee, joined a career mentoring session last year where he learnt from the rich industry experiences of SCS’ ICT mentors. Motivated by their encouragement, Keng Hee was able to take up a new role as Project Director at ST Engineering Electronics late last year. Keng Hee continues to acquire knowledge to upskill himself, demonstrating a willingness to learn and adapt that should inspire all of us.    
