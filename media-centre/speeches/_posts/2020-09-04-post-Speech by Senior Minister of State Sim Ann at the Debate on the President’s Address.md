@@ -166,3 +166,5 @@ image: ""
 36. I hope that the “DIY renaissance” will contribute to vibrancy and a sense of autonomy in the post-COVID society. I hope our care and concern for the vulnerable will bring about a cohesive and heartwarming post-COVID society. I also hope that by helping all going digital, we can bring about more inclusivity, greater advancement, convenience and security in the post-COVID society. Such a society would be better prepared for future challenges, including Disease X which PM Lee mentioned in his speech. Such a society would also be a Little Red Dot brimming with positive energy, always ready for whatever lies ahead.  
   
 37. Mr Speaker, I support the Motion.
+
+[PDF version of the speech.](/files/Speeches%202020/english%20translation%20of%20speech%20by%20ms%20sim%20ann%20senior%20minister%20of%20state%20mci%20and%20mnd%20at%20the%20debate%20on%20th.pdf)
