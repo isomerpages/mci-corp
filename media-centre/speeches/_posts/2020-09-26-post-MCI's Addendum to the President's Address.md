@@ -47,3 +47,5 @@ Minister for Communications and Information**
 12. MCI will play its part to strengthen social cohesion and trust in the Government through timely, accessible, and inclusive Government communications. MCI has leveraged a range of traditional and digital media platforms, including mobile messaging applications in our official languages, to reach Singaporeans of different age groups and backgrounds. MCI will further enhance its Whole-of-Government communications strategy by using analytics and technology to tailor content to different segments based on their needs and preferred platforms. MCI will explore new ways to disseminate official information in the vernacular languages.  
   
 13. MCI will work with all its stakeholders, including through the Government’s engagement platform REACH and industry associations, to understand their concerns and seek suggestions on policy challenges. Together, we will seize new opportunities and forge a thriving digital future for all.
+
+[PDF version of the speech.](/files/Speeches%202020/mcis%20addendum%20to%20presidents%20address.pdf)
