@@ -10,28 +10,28 @@ Good afternoon to members of the press and my fellow panel members. Delighted to
   
 2          Singapore, together with WEF and industry partners will be taking a big step forward today in AI governance. Collectively, we are building a trusted AI environment that will guide organisations to deploy AI responsibly.
 
-    **Singapore’s Approach to AI Governance**
+   **Singapore’s Approach to AI Governance**
 
 3          These efforts build on what Singapore had shared last year in Davos. Last year in Davos, Singapore launched the Model AI Governance Framework to guide businesses to deploy AI at scale in a responsible manner.  
   
 4          This framework translates ethical principles into pragmatic measures that businesses can adopt voluntarily, and have a ready-to-use tool to help deploy AI in a responsible manner.  
   
 5          A year on, the Framework has gained further traction and support.  
-  
-    i. We have been working with WEF C4IR to promote the use of the Model Framework, including engaging companies locally and internationally on the World Economic Forum platforms.  
-    ii. International and local companies across diverse sectors have adopted or aligned their practices to it.  
+
+   i. We have been working with WEF C4IR to promote the use of the Model Framework, including engaging companies locally and internationally on the World Economic Forum platforms.  
+   ii. International and local companies across diverse sectors have adopted or aligned their practices to it.  
   
 6          This year in Davos, I am pleased to announce today that Singapore is taking yet another step forward in AI Governance.  
   
 7          Together with our partners, we are releasing three AI governance initiatives to further guide organisations in deploying AI responsibly. These are the:  
   
-    i. Implementation and Self-Assessment Guide for Organisations (ISAGO)  
-    ii. Second edition of the Model Framework  
-    iii. Compendium of Use Cases  
+   i. Implementation and Self-Assessment Guide for Organisations (ISAGO)  
+	 ii. Second edition of the Model Framework
+	 iii. Compendium of Use Cases  
   
 8          Let me elaborate.
 
-    **Implementation and Self-Assessment Guide for Organisations (ISAGO)  **
+   **Implementation and Self-Assessment Guide for Organisations (ISAGO)  **
   
 9          As part of Singapore’s collaboration with WEF C4IR to drive AI and data innovation, we have co-developed an Implementation and Self-Assessment Guide for Organisations (ISAGO).  
   
@@ -43,13 +43,13 @@ Good afternoon to members of the press and my fellow panel members. Delighted to
   
 13          This guide will pave the way for future peer assessment. Professionals who are proficient in AI governance could use the ISAGO to guide organisations in implementing the Model Framework or assess the organisations’ implementation.
 
-    **Second Edition of the Model Framework**
+   **Second Edition of the Model Framework**
 
 14          Secondly, we continue to enhance the Model Framework to keep pace with rapid developments in AI. The second edition is enhanced with real-world, practical examples of how organisations have implemented the Model Framework. It also includes additional considerations for responsible AI deployment, such as robustness and reproducibility. It is the result of extensive consultation with industry and governments internationally.  
   
 15          Today, 15 organisations globally have taken up or aligned themselves to the Model Framework.
 
-    **Compendium of Use Cases**
+   **Compendium of Use Cases**
 
 16          In fact, together with these organisations, we are also releasing a Compendium of Use Cases to complement the Second Edition of the Model Framework and ISAGO. These Use Cases demonstrate how various organisations across different sectors – big and small, local and international – have implemented or aligned their practices with the Model Framework. This adoption demonstrates the relevance and practicality of the Model Framework for organisations deploying AI.  
   
