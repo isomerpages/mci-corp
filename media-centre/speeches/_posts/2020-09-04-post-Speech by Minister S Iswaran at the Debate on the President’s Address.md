@@ -148,3 +148,5 @@ image: ""
 **45. Mr Speaker Sir, at a time fraught with anxiety about our future, as we take on unprecedented challenges and seek out novel solutions, and as we draw on our strengths as a people, I look forward to the 14th Parliament of Singapore serving with distinction as the Voice of the People, the Voice of Reason, and the Voice of Hope.**  
   
 46. Sir, I support the motion.
+
+[PDF version of the speech](/files/Speeches%202020/transcript%20of%20speech%20by%20mr%20s%20iswaran%20mci%20at%20the%20debate%20on%20the%20presidents%20address%20on%204%20sep%202020.pdf)
