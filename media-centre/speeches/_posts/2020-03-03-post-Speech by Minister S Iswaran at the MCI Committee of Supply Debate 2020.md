@@ -81,7 +81,7 @@ image: ""
 29.  In addition, IMDA and Workforce Singapore help companies to leverage this specialised expertise from abroad to develop new skillsets among Singaporeans, in other words a transfer of capability, through the Capability Transfer Programme (CTP). So that is a conscious part of this effort, even as we bring in talent from abroad to complement our local talent base.   
   
 30. Before I move away from the topic of talent, Mr Foo raised the point about what is happening in our universities. The details and a more complete response will be given in the Ministry of Education’s Committee of Supply. But I think it would suffice for me to say that both in terms of quantity and quality, the intakes for the courses pertaining to computer science have been rising. We see this as being a very rich pipeline that will then enter the industry and meet its needs.   
-  
+
     *Social inclusion*  
   
 31. Beyond jobs and businesses, as more citizens embrace technology to enrich their lives or access public services, we must make sure that no one feels outpaced by the change or left behind.  SMS Sim Ann will explain how we are increasing support for low-income households, seniors, and children, to ensure our digital future is an inclusive one.  
@@ -89,24 +89,24 @@ image: ""
 32. In this mission, our libraries also have an important role.  Our libraries epitomise the spirit of the SG Together movement, bringing our people, volunteers and partners together in a supportive learning community. The revamped library@harbourfront at VivoCity exemplifies this.  In just one year since its opening in January last year, it has held over 360 programmes – more than a third of them run by members of the community (volunteers).   
   
 33. These unique partnerships form the model for the Libraries and Archives Plan (LAP25), and this goes to the point that Mr Foo raised. This is a five-year strategic plan for our libraries and archives.  Over the next several months, the National Library Board (NLB) will be engaging with various communities, partners and stakeholders on its future strategies, collections and services to ensure that it continues to meet the needs and aspirations of Singaporeans in an evolving learning and knowledge landscape.   
-  
+
     **Preserving Common Spaces in the Digital Age**  
   
 34. To derive the full benefits of digitalisation, we must protect ourselves from threats in the digital domain.  That is why we have instituted Digital Defence as the sixth pillar of Total Defence - to underscore the importance of ensuring that the digital spaces where we increasingly interact, transact and rely on for information, are safe, secure, trustworthy.  
-  
-    *Protecting digital spaces * 
+
+    *Protecting digital spaces* 
   
 35. Mr Foo asked how we ensure that we are adequately protected in this environment.  And Ms Sylvia Lim also raised some questions pertaining to CSA and the work that we do with the Critical Information Infrastructure. Cybersecurity is key, in particular to safeguard our Critical Information Infrastructure from cyber threats.  CSA has been conducting regular reviews and exercises with the 11 CII sectors and the component agencies. But as Members can appreciate, this is an iterative and ongoing process because the threats keep evolving. And therefore, our capacity to deal with them must also evolve in tandem.   
   
 36. Later this year, we will also launch a Safer Cyberspace Masterplan to proactively monitor and prevent cyber threats and cybercrimes, implement baseline security standards, and increase the adoption of these safeguards by enterprises and citizens.  
   
 37. Data protection also takes on added importance in this context.  Hence, we are reviewing the Personal Data Protection Act to support on the one hand, the legitimate needs of businesses to harness data for innovative products and services, while protecting consumers’ interests and increasing the accountability of organisations. SMS Janil will elaborate on MCI’s new measures to enhance cyber and data security.  
-  
-     *Maintaining common space*  
+
+    *Maintaining common space*  
   
 38. But we do have to go beyond cybersecurity and data protection.  Because ultimately, our aim is to uphold the values of our society, the strength of our institutions, and preserve our common spaces.  Today, the online space is where our hard-won cohesion could fray and splinter.  In the digital age, our common spaces are no longer just physical.   
   
-39.  That is where our law against online falsehoods become very important, point on which Mr Darryl David has asked. POFMA has been used to place factual corrections next to the grievous falsehoods which distort or fabricate facts.  These falsehoods have pertained to the COVID-19 situation, police procedures and the management of public funds among other things. If Singaporeans are duped into believing such falsehoods, it can sow fear, cause panic, and erode trust in our institutions.  That is why in response, we have used the powers under POFMA to juxtapose the truth with the falsehoods at the source, so that our citizens can see both and draw their own conclusions.    
+39. That is where our law against online falsehoods become very important, point on which Mr Darryl David has asked. POFMA has been used to place factual corrections next to the grievous falsehoods which distort or fabricate facts. These falsehoods have pertained to the COVID-19 situation, police procedures and the management of public funds among other things. If Singaporeans are duped into believing such falsehoods, it can sow fear, cause panic, and erode trust in our institutions. That is why in response, we have used the powers under POFMA to juxtapose the truth with the falsehoods at the source, so that our citizens can see both and draw their own conclusions.    
   
 40. In this fight against online falsehoods, it is heartening to see Singaporeans stepping up to do their part.  Amid many online rumours that have been circulating in the context of COVID-19, a group of students from NTU started a fact-checking initiative called "Sure Anot", aimed at older Singaporeans. They developed a guide for seniors to assess information they receive, based on NLB's digital literacy framework - “Source, Understand, Research, Evaluate”.  They also collaborated with an independent fact-checking outfit to share reports of debunked rumours in Facebook and WhatsApp groups.  
   
@@ -116,20 +116,20 @@ image: ""
   
 42. All these strands of our work - to sustain trust and cohesion through information and communications - were put to the test when the COVID-19 virus broke.  Mr Ong, Mr Irshad, and Prof Lim Sun Sun asked about the lessons learned from the experience.  Mr Foo asked specifically about the role that POFMA played in dealing with falsehoods about the virus.  
   
-43. COVID-19 is not only a medical and public health challenge; it is also a psychological battle against fear and uncertainty.  As PM Lee Hsien Loong put it: “Fear can actually do more harm than the virus itself”.  The Government has therefore sought to allay the fears of our citizens and keep their trust, by being transparent about the situation, the measures we are taking and the reasons for doing so, and giving regular information on the evolving situation.     
+43. COVID-19 is not only a medical and public health challenge; it is also a psychological battle against fear and uncertainty.  As PM Lee Hsien Loong put it: “Fear can actually do more harm than the virus itself”. The Government has therefore sought to allay the fears of our citizens and keep their trust, by being transparent about the situation, the measures we are taking and the reasons for doing so, and giving regular information on the evolving situation.     
   
 44. Some have caused anxiety in our population by putting out falsehoods.  POFMA correction orders were used to swiftly expose them by placing the truth alongside.  Firmer levers were used when a recalcitrant Facebook page repeatedly posted falsehoods, and refused to carry any corrections.  It is abundantly clear that it would have been much harder to quell the spread of misinformation and keep the calm of our society without this set of POFMA measures which are designed specifically to address falsehoods in the online space.   
   
 45. But to focus only on the use of POFMA for COVID-19 would be to miss the wood for the trees.  MCI has also conducted a major public communication and education campaign through the print and broadcast mainstream media, Government websites and social media. We have collaborated with Mediacorp and local celebrities, in all four official languages, and also in dialects such as Hokkien, Teochew, Cantonese, Hakka, and Hainanese.   
   
-46. This communication campaign would have been much more challenging if we did not have the national platforms with the content and reach to engage and connect with Singaporeans.  Mr David asked how Public Service Broadcast (PSB) will remain relevant amid the changing landscape. PSB has long been a key source of trusted information and common experiences. But with these changes in the media landscape, we know that Singaporeans now enjoy access to multiple media platforms. But it is imperative that they also continue to access local content that reflects and strengthens our national voice and character. The Government will therefore invest more in PSB, to ensure the quality and relevance to Singaporeans of this important medium.    
+46. This communication campaign would have been much more challenging if we did not have the national platforms with the content and reach to engage and connect with Singaporeans. Mr David asked how Public Service Broadcast (PSB) will remain relevant amid the changing landscape. PSB has long been a key source of trusted information and common experiences. But with these changes in the media landscape, we know that Singaporeans now enjoy access to multiple media platforms. But it is imperative that they also continue to access local content that reflects and strengthens our national voice and character. The Government will therefore invest more in PSB, to ensure the quality and relevance to Singaporeans of this important medium.    
   
-47. Prof Lim asked whether we can take a more strategic approach and integrate the multiple communications channels onto existing Government mobile apps like SGSecure. In today’s fragmented media landscape, we have to bring the information to our people through the different platforms that they rely on.  That is just the sheer reality of it. The diversity of channels is therefore an inevitable consequence. But, I want to assure Prof Lim that as part of MCI’s ongoing effort, we are working with the Smart Nation Digital Office (SNDGO) and other agencies to see how we can further integrate and coordinate these different channels. But we should not let the overarching objective get in the way of responding to needs as they emerge. As they did in recent times with the COVID-19.  
+47. Prof Lim asked whether we can take a more strategic approach and integrate the multiple communications channels onto existing Government mobile apps like SGSecure. In today’s fragmented media landscape, we have to bring the information to our people through the different platforms that they rely on. That is just the sheer reality of it. The diversity of channels is therefore an inevitable consequence. But, I want to assure Prof Lim that as part of MCI’s ongoing effort, we are working with the Smart Nation Digital Office (SNDGO) and other agencies to see how we can further integrate and coordinate these different channels. But we should not let the overarching objective get in the way of responding to needs as they emerge. As they did in recent times with the COVID-19.  
   
 48. Already, amid the COVID-19 situation, our efforts have reached out through new digital platforms.  Digital display panels in HDB estates and the Gov.sg WhatsApp channel have given almost real-time updates to Singaporeans.  We have seen a huge surge in subscribers - over 650,000 in just five weeks - to Gov.sg’s WhatsApp service which issues regular messages in the four official languages.    
   
 49. This broad-based government communication effort has been recognised and appreciated by our citizens and many others. From mid-to-late February, REACH conducted an online poll to understand public sentiments. More than 80 per cent of Singaporeans or Singapore residents who were polled indicated that the Government had provided sufficient information about the COVID-19 situation. So we are getting through, communicating, but we can always do better.   
-  
+
     **Conclusion**  
   
 50. Mr Chairman, I would like to conclude by going back to where I began.    
