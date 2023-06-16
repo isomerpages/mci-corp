@@ -32,8 +32,8 @@ Ladies and gentlemen
   
 8. This brings me to the point on how can we ensure that the media sector continues to stay vibrant and emerges stronger in the next bound.  
   
-9. It is clear that consumers will continue to seek out compelling, inspiring and relatable content and stories. Today, with the rise of hyper-personalised and on-demand services, consumers also expect greater control over what they watch, when they watch it and how they watch it. I think all of us who are involved in the media industry one way or another are keenly aware of this. We have seen the pandemic create a surge in media consumption globally. The impetus for media companies to create a wider variety of content – from short-form and micro-content, to premium dramas and feature films – and deliver it in new and exciting ways, has never been greater.   
-   
+9. It is clear that consumers will continue to seek out compelling, inspiring and relatable content and stories. Today, with the rise of hyper-personalised and on-demand services, consumers also expect greater control over what they watch, when they watch it and how they watch it. I think all of us who are involved in the media industry one way or another are keenly aware of this. We have seen the pandemic create a surge in media consumption globally. The impetus for media companies to create a wider variety of content – from short-form and micro-content, to premium dramas and feature films – and deliver it in new and exciting ways, has never been greater.
+
 10. At the same time, we have also observed substantial growth in demand for Asian content, fuelled by fast-growing access to the internet and mobile devices in the region. In Southeast Asia, the revenues for the online video sector alone is projected to grow to at least US$11 billion by 2024 [^1]. As much as consumers enjoy big international blockbusters, they have also shown an appetite for stories and content that are tailored to our regional cultures and tastes. Consequently, global media players like Netflix, Amazon, Tencent and ByteDance have turned their attention to the Asian market, and expanded aggressively in Singapore in recent years.   
   
 11. There is much promise in the Asian media market, and there are opportunities for us here in Singapore.  With our quality digital infrastructure, high technological penetration and vibrant multi-cultural society, we are well-positioned to capitalise on these trends and stake our claim to remain a key hub for both international content and for Asia-centric material.   
@@ -80,4 +80,3 @@ Ladies and gentlemen
 [PDF version of the speech](/files/Speeches%202020/opening%20remarks%20by%20minister%20s%20iswaran%20at%20the%20opening%20ceremony%20of%20the%20asia%20tv%20forum%20and%20market%20and%20sc.pdf)
 
 [^1]: Based on a 2019 report presented by Media Partners Asia at the Asia-Pacific Pay-TV Operators Summit (APOS) 2020.
-
