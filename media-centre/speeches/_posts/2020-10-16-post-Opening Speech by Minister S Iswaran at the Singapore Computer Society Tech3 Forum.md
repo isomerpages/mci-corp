@@ -34,9 +34,9 @@ Ladies and Gentlemen
   
 10. The BoK is first and foremost an industry-driven initiative, and I want to thank the many collaborators who contributed to creating the robust curricula. These include Dr Yaacob Ibrahim and Dr Chong Yoke Sin, who are the honorary patron and chairperson, respectively, of the AI Ethics and Governance Steering Committee.    
 
-11. I am also delighted to announce the collaboration between Nanyang Technological University (NTU) and SCS to create the first certification course based on the BoK – the Certificate in AI Ethics and Governance with NTU. This certification course will equip professionals with skills and knowledge on AI ethics, so they can deploy AI in a responsible and human-centric manner in their work. This collaboration is yet another step that we are taking to position Singapore as a global leader in AI ethics and governance.  
-  
-     **Government will work with industry partners to create jobs**  
+11. I am also delighted to announce the collaboration between Nanyang Technological University (NTU) and SCS to create the first certification course based on the BoK – the Certificate in AI Ethics and Governance with NTU. This certification course will equip professionals with skills and knowledge on AI ethics, so they can deploy AI in a responsible and human-centric manner in their work. This collaboration is yet another step that we are taking to position Singapore as a global leader in AI ethics and governance.
+
+   **Government will work with industry partners to create jobs**
   
 12. Beyond the work on AI, the Government will continue to work with industry partners like SCS to address evolving workforce needs. Despite the current economic downturn, the ICT sector remains a bright spot with many career opportunities for Singaporeans, ranging from tech-lite to deep tech jobs.  
   
