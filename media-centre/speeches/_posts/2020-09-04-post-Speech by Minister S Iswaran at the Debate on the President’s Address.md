@@ -46,11 +46,12 @@ image: ""
   
     **I. Openness: Free Trade Agreements**
  
- **16. How has our openness brought benefits for Singaporeans?  Our portfolio of FTAs is a good example.  As Minister Chan Chun Sing shared earlier this week, our network of FTAs is greater than the sum of its parts; each and every FTA adds to the network effect.**
+ 16. **How has our openness brought benefits for Singaporeans?  Our portfolio of FTAs is a good example.  As Minister Chan Chun Sing shared earlier this week, our network of FTAs is greater than the sum of its parts; each and every FTA adds to the network effect.**
 
-   * Our network of 25 FTAs provides our companies preferential access to economies that together, represent more than 85% of global GDP.  They also have rules that protect our companies’ investments.  
-   * This combination of opportunity and stability among other things, has helped attract over 750 foreign companies to establish their regional headquarters (RHQs) in Singapore with nearly 30,000 employees. They also generate demand for local businesses and ancillary legal, financial and other services.  
-   * We have also helped our SMEs to benefit from this market access; and invested in our people so that they can take on regional and global roles.
+    
+		* Our network of 25 FTAs provides our companies preferential access to economies that together, represent more than 85% of global GDP.  They also have rules that protect our companies’ investments.  
+    * This combination of opportunity and stability among other things, has helped attract over 750 foreign companies to establish their regional headquarters (RHQs) in Singapore with nearly 30,000 employees. They also generate demand for local businesses and ancillary legal, financial and other services.  
+    * We have also helped our SMEs to benefit from this market access; and invested in our people so that they can take on regional and global roles.
     
 		*New Frontiers – Digital Economy Agreements (DEAs)*
   
@@ -88,11 +89,11 @@ image: ""
 
     **II. Inclusive Growth**  
   
-**27. As with globalisation, the digital transformation of our economy must also be inclusive with opportunities for every worker, regardless of background; and every business, regardless of its size or stage of growth.  MCI’s vision is for**
+27. **As with globalisation, the digital transformation of our economy must also be inclusive with opportunities for every worker, regardless of background; and every business, regardless of its size or stage of growth.  MCI’s vision is for**
 
-   * Every business to be digitally-empowered      
-   * Every worker to be digitally-skilled      
-   * Every citizen to be digitally-connected 
+    * Every business to be digitally-empowered      
+    * Every worker to be digitally-skilled      
+    * Every citizen to be digitally-connected 
 
 		*Education, Enterprise and Worker Support*
   
@@ -119,7 +120,7 @@ image: ""
 
      **The role of Parliament**
   
-**34. Mr Speaker Sir, I have outlined in detail how we seek stay open and be inclusive in the ICT sector, in order to create opportunities for Singaporeans. But indeed we do this in every sector, through the work of the Future Economy Committee (FEC), chaired by DPM Heng Swee Keat, National Jobs Council (NJC) chaired by SM Tharman Shanmugaratnam and indeed a slew of other efforts.**   
+34. **Mr Speaker Sir, I have outlined in detail how we seek stay open and be inclusive in the ICT sector, in order to create opportunities for Singaporeans. But indeed we do this in every sector, through the work of the Future Economy Committee (FEC), chaired by DPM Heng Swee Keat, National Jobs Council (NJC) chaired by SM Tharman Shanmugaratnam and indeed a slew of other efforts.**   
   
 35. Over the past few days, we have witnessed intense debates on a range of issues – our policy priorities, whether and what we should change, and specific measures to be considered.  We have articulated the policy choices, and the aspirations and concerns of Singaporeans.  In this important ongoing effort to strike a balance between staying open and being inclusive, and build a better future for our people, I believe Parliament can and should play a significant role in three ways.     
   
@@ -145,7 +146,7 @@ image: ""
 
      **Conclusion: Moving Forward Together** 
   
-**45. Mr Speaker Sir, at a time fraught with anxiety about our future, as we take on unprecedented challenges and seek out novel solutions, and as we draw on our strengths as a people, I look forward to the 14th Parliament of Singapore serving with distinction as the Voice of the People, the Voice of Reason, and the Voice of Hope.**  
+45. **Mr Speaker Sir, at a time fraught with anxiety about our future, as we take on unprecedented challenges and seek out novel solutions, and as we draw on our strengths as a people, I look forward to the 14th Parliament of Singapore serving with distinction as the Voice of the People, the Voice of Reason, and the Voice of Hope.**  
   
 46. Sir, I support the motion.
 
