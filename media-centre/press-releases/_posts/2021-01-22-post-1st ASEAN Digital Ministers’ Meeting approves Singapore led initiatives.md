@@ -38,8 +38,9 @@ d. The need for resilient digital infrastructure and connectivity, as well as th
 
 **Annexes:**  
   
-[Annex A: Background on ASEAN DMF and MCCs](https://www.mci.gov.sg/-/media/MciCorp/Doc/Pressroom/ADGMIN-(22Jan2021)/Annex-A---Background-on-ASEAN-DMF-AND-MCCS.ashx)  
-[Annex B: Quotes from international organisations, associations, companies and law firms](https://www.mci.gov.sg/-/media/MciCorp/Doc/Pressroom/ADGMIN-(22Jan2021)/Annex-B--Quotes-from-international-organisations-associations-companies-and-law-firms.ashx)
+[Annex A: Background on ASEAN DMF and MCCs](/files/Press%20Release%202021/annex%20a%20-%20background%20on%20asean%20dmf%20and%20mccs.pdf)
+
+[Annex B: Quotes from international organisations, associations, companies and law firms](/files/Press%20Release%202021/annex%20b%20%20quotes%20from%20international%20organisations%20associations%20companies%20and%20law%20firms.pdf)
 
 \--------------------------------------------------------------------------------------------------------------------------  
 1  The ADGMIN was formerly known as the ASEAN Telecommunications and Information Technology Ministers Meeting (TELMIN).   
