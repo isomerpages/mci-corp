@@ -7,7 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-### “Partnering the Community to Build a Better Singapore”
+**“Partnering the Community to Build a Better Singapore”**
 
 Mr Ng Cher Pong, CEO, NLB,  
 Valued partners of NLB,   
@@ -33,7 +33,7 @@ Friends of the Library and Archives, 
   
 9. By working together, we help to empower the community, public institutions like our libraries, and also our society. Indeed, this is very much in sync with how the Government is working together with our people to build a better future for Singapore. This is also the ethos of the SG Together movement that DPM Heng launched sometime back.  It is to bring our people together, to work together, in common cause for further growth, development and towards the significant strides that we want Singapore to take for our future. So I want to elaborate in the context of the work we are doing within NLB itself.    
   
-    **Partnerships Empower All  **
+    **Partnerships Empower All**
   
 10. First, we believe that partnerships empower the community by allowing the community to take ownership.  At libraries like Bukit Panjang Library, Tampines Regional Library and library@harbourfront, volunteers like Ms Ching Yoke Yin and Mr Peter Connell manage entire areas, interact with patrons, and provide book recommendations.  From their experiences, other volunteers have gathered useful ideas on how to do things better, andhave also gone on to implement them.  At our branches in Sengkang and Orchard, residents and frequent visitors gave their say on how they wanted their libraries to be revamped - from the design and facilities, to the collections and programmes.  When outcomes are shaped by the community, the finished products are fit-for-purpose and are for our community institutions.   
   
@@ -47,7 +47,7 @@ Friends of the Library and Archives, 
   
     **Working in Partnership is More Important Today than Ever** 
   
-15. Taking one step further, I would say that working in partnership is not only beneficial, but is also vital in this day and age.  I have often spoken in the past about opportunities created by technology, digitalisation, AI, data analytics. I think we all know what the buzz words are, which are used extensively in the lexicon of today.  At the same time, we also have to acknowledge the trade-offs and risks.  If we are not mindful, being more connected online can quite ironically lead to feeling more disconnected from society.  A 2017 study published in the American Journal of Preventive Medicine found that those who spent the most time on social media were twice as likely to experience social isolation and feel like they did not belong anywhere [^1].  So the experience in the virtual world, does not necessarily translate into our well-being in the real world.   
+15. Taking one step further, I would say that working in partnership is not only beneficial, but is also vital in this day and age.  I have often spoken in the past about opportunities created by technology, digitalisation, AI, data analytics. I think we all know what the buzz words are, which are used extensively in the lexicon of today.  At the same time, we also have to acknowledge the trade-offs and risks.  If we are not mindful, being more connected online can quite ironically lead to feeling more disconnected from society.  A 2017 study published in the American Journal of Preventive Medicine found that those who spent the most time on social media were twice as likely to experience social isolation and feel like they did not belong anywhere[^1]. So the experience in the virtual world, does not necessarily translate into our well-being in the real world.   
   
 16. Societies around the world face this challenge, and Singapore is not immune.  In fact, given that many of us frequently use the Internet, we may be even more susceptible.  Singaporeans themselves have taken to the newspaper forums to express their concerns.  Some worry that an over-reliance on social media and messaging apps will erode human connections, while others are afraid of the formation of echo chambers online, which may fragment or even polarise our society[^2].     
   
@@ -65,5 +65,5 @@ Friends of the Library and Archives, 
   
 22. Thank you.   
    
-[^1]  Primack, BA and Shensa, A, and Sadani, JE and Whaite, EO and Liu, L and Rosen, D and Colditz, JB and Radovic, AM and Miller, E (2017) _Social Media Use and Perceived Social Isolation among Young Adults_ in the American Journal of Preventive Medicine, 53 (1).   
-[^2]  ZB ‘Let’s go to the library’ (6 Jan 2019); ST ‘Letter of the Week: Don’t let technology replace human connection’ (22 Dec 2018); ST ‘Digital technology: Help or Hindrance?’ (25 Dec 2018); ST ‘Tech can affect students negatively’ (29 Aug 2018).
+[^1]: Primack, BA and Shensa, A, and Sadani, JE and Whaite, EO and Liu, L and Rosen, D and Colditz, JB and Radovic, AM and Miller, E (2017) _Social Media Use and Perceived Social Isolation among Young Adults_ in the American Journal of Preventive Medicine, 53 (1).   
+[^2]: ZB ‘Let’s go to the library’ (6 Jan 2019); ST ‘Letter of the Week: Don’t let technology replace human connection’ (22 Dec 2018); ST ‘Digital technology: Help or Hindrance?’ (25 Dec 2018); ST ‘Tech can affect students negatively’ (29 Aug 2018).
