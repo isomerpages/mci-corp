@@ -51,8 +51,8 @@ image: ""
     * To advance its digitalisation journey, Foreword Coffee’s owner Mr Lim Wei Jie adopted a digital ordering solution and he also plans to deploy HR, payroll and accounting solutions in the coming months, and that will entitle the company to an additional $2,500 under the DRB.  
     * Businesses that already have basic digital capabilities will receive an additional $5,000 should they decide to adopt advanced digital solutions like data mining and data analytics. I would like to assure Ms Tin Pei Ling in particular, that we will be extending the DRB to F&B and retail enterprises in the first instance, but based on our experience, we will then assess how we can expand this to other sectors subsequently. This is a discussion that we will continue to have with the Ministry of Finance.
 
-   **Digital Inclusion for All**  
-  
+    **Digital Inclusion for All**  
+
 17. Let me now move to digital inclusion. Digitalisation is not an end in itself; it is a means to better lives and livelihoods. That is why digital inclusion has always been at the heart of the Government’s digitalisation effort. Our digital push must reach all segments of our economy and society, like our hawkers and senior citizens, so that they too can benefit and participate.
 
     * Hawkers Go Digital will boost e-payment adoption among stallholders from hawker centres, wet markets, coffee shops and industrial canteens. Apart from the obvious public health benefits, this initiative is also a good launch point for stallholders’ digital transformation journeys.  
