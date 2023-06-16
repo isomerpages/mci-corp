@@ -31,7 +31,7 @@ image: ""
   
 8. Let me elaborate.
 
-   **Implementation and Self-Assessment Guide for Organisations (ISAGO)  **
+    **Implementation and Self-Assessment Guide for Organisations (ISAGO)**
   
 9. As part of Singapore’s collaboration with WEF C4IR to drive AI and data innovation, we have co-developed an Implementation and Self-Assessment Guide for Organisations (ISAGO).  
   
@@ -43,13 +43,13 @@ image: ""
   
 13. This guide will pave the way for future peer assessment. Professionals who are proficient in AI governance could use the ISAGO to guide organisations in implementing the Model Framework or assess the organisations’ implementation.
 
-   **Second Edition of the Model Framework**
+    **Second Edition of the Model Framework**
 
 14. Secondly, we continue to enhance the Model Framework to keep pace with rapid developments in AI. The second edition is enhanced with real-world, practical examples of how organisations have implemented the Model Framework. It also includes additional considerations for responsible AI deployment, such as robustness and reproducibility. It is the result of extensive consultation with industry and governments internationally.  
   
 15. Today, 15 organisations globally have taken up or aligned themselves to the Model Framework.
 
-   **Compendium of Use Cases**
+    **Compendium of Use Cases**
 
 16. In fact, together with these organisations, we are also releasing a Compendium of Use Cases to complement the Second Edition of the Model Framework and ISAGO. These Use Cases demonstrate how various organisations across different sectors – big and small, local and international – have implemented or aligned their practices with the Model Framework. This adoption demonstrates the relevance and practicality of the Model Framework for organisations deploying AI.  
   
