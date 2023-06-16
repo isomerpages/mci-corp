@@ -51,3 +51,5 @@ Ladies and Gentlemen
 10. In closing, I would like to once again thank the ASEAN Member States for your steadfast commitment to strengthen cybersecurity, at home and in collaboration with regional and international partners. As our region’s digital economy and society continues to grow, ASEAN’s collective efforts to secure our digital infrastructure and safeguard our cyberspace will be crucial. Let me assure you that Singapore stands ready to work with all our ASEAN partners in this regard, so that our people and businesses can thrive in a safe digital future.   
   
 11. I look forward to building on the progress we have achieved in past AMCCs, also to a fruitful and stimulating discussion with all of you this afternoon. Thank you for joining us today in this virtual format.
+
+[PDF version of the speech](/files/Speeches%202020/opening%20speech%20by%20minister%20s%20iswaran%20at%20the%205th%20asean%20ministerial%20conference%20on%20cybersecurity%20on%207%20o.pdf)
