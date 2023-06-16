@@ -51,13 +51,13 @@ image: ""
    * Our network of 25 FTAs provides our companies preferential access to economies that together, represent more than 85% of global GDP.  They also have rules that protect our companies’ investments.  
    * This combination of opportunity and stability among other things, has helped attract over 750 foreign companies to establish their regional headquarters (RHQs) in Singapore with nearly 30,000 employees. They also generate demand for local businesses and ancillary legal, financial and other services.  
    * We have also helped our SMEs to benefit from this market access; and invested in our people so that they can take on regional and global roles.
-
-   *New Frontiers – Digital Economy Agreements (DEAs)*  
+    
+		*New Frontiers – Digital Economy Agreements (DEAs)*
   
 17. Digital Economy Agreements (DEAs) are another way we are striving to keep Singapore open and connected.  These agreements are the new frontier in the global economic architecture.  To strengthen our hub status in the digital world, Singapore is actively developing an international network of DEAs.   
   
-18. Clear and harmonized rules, as well as interoperable standards and systems, will enhance cross border digital trade.  With an open digital trade architecture and safeguards, data can flow more freely and securely across borders, between countries.  This will help more businesses manage their global platforms and digital services out of Singapore.     
-  
+18. Clear and harmonized rules, as well as interoperable standards and systems, will enhance cross border digital trade.  With an open digital trade architecture and safeguards, data can flow more freely and securely across borders, between countries.  This will help more businesses manage their global platforms and digital services out of Singapore.
+
     *Infocomm Sector*  
   
 19. These DEAs will give a further boost to our infocomm sector.   It is one of our most promising growth areas, offering interesting and attractive jobs and careers for Singaporeans.   
@@ -85,16 +85,16 @@ image: ""
     * Some have suggested offshoring as a solution.  I want to echo Minister Ong Ye Kung’s caution. This is not straightforward as often there are linkages across different functions. We should also recognise that with increasing digitalisation, the scope to work remotely has increased and as MOS Alvin Tan talked about, can work in our favour or against us. Do they want to locate those services, the people providing them in Singapore or would they rather do it remotely. We want them to choose in our favour, when the jobs are the type of jobs that we want Singaporeans to have.
 
 26. So, we need a differentiated approach for this diversity of companies in the infocomm sector.  Our challenge is to work with these companies to continue creating career opportunities for Singaporeans, while recognising that we must allow them to have the necessary diversity in their talent base, especially in emerging areas, in order to strengthen our position as a digital tech hub.  
-  
+
     **II. Inclusive Growth**  
   
 **27. As with globalisation, the digital transformation of our economy must also be inclusive with opportunities for every worker, regardless of background; and every business, regardless of its size or stage of growth.  MCI’s vision is for**
 
    * Every business to be digitally-empowered      
    * Every worker to be digitally-skilled      
-   * Every citizen to be digitally-connected
+   * Every citizen to be digitally-connected 
 
-   *Education, Enterprise and Worker Support*
+		*Education, Enterprise and Worker Support*
   
 28. So, we are intensifying our efforts, working with the industry and unions to transform sectors, ease business transitions, create opportunities for jobseekers and reskill workers.  Indeed, the digital economy is a bright spot, offering more than 18,000 jobs and skills opportunities under the SGUnited Jobs and Skills Package.  
   
@@ -116,8 +116,8 @@ image: ""
     * We will provide targeted support for our seniors and low-income households. SMS Sim Ann has earlier shared extensively about our digital inclusion efforts, including the Seniors Go Digital Programme and the SG Digital Office, a mobilisation of 1,000 Digital Ambassadors and many more volunteers to galvanise a national movement towards digital transformation.  
 
 33. In short, we will spare no effort in making sure that no one is left behind in our digital transformation efforts.  
-  
-    **The role of Parliament**
+
+     **The role of Parliament**
   
 **34. Mr Speaker Sir, I have outlined in detail how we seek stay open and be inclusive in the ICT sector, in order to create opportunities for Singaporeans. But indeed we do this in every sector, through the work of the Future Economy Committee (FEC), chaired by DPM Heng Swee Keat, National Jobs Council (NJC) chaired by SM Tharman Shanmugaratnam and indeed a slew of other efforts.**   
   
@@ -141,8 +141,8 @@ image: ""
   
 43. Parliament is a forum for serious debate on national issues. The debate in Parliament should be vigorous, but the tone should be sober. An element of cut-and-thrust is unavoidable, even necessary, because Members want to show Singaporeans that their concerns are expressed, and questions asked and answered in Parliament. However, it is equally important that Members must come to grips with the issues and their complexities and not simply play to the gallery. Live broadcasts risk compromising this.  
   
-44. At this point, members of the Opposition think it is the same line as before and I want to say that we still hold these reservations.  Nevertheless, we also note the global and technological trends, which have made online streaming commonplace, and seen legislatures live streaming their proceedings in many countries.  The Government therefore agrees in principle to the live streaming of Parliamentary proceedings. My Ministry will study the technical and implementation details. Our aim, as always, will be to achieve transparency, accountability and accessibility while preserving the integrity and dignity of Parliamentary proceedings. Mr Speaker, I know that you too are supportive of this move and we will announce details soon.  
-  
+44. At this point, members of the Opposition think it is the same line as before and I want to say that we still hold these reservations.  Nevertheless, we also note the global and technological trends, which have made online streaming commonplace, and seen legislatures live streaming their proceedings in many countries.  The Government therefore agrees in principle to the live streaming of Parliamentary proceedings. My Ministry will study the technical and implementation details. Our aim, as always, will be to achieve transparency, accountability and accessibility while preserving the integrity and dignity of Parliamentary proceedings. Mr Speaker, I know that you too are supportive of this move and we will announce details soon.
+
      **Conclusion: Moving Forward Together** 
   
 **45. Mr Speaker Sir, at a time fraught with anxiety about our future, as we take on unprecedented challenges and seek out novel solutions, and as we draw on our strengths as a people, I look forward to the 14th Parliament of Singapore serving with distinction as the Voice of the People, the Voice of Reason, and the Voice of Hope.**  
