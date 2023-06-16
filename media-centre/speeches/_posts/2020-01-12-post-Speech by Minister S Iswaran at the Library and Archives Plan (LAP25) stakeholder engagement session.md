@@ -21,7 +21,7 @@ Friends of the Library and Archives, 
   
 4. This morning, we consulted each of you on the future of our libraries and archives – how we can collaborate in new and different ways, and enhance the products, programmes and services we offer to the public - in particular, on how we can reposition and enhance the way our libraries, as community institutions, work within our larger society, in tandem with the changes that we are seeing, and also how we can make our archives more relevant and closer to the community, especially to the younger generation of Singaporeans. Your contributions and perspectives matter greatly.   
   
-**Libraries: For and Of the Community **
+    **Libraries: For and Of the Community **
 
 5. Our libraries have always been enriched by the contributions of the community.  Many of you will fondly remember the National Library on Stamford Road.  Fewer may recall that before it opened in 1960, the public could only use the library by paying a subscription fee.  It was a member of the community - philanthropist Lee Kong Chian - who funded the construction of the National Library on the condition that it was kept free for all Singapore residents.     
   
@@ -33,7 +33,7 @@ Friends of the Library and Archives, 
   
 9. By working together, we help to empower the community, public institutions like our libraries, and also our society. Indeed, this is very much in sync with how the Government is working together with our people to build a better future for Singapore. This is also the ethos of the SG Together movement that DPM Heng launched sometime back.  It is to bring our people together, to work together, in common cause for further growth, development and towards the significant strides that we want Singapore to take for our future. So I want to elaborate in the context of the work we are doing within NLB itself.    
   
-**Partnerships Empower All  **
+    **Partnerships Empower All  **
   
 10. First, we believe that partnerships empower the community by allowing the community to take ownership.  At libraries like Bukit Panjang Library, Tampines Regional Library and library@harbourfront, volunteers like Ms Ching Yoke Yin and Mr Peter Connell manage entire areas, interact with patrons, and provide book recommendations.  From their experiences, other volunteers have gathered useful ideas on how to do things better, andhave also gone on to implement them.  At our branches in Sengkang and Orchard, residents and frequent visitors gave their say on how they wanted their libraries to be revamped - from the design and facilities, to the collections and programmes.  When outcomes are shaped by the community, the finished products are fit-for-purpose and are for our community institutions.   
   
@@ -45,7 +45,7 @@ Friends of the Library and Archives, 
   
 14. In addition, many of the libraries’ beneficiaries are empowered to become volunteers themselves. Ms Sofiyah joined the kidsREAD programme at Al-Mukminin Mosque Kindergarten in 2009, where her love for reading grew.  Ten years later, at age 15, Sofi is a kidsREAD volunteer herself, devoting hours each week to encourage the next generation of avid readers.  Together, we are building an inclusive society where every Singaporean can contribute meaningfully, no matter their background. And our libraries are a very important platform - our library movement is a very important contribution in that pillar.  
   
-**Working in Partnership is More Important Today than Ever** 
+    **Working in Partnership is More Important Today than Ever** 
   
 15. Taking one step further, I would say that working in partnership is not only beneficial, but is also vital in this day and age.  I have often spoken in the past about opportunities created by technology, digitalisation, AI, data analytics. I think we all know what the buzz words are, which are used extensively in the lexicon of today.  At the same time, we also have to acknowledge the trade-offs and risks.  If we are not mindful, being more connected online can quite ironically lead to feeling more disconnected from society.  A 2017 study published in the American Journal of Preventive Medicine found that those who spent the most time on social media were twice as likely to experience social isolation and feel like they did not belong anywhere [^1].  So the experience in the virtual world, does not necessarily translate into our well-being in the real world.   
   
@@ -53,7 +53,7 @@ Friends of the Library and Archives, 
   
 17. It is more important than ever to create and sustain a sense of community, and build a society where nobody feels alone, marginalised or left out.  We will persevere in bringing these different segments of society together through common spaces, causes and programmes.   We must make sure that no one is left behind in Singapore, and that everyone has a part to play.  And again, in this regard, the future that we have envisioned for our libraries, is one that has a key role to play, working with our volunteers and community partners, to realise this vision.   
   
-**Building a Better Singapore Together**
+    **Building a Better Singapore Together**
 
 18. Our work together is far from finished.  As we build the libraries of the future, we are seeking to expand the definition and role of libraries even further.  For example, our libraries can advance from nurturing learned individuals to nurturing entire learning communities.  Our libraries can change the way we approach problem-solving, by fostering collaboration and enterprise.  And indeed, the possibilities are endless. We just have to use our imagination, and unleash the creative and collaborative resources that we have within our society.   
   
