@@ -36,4 +36,4 @@ image: ""
   
 12. As the situation evolves rapidly locally and globally, MCI will continue to work with our partners to enhance our offerings so that Singaporeans remain informed, engaged and entertained as we ride through this trying period.    
   
-13. Please refer to this [infographic](https://www.mci.gov.sg/-/media/MciCorp/Images/Portfolios/PressRoomSPics/COVID19-Comms-Efforts-v3.ashx) for our COVID-19 communications efforts.
+13. Please refer to this [infographic](/files/Press%20Releases%202020/covid19%20comms%20efforts%20v3.pdf) for our COVID-19 communications efforts.
