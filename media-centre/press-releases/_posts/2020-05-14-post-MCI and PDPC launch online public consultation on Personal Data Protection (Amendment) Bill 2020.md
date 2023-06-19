@@ -42,8 +42,8 @@ image: ""
 
 6. The public consultation document and procedures for submission of feedback are available on MCI’s website [https://www.mci.gov.sg/public-consultations/open](https://www.mci.gov.sg/public-consultations/open) from 14 May 2020. All submissions shall reach MCI/PDPC no later than 28 May 2020, 5pm.  
   
-Annex A: [Public Consultation Document](https://www.mci.gov.sg/-/media/MciCorp/Doc/Pressroom/Public-Consultation-on-PDP-(Amendment)-Bill-2.ashx)  
-Annex B: [Personal Data Protection (Amendment) Bill 2020](https://www.mci.gov.sg/-/media/MciCorp/Doc/Public-Consultations/Public-Consultation-on-PDP-Amendment-Bill---14May2020/PDP-Amendment-Bill.ashx)  
+Annex A: [Public Consultation Document](/files/Press%20Releases%202020/public%20consultation%20on%20pdp%20(amendment)%20bill%202.pdf)  
+Annex B: [Personal Data Protection (Amendment) Bill 2020](/files/Press%20Releases%202020/pdp%20amendment%20bill.pdf)
   
 [^1]: Three public consultations on MCI/PDPC’s key proposals for the review of the PDPA and SCA were conducted between 2017 and 2019. In these public consultations, MCI/PDPC proposed to introduce, amongst others, (i) deemed consent by notification; (ii) ‘legitimate interests’ exception to consent for collecting, using and disclosing personal data; (iii) mandatory data breach notification; (iv) Data Portability Obligation; and (v) an exception to consent for the use of personal data for ‘business improvement’ purposes. The review also considered the SCA, which was enacted in 2007 to combat spam, with the view to ensuring a technology-neutral approach towards regulating unsolicited commercial electronic (i.e. email and text) messages sent in bulk.
 
