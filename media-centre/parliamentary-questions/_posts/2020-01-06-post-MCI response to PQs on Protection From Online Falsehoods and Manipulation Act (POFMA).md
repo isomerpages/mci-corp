@@ -12,9 +12,9 @@ image: ""
 QUESTIONS FOR ORAL ANSWER
 -------------------------
 
-**10. Ms Anthea Ong**: To ask the Minister for Communications and Information (a) how is the public interest threshold of online statements of falsehoods determined and measured under the Protection From Online Falsehoods and Manipulation Act (POFMA); (b) whether the Ministry will consider recommending that Ministers state which public interest criteria under section 7(b) of POFMA are met and how so, when requesting for a direction to be issued; and (c) whether the Ministry will consider creating a central listing of all issued directions on the POFMA website.  
+**\*10. Ms Anthea Ong:**: To ask the Minister for Communications and Information (a) how is the public interest threshold of online statements of falsehoods determined and measured under the Protection From Online Falsehoods and Manipulation Act (POFMA); (b) whether the Ministry will consider recommending that Ministers state which public interest criteria under section 7(b) of POFMA are met and how so, when requesting for a direction to be issued; and (c) whether the Ministry will consider creating a central listing of all issued directions on the POFMA website.  
   
-**11. Ms Anthea Ong**: To ask the Minister for Communications and Information (a) what is the Ministry's position on perceptions of a partisan political bias over the recent applications of POFMA and how this may impact public trust in objectivity and independence of the Government's instruments of combatting online falsehoods; and (b) what steps are being taken to maintain public trust in light of such perceptions, especially given the critical role of public trust in buttressing society against coordinated, malicious fake news.   
+**\*11. Ms Anthea Ong**: To ask the Minister for Communications and Information (a) what is the Ministry's position on perceptions of a partisan political bias over the recent applications of POFMA and how this may impact public trust in objectivity and independence of the Government's instruments of combatting online falsehoods; and (b) what steps are being taken to maintain public trust in light of such perceptions, especially given the critical role of public trust in buttressing society against coordinated, malicious fake news.   
   
 **Answer:**  
   
