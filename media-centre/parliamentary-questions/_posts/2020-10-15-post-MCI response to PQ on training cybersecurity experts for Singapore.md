@@ -15,7 +15,7 @@ QUESTION FOR ORAL ANSWER
   
 **Answer:**  
   
-Cybersecurity is an important growth sector and a key enabler for Singapore’s economy and digital future. It is vital to nurture and grow our cybersecurity workforce to ensure our networks are well protected.  
+1. Cybersecurity is an important growth sector and a key enabler for Singapore’s economy and digital future. It is vital to nurture and grow our cybersecurity workforce to ensure our networks are well protected.  
   
 2. The Cyber Security Agency of Singapore (CSA) works closely with our industry partners and other Government agencies in order to do so. Based on the Infocomm Media Development Authority’s (IMDA) Survey, the number of cybersecurity professionals in Singapore in 2019 more than doubled to almost 6,000 compared to 2014.  
   
