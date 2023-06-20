@@ -121,3 +121,5 @@ _The principle of technology neutrality_
 3  Source: ONE-Line.com – ‘Ocean Network Express Issues its First Electronic Bill of Lading and Selects essDOCS to Power its Global Bill of Lading Digitization Initiative’, Apr 2020.  
 4  Source: LedgerInsights.com - ‘DCSA sees $4 billion savings from electronic bills of lading. Promotes standards, blockchain’, May 2020.  
 5  Source: GTreview.com – ‘IGP&I approves a fifth electronic bill of lading system for its members’, Jan 2020.
+
+[PDV version of the speech](/files/Speeches%202021/opening%20speech%20by%20min%20iswaran%20at%20the%20second%20reading%20of%20the%20pdp%20(amendment)%20bill%202020%20on%202%20nov%202020.pdf)
