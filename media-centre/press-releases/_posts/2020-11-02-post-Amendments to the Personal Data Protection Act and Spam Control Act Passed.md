@@ -10,7 +10,7 @@ image: ""
 
 1. Proposed amendments to the Personal Data Protection Act (PDPA) to address Singapore’s evolving digital economy needs, and related amendments to the Spam Control Act (SCA), were passed in Parliament today.&nbsp;  
   
-2. To benefit citizens and the economy, the PDPA has been amended to:&nbsp;
+2. To benefit citizens and the economy, the PDPA has been amended to:
 
     a) Strengthen consumer trust through organisational accountability;  
     b) Enhance effectiveness of enforcement;  
