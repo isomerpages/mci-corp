@@ -22,6 +22,6 @@ sections:
         - title: Committee of Supply
           description: MCI Budget Debate
           url: /what-we-do/committee-of-supply/2023/
-      background: /images/banner 1.gif
+      background: /images/banner 2.gif
       title: <h2> MINISTRY OF COMMUNICATIONS AND INFORMATION </h2>
 ---
