@@ -58,7 +58,7 @@ Thank you for your feedback. The public consultation on the draft Personal Data 
 
 10. The public consultation documents can be downloaded below.
 
-• [Public Consultation Document](https://www.mci.gov.sg/-/media/MciCorp/Doc/Public-Consultations/Public-Consultation-on-PDP-Amendment-Bill---14May2020/Update-to-fix-broken-links/Public-Consultation-on-PDP-(Amendment)-Bill.ashx)  
-• [Personal Data Protection (Amendment) Bill 2020](https://www.mci.gov.sg/-/media/MciCorp/Doc/Public-Consultations/Public-Consultation-on-PDP-Amendment-Bill---14May2020/PDP-Amendment-Bill.ashx)
+    * [Public Consultation Document](/files/Public%20Consultation%202020/public%20consultation%20on%20pdp%20(amendment)%20bill.pdf)
+    * [Personal Data Protection (Amendment) Bill 2020](/files/Public%20Consultation%202020/pdp%20amendment%20bill%20(1).pdf)
 
-11. View the press release [here].
+11. View the press release [here](/media-centre/press-releases/launch-online-public-consultation-on-personal-data-protection-bill/).
