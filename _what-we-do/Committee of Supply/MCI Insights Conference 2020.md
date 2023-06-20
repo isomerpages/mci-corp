@@ -61,9 +61,9 @@ The sessions examined the evolution of content, its impact on the media value ch
 <br>  
     One of the AfA’s key initiatives is the development of a&nbsp;**common data infrastructure**. Over the past three months, the AfA has engaged more than 50 supply chain players, ranging from multinational corporations (MNCs) and large local enterprises (LLEs), to small and medium enterprises (SMEs), startups, and government agencies, to identify pain points, opportunities and solutions across the supply chain customer journey. Based on findings from these engagements, the AfA identified the need for a common data infrastructure to&nbsp;**facilitate trusted and secure data sharing among industry players**. This can in turn enable use cases to drive resilience and efficiency, such as by strengthening trade finance and supporting the decongestion of container flow nodes. IMDA and other government agencies will work with the AfA on a pilot to develop this common data infrastructure.  
 <br>  
-    For more information, please click&nbsp;[here.](https://www.imda.gov.sg/news-and-events/Media-Room/Media-Releases/2020/Alliance-for-Action-Pilots-New-Data-Infrastructure-to-Interconnect-Supply-Chain-Ecosystem)
+    For more information, please click [here.](https://www.imda.gov.sg/news-and-events/Media-Room/Media-Releases/2020/Alliance-for-Action-Pilots-New-Data-Infrastructure-to-Interconnect-Supply-Chain-Ecosystem)
 
-* Press Release: MCI Insights Conference
+* [Press Release: MCI Insights Conference](/media-centre/press-releases/mci-deepens-partnerships-with-industry-and-community/)
 
 # VIDEOS AND PHOTOS
 ### Emerging Stronger Together for a Shared Digital Future
