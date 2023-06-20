@@ -21,4 +21,4 @@ image: ""
   
 7. In the lead-up to the Conference, four virtual pre-conference discussions were organised, helmed by IMDA and NLB, to provide a platform for deep and insightful conversations with industry and community stakeholders. Key recommendations arising from these discussions included the need to seize external opportunities and be internationally competitive; the Government’s role in developing the necessary regulations and standards to nurture a healthy tech ecosystem; the need to embrace lifelong learning as a way of life; and the need for enterprises to strengthen innovation capabilities.  Please refer to [**Annex B**](/files/Press%20Releases%202020/mci%20insights%20conference%202020%20(annex%20b).pdf) for details on the pre-conference panel discussions.   
   
-8. More information on the Conference is available on the MCI website ([https://www.mci.gov.sg/ic2020](https://www.mci.gov.sg/ic2020)).
+8. More information on the Conference is available on the [MCI Website](/what-we-do/committee-of-supply/mci-insights-conference/).
