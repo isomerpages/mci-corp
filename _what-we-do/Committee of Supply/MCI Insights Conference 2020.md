@@ -14,7 +14,7 @@ The MCI Insights Conference is a platform that brings together industry leaders,
 The MCI Insights Conference, held on 16 November 2020, featured keynote presentations and dialogues with industry and community partners, on two key themes – (i) Transforming Our Economy Through Digital Innovation; and (ii) Building an Inclusive Digital Society.
 
 **Overall Programme**
-
+![](/images/Press%20Releases%202020/programme.jpg)
 
 ### Pre-conference Panels
 
