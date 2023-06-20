@@ -8,7 +8,7 @@ image: ""
 ---
 **Amendments will strengthen consumer protection and support business innovation**
 
-1. Proposed amendments to the Personal Data Protection Act (PDPA) to address Singapore’s evolving digital economy needs, and related amendments to the Spam Control Act (SCA), were passed in Parliament today.&nbsp;  
+1. Proposed amendments to the Personal Data Protection Act (PDPA) to address Singapore’s evolving digital economy needs, and related amendments to the Spam Control Act (SCA), were passed in Parliament today.  
   
 2. To benefit citizens and the economy, the PDPA has been amended to:
 
@@ -31,9 +31,11 @@ image: ""
   
 8. For more information, please refer to the following:  
   
-Annex A:&nbsp;Opening Speech by Minister for Communications and Information Mr S Iswaran
-Annex B:&nbsp;Closing Speech by Minister for Communications and Information Mr S Iswaran  
-Annex C:&nbsp;[Infographic - How the enhanced PDPA can help grow your business](/files/Press%20Releases%202020/infographics-%20how%20the%20enhanced%20pdpa%20can%20help%20grow%20your%20business.pdf), [Infographic - How the enhanced PDPA will benefit you](/files/Press%20Releases%202020/infographics-%20how%20the%20enhanced%20pdpa%20will%20benefit%20you.pdf)
+Annex A: [Opening Speech by Minister for Communications and Information Mr S Iswaran](/media-centre/speeches/opening-speech-by-minister-iswaran-at-the-second-reading-of-pdp-bill-2020/)
+<br>
+Annex B: [Closing Speech by Minister for Communications and Information Mr S Iswaran](/media-centre/speeches/closing-speech-by-minister-iswaran-at-the-second-reading-of-the-pdp-bill/)
+<br>
+Annex C:[Infographic - How the enhanced PDPA can help grow your business](/files/Press%20Releases%202020/infographics-%20how%20the%20enhanced%20pdpa%20can%20help%20grow%20your%20business.pdf), [Infographic - How the enhanced PDPA will benefit you](/files/Press%20Releases%202020/infographics-%20how%20the%20enhanced%20pdpa%20will%20benefit%20you.pdf)
  
 **ISSUED BY THE MINISTRY OF COMMUNICATIONS AND INFORMATION AND&nbsp;PERSONAL DATA PROTECTION COMMISSION**
 <br>
