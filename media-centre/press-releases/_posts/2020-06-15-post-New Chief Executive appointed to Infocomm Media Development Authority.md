@@ -8,9 +8,8 @@ image: ""
 ---
 1. The Ministry of Communications and Information (MCI) announced today that Mr Lew Chuen Hong will be appointed as the Chief Executive (CE) of the Infocomm Media Development Authority (IMDA), from 20 June 2020. He succeeds Mr Tan Kiat How as part of the continuing process of leadership renewal.  
 
-**Mr Tan Kiat How [陈杰豪]**
-
-![](/images/Press%20Releases%202020/mr%20tan%20kiat%20how.png)
+    **Mr Tan Kiat How [陈杰豪]**
+<img style="height:438px; width:428px;" src="/images/Press%20Releases%202020/mr%20tan%20kiat%20how.png">
 
 2. Mr Tan was appointed CE of IMDA on 1 January 2017 to lead the merger of then-Infocomm Development Authority and then-Media Development Authority to form IMDA. IMDA champions the digitalisation of industries and businesses to strengthen Singapore’s economic competitiveness, spur the growth of the infocomm media (ICM) sector to create good jobs for Singaporeans and nurture a digitally inclusive society.  
   
@@ -20,15 +19,14 @@ image: ""
   
 5. Under Mr Tan’s direction, IMDA took steps to build up the nation’s connectivity infrastructure such as the rollout of the 4th telco and awarding spectrum for 5G deployment. Mr Tan is a strong proponent of innovation, from catalysing 5G enterprise trials, to supporting IMDA’s Open Innovation Platform and to the formation of a nationwide parcel locker network. Mr Tan was also instrumental in expanding Singapore’s digital connectivity by guiding IMDA alongside the Ministry of Trade and Industry (MTI) and MCI to successfully formalise Digital Economy Agreements with countries like Australia, New Zealand and Chile.  
   
-6. As Commissioner of the Personal Data Protection Commission (PDPC) since January 2017, Mr Tan led the evolution of Singapore’s personal data regulatory regime from one based on prescriptive compliance to one based on accountability, emphasising the importance of safeguarding consumer interests while balancing business innovation. He also guided PDPC’s development of the Model AI Governance Framework, a first of its kind globally.    
+6. As Commissioner of the Personal Data Protection Commission (PDPC) since January 2017, Mr Tan led the evolution of Singapore’s personal data regulatory regime from one based on prescriptive compliance to one based on accountability, emphasising the importance of safeguarding consumer interests while balancing business innovation. He also guided PDPC’s development of the Model AI Governance Framework, a first of its kind globally.&nbsp;&nbsp;  
   
-**Mr Lew Chuen Hong [柳俊泓]**
+    **Mr Lew Chuen Hong [柳俊泓]**
+<img style="height:468px; width:416px;" src="/images/Press%20Releases%202020/mr%20lew%20chuen%20hong.jpg">
 
-![](/images/Press%20Releases%202020/mr%20lew%20chuen%20hong.jpg)
+7. Mr Lew is currently the Deputy Chief Executive (Development) at IMDA. Mr Lew was the Chief of Navy (2017 to 2020) before joining IMDA as Deputy CE (Development) in May 2020.&nbsp;  
 
-7. Mr Lew is currently the Deputy Chief Executive (Development) at IMDA. Mr Lew was the Chief of Navy (2017 to 2020) before joining IMDA as Deputy CE (Development) in May 2020.   
-
-8. As the Chief of Navy, Mr Lew led the Republic of Singapore Navy in maintaining a high state of operational readiness, providing round-the-clock vigilance to safeguard Singapore’s territorial waters and sovereignty.  In the course of his career in the Singapore Armed Forces (SAF), Mr Lew also held several senior command and staff appointments, including Fleet Commander, and Chief of Staff – Naval Staff. He has also previously served as Director, Research and Enterprise Division at MTI, where he oversaw the development of entrepreneurship and Singapore’s research and development ecosystem.  
+8. As the Chief of Navy, Mr Lew led the Republic of Singapore Navy in maintaining a high state of operational readiness, providing round-the-clock vigilance to safeguard Singapore’s territorial waters and sovereignty.&nbsp; In the course of his career in the Singapore Armed Forces (SAF), Mr Lew also held several senior command and staff appointments, including Fleet Commander, and Chief of Staff – Naval Staff. He has also previously served as Director, Research and Enterprise Division at MTI, where he oversaw the development of entrepreneurship and Singapore’s research and development ecosystem.  
   
 9. Mr Lew was awarded the SAF Overseas Scholarship in 1995. He holds a Bachelor and Master of Science in Biology from Stanford University, as well as a Master in Management as a Sloan Fellow from Stanford Graduate School of Business.  
   
