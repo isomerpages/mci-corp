@@ -15,12 +15,7 @@ The MCI Insights Conference, held on 16 November 2020, featured keynote presenta
 
 **Overall Programme**
 
-| Time  | Programme |
-| ------------------- | ------------- |
-| 9.00 am  | **Opening Remarks by Mr S Iswaran**<br>**Minister for Communications and Information**<br><br>**Moderated Dialogue with Minister**<br>Moderator: Ms Lin Diaan-Yi, Senior Partner and Managing Partner, Singapore Office, McKinsey &amp; Company  |
-| 10.00 am  | Track 1: Keynote<br>**Transforming Business through Innovation and Technologies**<br><br>Track 2: Keynote<br>**The Future of Content Creation**  |
-| 11.00 am  | Track 1: Dialogue with Industry Partners<br> **Helping Workers and Businesses Adapt to the New Norma**l<br><br>Track 2: Dialogue with Industry Partners<br>**Digital Inclusion after COVID-19: Access, Skills, Mindsets**  |
-| 12.00 pm  | Closing Remarks by Ms Yong Ying-I, Permanent Secretary, Ministry of Communications and Information|
+
 ### Pre-conference Panels
 
 4 virtual panel discussions, helmed by IMDA and NLB, were held in the lead-up to the Insights Conference. These virtual panel discussions allowed for deep and insightful conversations with industry and community stakeholders around the themes for the MCI Insights Conference.
