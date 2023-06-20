@@ -53,11 +53,16 @@ The sessions examined the evolution of content, its impact on the media value ch
 
 # SPEECHES AND ANNOUNCEMENTS
 
-[INSERT LINKS BELOW]
-
-* Minister S Iswaran’s Opening Speech at MCI Insights Conference
-* PS Yong Ying-I's Closing Speech at MCI Insights Conference
+* [Minister S Iswaran’s Opening Speech at MCI Insights Conference](/media-centre/speeches/opening-remarks-by-minister-s-iswaran-at-mci-insights-conference-2020/)
+* [PS Yong Ying-I's Closing Speech at MCI Insights Conference](/media-centre/speeches/closing-speech-at-mci-insights-conference-by-ps-yong/)
 * Announcement: Emerging Stronger Together Alliance for Action on Supply Chain Digitalisation - Plans for a Common Data Infrastructure (CDI)
+<br>
+		The Alliance for Action (AfA) on Supply Chain Digitalisation was formed to examine how stakeholders in the supply chain ecosystem can come together to seize opportunities amidst a global crisis.&nbsp;  
+<br>  
+    One of the AfA’s key initiatives is the development of a&nbsp;**common data infrastructure**. Over the past three months, the AfA has engaged more than 50 supply chain players, ranging from multinational corporations (MNCs) and large local enterprises (LLEs), to small and medium enterprises (SMEs), startups, and government agencies, to identify pain points, opportunities and solutions across the supply chain customer journey. Based on findings from these engagements, the AfA identified the need for a common data infrastructure to&nbsp;**facilitate trusted and secure data sharing among industry players**. This can in turn enable use cases to drive resilience and efficiency, such as by strengthening trade finance and supporting the decongestion of container flow nodes. IMDA and other government agencies will work with the AfA on a pilot to develop this common data infrastructure.  
+<br>  
+    For more information, please click&nbsp;[here.](https://www.imda.gov.sg/news-and-events/Media-Room/Media-Releases/2020/Alliance-for-Action-Pilots-New-Data-Infrastructure-to-Interconnect-Supply-Chain-Ecosystem)
+
 * Press Release: MCI Insights Conference
 
 # VIDEOS AND PHOTOS
