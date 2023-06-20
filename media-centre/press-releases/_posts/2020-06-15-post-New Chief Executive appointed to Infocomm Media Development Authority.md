@@ -10,7 +10,7 @@ image: ""
 
 **Mr Tan Kiat How [陈杰豪]**
 
-**![Mr Tan Kiat How](https://www.mci.gov.sg/-/media/MciCorp/Images/Portfolios/PressRoomSPics/Mr-Tan-Kiat-How.ashx)**
+![](/images/Press%20Releases%202020/mr%20tan%20kiat%20how.png)
 
 2. Mr Tan was appointed CE of IMDA on 1 January 2017 to lead the merger of then-Infocomm Development Authority and then-Media Development Authority to form IMDA. IMDA champions the digitalisation of industries and businesses to strengthen Singapore’s economic competitiveness, spur the growth of the infocomm media (ICM) sector to create good jobs for Singaporeans and nurture a digitally inclusive society.  
   
@@ -24,7 +24,7 @@ image: ""
   
 **Mr Lew Chuen Hong [柳俊泓]**
 
-**![Mr Lew Chuen Hong](https://www.mci.gov.sg/-/media/MciCorp/Images/Portfolios/PressRoomSPics/Mr-Lew-Chuen-Hong.ashx)**
+![](/images/Press%20Releases%202020/mr%20lew%20chuen%20hong.jpg)
 
 7. Mr Lew is currently the Deputy Chief Executive (Development) at IMDA. Mr Lew was the Chief of Navy (2017 to 2020) before joining IMDA as Deputy CE (Development) in May 2020.   
 
