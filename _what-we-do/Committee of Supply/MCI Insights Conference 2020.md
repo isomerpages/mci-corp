@@ -51,7 +51,8 @@ The sessions examined the evolution of content, its impact on the media value ch
 
 ### Post-event FAQs
 
-
+1. I attended the Insights Conference and have recently tested positive for COVID-19. Whom should I contact? <br>Please reach out to&nbsp;[MCI\_Insights\_Conference@mci.gov.sg](mailto:MCI_Insights_Conference@mci.gov.sg)&nbsp;immediately.
+2. Will there be photos or videos of the MCI Insights Conference? Can we use them?<br>Photos and highlights video can be found on MCI’s social media pages after 16 November. Please credit “Ministry of Communications and Information” should you use any of the content.
 
 **For any other queries, please feel free to drop an email** [MCI\_Connects@mci.gov.sg](mailto:MCI_Connects@mci.gov.sg).
 
