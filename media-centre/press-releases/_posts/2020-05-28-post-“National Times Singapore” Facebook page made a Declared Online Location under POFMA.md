@@ -13,7 +13,7 @@ image: ""
   
 3. The NTS Facebook page communicated numerous false statements of fact in a post published on 15 May 2020[^1], at least three of which were the subject of a POFMA Direction. In recent months, Tan has created and operated Facebook pages, which sought to derive monetary benefits from falsehoods at the expense of Singaporeans and our society. These pages have been declared DOLs[^2]. So far, neither these pages nor Tan have complied with any of the requirements of the POFMA Directions and Declarations that they have been served with.  
 
-
+------------------------------------------------------------------------------------
 [^1]: For facts of the case, please refer to Factually article, “Corrections and clarifications regarding Facebook post by National Times Singapore (“NTS”)” ([www.gov.sg/article/factually270520](https://www.gov.sg/article/factually270520))  
   
 [^2]: These pages include (i) the States Times Review Facebook page (declared DOL on 15 Feb 2020); (ii) the Singapore States Times Facebook page (declared DOL on 6 May 2020); and (iii) Alex Tan’s Facebook page (declared DOL on 6 May 2020)
