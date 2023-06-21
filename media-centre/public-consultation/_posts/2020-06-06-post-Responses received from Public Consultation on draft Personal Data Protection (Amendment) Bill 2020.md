@@ -67,16 +67,16 @@ Click on the links to view the responses.
 | 48  | [Microsoft Singapore](/files/Public%20Consultation%202020/microsoft%20singapore.pdf)  |
 | 49  | [Mizuho Bank Ltd](/files/Public%20Consultation%202020/mizuho%20bank%20ltd.pdf) |
 | 50  | [Motion Picture Association Asia Pacific](/files/Public%20Consultation%202020/motion%20picture%20association%20asia%20pacific.pdf)  |
-| 51  | MSD |
-| 52  | MSIG Insurance (Singapore) Pte Ltd  |
-| 53  | National University Health System  |
-| 54  | ORIX Leasing Malaysia Berhad  |
-| 55  | Profit Season Pte Ltd  |
-| 56  | Salesforce  |
-| 57  | Singapore Exchange  |
-| 58  | Singapore Telecommunications Limited  |
-| 59  | Standard Chartered Bank (Singapore) Limited  |
-| 60  | StarHub  |
+| 51  | [MSD](/files/Public%20Consultation%202020/msd%20response.pdf) |
+| 52  | [MSIG Insurance (Singapore) Pte Ltd](/files/Public%20Consultation%202020/msig%20insurance%20singapore%20pte%20ltd.pdf)  |
+| 53  | [National University Health System](/files/Public%20Consultation%202020/national%20university%20health%20system.pdf)  |
+| 54  | [ORIX Leasing Malaysia Berhad](/files/Public%20Consultation%202020/orix%20leasing%20malaysia%20berhad.pdf)  |
+| 55  | [Profit Season Pte Ltd](/files/Public%20Consultation%202020/profit%20season%20pte%20ltd.pdf)  |
+| 56  | [Salesforce](/files/Public%20Consultation%202020/salesforce.pdf)  |
+| 57  | [Singapore Exchange](/files/Public%20Consultation%202020/singapore%20exchange.pdf)  |
+| 58  | [Singapore Telecommunications Limited](/files/Public%20Consultation%202020/singapore%20telecommunications%20limited.pdf)  |
+| 59  | [Standard Chartered Bank (Singapore) Limited](/files/Public%20Consultation%202020/standard%20chartered%20bank%20singapore%20limited.pdf)  |
+| 60  | [StarHub](/files/Public%20Consultation%202020/starhub.pdf)  |
 | 61  | Sumitomo Mitsui Banking Corporation Singapore Branch  |
 | 62  | The American Chamber of Commerce, Singapore  |
 | 63  | The Law Society of Singapore  |
