@@ -52,21 +52,21 @@ Click on the links to view the responses.
 | 33  | Content Cell  |
 | 34  | Content Cell  |
 | 35  | Content Cell  |
-| 36  | Content Cell  |
-| 37  | Content Cell  |
-| 38  | Content Cell  |
-| 39  | Content Cell  |
-| 40  | Content Cell  |
-| 41  | Content Cell  |
-| 42  | Content Cell  |
-| 43  | Content Cell  |
-| 44  | Content Cell  |
-| 45  | Content Cell  |
-| 46 | Content Cell  |
-| 47  | Content Cell  |
-| 48  | Content Cell  |
-| 49  | Content Cell  |
-| 50  | Content Cell  |
+| 36  | Grab  |
+| 37  | Great Eastern  |
+| 38  | HewardMills Ltd  |
+| 39  | Hong Leong Finance Limited |
+| 40  | HSBC Singapore  |
+| 41  | Information Technology Industry Council  |
+| 42  | Kaspersky  |
+| 43  | LEGO Singapore Pte Ltd  |
+| 44  | Lloyds Bank Commercial Markets PLC, Singapore Branch  |
+| 45  | Loc8te Pte Ltd |
+| 46 | M1  |
+| 47  | Manulife (Singapore) Pte Ltd |
+| 48  | Microsoft Singapore  |
+| 49  | Mizuho Bank Ltd |
+| 50  | Motion Picture Association Asia Pacific  |
 | 51  | MSD |
 | 52  | MSIG Insurance (Singapore) Pte Ltd  |
 | 53  | National University Health System  |
