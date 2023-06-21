@@ -11,8 +11,10 @@ image: ""
   
 2. The SST’s and Tan’s Facebook pages have repeatedly conveyed falsehoods and have not complied with any of the POFMA Directions[^1] that they have been served with. Both pages were named Declared Online Locations (DOL) on 6 May 2020, but they have not complied with the requirement to publish a notice stating that they have been declared DOLs by the stipulated deadline. The notice serves to warn visitors to these pages of the previous falsehoods that they have communicated.  
   
-3. This is the second time that a Disabling Order is issued against Facebook pages operated by Tan, following his non-compliance with the DOL Declarations served[^2].  
-   
+3. This is the second time that a Disabling Order is issued against Facebook pages operated by Tan, following his non-compliance with the DOL Declarations served[^2]. 
+
+
+------------------------------------------------------------------------------------   
 [^1]: These include falsehoods regarding (a) COVID-19 cases in schools (POFMA Direction issued on 5 May 2020); (b) MOH’s reporting of COVID-19 cases in Singapore (POFMA Direction issued on 18 Apr 2020); (c) payment of salaries for quarantined migrant workers in the context of the COVID-19 situation in Singapore (POFMA Direction issued on 6 Apr 2020); and (d) NUSSU’s FB page and allegations of abuse of Police powers (POFMA Direction issued on 28 Nov 2019). Clarifications regarding these falsehoods can be found at:  
 (a) [www.gov.sg/article/factually-clarifications-on-falsehood-posted-by-sst-on-covid-19-cases-in-schools](https://www.gov.sg/article/factually-clarifications-on-falsehood-posted-by-sst-on-covid-19-cases-in-schools)  
 (b) [www.gov.sg/article/factually-clarifications-on-falsehoods-posted-by-sst-on-reporting-of-covid-19-cases-in-singapore](https://www.gov.sg/article/factually-clarifications-on-falsehoods-posted-by-sst-on-reporting-of-covid-19-cases-in-singapore)  
