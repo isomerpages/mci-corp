@@ -36,22 +36,22 @@ Click on the links to view the responses.
 | 17  | Content Cell  |
 | 18  | Content Cell  |
 | 19  | Content Cell  |
-| 20  | Content Cell  |
-| 21  | Content Cell  |
-| 22  | Content Cell  |
-| 23  | Content Cell  |
-| 24  | Content Cell  |
-| 25  | Content Cell  |
-| 26  | Content Cell  |
-| 27  | Content Cell  |
-| 28  | Content Cell  |
-| 29  | Content Cell  |
-| 30  | Content Cell  |
-| 31  | Content Cell  |
-| 32  | Content Cell  |
-| 33  | Content Cell  |
-| 34  | Content Cell  |
-| 35  | Content Cell  |
+| 20  | Canon Singapore |
+| 21  | CGS-CIMB Securities (Singapore) Pte. Ltd. |
+| 22  | Changi Airport Group |
+| 23  | Cigna |
+| 24  | Clifford Chance Asia |
+| 25  | Cloud Security Alliance |
+| 26  | Cold Storage Singapore Pte Ltd |
+| 27  | Credit Bureau (Singapore) Pte Ltd |
+| 28  | Crowdstrike, Inc.  |
+| 29  | Data-Driven Marketing Association of Singapore |
+| 30  | DBS Bank |
+| 31  | Deutsche Bank |
+| 32  | Donaldson & Burkinshaw LLP |
+| 33  | EU-ASEAN Business Council  |
+| 34  | First State Investments (Singapore) |
+| 35  | GlaxoSmithKline Pte Ltd |
 | 36  | Grab  |
 | 37  | Great Eastern  |
 | 38  | HewardMills Ltd  |
