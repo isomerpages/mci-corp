@@ -18,7 +18,7 @@ image: ""
 3. The proposed amendments include:&nbsp;
 
     a) Allowing IMDA, as the appointed Postal Authority, to install, own and operate the public parcel locker network at specified premises (such as the common property of HDB housing estate buildings, public transport nodes, and community centres/clubs managed or run by the People’s Association);  
-    b) Allowing IMDA to appoint a public parcel locker network operator;&nbsp; &nbsp;  
+    b) Allowing IMDA to appoint a public parcel locker network operator;  
     c) Providing IMDA with the powers to require building owners and developers to provide space for the installation and operation of the nationwide parcel lockers at specified premises; and  
     d) Providing IMDA with enforcement powers and specifying offences relating to the use of the public parcel locker network, including the powers to investigate any unsafe use of the network, such as the presence of objects in public parcel lockers which are contrary to public safety and security.
 
