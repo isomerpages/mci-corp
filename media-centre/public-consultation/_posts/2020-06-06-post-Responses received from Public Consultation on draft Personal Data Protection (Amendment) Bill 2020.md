@@ -77,16 +77,16 @@ Click on the links to view the responses.
 | 58  | [Singapore Telecommunications Limited](/files/Public%20Consultation%202020/singapore%20telecommunications%20limited.pdf)  |
 | 59  | [Standard Chartered Bank (Singapore) Limited](/files/Public%20Consultation%202020/standard%20chartered%20bank%20singapore%20limited.pdf)  |
 | 60  | [StarHub](/files/Public%20Consultation%202020/starhub.pdf)  |
-| 61  | Sumitomo Mitsui Banking Corporation Singapore Branch  |
-| 62  | The American Chamber of Commerce, Singapore  |
-| 63  | The Law Society of Singapore  |
-| 64  | okio Marine Life Insurance Singapore Ltd |
-| 65  | Transamerica Life (Bermuda) Ltd  |
-| 66 | Traveloka  |
-| 67  | UOB |
-| 68  | US-ASEAN Business Council  |
-| 69  | WongPartnership LLP  |
-| 70  | World Federation of Advertisers  |
+| 61  | [Sumitomo Mitsui Banking Corporation Singapore Branch](/files/Public%20Consultation%202020/sumitomo%20mitsui%20banking%20corporation.pdf) |
+| 62  | [The American Chamber of Commerce, Singapore](/files/Public%20Consultation%202020/the%20american%20chamber%20of%20commerce%20in%20singapore.pdf)  |
+| 63  | [The Law Society of Singapore](/files/Public%20Consultation%202020/the%20law%20society%20of%20singapore.pdf)  |
+| 64  | [Tokio Marine Life Insurance Singapore Ltd](/files/Public%20Consultation%202020/tokio%20marine%20life%20insurance%20singapore%20ltd.pdf) |
+| 65  | [Transamerica Life (Bermuda) Ltd](/files/Public%20Consultation%202020/transamerica%20life%20bermuda%20ltd.pdf)  |
+| 66 | [Traveloka](/files/Public%20Consultation%202020/traveloka.pdf)  |
+| 67  | [UOB](/files/Public%20Consultation%202020/uob%20response.pdf) |
+| 68  | [US-ASEAN Business Council](/files/Public%20Consultation%202020/us-asean%20business%20council.pdf)  |
+| 69  | [WongPartnership LLP](/files/Public%20Consultation%202020/wongpartnership%20llp.pdf)  |
+| 70  | [World Federation of Advertisers](/files/Public%20Consultation%202020/world%20federation%20of%20advertisers.pdf)  |
 
 **Individuals**
 
