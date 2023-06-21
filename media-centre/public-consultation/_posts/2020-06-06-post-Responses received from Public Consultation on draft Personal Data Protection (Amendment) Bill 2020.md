@@ -76,17 +76,17 @@ Click on the links to view the responses.
 | 57  | Content Cell  |
 | 58  | Content Cell  |
 | 59  | Content Cell  |
-| 60  | Content Cell  |
-| 61  | Content Cell  |
-| 62  | Content Cell  |
-| 63  | Content Cell  |
-| 64  | Content Cell  |
-| 65  | Content Cell  |
-| 66 | Content Cell  |
-| 67  | Content Cell  |
-| 68  | Content Cell  |
-| 69  | Content Cell  |
-| 70  | Content Cell  |
+| 60  | StarHub  |
+| 61  | Sumitomo Mitsui Banking Corporation Singapore Branch  |
+| 62  | The American Chamber of Commerce, Singapore  |
+| 63  | The Law Society of Singapore  |
+| 64  | okio Marine Life Insurance Singapore Ltd |
+| 65  | Transamerica Life (Bermuda) Ltd  |
+| 66 | Traveloka  |
+| 67  | UOB |
+| 68  | US-ASEAN Business Council  |
+| 69  | WongPartnership LLP  |
+| 70  | World Federation of Advertisers  |
 
 **Individuals**
 
