@@ -17,16 +17,14 @@ Click on the links to view the responses.
 
 | S/N  | Respondent |
 | ------------- | ------------- |
-| 1 | Ninja Van Logistics Pte Ltd  |
-| 2  | Singapore Post Limited  |
-| 3 | UPS Singapore  |
+| 1 | [Ninja Van Logistics Pte Ltd](/files/Public%20Consultation%202020/ninja%20van%20logistics%20pte%20ltd%20response.pdf)  |
+| 2  | [Singapore Post Limited](/files/Public%20Consultation%202020/singapore%20post%20limited%20response.pdf)  |
+| 3 | [UPS Singapore](/files/Public%20Consultation%202020/ups%20singapore%20response.pdf) |
 
 **Individuals**
 
 | S/N  | Respondent |
 | ------------- | ------------- |
-| 1 | Lim Hong Tan  |
-| 2  | Winston Ho  |
-| 3 | Yew Hoon Eng  |
-
-
+| 1 | [Lim Hong Tan](/files/Public%20Consultation%202020/lim%20hong%20tan%20response.pdf)  |
+| 2  | [Winston Ho](/files/Public%20Consultation%202020/winston%20ho%20response.pdf)  |
+| 3 | [Yew Hoon Eng](/files/Public%20Consultation%202020/yew%20hoon%20eng%20response.pdf)  |
