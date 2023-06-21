@@ -67,15 +67,15 @@ Click on the links to view the responses.
 | 48  | Content Cell  |
 | 49  | Content Cell  |
 | 50  | Content Cell  |
-| 51  | Content Cell  |
-| 52  | Content Cell  |
-| 53  | Content Cell  |
-| 54  | Content Cell  |
-| 55  | Content Cell  |
-| 56  | Content Cell  |
-| 57  | Content Cell  |
-| 58  | Content Cell  |
-| 59  | Content Cell  |
+| 51  | MSD |
+| 52  | MSIG Insurance (Singapore) Pte Ltd  |
+| 53  | National University Health System  |
+| 54  | ORIX Leasing Malaysia Berhad  |
+| 55  | Profit Season Pte Ltd  |
+| 56  | Salesforce  |
+| 57  | Singapore Exchange  |
+| 58  | Singapore Telecommunications Limited  |
+| 59  | Standard Chartered Bank (Singapore) Limited  |
 | 60  | StarHub  |
 | 61  | Sumitomo Mitsui Banking Corporation Singapore Branch  |
 | 62  | The American Chamber of Commerce, Singapore  |
