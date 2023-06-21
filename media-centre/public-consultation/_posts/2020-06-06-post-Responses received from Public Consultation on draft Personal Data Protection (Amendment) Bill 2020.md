@@ -17,25 +17,25 @@ Click on the links to view the responses.
 
 | S/N  | Respondent |
 | ------------- | ------------- |
-| 1  | Content Cell  |
-| 2  | Content Cell  |
-| 3  | Content Cell  |
-| 4  | Content Cell  |
-| 5  | Content Cell  |
-| 6  | Content Cell  |
-| 7  | Content Cell  |
-| 8  | Content Cell  |
-| 9  | Content Cell  |
-| 10  | Content Cell  |
-| 11  | Content Cell  |
-| 12  | Content Cell  |
-| 13  | Content Cell  |
-| 14  | Content Cell  |
-| 15  | Content Cell  |
-| 16  | Content Cell  |
-| 17  | Content Cell  |
-| 18  | Content Cell  |
-| 19  | Content Cell  |
+| 1  | Aequitas Law LLP|
+| 2  | AIA Singapore |
+| 3  | AIG Asia Pacific Insurance Pte Ltd |
+| 4  | Alternative Investment Management Association |
+| 5  | Amazon Web Service |
+| 6  | American Express |
+| 7  | Asia Cloud Computing Association |
+| 8  | Asia Internet Coalition |
+| 9  | Asia Pacific Assistive Robotics Association |
+| 10  | Asia Securities Industry & Financial Markets Association |
+| 11  | AsiaDPO |
+| 12  | Asia-Pacific MSME Trade Coalition |
+| 13  | AT&T Worldwide Telecommunications Services Singapore Pte Ltd |
+| 14  | Aviva Ltd  |
+| 15  | Baker & McKenzie, Wong & Leow |
+| 16  | Bank of China |
+| 17  | Bayer (South East Asia) Pte Ltd |
+| 18  | Broadcom Inc. |
+| 19  | BSA The Software Alliance |
 | 20  | Canon Singapore |
 | 21  | CGS-CIMB Securities (Singapore) Pte. Ltd. |
 | 22  | Changi Airport Group |
