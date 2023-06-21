@@ -17,36 +17,36 @@ Click on the links to view the responses.
 
 | S/N  | Respondent |
 | ------------- | ------------- |
-| 1  | Aequitas Law LLP|
-| 2  | AIA Singapore |
-| 3  | AIG Asia Pacific Insurance Pte Ltd |
-| 4  | Alternative Investment Management Association |
-| 5  | Amazon Web Service |
-| 6  | American Express |
-| 7  | Asia Cloud Computing Association |
-| 8  | Asia Internet Coalition |
-| 9  | Asia Pacific Assistive Robotics Association |
-| 10  | Asia Securities Industry & Financial Markets Association |
-| 11  | AsiaDPO |
-| 12  | Asia-Pacific MSME Trade Coalition |
-| 13  | AT&T Worldwide Telecommunications Services Singapore Pte Ltd |
-| 14  | Aviva Ltd  |
-| 15  | Baker & McKenzie, Wong & Leow |
-| 16  | Bank of China |
-| 17  | Bayer (South East Asia) Pte Ltd |
-| 18  | Broadcom Inc. |
-| 19  | BSA The Software Alliance |
-| 20  | Canon Singapore |
-| 21  | CGS-CIMB Securities (Singapore) Pte. Ltd. |
-| 22  | Changi Airport Group |
-| 23  | Cigna |
-| 24  | Clifford Chance Asia |
-| 25  | Cloud Security Alliance |
-| 26  | Cold Storage Singapore Pte Ltd |
-| 27  | Credit Bureau (Singapore) Pte Ltd |
-| 28  | Crowdstrike, Inc.  |
-| 29  | Data-Driven Marketing Association of Singapore |
-| 30  | DBS Bank |
+| 1  | [Aequitas Law LLP](/files/Public%20Consultation%202020/aequitas%20law%20llp.pdf)|
+| 2  | [AIA Singapore](/files/Public%20Consultation%202020/aia%20singapore.pdf) |
+| 3  | [AIG Asia Pacific Insurance Pte Ltd](/files/Public%20Consultation%202020/aig%20asia%20pacific%20insurance%20pte%20ltd_v2.pdf) |
+| 4  | [Alternative Investment Management Association](/files/Public%20Consultation%202020/alternative%20investment%20management%20association%20(1).pdf) |
+| 5  | [Amazon Web Service](/files/Public%20Consultation%202020/amazon%20web%20services_v2.pdf) |
+| 6  | [American Express](/files/Public%20Consultation%202020/american%20express.pdf) |
+| 7  | [Asia Cloud Computing Association](/files/Public%20Consultation%202020/asia%20cloud%20computing%20association.pdf) |
+| 8  | [Asia Internet Coalition](/files/Public%20Consultation%202020/asia%20internet%20coalition.pdf) |
+| 9  | [Asia Pacific Assistive Robotics Association](/files/Public%20Consultation%202020/asia%20pacific%20assistive%20robotics%20association.pdf) |
+| 10  | [Asia Securities Industry & Financial Markets Association](/files/Public%20Consultation%202020/asia%20securities%20industry%20%20financial%20markets%20association.pdf) |
+| 11  | [AsiaDPO](/files/Public%20Consultation%202020/asiadpo.pdf) |
+| 12  | [Asia-Pacific MSME Trade Coalition](/files/Public%20Consultation%202020/asia-pacific%20msme%20trade%20coalition.pdf) |
+| 13  | [AT&T Worldwide Telecommunications Services Singapore Pte Ltd](/files/Public%20Consultation%202020/att%20worldwide%20telecommunications%20services%20singapore%20pte%20ltd.pdf) |
+| 14  | [Aviva Ltd](/files/Public%20Consultation%202020/aviva%20ltd.pdf)  |
+| 15  | [Baker & McKenzie, Wong & Leow](/files/Public%20Consultation%202020/baker%20%20mckenziewong%20%20leow.pdf) |
+| 16  | [Bank of China](/files/Public%20Consultation%202020/bank%20of%20china.pdf) |
+| 17  | [Bayer (South East Asia) Pte Ltd](/files/Public%20Consultation%202020/bayer%20south%20east%20asia%20pte%20ltd.pdf) |
+| 18  | [Broadcom Inc.](/files/Public%20Consultation%202020/broadcom%20inc.pdf) |
+| 19  | [BSA The Software Alliance](/files/Public%20Consultation%202020/bsa%20the%20software%20alliance.pdf) |
+| 20  | [Canon Singapore](/files/Public%20Consultation%202020/canon%20singapore.pdf) |
+| 21  | [CGS-CIMB Securities (Singapore) Pte. Ltd.](/files/Public%20Consultation%202020/cgs-cimb%20securities.pdf) |
+| 22  | [Changi Airport Group](/files/Public%20Consultation%202020/changi%20airport%20group.pdf) |
+| 23  | [Cigna](/files/Public%20Consultation%202020/cigna%20response.pdf) |
+| 24  | [Clifford Chance Asia](/files/Public%20Consultation%202020/clifford%20chance%20asia.pdf) |
+| 25  | [Cloud Security Alliance](/files/Public%20Consultation%202020/cloud%20security%20alliance.pdf) |
+| 26  | [Cold Storage Singapore Pte Ltd](/files/Public%20Consultation%202020/cold%20storage%20singapore%20pte%20ltd.pdf) |
+| 27  | [Credit Bureau (Singapore) Pte Ltd](/files/Public%20Consultation%202020/credit%20bureau%20singapore%20pte%20ltd.pdf) |
+| 28  | [Crowdstrike, Inc.](/files/Public%20Consultation%202020/crowdstrike%20inc.pdf)  |
+| 29  | [Data-Driven Marketing Association of Singapore](/files/Public%20Consultation%202020/data-driven%20marketing%20association%20of%20singapore.pdf) |
+| 30  | [DBS Bank](/files/Public%20Consultation%202020/dbs%20bank.pdf) |
 | 31  | Deutsche Bank |
 | 32  | Donaldson & Burkinshaw LLP |
 | 33  | EU-ASEAN Business Council  |
