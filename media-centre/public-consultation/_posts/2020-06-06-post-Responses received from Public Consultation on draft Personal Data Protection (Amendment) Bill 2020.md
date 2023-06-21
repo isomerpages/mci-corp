@@ -47,16 +47,16 @@ Click on the links to view the responses.
 | 28  | [Crowdstrike, Inc.](/files/Public%20Consultation%202020/crowdstrike%20inc.pdf)  |
 | 29  | [Data-Driven Marketing Association of Singapore](/files/Public%20Consultation%202020/data-driven%20marketing%20association%20of%20singapore.pdf) |
 | 30  | [DBS Bank](/files/Public%20Consultation%202020/dbs%20bank.pdf) |
-| 31  | Deutsche Bank |
-| 32  | Donaldson & Burkinshaw LLP |
-| 33  | EU-ASEAN Business Council  |
-| 34  | First State Investments (Singapore) |
-| 35  | GlaxoSmithKline Pte Ltd |
-| 36  | Grab  |
-| 37  | Great Eastern  |
-| 38  | HewardMills Ltd  |
-| 39  | Hong Leong Finance Limited |
-| 40  | HSBC Singapore  |
+| 31  | [Deutsche Bank](/files/Public%20Consultation%202020/deutsche%20bank.pdf) |
+| 32  | [Donaldson & Burkinshaw LLP](/files/Public%20Consultation%202020/donaldson%20and%20burkinshaw%20llp.pdf) |
+| 33  | [EU-ASEAN Business Council](/files/Public%20Consultation%202020/eu-asean%20business%20council.pdf)  |
+| 34  | [First State Investments (Singapore)](/files/Public%20Consultation%202020/first%20state%20investments.pdf) |
+| 35  | [GlaxoSmithKline Pte Ltd](/files/Public%20Consultation%202020/glaxosmithkline%20pte%20ltd.pdf) |
+| 36  | [Grab](/files/Public%20Consultation%202020/grab%20response.pdf)  |
+| 37  | [Great Eastern ](/files/Public%20Consultation%202020/great%20eastern.pdf) |
+| 38  | [HewardMills Ltd](/files/Public%20Consultation%202020/hewardmills%20ltd.pdf)  |
+| 39  | [Hong Leong Finance Limited](/files/Public%20Consultation%202020/hong%20leong%20finance%20limited.pdf) |
+| 40  | [HSBC Singapore](/files/Public%20Consultation%202020/hsbc%20limited%20singapore.pdf)  |
 | 41  | Information Technology Industry Council  |
 | 42  | Kaspersky  |
 | 43  | LEGO Singapore Pte Ltd  |
