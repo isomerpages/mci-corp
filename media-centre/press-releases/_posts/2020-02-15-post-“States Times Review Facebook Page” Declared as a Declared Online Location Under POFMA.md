@@ -13,4 +13,5 @@ image: ""
 
 3. The STR Facebook page, owned by Mr Tan, has repeatedly conveyed numerous falsehoods, three of which were the subject of POFMA Directions from November 2019 to-date[^1]. The STR Facebook page has not complied with any of the POFMA Directions that it has been served with. In the past weeks, the STR Facebook page has also spread falsehoods regarding the COVID-19 virus situation in Singapore. The STR Facebook page is linked to other websites that are also operated by Mr Tan, which derive monetary benefits from these falsehoods at the expense of Singaporeans and our society.
 
+------------------------------------------------------------------------------------
 [^1]: These include falsehoods on the COVID-19 situation - (1) on measures taken by the Government and travel restrictions imposed by other countries (POFMA Direction issued on 14 Feb 2020); and (2) that Singapore had run out of face masks (POFMA Direction issued on 30 Jan 2020).
