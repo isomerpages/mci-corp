@@ -125,7 +125,7 @@ image: ""
 
 [^2]: Unless the person has obtained clear and unambiguous consent from the individual or has an ongoing relationship with the individual.  
 
-[^3]: The public consultation for the draft Personal Data Protection (Amendment) Bill can be found at&nbsp;[here](media-centre/public-consultation/public-consultation-on-the-personal-data-protection-amendment-bill/).
+[^3]: The public consultation for the draft Personal Data Protection (Amendment) Bill can be found [here](media-centre/public-consultation/public-consultation-on-the-personal-data-protection-amendment-bill/).
 
 [^4]: The public consultations for these proposals and responses to the feedback received can be found [here](https://www.pdpc.gov.sg/Guidelines-and-Consultation?type=public-consultations). 
 
