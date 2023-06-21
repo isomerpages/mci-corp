@@ -8,7 +8,7 @@ image: ""
 ---
 **23 December 2020**
   
-**Thank you for your feedback. The public consultation on the draft Postal Services (Amendment) Bill is now closed. **
+**Thank you for your feedback. The public consultation on the draft Postal Services (Amendment) Bill is now closed.**
 
 ================================================== 
   
@@ -50,11 +50,11 @@ image: ""
 
 6. Respondents should organise their submissions as follows:
 
-    a) Cover page (including their personal/company particulars and contact information);<br>
-    b) Table of contents;<br>  
-    c) Summary of major points;<br>
-    d) Statement of interest;<br> 
-    e) Comments; and<br>
+    a) Cover page (including their personal/company particulars and contact information);		
+    b) Table of contents;  
+    c) Summary of major points;		
+    d) Statement of interest;		
+    e) Comments; and		
     f) Conclusion.
 
     Supporting materials may be enclosed as an annex to the submission.  
