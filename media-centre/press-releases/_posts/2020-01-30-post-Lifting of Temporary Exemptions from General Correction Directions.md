@@ -10,5 +10,5 @@ image: ""
 
 2. This is critical given the evolving situation with the Wuhan Coronavirus. The Government is prepared to use all tools at its disposal to provide the public with accurate and up-to-date information, and to deal with falsehoods that may cause panic or confusion. We have worked closely with the relevant technology companies, and appreciate the industry’s support and cooperation in our national response to this challenging situation.
 
-
+------------------------------------------------------------------------------------
 [^1]: A General Correction Direction (GCD) may be issued where (i) a false statement of fact has been communicated in Singapore, and (ii) it is in the public interest to issue the GCD. GCDs may only be issued to prescribed intermediaries. An intermediary that receives a GCD may be required to communicate a correction notice to all users of its service in Singapore.
