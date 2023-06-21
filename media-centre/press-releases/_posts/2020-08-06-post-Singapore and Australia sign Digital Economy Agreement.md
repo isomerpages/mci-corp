@@ -23,8 +23,7 @@ Singapore-Australia Digital Economy Agreement (SADEA) electronically during a vi
   
 6. More details on Singapore’s digital economy agreements, the full text of SADEA, and information on the various MOUs, can be found at:&nbsp;[https://www.mti.gov.sg/Improving-Trade/Digital-Economy-Agreements](https://www.mti.gov.sg/Improving-Trade/Digital-Economy-Agreements).&nbsp;  
   
-  
-  
+ 
 **Ministry of Communications and Information**
 <br>
 **6 August 2020**
