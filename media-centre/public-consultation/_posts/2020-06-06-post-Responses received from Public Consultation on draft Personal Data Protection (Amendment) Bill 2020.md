@@ -57,16 +57,16 @@ Click on the links to view the responses.
 | 38  | [HewardMills Ltd](/files/Public%20Consultation%202020/hewardmills%20ltd.pdf)  |
 | 39  | [Hong Leong Finance Limited](/files/Public%20Consultation%202020/hong%20leong%20finance%20limited.pdf) |
 | 40  | [HSBC Singapore](/files/Public%20Consultation%202020/hsbc%20limited%20singapore.pdf)  |
-| 41  | Information Technology Industry Council  |
-| 42  | Kaspersky  |
-| 43  | LEGO Singapore Pte Ltd  |
-| 44  | Lloyds Bank Commercial Markets PLC, Singapore Branch  |
-| 45  | Loc8te Pte Ltd |
-| 46 | M1  |
-| 47  | Manulife (Singapore) Pte Ltd |
-| 48  | Microsoft Singapore  |
-| 49  | Mizuho Bank Ltd |
-| 50  | Motion Picture Association Asia Pacific  |
+| 41  | [Information Technology Industry Council](/files/Public%20Consultation%202020/information%20technology%20industry%20council.pdf)  |
+| 42  | [Kaspersky](/files/Public%20Consultation%202020/kaspersky.pdf)  |
+| 43  | [LEGO Singapore Pte Ltd](/files/Public%20Consultation%202020/lego%20singapore%20pte%20ltd.pdf)  |
+| 44  | [Lloyds Bank Commercial Markets PLC, Singapore Branch](/files/Public%20Consultation%202020/lloyds%20banking%20commercial%20banking%20asia.pdf)  |
+| 45  | [Loc8te Pte Ltd](/files/Public%20Consultation%202020/loc8te%20pte%20ltd.pdf) |
+| 46 | [M1](/files/Public%20Consultation%202020/m1%20response.pdf)  |
+| 47  | [Manulife (Singapore) Pte Ltd](/files/Public%20Consultation%202020/manulife%20singapore%20pte%20ltd.pdf) |
+| 48  | [Microsoft Singapore](/files/Public%20Consultation%202020/microsoft%20singapore.pdf)  |
+| 49  | [Mizuho Bank Ltd](/files/Public%20Consultation%202020/mizuho%20bank%20ltd.pdf) |
+| 50  | [Motion Picture Association Asia Pacific](/files/Public%20Consultation%202020/motion%20picture%20association%20asia%20pacific.pdf)  |
 | 51  | MSD |
 | 52  | MSIG Insurance (Singapore) Pte Ltd  |
 | 53  | National University Health System  |
