@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-1. More local translation and interpretation (T&I) practitioners will now be eligible for the Translation Talent Development Scheme (TTDS), following enhancements by the Ministry of Communications and Information (MCI) to this co-sponsorship grant. Recipients of the TTDS grant in 2021 will receive a five per cent higher funding quantum. Applications for the enhanced TTDS for 2021 will be open from 1 April to 30 June 2021, and can be made at [www.mci.gov.sg/ttds](http://www.mci.gov.sg/ttds).  
+1. More local translation and interpretation (T&I) practitioners will now be eligible for the Translation Talent Development Scheme (TTDS), following enhancements by the Ministry of Communications and Information (MCI) to this co-sponsorship grant. Recipients of the TTDS grant in 2021 will receive a five per cent higher funding quantum. Applications for the enhanced TTDS for 2021 will be open from 1 April to 30 June 2021, and can be made at www.mci.gov.sg/what-we-do/public-comms-and-engagement/translation-services/. 
   
 **Enhanced TTDS**   
   
@@ -24,7 +24,7 @@ Applicants may attend multiple programmes, so long as these programmes are withi
   
 **TTDS Since 2018**  
   
-4. A total of 20 T&I practitioners have benefited from TTDS since its inception in 2018. These recipients attended a variety of capability development programmes in Singapore, including modular courses and Master’s degree courses in local and overseas universities, as well as webinars and overseas conferences. Please refer to [**Annex A**](https://www.mci.gov.sg/-/media/MciCorp/Doc/Translation-Talent-Devt-Scheme---TTDS/Annex-A---Background-on-the-Translation-Talent-Development-Scheme.ashx) for background on the TTDS.  
+4. A total of 20 T&I practitioners have benefited from TTDS since its inception in 2018. These recipients attended a variety of capability development programmes in Singapore, including modular courses and Master’s degree courses in local and overseas universities, as well as webinars and overseas conferences. Please refer to **[Annex A](/files/annex%20a%20-%20background%20on%20the%20translation%20talent%20development%20scheme.pdf)** for background on the TTDS.  
   
 5. Senior Minister of State for Communications and Information Ms Sim Ann, who is also the Chairperson of the National Translation Committee (NTC), said the grant serves to recognise the recipients’ dedication towards raising translation standards in Singapore. She added that the translation community has a part to play in ensuring that those in our society who prefer to communicate in their mother tongue languages are not left behind.  
   
