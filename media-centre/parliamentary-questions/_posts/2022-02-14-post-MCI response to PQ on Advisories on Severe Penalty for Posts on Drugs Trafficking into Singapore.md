@@ -7,7 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-h3&gt;Parliament Sitting on 14 February 2022
+<h3>Parliament Sitting on 14 February 2022</h3>
 <h2>QUESTION FOR WRITTEN ANSWER</h2>
 <br>
 <strong>91. Mr Gan Thiam Poh<strong>:&nbsp;</strong></strong>To ask the Minister for Communications and Information whether the Ministry will consider asking online service providers to insert advisories on all posts relating to illegal drugs on the harmful effects on potential users and the severe penalty that one will face in trafficking such drugs into Singapore.<br>
