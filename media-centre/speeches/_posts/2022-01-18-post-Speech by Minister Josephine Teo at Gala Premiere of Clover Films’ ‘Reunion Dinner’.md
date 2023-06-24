@@ -17,4 +17,5 @@ Colleagues and friends<br>
 3.<span style="white-space: pre;">		</span>It is also significant in several other ways. For example, we have long felt that our local talents deserve a bigger international audience and their talents should be shown more widely on an international stage. Through this production, this is one of the ways in which this is being achieved.&nbsp;<br>
 <br>
 4.<span style="white-space: pre;">		</span>Another very important reason why this film is significant is also that stories from Singapore need to be told, and stories from Singapore need to be heard. Our voices should travel far beyond the shores of Singapore. Through this partnership with iQIYI, this is also achievable. So we are very excited and looking forward to the film. We are proud of this production and we hope that it will not only touch your hearts, but it will also touch the hearts of many other viewers from around the world.&nbsp;<br>
-<div>&nbsp;</div>
+
+[PDF version of the speech]()
