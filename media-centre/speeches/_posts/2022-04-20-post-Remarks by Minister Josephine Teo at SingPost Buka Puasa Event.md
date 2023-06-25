@@ -36,5 +36,4 @@ Colleagues and friends&nbsp;<br>
 <br>
 11.<span style="white-space: pre;">		</span>On this note, Selamat berbuka puasa! Terima Kasih!&nbsp;<br>
 
-
-
+[PDF version of the speech](/files/Speeches%202022/delivered%20remarks%20for%20minister%20for%20singposts%20buka%20puasa%20event%20on%2020%20apr.pdf)
