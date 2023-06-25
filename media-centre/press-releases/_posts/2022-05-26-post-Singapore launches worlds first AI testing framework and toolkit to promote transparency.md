@@ -61,9 +61,8 @@ image: ""
 More details can be found: <a style="text-decoration-line: underline;" rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/aiverify">https://go.gov.sg/aiverify<br>
 </a>
 <br>
-<a href="-/media/79AFEC539C974247AC0AFDB71B436142.ashx">Annex A: Quotes from Industry and Partners</a><br>
-<a href="-/media/E3345D26157B4E92B911A18E6D9662C4.ashx">Annex B: Background on Singapore’s AI governance work</a><br>
-<br>
+<a href="-/">[Annex A-Quotes from industry and partners](/files/Press%20Releases%202022/annex%20a%20-%20quotes%20from%20industry%20and%20partners.pdf)</a><br>
+[Annex B- Background on Singapore's AI governance work](/files/Press%20Releases%202022/annex%20b%20%20background%20on%20singapores%20ai%20governance%20work.pdf)
 --------------------------------------------------------------------------------------------------------------------------<br>
 <sup>1</sup>&nbsp; <sub>MVP - a product with just enough features for early adopters to test and provide feedback for product development.</sub><sub><br>
 </sub>
