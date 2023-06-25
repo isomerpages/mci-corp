@@ -25,3 +25,4 @@ image: ""
 9.<span style="white-space: pre;">		</span>I thank you for your time for your interest in this. I hope we can continue journeying with Sunlight AfA. We will take your feedback and hopefully co-create more initiatives and bring in more ideas so that we can see and achieve the vision that we want for children. Thank you.<br>
 <br>
 </p>
+[PDF version of the speech](/files/Speeches%202022/transcript%20of%20closing%20remarks%20by%20parl%20sec%20rahayu%20mahzam%20at%20sunlight%20afa%20webinar%20on%208%20feb%202022.pdf)
