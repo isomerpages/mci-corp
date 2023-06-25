@@ -6,3 +6,13 @@ layout: post
 description: ""
 image: ""
 ---
+<p style="text-align: left;"><span style="white-space: pre;">		</span>The Ministry of Internal Affairs and Communications of Japan and The Ministry of Communications and Information of Republic of Singapore (hereinafter “the ministries”) have been enhancing their cooperative relationship for long years and strengthening cooperation in recent years in the field of Information and Communication. The ministries reaffirmed our commitment to extend and strengthen this relationship by issuing the joint statement below on Further Promotion of Cooperation in the Field of Information and Communication Technology here.<br>
+<br>
+1.<span style="white-space: pre;"> 		</span>The ministries, referring to the Memorandum of Cooperation between the Ministry of Internal Affairs and Communications of Japan and the Ministry of Communications and Information of the Republic of Singapore to Promote Cooperation in the Field of Information and Communications Technology, signed on 2nd July 2021, decided to further promote the cooperative relationships based on the Memorandum of Cooperation.</p>
+<p style="text-align: left;">2.<span style="white-space: pre;"> 		</span>The ministries concurred to enhance cooperation in the field of Digital Economy including 5G, Beyond 5G/6G and Emerging Technologies based on the discussion so far.</p>
+<p style="text-align: left;">3.<span style="white-space: pre;"> 		</span>The ministries affirmed to continue developing secure, resilient and open 5G networks and 5G use cases, in the digital economy.&nbsp;</p>
+<p style="text-align: left;">4.<span style="white-space: pre;"> 		</span>The ministries affirmed to deepen collaboration on AI, including AI governance in light of the importance of AI in the 4th and next Industrial Revolution.</p>
+<p style="text-align: left;">5.<span style="white-space: pre;"> 		</span>The ministries reaffirmed the strong cybersecurity cooperation between Singapore and Japan and identified ways to deepen their ongoing cooperation.</p>
+<p style="text-align: left;">6.<span style="white-space: pre;">		</span>The ministries reaffirmed to work together in multilateral frameworks regarding responsible AI and Data Free Flow with Trust and other areas of mutual interests.</p>
+<p style="text-align: left;"><strong>Signatories: </strong>Mr. Yasushi Kaneko, Minister for Internal Affairs and Communications of Japan, and Mrs. Josephine Teo, Minister for Communications and&nbsp;Information of the Republic of  Singapore.</p>
+<div>&nbsp;</div>
