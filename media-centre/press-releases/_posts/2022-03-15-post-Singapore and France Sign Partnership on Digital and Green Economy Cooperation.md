@@ -19,4 +19,4 @@ image: ""
 <br>
 5.<span style="white-space: pre;">		</span>France is Singapore’s second and fourth largest EU trading partner in goods and services respectively. France is also Singapore’s fifth largest EU investor. Singapore is France’s top trade and investment partner in ASEAN. There is an active community of over 2,500 French businesses and 300 French startups in Singapore, as well as over 200 French researchers within Singapore academic and research centres.<br>
 <br>
-<a href="-/media/FB4966AAEBEF4D2CB122D40C6602739D.ashx">Annex A: Joint Ministerial Statement</a></p>
+[Annex A-Joint Ministerial Statement]()</p>
