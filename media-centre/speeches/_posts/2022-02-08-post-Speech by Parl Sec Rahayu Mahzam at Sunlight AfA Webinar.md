@@ -23,6 +23,5 @@ image: ""
 8.<span style="white-space: pre;">		</span>We liken it to how it is like in Singapore – we can walk on the streets, generally being comfortable and not having to worry about crime happening. I think we want that kind of safety and comfort and assurance for children online. But this takes effort. We are still in the nascent stages, but we can all play that role to strengthen the digital safety for all of our children. I hope this is a start.&nbsp;<br>
 <br>
 9.<span style="white-space: pre;">		</span>I thank you for your time for your interest in this. I hope we can continue journeying with Sunlight AfA. We will take your feedback and hopefully co-create more initiatives and bring in more ideas so that we can see and achieve the vision that we want for children. Thank you.<br>
-<br>
-</p>
-[PDF version of the speech](/files/Speeches%202022/transcript%20of%20closing%20remarks%20by%20parl%20sec%20rahayu%20mahzam%20at%20sunlight%20afa%20webinar%20on%208%20feb%202022.pdf)
+
+[PDF version of the speech](/files/Speeches%202022/transcript%20of%20closing%20remarks%20by%20parl%20sec%20rahayu%20mahzam%20at%20sunlight%20afa%20webinar%20on%208%20feb%202022.pdf)</p>
