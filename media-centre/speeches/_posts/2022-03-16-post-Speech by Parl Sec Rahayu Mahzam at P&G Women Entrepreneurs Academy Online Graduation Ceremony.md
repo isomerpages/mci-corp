@@ -50,3 +50,5 @@ Ladies and Gentlemen&nbsp;<br>
 13.<span style="white-space: pre;">		</span>In conclusion, I wish all the graduates all the best in your entrepreneurship journey. I am sure the knowledge gained will allow you to continue to excel in your careers, and hope you will pass on the experience on to budding women entrepreneurs.<br>
 <br>
 14.<span style="white-space: pre;">		</span>Together, we can make Singapore a fairer and more inclusive society for all. Thank you.&nbsp;<br>
+
+[PDF version of the speech](/files/Speeches%202022/speech%20by%20parl%20sec%20at%20virtual%20graduation%20ceremony%20of%20women%20entrepreneurs%20academy%2016%20mar.pdf)
