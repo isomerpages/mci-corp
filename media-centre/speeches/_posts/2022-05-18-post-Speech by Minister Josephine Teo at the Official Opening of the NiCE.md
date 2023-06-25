@@ -34,4 +34,5 @@ Colleagues and friends,<br>
 <br>
 10.<span style="white-space: pre;">		</span>I urge all our industry partners to work with NiCE and leverage its capabilities to bring your businesses forward. My warmest congratulations to everyone who has played a part in making NiCE a reality. Thank you.<br>
 <br></p>
+
 [PDF version of the speech](/files/Speeches%202022/minister%20delivered%20transcript%20nice%20speech.pdf)
