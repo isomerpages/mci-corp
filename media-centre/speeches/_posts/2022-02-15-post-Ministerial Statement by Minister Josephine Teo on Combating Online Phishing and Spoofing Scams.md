@@ -117,3 +117,4 @@ Mr Speaker, Sir<br>
 &nbsp;<br>
 49.<span style="white-space: pre;">		</span>Across the ecosystem, making these changes may result in additional cost and some loss of convenience.&nbsp; But they are necessary to better safeguard our people from scams. Equally important, they will help to uphold confidence in our digital journey.&nbsp;<br>
 <br>
+[PDF version of the speech]()
