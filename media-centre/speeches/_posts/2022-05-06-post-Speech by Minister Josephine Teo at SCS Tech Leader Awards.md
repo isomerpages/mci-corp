@@ -55,3 +55,5 @@ Colleagues and friends,<br>
 22.<span style="white-space: pre;">		</span>To conclude, let me once again congratulate all the awardees of this year’s Tech Leader Awards. Thank you for all of your contributions, which have made the tech scene in Singapore vibrant and gives us much hope for the future!<br>
 <br>
 23.<span style="white-space: pre;">		</span>I wish you all an enjoyable evening!<br>
+
+[PDF version of the speech](/files/Speeches%202022/transcript%20of%20speech%20by%20minister%20josephine%20teo%20at%20scs%20tech%20leader%20awards.pdf)
