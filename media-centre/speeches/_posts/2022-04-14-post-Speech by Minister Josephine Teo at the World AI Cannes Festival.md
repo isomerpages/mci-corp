@@ -73,4 +73,3 @@ image: ""
 --------------------------------------------------------------------------------------------------------------------------
 <p><sup>1</sup> <span style="font-size: 12px;">Singapore has the Fairness, Ethics, Accountability and Transparency (FEAT) principles, to guide the responsible use of AI by financial institutions, and the Artificial Intelligence in Healthcare Guidelines to share good practice with AI developers and implementers, complementing our existing regulations of AI-Medical Devices.</span></p>
 
-
