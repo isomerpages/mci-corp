@@ -53,3 +53,6 @@ Colleagues and friends<br>
 15.<span style="white-space: pre;">		</span>We are well on the way to creating a community of future women leaders. The work is never going to stop, and we have to commit ourselves to it and keep it going for the next generation.&nbsp;<br>
 <br>
 16.<span style="white-space: pre;">		</span>Thank you very much, and congratulations once again on the MOU.&nbsp;</p>
+
+[PDF version of the speech](/files/Speeches%202022/transcript%20of%20speech%20by%20sms%20janil%20at%20the%20mou%20signing%20between%20singapore%20women%20in%20tech%20and%20poly.pdf)
+
