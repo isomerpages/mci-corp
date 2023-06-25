@@ -25,12 +25,12 @@ Recap of the cyber-attack, convening and proceedings of the COI
 5. The COI submitted its classified report to me on 31 December 2018.  The COI also released a public version of the report on 10 January 2019, which my Ministry distributed to Members of this House.  The public report **contains all recommendations and material findings from the full COI report**; it only excludes highly sensitive information heard by the COI in closed-door sessions.   
   
 6. Mr Speaker, with your permission, may I ask the Clerk to distribute a note on the COI’s findings and recommendations?  
-  
-    *Thank the COI and supporting team*
-  
-7. At this juncture, on behalf of the Government, I would like to place on record our deep gratitude to the Committee for its hard work in undertaking a robust and transparent Inquiry.  I would also like to thank the Attorney-General’s Chambers, investigators from CSA and CID, and MCI officers who supported the COI; witnesses who gave evidence; as well as organisations, professionals and members of the public who contributed their views and suggestions in the course of the Inquiry.      
-    *COI’s main findings*  
-  
+
+    *Thank the COI and supporting team*  
+
+7. At this juncture, on behalf of the Government, I would like to place on record our deep gratitude to the Committee for its hard work in undertaking a robust and transparent Inquiry.  I would also like to thank the Attorney-General’s Chambers, investigators from CSA and CID, and MCI officers who supported the COI; witnesses who gave evidence; as well as organisations, professionals and members of the public who contributed their views and suggestions in the course of the Inquiry. 
+
+    *COI’s main findings*    
 8. Let me now highlight the main findings of the COI.      
   
 9. The COI has been candid in its report, which establishes the sophisticated nature of the attacker; but also gives a detailed and stark account of shortcomings at the staff and system level that contributed to the failure to prevent the attack or limit its impact.  
