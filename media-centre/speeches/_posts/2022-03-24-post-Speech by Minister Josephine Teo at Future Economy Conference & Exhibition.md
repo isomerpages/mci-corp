@@ -91,3 +91,5 @@ Friends and colleagues<br>
 34.<span style="white-space: pre;">		</span>We are proud to count the SBF, as a trusted partner, in driving digital transformation for our economy.&nbsp; This is why IMDA renewed its Memorandum of Intent with SBF at the FECE in 2020, with a target of helping 2,500 businesses to accelerate their digital transformation.&nbsp;<br>
 <br>
 35.<span style="white-space: pre;">		</span>We look forward to working with all of you to build a vibrant digital economy that is connected, secure and resilient. I wish everyone the best in their digital journey, and a very fruitful discussion today. Thank you.<br>
+
+[PDF version of the speech](/files/Speeches%202022/transcript%20of%20speech%20by%20minister%20josephine%20teo%20at%20sbf%20future%20economy%20conference%20and%20exhibition.pdf)
