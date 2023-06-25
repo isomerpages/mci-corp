@@ -7,3 +7,15 @@ layout: post
 description: ""
 image: ""
 ---
+<h3>Parliament Sitting on 4 April 2022</h3>
+<h2>QUESTION FOR WRITTEN ANSWER</h2>
+<br>
+<strong>40.&nbsp;Dr Tan Wu Meng:</strong> To ask the Minister for Communications and Information how many households, broken down by the different categories of housing type, still have a landline telephone connection which is (i) an analogue line and (ii) connected via optical network terminal or other home digital line, respectively.<br>
+<br>
+<br>
+<strong>Answer:<br>
+<br>
+</strong>
+<div>
+<div>1.<span style="white-space: pre;">		</span>There are about 1.2 million residential fixed-line telephony service subscriptions in Singapore. Of these, close to 1 million were subscribed to digital telephony services. Analogue fixed-line telephony subscriptions are declining as telecommunications operators continue to upgrade their networks. The distribution of all fixed-line subscribers by housing types broadly mirrors that of the households. We do not have a further breakdown according to the type of fixed-line service.</div>
+</div>
