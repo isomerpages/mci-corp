@@ -84,3 +84,5 @@ image: ""
 <p style="margin-left: 80px; text-align: justify;">b.<span style="white-space: pre;">	</span>Staff and students from the Nanyang Academy of Fine Arts for the beautiful murals that added to this experience!
 </p>
 <p style="text-align: justify;">20.<span style="white-space: pre;">		</span>The Tamil community in Singapore is significant far beyond its size, and long may this be so. Thank you once again for inviting me and let me wish you all again a very happy new year.&nbsp;</p>
+
+[PDF version of the speech]()
