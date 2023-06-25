@@ -73,3 +73,5 @@ image: ""
 28.<span style="white-space: pre;">		</span>I hope that my sharing about our three strategies has provided some insight on our approach for a whole-of-society involvement to address the issue of online misinformation. My thanks to the AFCN, led by Black Dot Research, for organising the conference with many fruitful discussions on this subject. I hope to be able to meet with as many of you in person to discuss this issue in future.&nbsp;<br>
 <br>
 29.<span style="white-space: pre;">		</span>Thank you.<br>
+
+[PDF version of the speech](/files/Speeches%202022/speech%20by%20sms%20janil%20puthucheary%20at%20the%20legislation%20&amp;%20the%20fight%20against%20disinformation%20in%20sea%20conf.pdf)
