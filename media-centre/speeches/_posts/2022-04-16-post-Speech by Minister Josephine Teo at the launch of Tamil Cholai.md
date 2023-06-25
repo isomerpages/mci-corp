@@ -85,4 +85,4 @@ image: ""
 </p>
 <p style="text-align: justify;">20.<span style="white-space: pre;">		</span>The Tamil community in Singapore is significant far beyond its size, and long may this be so. Thank you once again for inviting me and let me wish you all again a very happy new year.&nbsp;</p>
 
-[PDF version of the speech]()
+[PDF version of the speech](/files/Speeches%202022/opening%20remarks%20by%20minister%20josephine%20teo%20at%20the%20launch%20of%20tamill%20cholai%2016%20apr.pdf)
