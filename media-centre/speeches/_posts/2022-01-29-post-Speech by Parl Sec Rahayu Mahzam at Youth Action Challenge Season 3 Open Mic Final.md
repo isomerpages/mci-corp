@@ -49,3 +49,5 @@ image: ""
 14.<span style="white-space: pre;">		</span>I hope that you have enjoyed your journey at the YAC, made new friends, and walk away enlightened, and motivated. Regardless of the results today, all of you are champions of mental well-being and I encourage you to continue to work with the National Youth Council and other partners to bring your ideas to fruition.&nbsp;<br>
 <br>
 15.<span style="white-space: pre;">		</span>I thank all the judges and participants for your time. Feel free to reach out to us and we will be happy to continue to guide and support you along your journey. Thank you NYC for organising this meaningful session. Have a great day!<br></p>
+
+[PDF version of the speech](/files/Speeches%202022/closing%20remarks%20for%20parl%20sec%20rahayu%20at%20youth%20action%20challenge%20season%203%20open%20mic.pdf)
