@@ -130,3 +130,5 @@ image: ""
 28.<span style="white-space: pre;">		</span>I believe we have a roadmap now, which is constantly being expanded and refined, thanks to the partnership and collective wisdom of the women and men who stepped forth to join our AfA, and all those who are committed to uplift digital safety for Singapore women and girls.&nbsp;<br>
 <br>
 29.<span style="white-space: pre;">		</span>The digital safety gap can be closed for our women and girls. Let’s make it happen.&nbsp;</p>
+
+[PDF version of the speech](/files/Speeches%202022/transcript%20of%20remarks%20by%20sms%20sim%20ann%20at%20motion%20on%20singapore%20womens%20development%205%20april.pdf)
