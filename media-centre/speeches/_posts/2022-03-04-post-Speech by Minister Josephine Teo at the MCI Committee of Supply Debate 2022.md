@@ -179,3 +179,5 @@ image: ""
 75.<span style="white-space: pre;">		</span>These are critical building blocks for Singapore’s continued survival and success.<br>
 <br>
 76.<span style="white-space: pre;">		</span>We look forward to partnering all Singaporeans to Build a Vibrant and Secure Digital Future Together!</p>
+
+[PDF version of the speech](/files/Speeches%202022/speech%20by%20minister%20josephine%20teo%20at%20mci%20cos%20debate%202022%20final.pdf)
