@@ -26,3 +26,5 @@ image: ""
 9.<span style="white-space: pre;">		</span>We can do this because partners come on board and work together with us to create programmes that are interesting for people of different ages, especially for children like you. I hope that many more partners will come on board this meaningful effort to bring digital learning to Singaporeans of all ages, from all backgrounds, because together we can build an inclusive digital society for everyone.&nbsp;<br>
 <br>
 10.<span style="white-space: pre;">		</span>Thank you very much for this opportunity to join you. Have a great evening.&nbsp;<br>
+
+[PDF version of the speech](/files/Speeches%202022/remarks%20by%20parl%20sec%20rahayu%20mahzam%20at%20bytesgs%20void%20deck%20technology%20labs%20digital%20literacy%20workshop%20.pdf)
