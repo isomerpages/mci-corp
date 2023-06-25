@@ -35,3 +35,6 @@ Colleagues and friends&nbsp;<br>
 10.<span style="white-space: pre;">		</span>To conclude, as long as SingPost remains nimble, agile and adaptive to changes, and your workforce – which is the core of the company – continues to upskill and strive for excellence, I have every confidence in SingPost’s continued ability to weather changes and to reach new heights.&nbsp;<br>
 <br>
 11.<span style="white-space: pre;">		</span>On this note, Selamat berbuka puasa! Terima Kasih!&nbsp;<br>
+
+
+
