@@ -99,3 +99,5 @@ image: ""
 32.<span style="white-space: pre;">		</span>Mr Chairman, I would like to conclude by emphasising the Government’s commitment to building a digital future for Singapore that is economically vibrant, socially stable, safe and secure.&nbsp;Harnessing opportunities in digital while managing risks will be critical to our success and survival.&nbsp;We are putting in place various building blocks with stakeholders, including digital capabilities, infrastructure, regulations, security, and investments for the future.&nbsp;At the heart of the effort lies our people, their potential, and their wellbeing. We have to aim for all Singaporeans to be empowered and find fulfilment through their participation in the digital domain.&nbsp;&nbsp;<br>
 <br>
 33.<span style="white-space: pre;">		</span>And together, we will build a vibrant and secure digital future together. Thank you.</p>
+
+[PDF version of the speech](/files/Speeches%202022/transcript%20of%20speech%20delivered%20by%20dr%20janil%20puthucheary%20sms%20(mci)%20at%20mci%20cos%202022%20(4%20mar%202022).pdf)
