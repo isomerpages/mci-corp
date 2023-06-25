@@ -125,3 +125,4 @@ Mr Speaker Sir<br>
 38.<span style="white-space: pre;">		</span>Mr Speaker, Singapore has made significant progress over the years in shifting societal norms between men and women, from one based on patriarchal values to one based on respect and partnership. However, some stereotypes and challenges remain that impede our progress in creating a fairer and equal society. As we mature as a society, our mindsets need to change collectively. Everyone has a part to play, be it in caregiving or in ensuring a safe digital space for all. Let us walk together on this journey and empower all Singaporeans – men and women alike – to pursue their aspirations freely and to the fullest.
 </p>
 
+[PDF version of the speech](/files/Speeches%202022/speech%20by%20parliamentary%20secretary%20rahayu%20mahzam%20at%20motion%20on%20singapore%20womens%20development.pdf)
