@@ -65,3 +65,5 @@ image: ""
 <br>
 17.<span style="white-space: pre;">		</span>Thank you for caring about the issue, and also for giving us the affirmation that we are on the right track. To those who will be attending our meeting in April, I’ll see you then. Thanks everyone once again for being here. Good night and stay safe.<br>
 <br>
+
+[PDF version of the speech]()
