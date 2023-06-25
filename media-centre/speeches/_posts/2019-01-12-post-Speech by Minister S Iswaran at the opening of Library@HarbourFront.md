@@ -32,7 +32,7 @@ Ladies and Gentlemen,
 6. One of the key elements is the exploitation of digital channels. An excellent example of that is the NLB Mobile App – a mobile app which I have downloaded and used actively – it is a marvellous way of having a seamless experience. Here in this library, you can borrow books physically, and you can also see what is available in the digital collection; and have that seamless experience from the digital to the physical, and back. You can do all that, while enjoying the views of Sentosa island.
 
     **The Library’s place in our communities**  
-   
+
 7. Thirdly, I wanted to say about our libraries, is where we are locating them. We want to bring our libraries closer to the people, physically, not just in terms of the activities alone but also in terms of where they are sited.
 
 8. Whether it is in a shopping centre like the library here in VivoCity, whether it is integrated with community facilities or community centres, or other locations – the idea is to bring our libraries closer to our people, so it is easier to spread the joy of reading, and enjoy learning together. Library@harbourfront is a very good example, in terms of how we are able to bring our facilities closer to residents.
