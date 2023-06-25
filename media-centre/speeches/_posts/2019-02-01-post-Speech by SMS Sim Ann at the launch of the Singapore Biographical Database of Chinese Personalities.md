@@ -63,4 +63,4 @@ Good evening! 
   
 18. Thank you.
 
-Please click [here]for the Chinese version of the speech.
+    Please click [here](/files/Speeches%202019/chinese%20version%20of%20speech%20at%20the%20launch%20of%20the%20singapore%20biographical%20database.pdf) for the Chinese version of the speech.
