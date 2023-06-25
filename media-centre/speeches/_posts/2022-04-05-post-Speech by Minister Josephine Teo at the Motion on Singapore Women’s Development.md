@@ -224,3 +224,4 @@ image: ""
 <br>
 65.<span style="white-space: pre;">		</span>Mr Speaker, I beg to move.</p>
 
+[PDF version of the speech](/files/Speeches%202022/speech%20by%20minister%20josephine%20teo%20at%20the%20parliamentary%20motion%20on%20sg%20womens%20development%20white%20paper%20.pdf)
