@@ -77,3 +77,5 @@ Girls&nbsp;<br>
 <sup>1</sup>&nbsp;<sub>3M’s 2021 State of Science Index Survey:</sub>&nbsp;<sub><a rel="noopener noreferrer" target="_blank" href="https://www.3m.com.sg/3M/en_SG/state-of-science-index-survey-sg/insights/">https://www.3m.com.sg/3M/en_SG/state-of-science-index-survey-sg/insights/</a></sub></p>
 <p>
 </p>
+
+[PDF version of the speech](/files/Speeches%202022/speech%20by%20sms%20janil%20at%20launch%20of%203m%20girls%20can%20tinker%20initiative%20on%2028%20apr.pdf)
