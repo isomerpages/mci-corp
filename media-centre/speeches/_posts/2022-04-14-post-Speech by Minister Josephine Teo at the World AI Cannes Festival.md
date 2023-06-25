@@ -73,3 +73,4 @@ image: ""
 --------------------------------------------------------------------------------------------------------------------------
 <p><sup>1</sup> <span style="font-size: 12px;">Singapore has the Fairness, Ethics, Accountability and Transparency (FEAT) principles, to guide the responsible use of AI by financial institutions, and the Artificial Intelligence in Healthcare Guidelines to share good practice with AI developers and implementers, complementing our existing regulations of AI-Medical Devices.</span></p>
 
+[PDF version of the speech](/files/Speeches%202022/keynote%20speech%20by%20minister%20josephine%20teo%20at%20world%20ai%20cannes%20festival%20on%2014%20apr%202022.pdf)
