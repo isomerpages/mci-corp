@@ -100,3 +100,7 @@ image: ""
 <p><sup>2</sup> SMEs who are looking to embark on technology innovation can tap on array of ready resources available at Centre of Innovations. Centres are set up in partnership with selected polytechnics and research institutes. Nanyang Polytechnic serves as CoI for Electronics and IoT – area of focus include design consultancy and development of products/processes/services leveraging on embedded technology, wireless communications, imaging technology, clean energy &amp; green technologies, computational intelligence and analytics, infocomm technologies, etc.
 </p>
 <p><sup>3</sup> Under this initiative, SMEs can tap on established Business-to-Business (B2B) and Business-to-Consumer (B2C) e-commerce platforms to sell overseas without a need for physical presence.</p>
+
+[PDF version of the speech](/files/Speeches%202022/speech%20by%20sms%20janil%20at%20the%20launch%20of%20oneberry%20technologies%20regional%20hq%20on%206%20may.pdf)
+
+
