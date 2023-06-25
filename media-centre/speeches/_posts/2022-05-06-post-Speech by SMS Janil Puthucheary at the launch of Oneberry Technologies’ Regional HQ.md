@@ -102,5 +102,3 @@ image: ""
 <p><sup>3</sup> Under this initiative, SMEs can tap on established Business-to-Business (B2B) and Business-to-Consumer (B2C) e-commerce platforms to sell overseas without a need for physical presence.</p>
 
 [PDF version of the speech](/files/Speeches%202022/speech%20by%20sms%20janil%20at%20the%20launch%20of%20oneberry%20technologies%20regional%20hq%20on%206%20may.pdf)
-
-
