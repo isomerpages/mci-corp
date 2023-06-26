@@ -71,3 +71,6 @@ image: ""
 <br>
 30.<span style="white-space: pre;">		</span>I wish all of you an enjoyable and fruitful evening. Thank you!</p>
 <p>&nbsp;</p>
+
+
+[PDF version of the speech](/files/Speeches%202022/speech%20by%20minister%20josephine%20teo%20at%20press%20club%2050th%20anniversary%20press%20ball.pdf)
