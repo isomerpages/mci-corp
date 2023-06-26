@@ -57,3 +57,5 @@ image: ""
 20.<span style="white-space: pre;">		</span>In closing, let me pose this question to us: why should the digital future we are building together be any less inclusive than it is innovative? That is the challenge for all of us.<br>
 <br>
 21.<span style="white-space: pre;">		</span>Singapore’s journey towards becoming a digital society will open new opportunities, challenges and occasions for us to reflect on the kind of future we want for ourselves. Let us raise our ambitions, that Singapore would be more than just digitally innovative on the cutting edge, but a digitally inclusive community where none is excluded or marginalised. Thank you.&nbsp;<br>
+
+[PDF version of the speech ](/files/Speeches%202022/transcript%20of%20speech%20by%20parl%20sec%20rahayu%20at%20innovfest%20x%20elevating%20founders%20(atximpact).pdf)
