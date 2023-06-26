@@ -78,3 +78,4 @@ Ladies and gentlemen<br>
 28.<span style="white-space: pre;">		</span>Thank you, and I wish you a fruitful time at this conference.&nbsp;<br>
 <div>&nbsp;</div>
 
+[PDF version of the speech]()
