@@ -155,3 +155,5 @@ image: ""
 <p><sup>1</sup>&nbsp;<em><sub>Southeast Asia, The Home for Digital Transformation report</sub></em><sub> by Facebook &amp; Bain.</sub>&nbsp;</p>
 <p><sup>2</sup>&nbsp;<em><sub>e-Conomy SEA Report 2021</sub></em><sub> by Google, Temasek, Bain.</sub>&nbsp;</p>
 <p><sup>3</sup>&nbsp;<sub>Singapore’s DEAs (and partners) include the: Digital Economy Partnership Agreement (with Chile, New Zealand); Singapore-Australia Digital Economy Agreement; UK-Singapore Digital Economy Agreement.</sub>&nbsp; &nbsp;&nbsp;</p>
+
+[PDF version of the speech](/files/Speeches%202022/transcript%20of%20sms%20janils%20speech%20at%20atxenterprise%20industry%20headliners%20on%201%20jun.pdf)
