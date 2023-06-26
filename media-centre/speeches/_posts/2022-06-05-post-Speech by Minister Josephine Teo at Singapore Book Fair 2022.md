@@ -45,3 +45,6 @@ Friends joining us virtually from afar <br>
 13.<span style="white-space: pre;">		</span>Let me end by thanking you once again for inviting me today. Like many of you here today, I am excited to start touring the Fair. For example, illustrator Ah Guo’s new work. I love his intricate drawings and imaginative storyline filled with childlike wonder. <br>
 <br>
 14.<span style="white-space: pre;">		</span>I hope you will all be inspired by these and the many other writers featured at the Fair. Happy reading and happy learning for all of us! Thank you!<br></p>
+
+[PDF version of the speech](/files/Speeches%202022/transcript%20of%20speech%20by%20minister%20josephine%20teo%20at%20singapore%20book%20fair%202022.pdf)
+
