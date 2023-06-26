@@ -61,3 +61,5 @@ Colleagues and friends<br>
 16.<span style="white-space: pre;">		</span>Once again, my congratulations to SGTraDex Services and SGTraDex Technologies on a successful launch. Moving forward, I am confident that SGTraDex will build on its firm foundations, supporting our enterprises in overcoming current challenges and positioning them to grasp all future opportunities.&nbsp;<br>
 <br>
 17.<span style="white-space: pre;">		</span>Thank you.<br>
+
+[PDF version of the speech ](/files/Speeches%202022/transcript%20of%20speech%20by%20minister%20josephine%20teo%20at%20product%20launch%20of%20sgtradex.pdf)
