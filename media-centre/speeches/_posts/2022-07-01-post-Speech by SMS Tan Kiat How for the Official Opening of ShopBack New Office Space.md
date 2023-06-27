@@ -34,3 +34,5 @@ Singapore - a R&amp;D Innovation Hub<br>
 11.<span style="white-space: pre;"> 		</span>The opening of ShopBack’s new office is aptly named CAMPUS, as learning does not stop in school. Even as we move on to the working world, we must adopt and maintain a spirit of continuous learning to succeed.&nbsp;<br>
 <br>
 12.<span style="white-space: pre;"> 		</span>Thank you for having me today, and I look forward to seeing ShopBack’s continued growth.</p>
+
+[PDF version of the speech](/files/Speeches%202022/transcript%20of%20sms%20opening%20remarks%20for%20the%20official%20opening%20of%20campus%20by%20shopback%20(1).pdf)
