@@ -87,3 +87,8 @@ Ladies and Gentlemen,</p>
 29.<span style="white-space: pre;">		</span>You can now turn your attention to the screen for a video demonstration on the functionalities of the SGTT web portal.&nbsp;<br>
 <br>
 30.<span style="white-space: pre;">		</span>Thank you.&nbsp;</p>
+
+[PDF version of the speech](/files/Speeches%202022/transcript%20%20sms%20tan%20kiat%20hows%20speech%20at%20the%20launch%20of%20the%20sgtt%20web%20portal%2027%20junefinal.pdf)
+
+
+
