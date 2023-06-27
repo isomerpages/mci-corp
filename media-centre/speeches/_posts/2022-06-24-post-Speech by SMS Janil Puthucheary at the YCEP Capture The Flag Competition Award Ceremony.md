@@ -50,3 +50,7 @@ image: ""
 14.<span style="white-space: pre;"> 		</span>Before I announce the winners, I would like to congratulate all of you again for completing the YCEP bootcamps and the YCEP Central CTF competition. I hope that all of you have gained some real-world insights and some future ready cybersecurity skills after going through this experience.<br>
 <br>
 15.<span style="white-space: pre;"> 		</span>And without further delay, I will now announce the top three winning teams of the YCEP Central CTF 2022.</p>
+
+[PDF version of the speech](/files/Speeches%202022/transcript%20of%20speech%20by%20sms%20janil%20puthucheary%20at%20the%20virtual%20ycep%20cctf%20event%20on%2024%20jun.pdf)
+
+
