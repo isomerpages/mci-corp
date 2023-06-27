@@ -41,3 +41,6 @@ SGTech Director of Government Affairs, Raj Singh,<br>
 <br>
 15.<span style="white-space: pre;">		</span>On that note, thank you all once again for being here. I look forward to us having more opportunities to interact. Thank you.&nbsp;</p>
 <div>&nbsp;</div>
+
+[PDF version of the speech](/files/Speeches%202022/transcript%20of%20speech%20by%20minister%20josephine%20teo%20at%20upskill%202022%20final.pdf)
+
