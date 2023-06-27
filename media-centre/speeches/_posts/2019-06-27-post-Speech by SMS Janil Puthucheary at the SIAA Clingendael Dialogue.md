@@ -81,7 +81,7 @@ Ladies and Gentlemen,
   
 32. With closer people-to-people connectivity between EU and Singapore, we hope that there will be an increase in opportunities to reinforce the flow of people, ideas, values and trade between the EU and Singapore. This will strengthen the friendships, collaborations and opportunities in both directions that go back centuries.   
   
-    *Conclusion * 
+    *Conclusion* 
   
 33. EU and Singapore have enjoyed a long history of excellent relations, which will need to be constantly and continually strengthened, reinforced and nurtured so that people will understand what are the values that drive this deep friendship, and its value to both our people, institutions and businesses.  
   
