@@ -24,3 +24,6 @@ image: ""
 <p>9. <span style="white-space: pre;">		</span>With that, I would like to thank everyone at the NUS Tamil Language Society and your partners, for putting together an enriching programme and for inviting me to participate and be part of this programme. It is a privilege for me to be invited to a youth conference. It makes me feel young and it gives me the opportunity to tell other people I got invited to youth conference.</p>
 <p>
 10. <span style="white-space: pre;">		</span>I wish everyone a fruitful time at the conference. Congratulations once again to the Society for your efforts. Thank you very much.</p>
+
+[PDF version of the speech](/files/Speeches%202022/opening%20remarks%20by%20sms%20janil%20at%20singapore%20tamil%20youth%20conference%20(2%20jul%202022).pdf)
+
