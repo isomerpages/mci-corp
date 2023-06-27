@@ -50,6 +50,7 @@ Infocomm media convergence has changed the way the infocomm and media sector is 
 
 [Strategic Thrust 1: Capitalise on big data and advanced digital-age technologies](#section2)
 
+
 [Strategic Thrust 2: Foster risk-taking and willingness to experiment](#section3)
 
 
@@ -59,18 +60,8 @@ Infocomm media convergence has changed the way the infocomm and media sector is 
 
 
 
-## Introduction to Infocomm Media 2025
-Imagine streaming high-definition web videos smoothly on your tablet PC via free Wi-Fi at Coney Island, while your smartwatch buzzes whenever necessary to notify you of an imminent thunderstorm. This is just one of many possibilities that will be realised with&nbsp;**Infocomm Media 2025**, Singapore’s bold vision for her infocomm media sector.
+<h2 id="section2">Strategic Thrust 1: Capitalise on big data and advanced digital-age technologies</h2>
 
-Developed by the Ministry of Communications and Information (MCI), the Infocomm Development Authority of Singapore (IDA) and the Media Development Authority of Singapore (MDA), this 10-year plan released in Aug 2015, consists of three strategic thrusts:
-
-1.  Build on the power of data and data insights, advanced communications and computational technologies to catalyse transformation across key sectors of our economy.
-2.  Develop a future-ready workforce that embraces risk-taking and innovation.
-3.  Deploy infocomm media technologies in a people-centric manner.
-
-Given current technological constraints and pragmatic concerns, realising&nbsp;**Infocomm Media 2025**&nbsp;is not going to be quick and easy. But within the next decade or so, we are confident that Singapore’s research and development (R&amp;D) efforts will pay off, and produce the promising technologies necessary for&nbsp;**Infocomm Media 2025**&nbsp;to be implemented.
-
-## Strategic Thrust 1: Capitalise on big data and advanced digital-age technologies
 **Summary**
 
 In order to bring you more personalised services, world-class Internet connectivity all over the island, compelling local TV content and more, hastening Singapore’s transformation into a world-class digital economy is necessary.
