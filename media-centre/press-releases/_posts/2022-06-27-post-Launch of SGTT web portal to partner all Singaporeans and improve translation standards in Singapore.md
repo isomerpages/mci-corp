@@ -18,4 +18,3 @@ image: ""
 <br>
 4.<span style="white-space: pre;">		</span>At the event, Mr Tan also recognised the contributions of community partners such as the ‘Friends of SGTT’ – comprising individuals who have a deep passion for language and translation, and have participated in the beta phase of the web portal – and NTC members in raising translation standards in Singapore. More information on the NTC can be found in the [Annex](/files/Press%20Releases%202022/annex%20a%20(7).pdf).</p>
 <div>&nbsp;</div>
-
