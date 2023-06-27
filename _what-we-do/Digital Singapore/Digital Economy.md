@@ -60,6 +60,24 @@ Infocomm media convergence has changed the way the infocomm and media sector is 
 
 
 
+
+
+
+
+
+<h2 id="section1">Introduction to Infocomm Media 2025</h2>
+
+Imagine streaming high-definition web videos smoothly on your tablet PC via free Wi-Fi at Coney Island, while your smartwatch buzzes whenever necessary to notify you of an imminent thunderstorm. This is just one of many possibilities that will be realised with&nbsp;**Infocomm Media 2025**, Singapore’s bold vision for her infocomm media sector.
+
+Developed by the Ministry of Communications and Information (MCI), the Infocomm Development Authority of Singapore (IDA) and the Media Development Authority of Singapore (MDA), this 10-year plan released in Aug 2015, consists of three strategic thrusts:
+
+1.  Build on the power of data and data insights, advanced communications and computational technologies to catalyse transformation across key sectors of our economy.
+2.  Develop a future-ready workforce that embraces risk-taking and innovation.
+3.  Deploy infocomm media technologies in a people-centric manner.
+
+Given current technological constraints and pragmatic concerns, realising&nbsp;**Infocomm Media 2025**&nbsp;is not going to be quick and easy. But within the next decade or so, we are confident that Singapore’s research and development (R&amp;D) efforts will pay off, and produce the promising technologies necessary for&nbsp;**Infocomm Media 2025**&nbsp;to be implemented.
+
+
 <h2 id="section2">Strategic Thrust 1: Capitalise on big data and advanced digital-age technologies</h2>
 
 **Summary**
@@ -98,7 +116,8 @@ From healthcare to education, expect many areas of life to be personalised in fu
 
 Even better: data analytics will also facilitate the development of robots that can improve our work productivity and augment industry capabilities. Overall, sector-specific competitiveness will increase with advances in data science.
 
-## Strategic Thrust 2: Foster risk-taking and willingness to experiment
+<h2 id="section3">Strategic Thrust 2: Foster risk-taking and willingness to experiment</h2>
+
 **Summary**
 
 A Smart Nation is only as smart as its people in the infocomm media ecosystem. Hence, we have to equip our students and workforce with the essential knowledge and skills they need to perform in high-value infocomm media jobs.
