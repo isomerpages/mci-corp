@@ -8,7 +8,8 @@ image: ""
 ---
 ### Parliament Sitting on 8 July 2019
 
-## **QUESTION NO. 19 FOR WRITTEN ANSWER**
+QUESTION FOR WRITTEN ANSWER
+---------------------------
 
 **19\. Miss Cheng Li Hui**: To ask the Minister for Communications and Information (a) whether he can provide an update on the investigation into the hacking of the Singapore Red Cross website; (b) whether it is mandatory for VWOs and NGOs to comply with the IT security guidelines established by the Government; and (c) whether there are plans to equip VWOs and NGOs with the capability to establish resilient IT security frameworks to safeguard confidential data.
 
