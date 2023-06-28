@@ -24,7 +24,7 @@ image: ""
   
 4. In Istanbul, Minister Iswaran visited the Ottoman Archives, which hold important primary materials tracing the history between the Ottoman Empire and Southeast Asia. These materials include correspondence between the Ottoman Sultans and Southeast Asian rulers, Haj and Umra records of Muslims in the region, as well as details on an Ottoman Consulate in Singapore.
 
-![](/images/Press%20Releases%202019/pix%201%20sg%20turkey.jpeg)
+    ![](/images/Press%20Releases%202019/pix%201%20sg%20turkey.jpeg)
     *Minister Iswaran visits the Ottoman Archives in Istanbul.*
 
 5. Minister Iswaran said, “In the year that we mark the 50th anniversary of diplomatic relations between Turkey and Singapore, we strengthen the cultural and historical ties between our two nations. The MOUs that NLB concluded with the Turkish National Library, and earlier with the Directorate of State Archives of the Presidency of the Republic of Turkey are positive steps in that direction. They promote exchange and will go a long way to deepen understanding between our peoples, our heritage and our cultures.”  
