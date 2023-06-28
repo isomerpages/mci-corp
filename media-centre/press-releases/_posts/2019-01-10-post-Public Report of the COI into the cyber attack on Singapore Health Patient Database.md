@@ -9,7 +9,7 @@ image: ""
 ---
 10 January 2019 - The Committee of Inquiry (COI)[^1], convened to inquire into the events and contributing factors leading to the cyber attack on Singapore Health Services Private Limited (SingHealth)’s patient database system, has released its public report.
 
-The report is accessible here.
+The report is accessible [here](https://go.gov.sg/singhealthcoi).
 
 ------------------------------------------------------------------------------------
 
