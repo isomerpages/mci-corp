@@ -7,9 +7,10 @@ layout: post
 description: ""
 image: ""
 ---
-**Parliament sitting on 8 JULY 2019**
+### Parliament Sitting on 8 July 2019
 
-**QUESTION NO. 31 FOR WRITTEN ANSWER**
+QUESTION FOR WRITTEN ANSWER
+---------------------------
 
 **31\. Ms Anthea Ong:** To ask the Minister for Communications and Information with regard to the Protection from Online Falsehoods and Manipulation Act (a) what is the Ministry's training plan and guidelines for Ministers and their civil service teams on the use of the Act, especially in the assessment of fact and falsehood; and (b) what public education programmes are being planned on the intent and implications of the Act for ordinary citizens and civil society.  
 
