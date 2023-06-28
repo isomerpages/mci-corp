@@ -19,6 +19,6 @@ image: ""
   
 6. Minister Iswaran was accompanied by officials from the Ministry of Communications and Information, Ministry of Foreign Affairs, and the Infocomm Media Development Authority.  
   
-![For Media  Minister Iswarans meeting with Shenzhen Party Secretary Wang Weizhong]
+![](/images/Press%20Releases%202019/for%20media%20%20minister%20iswarans%20meeting%20with%20shenzhen%20party%20secretary%20wang%20weizhong.jpg)
 
 *Minister Iswaran meets with Shenzhen Party Secretary, Wang Weizhong.*
