@@ -33,4 +33,4 @@ image: ""
 
 ------------------------------------------------------------------------------------
 [^1]: The other institution is the Maritime Museum, Rotterdam.  
-[^2]: “_On Paper: Singapore before 1867_” brings together for the first time maps, documents, paintings and photographs held in collections across the globe, allowing visitors to examine them in the context of Singapore’s historical narrative. The Exhibition will be held at the National Library building on Victoria Street, and will be officially opened on 27 September 2019. The Exhibition, held in conjunction with the Singapore Bicentennial, will run through 22 March 2020.
+[^2]: “*On Paper: Singapore before 1867*” brings together for the first time maps, documents, paintings and photographs held in collections across the globe, allowing visitors to examine them in the context of Singapore’s historical narrative. The Exhibition will be held at the National Library building on Victoria Street, and will be officially opened on 27 September 2019. The Exhibition, held in conjunction with the Singapore Bicentennial, will run through 22 March 2020.
