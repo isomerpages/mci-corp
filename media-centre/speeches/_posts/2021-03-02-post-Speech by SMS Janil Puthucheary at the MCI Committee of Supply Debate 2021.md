@@ -63,7 +63,6 @@ image: ""
 28. First, to meet near-term demand, we facilitate the training and upskilling of cybersecurity professionals, as well as fresh and mid-career non-cybersecurity professionals for cybersecurity jobs, through programmes such as IMDA’s Tech Skills Accelerator.  
   
 29. Second, to strengthen our talent pipeline for the longer term, we encourage youths to pursue a career in the field through cyber outreach initiatives like SG Cyber Talent. We have engaged over 7,000 participants to-date.   
-  
 30. Thirdly, to groom world-class cybersecurity leaders, we launched the SG Cyber Leaders programme to create a community for current and developing cyber leaders to exchange ideas, and learn about global best practices.    
   
 31. All of us need to play our part to create a safer, more secure cyberspace.  There are things we can do as individuals. We should enable two-factor authentication, update our software in a timely manner, choose a passphrase rather than a password and staying vigilant to spot signs of phishing. But there are also things that we do as a country. Singapore participates actively in international discussions to develop and implement norms in line with our interests.   
