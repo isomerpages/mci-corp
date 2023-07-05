@@ -11,7 +11,7 @@ The MCI Whistleblowing Framework for Grants Administered by MCI aims to provide 
 
 The channels are independently managed by MCI Audit Unit.
 
-*\*&nbsp;For grants administered by Infocomm Media Development Authority (IMDA), please refer to&nbsp;[https://www.imda.gov.sg/about-imda/contact-us/whistleblowing](https://www.imda.gov.sg/about-imda/contact-us/whistleblowing)&nbsp;for more information.*&nbsp;
+*\*For grants administered by Infocomm Media Development Authority (IMDA), please refer to [https://www.imda.gov.sg/about-imda/contact-us/whistleblowing](https://www.imda.gov.sg/about-imda/contact-us/whistleblowing) for more information.*
 
 **Reportable Incidents**  
 Possible reportable incidents or concerns relating to grants administered by MCI can include but not limited to the following:
@@ -27,12 +27,11 @@ Possible reportable incidents or concerns relating to grants administered by MCI
 
 **Reporting Channels**
 
-The whistleblowing channels include:
-
-|   |  |
-| ------------- | ------------- |
-| Online form  | Submit&nbsp;[here](https://form.gov.sg/#!/63058a7e2849920013fd1fbd)  |
-| Email  | &nbsp;whistleblowing@mci.gov.sg<br>Attention to:&nbsp;**Director (Audit Unit)**  |
+The whistleblowing channels include
+   |   |  |
+   | ------------- | ------------- |
+   | Online form  | Submit [here](https://form.gov.sg/#!/63058a7e2849920013fd1fbd)  |
+   | Email  | whistleblowing@mci.gov.sg<br>Attention to: **Director (Audit Unit)**  |
 
 **Information To Be Provided**
 
