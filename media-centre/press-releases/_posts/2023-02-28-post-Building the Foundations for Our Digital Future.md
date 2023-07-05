@@ -18,16 +18,16 @@ image: ""
 
 4. To support and advise on the Digital Connectivity Blueprint, MCI has formed an **Advisory Panel on Digital Infrastructure** comprising business and industry leaders. The Panel will be co-chaired by Senior Minister of State for Communications and Information Dr Janil Puthucheary, and Executive Vice President of Global Operations at Western Digital Mr Irving Tan. The members of the panel are listed in the table below:  
 
-| **Name**  | **Current Designation** |
-| ------------- | ------------- |
-| Janil Puthucheary                   (Co-Chair) | Senior Minister of State for Communications and Information  |
-| Irving Tan                            (Co-Chair) | Executive Vice President, Global Operations, Western Digital  |
-| Amit Midha | President, APAC & Japan and Global Digital Cities, Dell Technologies  |
-| Keat Chuan Yeoh  | Chief Executive Officer, TEMUS  |
-| Maya Hari  | Chief Executive Officer, Terrascope  |
-| Raymond Choong  | Venture Partner, Focustech Ventures |
-| Soon Ghee Chua | Senior Partner, Kearney |
-| Wai Meng Wong | Chief Executive Officer, Keppel Data Centres; Chairman, SGTech |
+    | **Name**  | **Current Designation** |
+    | ------------- | ------------- |
+    | Janil Puthucheary (Co-Chair) | Senior Minister of State for Communications and Information  |
+    | Irving Tan (Co-Chair) | Executive Vice President, Global Operations, Western Digital  |
+    | Amit Midha | President, APAC & Japan and Global Digital Cities, Dell Technologies  |
+    | Keat Chuan Yeoh  | Chief Executive Officer, TEMUS  |
+    | Maya Hari  | Chief Executive Officer, Terrascope  |
+    | Raymond Choong  | Venture Partner, Focustech Ventures |
+    | Soon Ghee Chua | Senior Partner, Kearney |
+    | Wai Meng Wong | Chief Executive Officer, Keppel Data Centres; Chairman, SGTech |
 
 5. MCI will seek the panel’s insights on:
 
@@ -57,4 +57,3 @@ image: ""
 
 ------------------------------------------------------------------------------------
 [^1]: CSA’s Cybersecurity Industry Call for Innovation (aka CyberCall) invites companies to develop innovative solutions to address cybersecurity challenge statements.
-
