@@ -51,9 +51,10 @@ image: ""
 
     d. Companies are encouraged to develop innovative solutions to address specific challenges, such as in the field of cybersecurity.  Under CSA’s Cybersecurity Industry Call for Innovation (aka CyberCall)[^1], local company MicroSec developed a solution to secure low-powered IoT devices, and deployed this to around 16,000 home devices such as smart sockets in the HDB Punggol Northshore Project. 
 
-    e. Internationally, Singapore and South Korea signed a Memorandum of Understanding (MOU) on AI in Dec 2022, facilitating bilateral AI research and information exchange, and experiences in promoting the responsible use of AI. The National Quantum Office also signed an MOU with three research entities in Finland in Aug 2022 to explore R&D collaborations in quantum technologies. 
+    e. Internationally, Singapore and South Korea signed a Memorandum of Understanding (MOU) on AI in Dec 2022, facilitating bilateral AI research and information exchange, and experiences in promoting the responsible use of AI. The National Quantum Office also signed an MOU with three research entities in Finland in Aug 2022 to explore R&D collaborations in quantum technologies.
+		
+[Annex B-1: IMDA Awards Three New 5G Use-cases](/files/Press%20Releases%202023/cos%20annex%20b-1.pdf)
 
 ------------------------------------------------------------------------------------
 [^1]: CSA’s Cybersecurity Industry Call for Innovation (aka CyberCall) invites companies to develop innovative solutions to address cybersecurity challenge statements.
 
-[Annex B-1: IMDA Awards Three New 5G Use-cases](/files/Press%20Releases%202023/cos%20annex%20b-1.pdf)
