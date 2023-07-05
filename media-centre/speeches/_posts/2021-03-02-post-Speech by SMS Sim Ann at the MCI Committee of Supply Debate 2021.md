@@ -12,12 +12,12 @@ image: ""
   
 2. I will elaborate on four key strategies to achieve this:
 
-(a) First, we know not all Singaporeans are progressing at the same pace in the digital journey. Regardless of your starting point, the Government and key stakeholders will support you with the necessary resources.   
-(b) Second, we will forge strong partnerships with stakeholders.   
-(c) Third, we will continue to improve our last-mile delivery infrastructure.   
-(d) Fourth, we will strengthen our communication efforts, making trusted information accessible to all.  
+    (a) First, we know not all Singaporeans are progressing at the same pace in the digital journey. Regardless of your starting point, the Government and key stakeholders will support you with the necessary resources.   
+    (b) Second, we will forge strong partnerships with stakeholders.   
+    (c) Third, we will continue to improve our last-mile delivery infrastructure.   
+    (d) Fourth, we will strengthen our communication efforts, making trusted information accessible to all.  
 
-**Supporting fellow Singaporeans to go digital**
+    **Supporting fellow Singaporeans to go digital**
 
 3. Let me address how we will approach inclusive digitalisation, starting with small businesses, as asked by Ms Tin Pei Ling, Mr Sharael Taha and Mr Cheng Hsing Yao.    
   
@@ -33,7 +33,7 @@ image: ""
   
 9. MCI also works closely with MOE to address digital access and literacy needs of students. I am glad to update Ms Sylvia Lim, that since the Mobile Access for low-income seniors scheme was launched last year, more than 6,400 seniors have benefited from the subsidised smartphones and mobile data plans.  
   
-**Working with the community: Digital for Life Movement**
+    **Working with the community: Digital for Life Movement**
 
 10. Our second strategy is building strong partnerships. There is a growing sense that many in the community would like to contribute and support fellow Singaporeans. I chaired an Emerging Stronger Conversation on Digital Readiness in November last year. The 60 participants had a robust discussion on digital adoption challenges faced by vulnerable groups. Many asked what we, as a society, can do to help bridge the digital gap.   
   
@@ -45,7 +45,7 @@ image: ""
   
 14. With the Digital for Life Movement, I hope that the community can be empowered to hold conversations and collaborate even on thorny and complex social issues.   
   
-**Libraries as an inclusive learning space for all**
+    **Libraries as an inclusive learning space for all**
 
 15. To help Singaporeans pick up digital skills, our much-loved libraries have been transforming themselves into digital learning hubs. As mentioned by Minister, NLB will be embarking on the Libraries and Archives Blueprint 2025.  
   
@@ -63,7 +63,7 @@ image: ""
   
 22. NLB will continue to develop ways to support under-reached communities.  
   
-**Continual improvements to last-mile delivery infrastructure**
+    **Continual improvements to last-mile delivery infrastructure**
 
 23. Mr Liang Eng Hwa, Mr Sitoh Yih Pin and Mr Cheng Hsing Yao asked about MCI’s plans to transform the postal sector. This is addressed by our third strategy – which is to continue investing in digital infrastructure, so as to make the benefits of the digital economy more accessible to Singaporeans.   
   
@@ -79,7 +79,7 @@ image: ""
   
 29. These innovations are part and parcel of our collective effort to seek efficiency improvements and better value for consumers and residents, while making good use of technology and digitalisation.     
   
-**Inclusive communications to ensure access to trusted information for all**  
+    **Inclusive communications to ensure access to trusted information for all**  
   
 30. The fourth strategy is to strengthen our government communication efforts, making information accessible to all citizens with diverse backgrounds and language needs.  
   
@@ -115,7 +115,7 @@ image: ""
   
 46. 我们招募了一批公民译者，希望和他们一同探讨什么才是好的翻译，以及如何改进政府翻译。公众对公民译者计划的反应积极，令我们感到鼓舞。通讯及新闻部与全国翻译委员会期待和大家在这方面进一步合作，共同提升政府公文的翻译水平。  
   
-**Conclusion**  
+    **Conclusion**  
   
 47. The digital future presents many opportunities for different segments of our citizens. The Government will continue to work with partners from the people and private sectors to strengthen the digital ecosystem. This way, government-led programmes and community initiatives can complement each other and create greater value for Singaporeans.   
   
