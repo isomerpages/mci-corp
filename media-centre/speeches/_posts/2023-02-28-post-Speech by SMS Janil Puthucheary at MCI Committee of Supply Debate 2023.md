@@ -94,8 +94,8 @@ image: ""
   
     b. This is a significant endeavour on a nationwide scale. It is important that we undertake it efficiently, and in close partnership with the industry. Industry players generally recognise these trends, the bandwidth requirements they bring, and the importance of planning ahead for our NBN infrastructure. MCI and the advisory panel will continue to engage the wider industry on the upgrade approach, and consider their feedback as we chart our way forward.   
   
-    **Research and innovation capabilities**   
-   
+    **Research and innovation capabilities**
+
 14. In keeping with our forward-looking approach, the Government has been making investments to build a vibrant research and innovation ecosystem to explore how emerging technologies can position our people, businesses, and nation well for the future.   
   
     a. While we roll out our 5G networks, we are already embarking on research into the next generation of communications technologies like 6G. We want to understand how they can enhance Singapore’s digital connectivity and generate economic and social benefits for us in the future, just as 5G is beginning to do so today. Such upstream investments include the Future Communications Connectivity Lab, a testbed which IMDA partnered the Singapore University of Technology and Design to launch in Singapore last year.   
@@ -147,3 +147,5 @@ image: ""
 27. And with an eye to the future and close collaboration amongst all of us, I have every confidence that we can and will create a bright digital future for generations of Singaporeans to come.  
   
 28. Thank you, Sir.
+
+[PDF version of the speech](/files/Speeches%202023/transcript%20of%20speech%20by%20sms%20janil%20puthucheary%20at%20the%20committee%20of%20supply%20on%2028%20feb%202023.pdf)
