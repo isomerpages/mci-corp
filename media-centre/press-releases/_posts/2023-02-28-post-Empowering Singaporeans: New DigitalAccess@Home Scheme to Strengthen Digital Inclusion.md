@@ -49,10 +49,10 @@ image: ""
   
 9. Under the DfL movement, individuals and corporates are encouraged to support the less digitally savvy in their midst. As of November 2022, the DfL Fund has raised about $10.25million, comprising donations and dollar-for-dollar matching grant by the Government. The movement is seeking more individuals and organisations who are keen to tap on the Fund to drive digital inclusion projects and activities that will enable all Singaporeans to embrace digital and enrich lives. For more information, please visit [www.digitalforlife.gov.sg](https://www.digitalforlife.gov.sg/).
 
-------------------------------------------------------------------------------------
-
-[^1]: The DigitalAccess@Home system has been integrated with other government systems backend, which allows IMDA to automate and streamline the application process.
-
 [Annex A-1: Eligibility Criteria for DigitalAccess@Home](/files/Press%20Releases%202023/cos%20annex%20a-1.pdf)
 
 [Annex A-2: Co-Payment Amounts By Eligible Households](/files/Press%20Releases%202023/cos%20annex%20a-2.pdf)
+
+------------------------------------------------------------------------------------
+
+[^1]: The DigitalAccess@Home system has been integrated with other government systems backend, which allows IMDA to automate and streamline the application process.
