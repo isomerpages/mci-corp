@@ -56,3 +56,4 @@ image: ""
 ------------------------------------------------------------------------------------
 [^1]: CSA’s Cybersecurity Industry Call for Innovation (aka CyberCall) invites companies to develop innovative solutions to address cybersecurity challenge statements.
 
+[Annex B-1: IMDA Awards Three New 5G Use-cases](/files/Press%20Releases%202023/cos%20annex%20b-1.pdf)
