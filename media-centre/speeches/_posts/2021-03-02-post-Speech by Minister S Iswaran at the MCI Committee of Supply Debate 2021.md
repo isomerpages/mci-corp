@@ -20,17 +20,17 @@ image: ""
   
 6. The digital future we envision is underpinned by:
 
-a. Competitive enterprises that leverage digital technologies to innovate and grow;  
-b. An inclusive society where every member can realise the benefits of globalisation and digitalisation;  
-c. Safe and secure digital spaces protected from malicious actors and online harms;   
-d. Robust digital infrastructure with fit-for-purpose regulations; and  
-e. Close collaboration with our community and enterprise partners.
+    a. Competitive enterprises that leverage digital technologies to innovate and grow;  
+    b. An inclusive society where every member can realise the benefits of globalisation and digitalisation;  
+    c. Safe and secure digital spaces protected from malicious actors and online harms;   
+    d. Robust digital infrastructure with fit-for-purpose regulations; and  
+   e. Close collaboration with our community and enterprise partners.
 
 7. As we respond to the various issues raised by Members, my colleagues SMS Sim and SMS Janil, and I will elaborate on the work of MCI to realise this vision.  
   
-**Digitally Transforming our Economy**  
+    **Digitally Transforming our Economy**  
   
-Supporting businesses to reap the benefits of digitalisation  
+    *Supporting businesses to reap the benefits of digitalisation*
   
 8. Let me start with how we are supporting businesses to transform digitally.   
   
@@ -38,9 +38,9 @@ Supporting businesses to reap the benefits of digitalisation
   
 10. Mr Liang Eng Hwa   and Mr Don Wee   asked about the progress of schemes to help enterprises transform digitally. 
 
-a. To date, more than 63,000 SMEs have adopted digital solutions with the support of theSMEs Go Digital programme which was launched in 2017. About 40,000 of them in fact signed up just last year, in 2020 alone..  
-b. At least 2,000 enterprises have gained access to overseas markets through e-commerce platforms under the Grow Digital scheme. Over 1,000 enterprises have engaged the SME Digital Tech Hub for advice.   
-c. Over 35,000 enterprises are now registered for e-invoicing, compared to 1,000 a year ago.
+    a. To date, more than 63,000 SMEs have adopted digital solutions with the support of theSMEs Go Digital programme which was launched in 2017. About 40,000 of them in fact signed up just last year, in 2020 alone..  
+    b. At least 2,000 enterprises have gained access to overseas markets through e-commerce platforms under the Grow Digital scheme. Over 1,000 enterprises have engaged the SME Digital Tech Hub for advice.   
+    c. Over 35,000 enterprises are now registered for e-invoicing, compared to 1,000 a year ago.
 
 11. So the numbers are growing, and we have to build on this progress, so that more businesses, and the workers they employ, can reap the benefits.    
   
@@ -60,7 +60,7 @@ c. Over 35,000 enterprises are now registered for e-invoicing, compared to 1,000
   
 19. To Ms Tin’s question about support for local companies, IMDA’s Accreditation@SGD programme recognises promising and innovative local tech companies, and their products are considered first by government agencies for ICT procurement. In 2019, IMDA and CSA launched a new SecureTech track under the Accreditation programme to help local cybersecurity companies gain greater access to government projects. MCI will continue to study what more can be done to raise the competitiveness of local companies, including the several suggestions offered by Ms Tin.  
   
-Supporting businesses to make better use of data, while addressing privacy concerns  
+    *Supporting businesses to make better use of data, while addressing privacy concerns*
   
 20. As more businesses go digital, and more transactions go online, the volume and value of data will grow in tandem. As noted by Ms Tin and Mr Edward Chia, data can yield valuable insights that improve business efficiencies, and enhance products and services for consumers. However, we also recognise the counterpoint.  As more data is collected, the risk of data breaches also increases. If data is not used responsibly, trust can be eroded, even undermined. We therefore must strike a judicious balance. On the one hand, we must accord due protection to personal data and privacy. On the other, there is scope for businesses to use data responsibly for growth and innovation.  
   
@@ -70,21 +70,19 @@ Supporting businesses to make better use of data, while addressing privacy conce
   
 23. The Data Protection Trust Mark also enables businesses to signal, and for consumers to discern, good data practices. Ultimately, we need to nurture a culture of good data governance, use and practice. And that has to come from not just regulations or penalties, but also from education and industry efforts to share best practices.   
   
-Translating technology and accelerating digital innovation  
+    *Translating technology and accelerating digital innovation*  
   
-24. We are scaling up our efforts to go digital, we must continue the search for technology solutions that can power the next bound of our economic growth, and strengthen our position as a hub for digital innovation.  5G is key to this as it will be the backbone of our digital infrastructure. Singapore will have at least 50% 5G standalone outdoor coverage by the end of next year, and nationwide coverage by the end of 2025.  
+24. We are scaling up our efforts to go digital, we must continue the search for technology solutions that can power the next bound of our economic growth, and strengthen our position as a hub for digital innovation. 5G is key to this as it will be the backbone of our digital infrastructure. Singapore will have at least 50% 5G standalone outdoor coverage by the end of next year, and nationwide coverage by the end of 2025.  
   
 25. Ms Jessica Tan  asked how we can ensure that consumers and businesses will benefit from 5G deployment. The key is to build an ecosystem that supports innovation and the test-bedding of novel solutions. It is not just about providing the infrastructure, but it is in catalysing the collaboration between solution providers, service providers and end users to come up with validated use cases.IMDA will facilitate such test-bedding through facilities such as PIXEL, the 5G Living Lab, and initiatives such as the Open Innovation Platform.  
-  
-26. Under the Research, Innovation and Enterprise 2025 plan, translation will be a primary focus. MCI will work with partner agencies to drive the co-creation and commercialisation of intellectual property, and enable capability transfer between research institutes and enterprises, to have that virtuous interaction between our public sector’s R&D effort with private sector value creation. This is how we are building up our local ecosystem for digital innovation as asked by Mr de Souza  .   
-  
+26. Under the Research, Innovation and Enterprise 2025 plan, translation will be a primary focus. MCI will work with partner agencies to drive the co-creation and commercialisation of intellectual property, and enable capability transfer between research institutes and enterprises, to have that virtuous interaction between our public sector’s R&D effort with private sector value creation. This is how we are building up our local ecosystem for digital innovation as asked by Mr de Souza  . 
 27. We want to go further in driving ground-up digital innovation. IMDA's Open Innovation Platform (OIP) was launched in 2018 to crowdsource and match the demand from business challenges to a supply of innovative solutions.  It has grown into a vibrant ecosystem with over 10,000 registered users. Over 190 challenges have been launched, and over 60 solutions have been successfully developed.  
   
 28. We will invest $50 million over the next five years to enhance the capabilities of this platform. This will help more enterprises access innovative solutions, and accelerate the deployment of digital innovation at scale. IMDA will also co-fund the prototyping of matched challenges to help innovative tech companies expand their market base.  
   
-**Building an Inclusive Digital Society**  
+    **Building an Inclusive Digital Society**  
   
-Upskilling the workforce to secure good jobs for Singaporeans  
+    *Upskilling the workforce to secure good jobs for Singaporeans*  
   
 29. Mr Chairman, even as we pursue these exciting opportunities, we must pay heed to the very real concerns of mature workers and seniors, and also our youth and fresh graduates, over the accelerated pace of digitalisation. They worry if they will have a place in this digital future, especially if they do not have backgrounds in tech, or an inclination for engineering and software development.  
   
@@ -108,7 +106,7 @@ Upskilling the workforce to secure good jobs for Singaporeans
   
 39. The signs are promising. In 2017, 28% of the intake to Information Technology courses in our local universities were female. This figure increased to 35% in 2019. So the momentum is there,  and the message is getting through. We certainly need to enlist the help of women tech leaders, including the likes of Ms Jessica Tan and Ms Janet Ang and many others in this House to get this message out, and encourage more women to consider a career in tech.  
   
-Promoting digital literacy and lifelong learning  
+    *Promoting digital literacy and lifelong learning*  
   
 40. More broadly, we want all Singaporeans to be able to participate meaningfully and safely in online engagements. That is why we established the SG Digital Office in June last year, and launched the Hawkers and Seniors Go Digital programmes. So far, about 10,000 hawkers of a base of around 18,000 or so, and stallholders have adopted e-payment solutions.  The volume and value of transactions has grown fourfold from June 2020 to today.    
   
@@ -126,9 +124,9 @@ Promoting digital literacy and lifelong learning
   
 47. SMS Sim Ann will provide more details.   
   
-**Building Trust and Partnerships**  
+    **Building Trust and Partnerships**  
   
-Securing our digital spaces, and building trust in our communities  
+    *Securing our digital spaces, and building trust in our communities* 
   
 48. Like NLB, as more engagements shift to the digital space, individuals and businesses will be exposed to more risks and online harms. It is incumbent that our digital spaces are kept safe and secure, with members of online communities protected from malicious actors and other harms.  
   
@@ -138,7 +136,7 @@ Securing our digital spaces, and building trust in our communities
   
 51. To build trust in online spaces, we must also ensure safeguards against harmful online content that may harm individuals and divide society. Our regulation and public education efforts have helped Singaporeans deal with potential dangers online such as misinformation. But the threat is constantly changing. MCI and MHA are therefore studying how to enhance our regulations to deal with serious online harms and their real-world effects on society. We will share our findings and recommendations in due course.   
   
-Transforming Government Comms  
+    *Transforming Government Comms*  
   
 52. Ultimately, the first line of defence in our fight against misinformation is a well-informed citizenry who receive accurate communications, from reliable sources, in a timely manner.   
   
@@ -154,7 +152,7 @@ Transforming Government Comms
   
 58. SMS Sim will elaborate more our  efforts, including the use of multiple languages and channels, to make information accessible to all segments of our society.  
   
-Forging Partnerships  
+    *Forging Partnerships*  
   
 59. Partnership - with industry, the community and fellow Singaporeans – has been the anchor of our efforts to overcome the challenges posed by the pandemic, but also to emerge stronger. Industry partners have stepped up with initiatives to re-structure our economy and create new opportunities. Under the TeSA initiative, companies such as Google, Microsoft, IBM, Singtel, Sea and Grab, have committed to create more than 5,000 jobs and skills opportunities in tech and ICT.  
   
@@ -170,7 +168,7 @@ Forging Partnerships
   
 65. SMS Sim will elaborate further.   
   
-**Conclusion**  
+    **Conclusion**  
   
 66. Mr Speaker, I would like to conclude by emphasising the Government’s resolute commitment to build a safe, inclusive and thriving digital future for all Singaporeans.  My Ministry will lay strong foundations for that digital future by investing in infrastructure, driving research and digital innovation, equipping businesses with digital tools, and supporting Singaporeans to learn, upskill, and stay informed.  
   
