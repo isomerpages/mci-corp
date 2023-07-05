@@ -51,7 +51,7 @@ The sessions examined the evolution of content, its impact on the media value ch
 
 **For any other queries, please feel free to drop an email** [MCI\_Connects@mci.gov.sg](mailto:MCI_Connects@mci.gov.sg).
 
-# SPEECHES AND ANNOUNCEMENTS
+## SPEECHES AND ANNOUNCEMENTS
 
 * [Minister S Iswaran’s Opening Speech at MCI Insights Conference](/media-centre/speeches/opening-remarks-by-minister-s-iswaran-at-mci-insights-conference-2020/)
 * [PS Yong Ying-I's Closing Speech at MCI Insights Conference](/media-centre/speeches/closing-speech-at-mci-insights-conference-by-ps-yong/)
@@ -59,7 +59,7 @@ The sessions examined the evolution of content, its impact on the media value ch
 
 * [Press Release: MCI Insights Conference](/media-centre/press-releases/mci-deepens-partnerships-with-industry-and-community/)
 
-# VIDEOS AND PHOTOS
+## VIDEOS AND PHOTOS
 ### Emerging Stronger Together for a Shared Digital Future
 
 Singapore’s success in the Digital Future hinges on the close collaboration between industry stakeholders, community partners and the Government, to turn conversations into action. See how the these partnerships make a difference in the lives of all Singaporean businesses, workers, and individuals.
