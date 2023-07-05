@@ -53,6 +53,6 @@ image: ""
 
 [^1]: The DigitalAccess@Home system has been integrated with other government systems backend, which allows IMDA to automate and streamline the application process.
 
-[Annex A-1: Eligibility Criteria for DigitalAccess@Home]
+[Annex A-1: Eligibility Criteria for DigitalAccess@Home](/files/Press%20Releases%202023/cos%20annex%20a-1.pdf)
 
-[Annex A-2: Co-Payment Amounts By Eligible Households]
+[Annex A-2: Co-Payment Amounts By Eligible Households](/files/Press%20Releases%202023/cos%20annex%20a-2.pdf)
