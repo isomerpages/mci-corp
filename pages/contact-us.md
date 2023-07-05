@@ -30,7 +30,7 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: /whistleblowing/
+      - other: "[Details](https://mci.gov.sg/whistleblowing/)"
     title: Whistle Blowing Channels
 feedback: https://form.gov.sg/5d6cbb7d2efdae001258109a
 ---
