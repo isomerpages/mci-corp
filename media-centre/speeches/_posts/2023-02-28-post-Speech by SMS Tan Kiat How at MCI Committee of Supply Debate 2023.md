@@ -92,5 +92,7 @@ image: ""
 
 39. Thank you.
 
+[PDF version of the speech](/files/Speeches%202023/transcript%20of%20speech%20by%20sms%20tan%20kiat%20how%20at%20the%20committee%20of%20supply%20on%2028%20feb%202023%20v3.pdf)
+
 --------------------------------------------------------------------------------------------------------------------------
 [^1]: Median gross monthly income from work (excluding employer CPF) of full-time employed residents.
