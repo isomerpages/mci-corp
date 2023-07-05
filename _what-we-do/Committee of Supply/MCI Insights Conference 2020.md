@@ -60,8 +60,8 @@ The sessions examined the evolution of content, its impact on the media value ch
 * [Press Release: MCI Insights Conference](/media-centre/press-releases/mci-deepens-partnerships-with-industry-and-community/)
 
 ## VIDEOS AND PHOTOS
-### Emerging Stronger Together for a Shared Digital Future
 
+### Emerging Stronger Together for a Shared Digital Future
 Singapore’s success in the Digital Future hinges on the close collaboration between industry stakeholders, community partners and the Government, to turn conversations into action. See how the these partnerships make a difference in the lives of all Singaporean businesses, workers, and individuals.
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/j25xQOPShnI" height="315" width="560"></iframe>
