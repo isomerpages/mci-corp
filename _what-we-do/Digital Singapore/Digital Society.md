@@ -42,11 +42,11 @@ Digital access support is provided to vulnerable segments through [Digital Acces
 
 [Wireless@SG](https://www.imda.gov.sg/how-we-can-help/wireless-at-sg) by IMDA provides free Wi-Fi access in public spaces, in collaboration with venue owners and service providers. 
 
-All library members may enjoy free access to NLB eResources and 1 hour of free Internet access daily at the Multimedia Stations in the libraries (except library@chinatown and library@orchard). 
+All library members may enjoy free access to NLB eResources and 1 hour of free Internet access daily at the [Multimedia Stations in the libraries](https://www.nlb.gov.sg/main/services/facilities/Multimedia-Stations) (except library@chinatown and library@orchard). 
 
 **Technology Opportunities for Persons with Disabilities**
 
-Tech Able, an initiative by SG Enable and SPD, is an integrated assistive technology space at the Enabling Village. It features a technology exhibition for persons with disabilities and provides them with assistive device assessment services. Persons with disabilities can find out about devices that will help them in their employment or daily activities.
+[Tech Able](https://enablingvillage.sg/assistive-technologies-at-the-enabling-village/), an initiative by SG Enable and SPD, is an integrated assistive technology space at the Enabling Village. It features a technology exhibition for persons with disabilities and provides them with assistive device assessment services. Persons with disabilities can find out about devices that will help them in their employment or daily activities.
 
 **Provision of Non-digital Alternatives**  
 
@@ -54,57 +54,54 @@ Government initiatives to equip citizens with digital access and skills are comp
 
 Many Government agencies currently provide in-person and contact centre services, to assist those who may have difficulty transacting online.   
 
-The Public Service has also set up ServiceSG Centres at various heartland locations, to serve as first-stop physical service touchpoints where officers can guide citizens through digital transactions and offer integrated services across different public agencies for citizens.
+The Public Service has also set up [ServiceSG Centres](https://www.psd.gov.sg/servicesg/) at various heartland locations, to serve as first-stop physical service touchpoints where officers can guide citizens through digital transactions and offer integrated services across different public agencies for citizens.
 
 # **Digital Literacy**
-
+![](/images/dmilf%20logo.png)
 **Digital Media and Information Literacy Framework**
 
-The Digital Media and Information Literacy Framework (last updated in 2019) guides digital literacy programme owners and public agencies in planning media literacy and information literacy programmes. 
-
+The [Digital Media and Information Literacy Framework](/digital-media-information-literacy-framework/) (last updated in 2019) guides digital literacy programme owners and public agencies in planning media literacy and information literacy programmes. 
 
 **Media Literacy Council** 
 
-The Media Literacy Council (MLC) seeks to encourage the public to become discerning media consumers with the ability to effectively evaluate, use, create, and share content safely and responsibly. MLC’s Better Internet Campaign has been re-positioned under the Digital Wellness (DW) campaign in 2021 led by the national Digital for Life movement.
+The [Media Literacy Council (MLC)](https://www.betterinternet.sg/) seeks to encourage the public to become discerning media consumers with the ability to effectively evaluate, use, create, and share content safely and responsibly. MLC’s Better Internet Campaign has been re-positioned under the [Digital Wellness (DW) campaign](https://www.imda.gov.sg/digitalforlife/digitalwellness) in 2021 led by the national Digital for Life movement.
 
 **Seniors Go Digital** 
 
-SG Digital Office’s Seniors Go Digital programme provides basic digital training to seniors, such as e-communications, government digital services and e-payment. The curriculum comprises 1-to-1 and small group lessons at the SG Digital Community Hubs and Learning Journeys to guide seniors in real world applications of digital skills.  
+SG Digital Office’s [Seniors Go Digital](https://www.imda.gov.sg/en/seniorsgodigital) programme provides basic digital training to seniors, such as e-communications, government digital services and e-payment. The curriculum comprises 1-to-1 and small group lessons at the SG Digital Community Hubs and Learning Journeys to guide seniors in real world applications of digital skills.  
 
 **SG Cyber Safe Seniors Programme** 
 
-SG Cyber Safe Seniors Programme**,** led by CSA in collaboration with IMDA and SPF, aims to raise seniors’ awareness of cybersecurity and cybercrime and encourage adoption of good cyber hygiene practices.  
+[SG Cyber Safe Seniors Programme](https://www.csa.gov.sg/our-programmes/cybersecurity-outreach/sg-cyber-safe-seniors), led by CSA in collaboration with IMDA and SPF, aims to raise seniors’ awareness of cybersecurity and cybercrime and encourage adoption of good cyber hygiene practices.  
 
 **Cyber Wellness Education**
 
-Cyber Wellness in MOE’s Character and Citizenship Education (CCE) curriculum focuses on the well-being of students as they navigate cyberspace. The CCE curriculum aims to equip students with the knowledge and skills to harness the power of Information and Communication Technologies (ICT) for positive purposes, maintain a positive presence in cyberspace and be safe and responsible users of ICT.
+[Cyber Wellness](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness) in MOE’s Character and Citizenship Education (CCE) curriculum focuses on the well-being of students as they navigate cyberspace. The CCE curriculum aims to equip students with the knowledge and skills to harness the power of Information and Communication Technologies (ICT) for positive purposes, maintain a positive presence in cyberspace and be safe and responsible users of ICT.
 
 **Code For Fun** 
 
-The Code for Fun Enrichment Programme (offered jointly by MOE and IMDA) aims to increase primary and secondary school students’ exposure to coding and computational thinking. Students learn computational thinking, coding concepts and emerging technology through engaging hands-on experiences, robotic kits and/or microcontrollers.
-  
+The [Code for Fun](https://codesg.imda.gov.sg/code-for-fun/) Enrichment Programme (offered jointly by MOE and IMDA) aims to increase primary and secondary school students’ exposure to coding and computational thinking. Students learn computational thinking, coding concepts and emerging technology through engaging hands-on experiences, robotic kits and/or microcontrollers.
 
-Lifelong Learning and Discovering at NLB
-
+**Lifelong Learning and Discovering at NLB**
 
 NLB aims to empower and elevate every segment of society to learn and discover continuously to be ready for the future. 
 
 **S.U.R.E. Programme** 
 
-The Source, Understand, Research, Evaluate (S.U.R.E) programme by the National Library Board promotes the importance of information searching and discernment to the general public. S.U.R.E. distils key information literacy concepts into four simple steps to help us verify the information we receive.  
+The [Source, Understand, Research, Evaluate (S.U.R.E)](https://sure.nlb.gov.sg/) programme by the National Library Board promotes the importance of information searching and discernment to the general public. S.U.R.E. distils key information literacy concepts into four simple steps to help us verify the information we receive.  
   
 **ExperienceIT**
 
-ExperienceIT by NLB is an immersive showcase of emerging technologies and innovations, which are transforming the way we work, live, and play. Through interaction with these technologies, visitors can experience and explore first-hand how they change our world, through related resources and programmes. 
+[ExperienceIT](https://www.nlb.gov.sg/main/whats-on/Data/Events-Card/ExperienceIT-Punggol-Regional-Library) by NLB is an immersive showcase of emerging technologies and innovations, which are transforming the way we work, live, and play. Through interaction with these technologies, visitors can experience and explore first-hand how they change our world, through related resources and programmes. 
 
 **LearnX Digital: Digital Learning in the Libraries**
 
-LearnX Digital is NLB’s suite of digital readiness programmes and curated resources for citizens of all ages. Hear from experts through curated talks, practise hands-on skills in guided environments, and build motivation and confidence in navigating emerging technology through showcases such as ExperienceIT.
+[LearnX Digital](https://learning.nlb.gov.sg/digital/overview/) is NLB’s suite of digital readiness programmes and curated resources for citizens of all ages. Hear from experts through curated talks, practise hands-on skills in guided environments, and build motivation and confidence in navigating emerging technology through showcases such as ExperienceIT.
 
 **MakeIT at Libraries** 
 
-MakeIT at Libraries offers library users a dedicated innovation space with tools, equipment, and hardware kits that enable individuals to Learn, Tinker, and Create in both digital and traditional fabrication.
+[MakeIT at Libraries](https://www.nlb.gov.sg/main/services/MakeIT-at-Libraries) offers library users a dedicated innovation space with tools, equipment, and hardware kits that enable individuals to Learn, Tinker, and Create in both digital and traditional fabrication.
 	
 # **Feedback**
 	
-If you have any suggestions on how we can work together towards a safe and digitally inclusive Singapore, or if you would like to contribute to this effort in any way, we would be happy to hear from you. You may email us at MCI-Digital\_Readiness\_and\_Learning\_Div@mci.gov.sg!
+If you have any suggestions on how we can work together towards a safe and digitally inclusive Singapore, or if you would like to contribute to this effort in any way, we would be happy to hear from you. You may email us at MCI-Digital_Readiness_and_Learning_Div@mci.gov.sg!
