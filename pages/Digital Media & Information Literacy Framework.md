@@ -169,9 +169,8 @@ Fighting online scams:
 
 Additional resources coming soon!
 
-**
 
-Contact Us
+# Contact Us
 
 For Enquiries and Feedback
 
