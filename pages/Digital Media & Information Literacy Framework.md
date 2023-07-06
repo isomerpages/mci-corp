@@ -122,15 +122,15 @@ Suggested Focus Areas
 
 Keep up to date on the latest information, news and resources around digital media and information literacy through these resources:
 
-*   The Media Literacy Council's has various articles, tip sheets and guides for parents, youth and educators on a range of digital literacy issues, including cyber-bullying, fake news and privacy concerns.
-*   National Crime Prevention Council's Scam Alert website contains a repository of the latest scam stories, statistics and multi-media resources for the general public. 
-*   National Library Board's Source. Understand. Research. Evaluate. (S.U.R.E.) website contains resources and tip sheets on fact-checking and information literacy in all four languages. 
-*   Cyber Security Agency of Singapore's GoSafeOnline website contains various resources for parents, students and businesses on topics around personal data protection and cyber hygiene. 
-*   Personal Data Protection Commission Singapore's website contains resources for organisations and individuals on protecting personal data and more information about the Personal Data Protection Act.
+*   The Media Literacy Council has various articles, tip sheets and guides for parents, youth and educators on a range of digital literacy issues, including cyber-bullying, fake news and privacy concerns.
+*   National Crime Prevention Council's [Scam Alert](https://www.scamalert.sg/) website contains a repository of the latest scam stories, statistics and multi-media resources for the general public. 
+*   National Library Board's [Source. Understand. Research. Evaluate. (S.U.R.E.)](https://www.nlb.gov.sg/main/home) website contains resources and tip sheets on fact-checking and information literacy in all four languages. 
+*   Cyber Security Agency of Singapore's [GoSafeOnline](https://www.csa.gov.sg/Tips-Resource/Resources/gosafeonline) website contains various resources for parents, students and businesses on topics around personal data protection and cyber hygiene. 
+*   Personal Data Protection Commission Singapore's [website](https://www.pdpc.gov.sg/) contains resources for organisations and individuals on protecting personal data and more information about the Personal Data Protection Act.
 
 # Individual
 Self-Assessment Checklist  
-This [checklist](https://www.mci.gov.sg/literacy/-/media/Literacy/Library/Topic/SelfAssessment-Checklist-8-July-2019.ashx) will help individuals to assess their level of competency in a range of digital media and information literacy skills.  
+This checklist[checklist](/files/selfassessment%20checklist%208%20july%202019.pdf) will help individuals to assess their level of competency in a range of digital media and information literacy skills.  
 
 **Appreciation of Technology**
 
@@ -174,4 +174,4 @@ Additional resources coming soon!
 
 For Enquiries and Feedback
 
-You may [email us at MCI-Digital\_Readiness\_and\_Learning\_Div@mci.gov.sg](mailto:MCI-Digital_Readiness_and_Learning_Div@mci.gov.sg)**
+You may [email us at MCI-Digital\_Readiness\_and\_Learning\_Div@mci.gov.sg](mailto:MCI-Digital_Readiness_and_Learning_Div@mci.gov.sg)
