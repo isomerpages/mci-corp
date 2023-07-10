@@ -4,7 +4,9 @@ permalink: /what-we-do/public-comms-and-engagement/public-engagement/
 description: ""
 third_nav_title: Public Comms and Engagement
 ---
-# Inform and engage Singaporeans on national and social issues
+## Inform and engage Singaporeans on national and social issues  
+
+Our work involves keeping the public informed and engaged, on challenges Singapore faces, what the government is doing to address them, and how the public can play a part.
 
 ## Gov.sg
 
