@@ -10,25 +10,25 @@ Our work involves keeping the public informed and engaged, on challenges Singapo
 
 ## Gov.sg
 
-![](/images/Public%20Comms/govsg%20logo.png)
+<img style="height:292px; width:400px;" src="/images/Public%20Comms/govsg%20logo.png">
 
 The Gov.sg Portal is the official online communication platform of the Singapore Government which provides the latest policy announcements and information on Singapore.
 
-Website: [www.gov.sg](http://www.gov.sg/)
+Website:&nbsp;[www.gov.sg](http://www.gov.sg/)
 
-Facebook: [@gov.sg](http://www.facebook.com/gov.sg)
+Facebook:&nbsp;[@gov.sg](http://www.facebook.com/gov.sg)
 
-Instagram: [@gov.sg](http://www.instagram.com/gov.sg)
+Instagram:&nbsp;[@gov.sg](http://www.instagram.com/gov.sg)
 
-Twitter: [@govsingapore](http://www.twitter.com/govsingapore)
+Twitter:&nbsp;[@govsingapore](http://www.twitter.com/govsingapore)
 
 Linkedin:[@govsg](http://linkedin.com/company/govsg)
 
-TikTok: [@Gov.sg](http://tiktok.com/@gov.sg)
+TikTok:&nbsp;[@Gov.sg](http://tiktok.com/@gov.sg)
 
-Telegram: [@Govsg](http://t.me/s/govsg)
+Telegram:&nbsp;[@Govsg](http://t.me/s/govsg)
 
-WhatsApp: [go.gov.sg/wa-channels](http://go.gov.sg/wa-channels)
+WhatsApp:&nbsp;[go.gov.sg/wa-channels](http://go.gov.sg/wa-channels)
 
 ## REACH
 
@@ -45,10 +45,10 @@ Members of the public can share their views through:
 
 **REACH Channels:**
 
-*   REACH Facebook Page ([https://www.facebook.com/REACHSingapore](https://www.facebook.com/REACHSingapore) )
-*   REACH Instagram ([https://www.instagram.com/reachsg/](https://www.instagram.com/reachsg/) )
-*   REACH LinkedIn ([https://www.linkedin.com/company/reachsg](https://www.linkedin.com/company/reachsg) )
-*   REACH TikTok ([https://www.tiktok.com/@reachsingapore](https://www.tiktok.com/@reachsingapore) )
+*   REACH Facebook Page ([https://www.facebook.com/REACHSingapore](https://www.facebook.com/REACHSingapore)&nbsp;)
+*   REACH Instagram ([https://www.instagram.com/reachsg/](https://www.instagram.com/reachsg/)&nbsp;)
+*   REACH LinkedIn ([https://www.linkedin.com/company/reachsg](https://www.linkedin.com/company/reachsg)&nbsp;)
+*   REACH TikTok ([https://www.tiktok.com/@reachsingapore](https://www.tiktok.com/@reachsingapore)&nbsp;)
 *   REACH YouTube ([https://www.youtube.com/channel/UC3mnMiTmWlVvEXWcBDXpCiw/featured](https://www.youtube.com/channel/UC3mnMiTmWlVvEXWcBDXpCiw/featured))
 
 Visit our [webpage](https://www.reach.gov.sg/) at REACH (reaching everyone for active citizenry@ home)
