@@ -65,6 +65,4 @@ Colleagues from MCI and IMDA
 
 14. Building on this digital infrastructure will always be a work-in-progress. We have a strong partnership between government, industry and key stakeholders. This will be crucial as we continue to refine our plans to capitalise on the fast-changing digital trends. This Blueprint will have to be a living document, the relationships that we have with our stakeholders will have to be kept alive and dynamic, and we will have to continue to engage and wrestle with issues as the space develops. I am confident that Singapore's digital future is bright, with better opportunities, stronger trust and empowered communities.
 
-
-
-
+[PDF version of the speech](/files/Speeches%202023/speech%20by%20sms%20janil%20at%20dcb%20launch%20on%205%20june%202023.pdf)
