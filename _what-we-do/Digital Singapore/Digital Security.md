@@ -27,14 +27,15 @@ New threats from the digital domain can breach data systems and threaten social 
 ### Be Secure  
   
 Individuals and businesses can be secure by practising good cybersecurity habits to safeguard data and devices.  
-  
-\[Infographic\]  
+![](/images/Digital%20Security/cyber%20tips%204%20you%20%20flyer%20eng.jpg)
   
 For more information, visit [Gosafeonline](https://www.csa.gov.sg/Tips-Resource/Resources/gosafeonline).  
   
 ### Be Alert  
   
 We can be alert by being vigilant against disinformation or fake news that aim to manipulate.  
+
+![](/images/Digital%20Security/sure%20nlb.JPG)
   
 For more information, visit [S.U.R.E](https://sure.nlb.gov.sg/).  
   
@@ -43,12 +44,16 @@ For more information, visit [S.U.R.E](https://sure.nlb.gov.sg/).
 We can be responsible by being mindful when producing or sharing content which may impact our community.  
   
 Fake news are becoming increasingly sophisticated and pervasive, and they can be difficult to detect. If we think that a piece of information may be untrue, we can play our part in not propagating fake news by not posting or forwarding it.  
+
+![](/images/Digital%20Security/say%20watd.jpg)
   
 For more information, visit [Media Literacy Council](https://www.betterinternet.sg/).  
   
 ### Total Defence  
   
-Digital Defence is one of the six pillars of Total Defence.  
+Digital Defence is one of the six pillars of Total Defence. 
+
+![](/images/Digital%20Security/6%20shields.jpg)
 
 Total Defence is a recognition that every individual has a role to play in defending Singapore and keeping Singapore strong.  
   
