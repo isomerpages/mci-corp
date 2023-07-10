@@ -4,3 +4,47 @@ permalink: /what-we-do/public-comms-and-engagement/public-engagement/
 description: ""
 third_nav_title: Public Comms and Engagement
 ---
+# Inform and engage Singaporeans on national and social issues
+
+## Gov.sg
+
+The Gov.sg Portal is the official online communication platform of the Singapore Government which provides the latest policy announcements and information on Singapore.
+
+Website: [www.gov.sg](http://www.gov.sg/)
+
+Facebook: [@gov.sg](http://www.facebook.com/gov.sg)
+
+Instagram: [@gov.sg](http://www.instagram.com/gov.sg)
+
+Twitter: [@govsingapore](http://www.twitter.com/govsingapore)
+
+Linkedin:[@govsg](http://linkedin.com/company/govsg)
+
+TikTok: [@Gov.sg](http://tiktok.com/@gov.sg)
+
+Telegram: [@Govsg](http://t.me/s/govsg)
+
+WhatsApp: [go.gov.sg/wa-channels](http://go.gov.sg/wa-channels)
+
+## REACH
+
+**Who is REACH?**
+
+At REACH (reaching everyone for active citizenry @ home), we seek to engage and gather feedback from fellow Singaporeans on national and social issues that are close to our hearts. We analyse and share all the feedback we receive, regardless of sentiment, with our colleagues in the relevant Ministries and agencies as part of the policymaking process.
+
+**How do I share my feedback on REACH?**
+
+Members of the public can share their views through:
+
+*   REACH Online Feedback Form
+*   Post: 140 Hill Street, #01-01A, Old Hill Street Police Station, Singapore 179369
+
+**REACH Channels:**
+
+*   REACH Facebook Page ([https://www.facebook.com/REACHSingapore](https://www.facebook.com/REACHSingapore) )
+*   REACH Instagram ([https://www.instagram.com/reachsg/](https://www.instagram.com/reachsg/) )
+*   REACH LinkedIn ([https://www.linkedin.com/company/reachsg](https://www.linkedin.com/company/reachsg) )
+*   REACH TikTok ([https://www.tiktok.com/@reachsingapore](https://www.tiktok.com/@reachsingapore) )
+*   REACH YouTube ([https://www.youtube.com/channel/UC3mnMiTmWlVvEXWcBDXpCiw/featured](https://www.youtube.com/channel/UC3mnMiTmWlVvEXWcBDXpCiw/featured))
+
+Visit our webpage at REACH (reaching everyone for active citizenry@ home)
