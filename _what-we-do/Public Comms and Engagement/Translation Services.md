@@ -4,8 +4,7 @@ permalink: /what-we-do/public-comms-and-engagement/translation-services/
 description: ""
 third_nav_title: Public Comms and Engagement
 ---
-Enhancing communications through effective translations
--------------------------------------------------------
+## Enhancing communications through effective translations
 
 The National Translation Committee (NTC) oversees all the plans to enhance whole-of-government translation capabilities and see to improvements across the board for the industry.
 
