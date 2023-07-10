@@ -10,6 +10,8 @@ Our work involves keeping the public informed and engaged, on challenges Singapo
 
 ## Gov.sg
 
+![](/images/Public%20Comms/govsg%20logo.png)
+
 The Gov.sg Portal is the official online communication platform of the Singapore Government which provides the latest policy announcements and information on Singapore.
 
 Website: [www.gov.sg](http://www.gov.sg/)
