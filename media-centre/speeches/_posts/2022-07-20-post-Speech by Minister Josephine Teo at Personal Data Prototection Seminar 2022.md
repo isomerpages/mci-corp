@@ -63,3 +63,5 @@ image: ""
 <p><sup>1&nbsp;</sup>A superapp is a mobile or web application that can provide multiple services like payment and financial transaction processing. It can become a self-contained commerce and communication platform that embraces many aspects of personal data commercial life.&nbsp;</p>
 <div><sup>2&nbsp;</sup>This was announced in Minister’s COS speech this year.&nbsp;</div>
 <p>&nbsp;</p>
+
+[PDF version of the speech ](/files/Speeches%202022/transcript%20of%20minister%20josephine%20teo%20at%20pdp%20seminar.pdf)
