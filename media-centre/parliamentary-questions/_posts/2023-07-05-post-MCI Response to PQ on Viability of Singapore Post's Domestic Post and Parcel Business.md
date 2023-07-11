@@ -22,8 +22,8 @@ QUESTION FOR ORAL ANSWER
   
 3. With this decline, it will be challenging for SingPost to continue running a viable business with its current operating model, and at the current postage rates. As such, a balance must be struck to allow SingPost to fulfil its responsibilities in a sustainable manner, while ensuring the continuity of postal services for Singaporeans.   
    
-4. The Infocomm Media Development Authority (IMDA), as the postal regulator, will work with SingPost to review its costs and operations, including optimising and automating post office services for greater cost effectiveness. IMDA will also review the current postal service obligations to ensure that they remain relevant in today’s highly-digitalised context, especially given the many alternative electronic communication channels available to consumers and businesses.  
-  
+4. The Infocomm Media Development Authority (IMDA), as the postal regulator, will work with SingPost to review its costs and operations, including optimising and automating post office services for greater cost effectiveness. IMDA will also review the current postal service obligations to ensure that they remain relevant in today’s highly-digitalised context, especially given the many alternative electronic communication channels available to consumers and businesses.
+
 5. At the same time, IMDA will consider allowing SingPost to introduce postage rate adjustments in future to better reflect the cost of letter mail business going forward. Domestic postage rates have largely been held constant since 2014, apart from a small increase at the start of this year[^1].  The upcoming adjustments will have to be of a sufficient degree to allow SingPost’s business model to remain viable, without requiring direct Government funding.   
   
 6. Finally, as SingPost reviews the company’s business transformation strategies to remain relevant, we will work closely with SingPost on a fundamental review of the future of Singapore’s postal service, recognising the larger shifts in the delivery ecosystem and changing needs in our local context, including the rise of logistics and e-commerce players. 
