@@ -70,3 +70,5 @@ Pick Network provides convenience to consumers and uplifts the productivity of t
 <p><sup>1&nbsp;</sup>According to the US Environmental Protection Agency’s Greenhouse Gas Equivalencies Calculator.<br>
 <sup>2</sup> According to data analytics company GlobalData (As of January 2022)&nbsp;<br>
 <sup>3&nbsp;</sup>Annual South-east Asia e-Conomy study published by Google, Temasek and Bain &amp; Company, 2021</p>
+
+[PDF version of the speech](/files/Speeches%202022/speech%20by%20sms%20tan%20kiat%20how%20for%20pick%20industry%20engagement%20event%20on%2026%20jul.pdf)
