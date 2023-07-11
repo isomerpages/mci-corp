@@ -9,11 +9,11 @@ image: ""
 ---
 * UK Deputy Prime Minister Oliver Dowden and Singapore’s Minister for Communications and Information Josephine Teo sign two Memoranda of Understanding during DPM Dowden’s visit to Singapore  
 * Agreements will further UK and Singapore’s world-leading positions on cyber security, connectivity and AI  
-   
+
 SINGAPORE, 27 June 2023 - The United Kingdom and Singapore committed to lead new advances on Government use of data and new technologies, with two new agreements to deepen research and regulatory cooperation.  
-   
+
 The Memorandum of Understanding agreements were signed during UK Deputy Prime Minister Oliver Dowden’s first international visit since his appointment last year, during his meeting with Singapore’s Minister Josephine Teo. They were agreed between the UK's Department for Science, Innovation and Technology and Singapore's Ministry of Communications and Information and the Smart Nation and Digital Government Office.   
-  
+
 UK Deputy Prime Minister Oliver Dowden said:  
    
 “Emerging technologies like AI present challenges and opportunities for all countries. But by cooperating on research, regulation and our experience of how we use them in Government - we can deliver better and more efficient public services.  
