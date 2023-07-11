@@ -79,3 +79,5 @@ To uplift OT cybersecurity posture in Singapore, we must improve our People, Pro
 29.<span style="white-space: pre;"> 		</span>I wish all of you a pleasant and fruitful conference. Thank you. </p>
 <p>----------------------------------------------------------</p>
 <p><sup>1&nbsp;</sup>OTTCF launched on 8 October 2021.</p>
+
+[PDF version of the speech](/files/Speeches%202022/speech%20by%20minister%20josephine%20teo%20at%20the%20otcep%20forum%202022.pdf)
