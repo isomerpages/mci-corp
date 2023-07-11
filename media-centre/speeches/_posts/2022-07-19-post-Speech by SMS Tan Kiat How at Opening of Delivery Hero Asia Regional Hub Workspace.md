@@ -78,4 +78,3 @@ Ladies and gentlemen,<br>
 32.<span style="white-space: pre;">		</span>In closing, let me once again warmly congratulate foodpanda on this important milestone and look forward to seeing foodpanda’s continued growth. 10 years in the tech ecosystem is a milestone and my warm congratulations to all of you again.</p>
 
 [PDF version of the speech](/files/Speeches%202022/speech%20by%20sms%20tan%20kiat%20how%20at%20opening%20of%20delivery%20hero%20asias%20regional%20hub%20workspace%20.pdf)
-
