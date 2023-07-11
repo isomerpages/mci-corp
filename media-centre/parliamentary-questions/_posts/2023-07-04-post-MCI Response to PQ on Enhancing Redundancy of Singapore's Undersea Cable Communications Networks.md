@@ -16,6 +16,8 @@ QUESTION FOR WRITTEN ANSWER
   
 **Answer:**
 
-1. The Member may refer to my parliamentary reply on 7 November 2022 on the measures taken to safeguard Singapore’s access to and the resilience of submarine cable networks[^1]. To further support our growing bandwidth needs, we will allocate more space and landing resources for submarine cable operators.   
+1. The Member may refer to my parliamentary reply on 7 November 2022 on the measures taken to safeguard Singapore’s access to and the resilience of submarine cable networks[^1]. To further support our growing bandwidth needs, we will allocate more space and landing resources for submarine cable operators.  
+
+------------------------------------------------------------------------------------
   
 [^1]: [https://sprs.parl.gov.sg/search/#/sprs3topic?reportid=written-answer-na-11829](https://sprs.parl.gov.sg/search/?reportid=written-answer-na-11829#/sprs3topic)
