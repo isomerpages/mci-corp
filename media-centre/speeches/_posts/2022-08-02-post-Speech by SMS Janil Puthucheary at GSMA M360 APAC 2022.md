@@ -47,3 +47,6 @@ image: ""
 10. <span style="white-space: pre;">		</span>I hope this very rapid sketch gives you some sense of how we are approaching the ideas and challenges to build a digital nation here in Singapore. I think we can spend some time thinking about each of these ideas, and I’m looking forward to our fireside chat and the questions that you may have to explore some of these ideas.</p>
 <p>
 11. <span style="white-space: pre;">		</span>With that, I wish you a wonderful event and thank you very much for taking the time to travel here to Singapore and join us for this.</p>
+
+[PDF version of the speech](/files/Speeches%202022/transcript%20of%20speech%20by%20sms%20janil%20at%20gsma%20m360%20event%20on%202%20aug.pdf)
+
