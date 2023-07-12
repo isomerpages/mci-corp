@@ -2,12 +2,12 @@ collections:
   join-us:
     output: true
     order:
-      - Careers/Hear From Our Employees.md
       - Careers/.keep
       - Careers/Why join MCI?.md
       - Careers/Life at MCI.md
       - Careers/Discover Your Career Options.md
       - Careers/Internships at MCI.md
+      - Careers/Hear From Our Employees.md
       - Scholarship/.keep
       - Scholarship/Overview.md
       - Scholarship/Scholarships Offered.md
