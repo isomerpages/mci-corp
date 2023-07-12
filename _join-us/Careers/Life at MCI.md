@@ -4,83 +4,42 @@ permalink: /join-us/careers/life-at-mci/
 description: ""
 third_nav_title: Careers
 ---
-# Employee Benefits
-# 
-At MCI, you will enjoy autonomy, flexibility, and a work environment tailored to help you innovate and do your best work; manage life’s many commitments; and look after your physical and mental well-being.
+## What We Do
 
-In addition, you will enjoy:
+At MCI, our work enables Singaporeans to work, live and thrive in a better future. Read below to find out more about the different portfolios that we do:
 
-**Learning and development**
-*   Job rotations
-*   Sponsorship programmes for local, part-time certifiable courses leading to formal qualification
-*   Opportunities for external postings, attachments and postgraduate scholarships at local and overseas universities
-*   Study Leave for Preparing for Examinations
+**PUBLIC COMMUNICATIONS**: Ensure Singaporeans are heard, connected and engaged through open communication of government policies.
 
-**Flexi Work benefits
-**
-*   Telecom allowances
+**INFOCOMM MEDIA**: Enable businesses and people to seize infocomm and media opportunities while protecting consumers’ interests.
 
-**Health and medical benefits**
+**DIGITAL DEFENCE**: Guard against threats from the digital domain.
 
-*   Additional two per cent Medisave Contribution 
-*   Subsidised Outpatient and Dental Treatment
-*   Public Officers' Group Insurance Scheme (Opt-in basis)
+**DIGITAL READINESS**: Build digital readiness for Singaporeans, with an emphasis on those at risk of being excluded from opportunities in the digital future.
 
-**Parental support benefits**
+**CYBER SECURITY**: Build resilient infrastructure, develop a vibrant cyber ecosystem and strengthen international partnerships.
 
-*   Marriage Leave, Maternity and Paternity Leave
-*   Child Sick Leave and Childcare Leave
-*   Parent Care Leave
+## How We Work
 
-**Wellness and work-life harmony**
+At MCI, we believe in the power of teamwork and collaboration. Our office spaces are designed to help us connect and collaborate together to achieve work outcomes.
 
-*   Hybrid Work Arrangements
-*   Government Holiday Bungalows
-*   Gymnasium and Aerobic Facilities
+[insert visual: Vibrant Office Space]
 
-**Others
-**
-*   Meeting-free days for staff well-being and self-care
-*   24-Hour Counselling Hotline
-*   Team Building Funds to keep the team spirit strong
+## How We Have Fun 
 
-# Learning and Development Opportunities
-# 
-At MCI, we provide a rewarding career with many opportunities.
+We believe in creating a positive environment for all through shared experiences, from engaging team-building activities to having fun together during festive celebrations. Come be a part of our exciting and vibrant work culture!&nbsp;
 
-The varied, complex challenges; inspiring leaders; and driven teammates whom you will work with will make you a sought-after professional.
+[insert visual (optional): images of MCI’s staff events/ celebrations (CED to provide the images if any]
 
-We also encourage you to #TakeChargeofYourCareer.
+## How We Grow
 
-From job rotations across the public service to attachments and secondments to other public and private sector organisations – you will have no lack of opportunities to develop and grow as a professional in MCI.
+Look forward to diverse learning and development opportunities, including:
 
-Officers may be appointed on one of the following schemes of service:
+* Job rotations
+* Opportunities for postings across the public service and private sector
+* Sponsorship programmes for local, part-time certifiable courses leading to formal qualifications
+* Study leave for preparing for examinations
 
-**Information Officer**
+## Employee Benefits
 
-A career in the Singapore Government Information Service is rewarding and challenging, spanning a broad gamut of portfolios and responsibilities that are fundamental to good governance. As the government's communications specialists, Information Officers have an important role to play in the entire value chain of governance from the formulation of policy, to its communication and delivery to the public, and the management of consequences arising from its implementation.
+Look forward to receiving other employee benefits including:
 
-Information Officers will have the opportunity to be posted to a variety of information management work in various Divisions, and be seconded to Government Ministries and Statutory Boards to help in the communication of policies and programmes.
-
-Young officers generally begin their careers in MCI where they receive formal professional and on-the-job training with rotations to divisions and affiliate attachments; or are seconded to serve in the corporate communications department in external government agencies. Experienced officers may be posted to government agencies to assume directorial positions in corporate communications departments or serve as Press Secretaries to Ministers.
-
-**Language Executive**
-
-Language Executives provide translation services to support the Government's public communications efforts.
-
-**Management Executive**
-
-The Management Executives are involved in a myriad of key functions, including policy formulation for info-communications and media development as well as driving organisational excellence initiatives.
-
-Management Executives will have the opportunity to be posted to a variety of portfolios such as policy, planning and corporate services in various Divisions, or be seconded to MCI Statutory Boards for the implementation of policies and programmes.
-
-# Our Vibrant and Collaborative Office Environment
-# 
-We believe in the power of teamwork and collaboration. This belief is reflected in how we design our office spaces to encourage collaborations at work.
-
-# Our Culture
-At MCI, we encourage you to **Dare, Innovate, Learn and Collaborate.**
-![](/images/CDD/dare%20%20.jpg)
-![](/images/CDD/innovate.jpg) 
-![](/images/CDD/learn%20.jpg) 
-![](/images/CDD/collaborate.jpg)
