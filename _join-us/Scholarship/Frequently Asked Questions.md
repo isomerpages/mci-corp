@@ -76,7 +76,7 @@ third_nav_title: Scholarship
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </td><td style="border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 12.75pt 7.5pt 12.75pt 12pt;">  
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <p><a target="\_blank" href="[http://www.topuniversities.com/university-rankings/asian-university-rankings](http://www.topuniversities.com/university-rankings/asian-university-rankings)" rel="noopener noreferrer">QS Asian Universities Ranking</a></p>  
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </td></tr></tbody>  
-</table>
+    </table>
 
 3. Do I apply for universities on my own, or will MCI apply on my behalf?
 
