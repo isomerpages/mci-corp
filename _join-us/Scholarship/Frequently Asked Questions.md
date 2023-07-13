@@ -24,21 +24,7 @@ third_nav_title: Scholarship
 
     Scholars can choose to study at any local university or recognised overseas universities offering the courses of study allowed under our scholarship.
 
-      
-&nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; <table style="width: 90%; border-collapse: collapse; border: none;" border="1"><tbody><tr><td style="border: 1pt solid windowtext; background: #eeece1; padding: 12.75pt 7.5pt 12.75pt 12pt;">  
+   <table style="width: 90%; border-collapse: collapse; border: none;" border="1"><tbody><tr><td style="border: 1pt solid windowtext; background: #eeece1; padding: 12.75pt 7.5pt 12.75pt 12pt;">  
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <p><strong>Scholarship</strong></p><strong>  
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </strong></td><td style="border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; background: #eeece1; padding: 12.75pt 7.5pt 12.75pt 12pt;">  
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <p><strong>Disciplines of studies</strong></p>  
@@ -64,38 +50,7 @@ third_nav_title: Scholarship
     For overseas study, a resource list of where you can find information on the top universities is provided below.
 <br>
       
-&nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; <table style="width: 90%; border-collapse: collapse; border: none;" border="1"><tbody><tr><td style="border: 1pt solid windowtext; background: #eeece1; padding: 12.75pt 7.5pt 12.75pt 12pt;">  
+   <table style="width: 90%; border-collapse: collapse; border: none;" border="1"><tbody><tr><td style="border: 1pt solid windowtext; background: #eeece1; padding: 12.75pt 7.5pt 12.75pt 12pt;">  
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <p><strong>Country of Study</strong></p>  
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </td><td style="border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; background: #eeece1; padding: 12.75pt 7.5pt 12.75pt 12pt;">  
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <p><strong>Useful References</strong></p>  
