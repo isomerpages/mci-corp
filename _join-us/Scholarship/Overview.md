@@ -12,31 +12,9 @@ Upon graduation, you can look forward to a challenging and purposeful career fil
 
 Find out more about our MCI Scholars’ experiences via the Brightsparks 2023 Magazine [here](https://brightsparks.com.sg/magazine/february-2023/mci-keeping-singaporeans-engaged-and-informed.php).
 
+#### Scholarship Terms
   
-&nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; <table style="width: 90%; border-collapse: collapse; border: none;" width="90%" cellpadding="0" cellspacing="0" border="1"><tbody><tr><td style="border: 1pt solid windowtext; padding: 12.75pt 7.5pt 12.75pt 12pt; background: #eeece1;">  
+ <table style="width: 90%; border-collapse: collapse; border: none;" width="90%" cellpadding="0" cellspacing="0" border="1"><tbody><tr><td style="border: 1pt solid windowtext; padding: 12.75pt 7.5pt 12.75pt 12pt; background: #eeece1;">  
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <p><strong>Type of Scholarship</strong></p>  
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </td><td style="border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: none; padding: 12.75pt 7.5pt 12.75pt 12pt; background: #eeece1;">  
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <p><strong>Terms of Award</strong></p>  
