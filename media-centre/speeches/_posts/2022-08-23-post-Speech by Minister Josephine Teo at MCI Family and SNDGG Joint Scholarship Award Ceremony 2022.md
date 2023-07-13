@@ -95,4 +95,3 @@ We are united to drive Singapore’s digital future, even as we represent differ
 28.<span style="white-space: pre;"> 		</span>Thank you!&nbsp;<br>
 
 [PDF version of the speech](/files/Speeches%202022/speech%20by%20minister%20josephine%20teo%20at%20mci%20and%20sndgg%20joint%20scholarship%20award%20ceremony%202022.pdf)
-
