@@ -72,3 +72,5 @@ Colleagues and Friends</p>
 <p>------------------------------------------------------------</p>
 <p>&nbsp;<sup>1&nbsp;</sup>Open Radio Access Networks (RAN)</p>
 <p><span>&nbsp;<sup>2&nbsp;</sup>The DEAs are: Digital Economy Partnership Agreement (with Chile, New Zealand); Singapore-Australia Digital Economy Agreement; UK-Singapore Digital Economy Agreement.</span></p>
+
+[PDF version of the speech](/files/Speeches%202022/transcript%20of%20speech%20by%20minister%20josephine%20teo%20at%20scs%20tech%20leader%20awards.pdf)
