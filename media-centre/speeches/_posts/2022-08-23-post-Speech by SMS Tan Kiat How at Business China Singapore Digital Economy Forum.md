@@ -100,3 +100,6 @@ Good afternoon. I am pleased to join you today at the inaugural Business Chinaâ€
 23.<span style="white-space: pre;"> 		</span>I spoke about regulatory bridges, ecosystem bridges, talent bridges, but ultimately, I think it's also about people-to-people bridges. So I want to thank Business China, for organising this Digital Economy Summit Forum so that friends can meet and share ideas, get to know each other, get to make new friends, new partners, and continue to build this network that we have here today.<br>
 <br>
 24.<span style="white-space: pre;"> 		</span>I wish you a pleasant afternoon and a fruitful session. Thank you so much.</p>
+
+[PDF version of the speech](/files/Speeches%202022/speech%20by%20sms%20kiat%20how%20at%20business%20china%20singapore%20digital%20economy%20forum%20.pdf)
+
