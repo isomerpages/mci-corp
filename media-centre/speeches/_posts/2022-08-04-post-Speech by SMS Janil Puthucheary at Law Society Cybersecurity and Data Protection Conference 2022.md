@@ -66,3 +66,5 @@ Ladies and gentlemen&nbsp;</p>
 15. <span style="white-space: pre;">		</span>All of you are attending today’s conference because you have a professional or personal interest in cybersecurity or data protection. I will therefore encourage everyone in the audience – regardless of your seniority or role in your company – to be that driver of change and promote good cyber practices within your team or your organisation. I hope that you will find today’s panel discussions meaningful and insightful.&nbsp;<br>
 <br>
 16. <span style="white-space: pre;">		</span>Thank you very much.&nbsp;</p>
+
+[PDF version of the speech](/files/Speeches%202022/transcript%20of%20sms%20janil%20keynote%20address%20at%20the%20cyber%20and%20data%20protection%20conference%20speech%20on%204%20aug.pdf)
