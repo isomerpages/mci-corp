@@ -118,13 +118,7 @@ Secondly, I hope to be working in the Civil Service after I complete my studies.
 
 **Interested in an internship at MCI? Apply as an #MCIIntern today!**
 
-[
-
-Jasmine Leng
-
-Assistant Director (Tech Strategy & Plans) , Technology Office
-
-](https://www.mci.gov.sg/careers-and-schemes/careers#)
+![](/images/CDD/jasmine%20leng_banner.jpg)
 
 **Meet Jasmine Leng, Assistant Director (Tech Strategy & Plans) at the Technology Office, MCI**
 
@@ -132,12 +126,14 @@ MCI’s Technology Office leverages data and technology to chart the next bound
 
 Jasmine brings fresh perspectives to her role as Assistant Director at the Technology Office with her past experience working in the start-ups space.
 
+![](/images/CDD/jasmine%20leng_photo%201.JPG)
+
 If you are interested on how technology impacts our lives, read on to find out what it is like to be making sense of this fast-moving area at MCI.  
   
 We spoke with Jasmine to find out more about her personal #LifeatMCI experience.  
   
-**Hi Jasmine! Which aspects of TO’s work are you most excited about?  
-**  
+**Hi Jasmine! Which aspects of TO’s work are you most excited about?**
+
 I’m excited that our work covers the latest in tech, such as Artificial Intelligence (AI), Internet of Things (IoT), and guides how they could be developed and adopted across multiple industries. One highlight was setting up a Research, Innovation and Enterprise (RIE) 2025 programme to fund technology solutions to combat online harms.
 
 **Can you share some of your short- and long-term goals for the TO team?**
@@ -146,19 +142,25 @@ In the short term, I’m looking forward to building a fuller picture of how dig
 
 In the longer term, increased involvement in MCI’s inter-agency projects would be fascinating. I believe that good ideas can be built upon and amplified through collaborative work, such that the sum of its parts can impact how we support a resilient and vibrant digital tech ecosystem, including having more successful local tech companies from Singapore.
 
+![](/images/CDD/jasmine%20leng_photo%202.JPG)
+
 **What do you think it takes to succeed in TO?**  
   
 I’d say two important traits are focus and interest. Keeping focused on our goals helps us determine what is relevant so that we can stay on track. Secondly, with the tech space constantly evolving, the amount of information to process may seem overwhelming, so having an interest in tech is helpful.  
   
-**Before joining MCI, what professional experience did you have to prepare yourself for the work you are currently doing?  
-**  
+**Before joining MCI, what professional experience did you have to prepare yourself for the work you are currently doing?**
+
 I’ve been keen to immerse myself in tech since my time in Silicon Valley. It was a great experience to have close access and exposure to the movers and shakers in the tech scene then, including start-up founders, venture capitalists, software engineers and best-in-class academics. When I returned to Singapore, I wanted to apply my knowledge and contribute to the local tech scene here. Having worked in areas relating to corporate accelerators, tech start-up investments and talent acquisition, I’m glad to be with MCI, building tech strategies and plans to support upcoming technology investments in Singapore.
+
+![](/images/CDD/jasmine%20leng_photo%203.jpeg)
 
 **What would you say new hires can look forward to when they join the team?**  
   
 You will have a hand in shaping Singapore’s tech strategies!  
   
 We’ve all seen, the different viewpoints expressed online around vaccinations during this COVID-19 pandemic, for example. Part of our job is to look to tech to identify malicious intent and  prevent a distortion of reality. Apart from that, our team is made up of smart and motivated individuals. We have senior representatives on our team including our Director, Chief Technical Advisor and Senior Advisor, who come with a wealth of experience and interesting backgrounds. I’ve gained so much knowledge from them.
+
+![](/images/CDD/jasmine%20leng_photo%204.png)
 
 **Lastly, tell us one little-known fact about you that you wish more people knew.**  
   
