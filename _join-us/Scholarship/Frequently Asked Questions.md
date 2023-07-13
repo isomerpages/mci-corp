@@ -43,14 +43,11 @@ third_nav_title: Scholarship
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <li>Translation</li>  
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </ul>  
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <p>Scholars who take up other academic disciplines should take a minor in Translation or related language/translation module. </p>  
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </td></tr></tbody>  
-</table>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </td></tr></tbody></table>
     
-<br>
     For overseas study, a resource list of where you can find information on the top universities is provided below.
-<br>
       
-   <table style="width: 90%; border-collapse: collapse; border: none;" border="1"><tbody><tr><td style="border: 1pt solid windowtext; background: #eeece1; padding: 12.75pt 7.5pt 12.75pt 12pt;">  
+    <table style="width: 90%; border-collapse: collapse; border: none;" border="1"><tbody><tr><td style="border: 1pt solid windowtext; background: #eeece1; padding: 12.75pt 7.5pt 12.75pt 12pt;">  
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <p><strong>Country of Study</strong></p>  
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </td><td style="border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; background: #eeece1; padding: 12.75pt 7.5pt 12.75pt 12pt;">  
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <p><strong>Useful References</strong></p>  
