@@ -27,3 +27,7 @@ Companies are indispensable in building and expanding Singapore’s tech talent 
 <strong>Conclusion</strong></p>
 <p>12.<span style="white-space: pre;"> 		</span>For the jobseekers participating in the Career Fair today, I hope Jasmina and Ramona’s stories provide you with the encouragement to chart your own paths forward. While undergoing further training and switching to a new career can seem daunting, you will certainly have the opportunity to reap the rewards in the form of new skills mastered, connections built, and exciting career opportunities that you might not have dreamed of before.</p>
 <p>13.<span style="white-space: pre;"> 		</span>On that note, thank you once again for inviting me. I wish all trainees, jobseekers, as well as the hiring companies a very useful session today. Thank you.&nbsp; &nbsp;</p>
+
+[PDF version of the speech](/files/Speeches%202022/transcript%20of%20minister%20josephine%20teos%20address%20at%20sisg%20career%20fair%2023%20aug%202022.pdf)
+
+
