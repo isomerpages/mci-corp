@@ -4,7 +4,9 @@ permalink: /join-us/careers/our-employees/
 description: ""
 third_nav_title: Careers
 ---
-### Find out more about what our officers are saying about their experiences in MCI!
+## Find out more about what our officers are saying about their experiences in MCI!
+
+**Keen to be a part of the MCI Family? Apply with us today!**
 
 ![](/images/CDD/foong%20wai%20lumn%20banner%20(1).png)
 
@@ -165,5 +167,3 @@ We’ve all seen, the different viewpoints expressed online around vaccinations 
 **Lastly, tell us one little-known fact about you that you wish more people knew.**  
   
 In my leisure time, I love listening to podcasts. I prefer podcasts over social media, so that I can actively choose content that interests me.  
-  
-**Keen to be a part of the MCI Family? Apply with us today!**
