@@ -55,4 +55,3 @@ Innovation is Key to Growing the Cybersecurity Ecosystem</span></strong><br>
 20.<span style="white-space: pre;"> 		</span>Thank you, and once again, congratulations to the CyberCall 2021 awardees.&nbsp;</p>
 
 [PDF version of the speech](/files/Speeches%202022/sms%20janil%20opening%20address%20at%20cybersecurity%20innovation%20day.pdf)
-
