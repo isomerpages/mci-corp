@@ -22,8 +22,9 @@ At MCI, our work enables Singaporeans to work, live and thrive in a better futur
 
 At MCI, we believe in the power of teamwork and collaboration. Our office spaces are designed to help us connect and collaborate together to achieve work outcomes.
 
-[insert visual: Vibrant Office Space]
-
+![](/images/CDD/mci%20office%2001.jpg)
+![](/images/CDD/mci%20office%2002.jpg)![](/images/CDD/mci%20office%2003.jpg)
+![](/images/CDD/mci%20office%2004.jpg)
 ## How We Have Fun 
 
 We believe in creating a positive environment for all through shared experiences, from engaging team-building activities to having fun together during festive celebrations. Come be a part of our exciting and vibrant work culture!&nbsp;
@@ -43,3 +44,39 @@ Look forward to diverse learning and development opportunities, including:
 
 Look forward to receiving other employee benefits including:
 
+![](/images/CDD/our-people.png)
+**Flexi Work benefits**
+
+* Telecom allowances
+
+![](/images/CDD/health%20%20medical%20benefits.png)
+
+**Health and medical benefits**
+
+*   Additional two per cent Medisave Contribution 
+*   Subsidised Outpatient and Dental Treatment
+*   Public Officers' Group Insurance Scheme (Opt-in basis)
+
+![](/images/CDD/parental%20support%20benefits.png)
+
+**Parental support benefits**
+
+*   Marriage Leave, Maternity and Paternity Leave
+*   Child Sick Leave and Childcare Leave
+*   Parent Care Leave
+
+![](/images/CDD/employee-benefits.png)
+
+**Wellness and work-life harmony**
+
+*   Hybrid Work Arrangements
+*   Government Holiday Bungalows
+*   Gymnasium and Aerobic Facilities
+
+![](/images/CDD/our-culture.png)
+
+**Others**
+
+*   Meeting-free days for staff well-being and self-care
+*   24-Hour Counselling Hotline
+*   Team Building Funds to keep the team spirit strong
