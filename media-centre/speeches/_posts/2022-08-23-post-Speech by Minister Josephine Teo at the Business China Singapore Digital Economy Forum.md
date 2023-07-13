@@ -145,4 +145,3 @@ Colleagues and Friends of Business China.<br>
 &nbsp; <sup>3&nbsp;</sup>Source: McKinsey’s report on Value Creation in the Metaverse, Jun 2022.</p>
 
 [PDF version of the speech](/files/Speeches%202022/speech%20by%20minister%20josephine%20teo%20at%20business%20china%20singapore%20digital%20economy%20forum%202022.pdf)
-
