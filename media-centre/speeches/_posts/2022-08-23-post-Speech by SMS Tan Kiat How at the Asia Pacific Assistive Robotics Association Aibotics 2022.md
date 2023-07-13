@@ -74,3 +74,5 @@ Distinguished Guests, Ladies and Gentlemen,</p>
 <p>
 <sup>3</sup>&nbsp;Singapore's labour supply will shrink by 1.7 percentage points in the 10 years through 2026, and by 2.5 percentage points in the following decade, Oxford Economics</p>
 <p><sup>4&nbsp;</sup>McKinsey, https://www.mckinsey.com/featured-insights/future-of-work/jobs-lost-jobs-gained-what-the-future-ofwork-will-mean-for-jobs-skills-and-wages</p>
+
+[PDF version of the speech](/files/Speeches%202022/transcript%20of%20speech%20by%20sms%20tan%20kiat%20how%20for%20aibotics%20event%20on%2023%20aug.pdf)
