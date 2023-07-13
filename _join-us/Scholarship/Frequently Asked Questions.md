@@ -24,14 +24,110 @@ third_nav_title: Scholarship
 
     Scholars can choose to study at any local university or recognised overseas universities offering the courses of study allowed under our scholarship.
 
-    INSERT TABLE
+  
+&nbsp; &nbsp;   
+&nbsp; &nbsp; &nbsp; &nbsp;   
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   
+&nbsp; &nbsp; &nbsp; &nbsp;   
+&nbsp; &nbsp; &nbsp; &nbsp;   
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   
+&nbsp; &nbsp; &nbsp; &nbsp;   
+&nbsp; &nbsp; &nbsp; &nbsp;   
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   
+&nbsp; &nbsp; &nbsp; &nbsp;   
+&nbsp; &nbsp; <table style="width: 90%; border-collapse: collapse; border: none;" border="1"><tbody><tr><td style="border: 1pt solid windowtext; background: #eeece1; padding: 12.75pt 7.5pt 12.75pt 12pt;">  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <p><strong>Scholarship</strong></p><strong>  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </strong></td><td style="border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; background: #eeece1; padding: 12.75pt 7.5pt 12.75pt 12pt;">  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <p><strong>Disciplines of studies</strong></p>  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </td></tr><tr><td style="border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; padding: 12.75pt 7.5pt 12.75pt 12pt;">  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <p>MCI Information Service Scholarship</p>  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </td><td style="border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 12.75pt 7.5pt 12.75pt 12pt;">  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <p>Scholarship is tenable for most disciplines of studies, except Medicine and Dentistry. </p>  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </td></tr><tr><td style="border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; padding: 12.75pt 7.5pt 12.75pt 12pt;">  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <p>MCI Information Service (Translation) Scholarship </p>  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </td><td style="border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 12.75pt 7.5pt 12.75pt 12pt;">  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <p>Translation scholars should ideally pursue a degree in the following disciplines: </p>  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <ul>  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <li>Languages (Chinese/ Malay/Tamil)</li>  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <li>Linguistics</li>  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <li>Communications</li>  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <li>Translation</li>  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </ul>  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <p>Scholars who take up other academic disciplines should take a minor in Translation or related language/translation module. </p>  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </td></tr></tbody>  
+</table>
     For overseas study, a resource list of where you can find information on the top universities is provided below.
 
-    INSERT TABLE
+  
+&nbsp; &nbsp;   
+&nbsp; &nbsp; &nbsp; &nbsp;   
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   
+&nbsp; &nbsp; &nbsp; &nbsp;   
+&nbsp; &nbsp; &nbsp; &nbsp;   
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   
+&nbsp; &nbsp; &nbsp; &nbsp;   
+&nbsp; &nbsp; &nbsp; &nbsp;   
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   
+&nbsp; &nbsp; &nbsp; &nbsp;   
+&nbsp; &nbsp; &nbsp; &nbsp;   
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   
+&nbsp; &nbsp; &nbsp; &nbsp;   
+&nbsp; &nbsp; &nbsp; &nbsp;   
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   
+&nbsp; &nbsp; &nbsp; &nbsp;   
+&nbsp; &nbsp; &nbsp; &nbsp;   
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   
+&nbsp; &nbsp; &nbsp; &nbsp;   
+&nbsp; &nbsp; &nbsp; &nbsp;   
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   
+&nbsp; &nbsp; &nbsp; &nbsp;   
+&nbsp; &nbsp; &nbsp; &nbsp;   
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   
+&nbsp; &nbsp; &nbsp; &nbsp;   
+&nbsp; &nbsp; <table style="width: 90%; border-collapse: collapse; border: none;" border="1"><tbody><tr><td style="border: 1pt solid windowtext; background: #eeece1; padding: 12.75pt 7.5pt 12.75pt 12pt;">  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <p><strong>Country of Study</strong></p>  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </td><td style="border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; background: #eeece1; padding: 12.75pt 7.5pt 12.75pt 12pt;">  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <p><strong>Useful References</strong></p>  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </td></tr><tr><td style="border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; padding: 12.75pt 7.5pt 12.75pt 12pt;" rowspan="2">  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <p>World University Rankings</p>  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </td><td style="border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 12.75pt 7.5pt 12.75pt 12pt;">  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <p><a target="\_blank" href="[http://www.timeshighereducation.co.uk/world-university-rankings/](http://www.timeshighereducation.co.uk/world-university-rankings/)" rel="noopener noreferrer">The Times Higher Education World University Rankings</a> </p>  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </td></tr><tr><td style="border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 12.75pt 7.5pt 12.75pt 12pt;">  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <p><a target="\_blank" href="[http://www.topuniversities.com/university-rankings/world-university-rankings](http://www.topuniversities.com/university-rankings/world-university-rankings)" rel="noopener noreferrer">QS World University Rankings</a></p>  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </td></tr><tr><td style="border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; padding: 12.75pt 7.5pt 12.75pt 12pt;">  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <p>US</p>  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </td><td style="border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 12.75pt 7.5pt 12.75pt 12pt;">  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <p><a target="\_blank" href="[http://www.usnews.com/best-colleges](http://www.usnews.com/best-colleges)" rel="noopener noreferrer">U.S. News &amp; World Report</a></p>  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </td></tr><tr><td style="border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; padding: 12.75pt 7.5pt 12.75pt 12pt;" rowspan="2">  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <p>UK</p>  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </td><td style="border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 12.75pt 7.5pt 12.75pt 12pt;">  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <p><a target="\_blank" href="[http://education.guardian.co.uk/universityguide](http://education.guardian.co.uk/universityguide)" rel="noopener noreferrer">Guardian University Guide</a></p>  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </td></tr><tr><td style="border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 12.75pt 7.5pt 12.75pt 12pt;">  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <p><a target="\_blank" href="[http://www.qaa.ac.uk/](http://www.qaa.ac.uk/)" rel="noopener noreferrer">Quality Assurance Agency (QAA)</a></p>  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </td></tr><tr><td style="border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; padding: 12.75pt 7.5pt 12.75pt 12pt;">  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <p>Australia</p>  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </td><td style="border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 12.75pt 7.5pt 12.75pt 12pt;">  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <p><a target="\_blank" href="[https://www.topuniversities.com/university-rankings-articles/world-university-rankings/top-universities-australia-2021](https://www.topuniversities.com/university-rankings-articles/world-university-rankings/top-universities-australia-2021)" rel="noopener noreferrer">Australian Education Network</a></p>  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </td></tr><tr><td style="border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; padding: 12.75pt 7.5pt 12.75pt 12pt;">  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <p>Asia</p>  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </td><td style="border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 12.75pt 7.5pt 12.75pt 12pt;">  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <p><a target="\_blank" href="[http://www.topuniversities.com/university-rankings/asian-university-rankings](http://www.topuniversities.com/university-rankings/asian-university-rankings)" rel="noopener noreferrer">QS Asian Universities Ranking</a></p>  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </td></tr></tbody>  
+</table>
 
 3. Do I apply for universities on my own, or will MCI apply on my behalf?
 
     You should apply for universities, both local and overseas, on your own. This should be done concurrently with your application for all MCI Scholarships.
+
 
 4. What career development opportunities can I look forward to as a MCI Information Service scholar / Translation scholar?
 
