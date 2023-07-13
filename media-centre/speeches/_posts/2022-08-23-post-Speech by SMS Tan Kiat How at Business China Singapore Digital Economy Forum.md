@@ -102,4 +102,3 @@ Good afternoon. I am pleased to join you today at the inaugural Business Chinaâ€
 24.<span style="white-space: pre;"> 		</span>I wish you a pleasant afternoon and a fruitful session. Thank you so much.</p>
 
 [PDF version of the speech](/files/Speeches%202022/speech%20by%20sms%20kiat%20how%20at%20business%20china%20singapore%20digital%20economy%20forum%20.pdf)
-
