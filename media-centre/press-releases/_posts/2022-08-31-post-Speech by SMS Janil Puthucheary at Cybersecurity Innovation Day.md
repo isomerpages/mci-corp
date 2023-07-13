@@ -53,5 +53,3 @@ Innovation is Key to Growing the Cybersecurity Ecosystem</span></strong><br>
 19.<span style="white-space: pre;"> 		</span>This effort is a foundation for Singapore to digitalise confidently and to achieve the goals of transforming our nation using technology. Innovation in cybersecurity is key to creating a safe digital environment for all of us, and building the trust that we so importantly need in Singapore’s digital economy.&nbsp;<br>
 &nbsp;<br>
 20.<span style="white-space: pre;"> 		</span>Thank you, and once again, congratulations to the CyberCall 2021 awardees.&nbsp;</p>
-
-
