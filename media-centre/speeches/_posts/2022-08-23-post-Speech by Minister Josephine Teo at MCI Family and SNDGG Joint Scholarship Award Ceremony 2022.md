@@ -93,3 +93,6 @@ We are united to drive Singapore’s digital future, even as we represent differ
 27.<span style="white-space: pre;"> 		</span>I urge you to <strong>“Be of Service”</strong>, <strong>“Be United”</strong>, and <strong>“Be Bold</strong>”. It is only when we commit to partnering one another to serve Singaporeans, that we can build a better digital future for all. One that is fairer and more equal, more just and inclusive, more united and big-hearted, and stronger, together.<br>
 <br>
 28.<span style="white-space: pre;"> 		</span>Thank you!&nbsp;<br>
+
+[PDF version of the speech](/files/Speeches%202022/speech%20by%20minister%20josephine%20teo%20at%20mci%20and%20sndgg%20joint%20scholarship%20award%20ceremony%202022.pdf)
+
