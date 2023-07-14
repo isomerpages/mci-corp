@@ -45,4 +45,3 @@ Ladies and gentlemen,<br>
 16.<span style="white-space: pre;">		</span>Thank you.<br>
 
 [PDF version of the speech](/files/Speeches%202022/speech%20by%20sms%20janil%20at%20asia-pacific%20regional%20internet%20governance%20forum%202022.pdf)
-
