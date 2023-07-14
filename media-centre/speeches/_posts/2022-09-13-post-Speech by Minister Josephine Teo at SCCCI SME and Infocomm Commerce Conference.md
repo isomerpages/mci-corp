@@ -86,3 +86,5 @@ Colleagues and friends,&nbsp;<br>
 32.<span style="white-space: pre;">		</span>尽管未来的道路难免会有一些不确定性，但政府致力和你们以及各领域的合作伙伴共创解决方案，突破局限，携手并进！<br>
 <br>
 33.<span style="white-space: pre;">		</span>谢谢大家！<br>
+
+[PDF version of the speech](/files/Speeches%202022/transcript%20of%20opening%20address%20by%20minister%20josephine%20teo%20at%20scccis%20smeicc.pdf)
