@@ -51,4 +51,3 @@ Ladies and gentlemen,<br>
 <p><sup>1 </sup>BCG-IMDA Report, 2020</p>
 
 [PDF version of the speech](/files/Speeches%202022/speech%20by%20sms%20tan%20kiat%20how%20at%20scs%20women%20in%20tech%20(wit)%20chapter%20lunch%20seminar%20.pdf)
-
