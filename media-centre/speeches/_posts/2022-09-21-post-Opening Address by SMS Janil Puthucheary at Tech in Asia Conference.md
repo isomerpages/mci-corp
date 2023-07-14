@@ -71,3 +71,5 @@ Mr. Terence Lee, Editor in Chief of Tech in Asia<br>
 <br>
 30.<span style="white-space: pre;">		</span>Thank you very much for inviting me here.<br>
 <div>&nbsp;</div>
+
+[PDF version of the speech](/files/Speeches%202022/transcript%20of%20opening%20address%20by%20sms%20janil%20at%20tech%20in%20asia%20conference.pdf)
