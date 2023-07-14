@@ -70,3 +70,4 @@ Colleagues and friends,&nbsp;<br>
 <br>
 30.<span style="white-space: pre;">		</span>Thank you.&nbsp;<br>
 
+[PDF version of the speech](/files/Speeches%202022/speech%20by%20minister%20josephine%20teo%20at%20the%20launch%20of%20fcc%20lab.pdf)
