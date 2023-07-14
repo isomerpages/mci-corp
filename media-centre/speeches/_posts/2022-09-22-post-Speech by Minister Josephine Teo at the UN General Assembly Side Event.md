@@ -33,3 +33,6 @@ Excellencies,&nbsp;<br>
 8.<span style="white-space: pre;">		</span>We strongly believe that investments in digital public infrastructure are essential, to enable our citizens to succeed and stay resilient against future crises. I look forward to working with you, to build this open, inclusive and secure digital future for all of us.&nbsp;&nbsp;<br>
 <br>
 9.<span style="white-space: pre;">		</span>Thank you.<br>
+
+[PDF version of the speech](/files/Speeches%202022/speech%20by%20minister%20josephine%20teo%20at%20the%20un%20general%20assembly%20side-event%20on%2022%20sep.pdf)
+
