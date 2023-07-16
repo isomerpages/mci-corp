@@ -82,11 +82,11 @@ For enquiries, please use our&nbsp;enquiry form&nbsp;or email&nbsp;[MCI_NTC_Secr
 </style>  
   
 <details>  
-&nbsp; <summary>When can I apply?</summary>
+<summary>When can I apply?</summary>
 	
-Applications are now open from 1 April 2023 to 30&nbsp;June 2023 (both dates inclusive).	
+<br>Applications are now open from 1 April 2023 to 30 June 2023 (both dates inclusive).	
 	
-**How do I apply?**
+	<b>How do I apply?</b>
 
 Step 1: To apply, please prepare the following documents for submission in a single ZIP archive (max file size 7MB):
 	
@@ -95,13 +95,13 @@ ii. Curriculum vitae<br>
 iii. Proof of enrolment (e.g. letter of acceptance / matriculation) OR application (e.g. application acknowledgement emails) OR awaiting confirmation / invitation (e.g. registration emails) from the programme provider of each programme OR planning to apply for upcoming programmes (screenshots of programme details stating the application period if it has yet to commence)<br>
 iv. Translation portfolio with non-confidential items (for translation practitioners) and/or testimonials from clients (for both translation and interpretation practitioners)<br>
 
-Step 2:&nbsp;Complete the online application form&nbsp;here&nbsp;and submit your supporting documents from Step 1. Please note that incomplete forms cannot be saved as drafts, and you will have to complete the entire form once you start.
+Step 2: Complete the online application form here and submit your supporting documents from Step 1. Please note that incomplete forms cannot be saved as drafts, and you will have to complete the entire form once you start.
 
-All applications must reach the NTC Secretariat by 2359hrs Singapore time on 30 June 2023. Applications received after this closing date and time shall be disqualified.&nbsp;
+All applications must reach the NTC Secretariat by 2359hrs Singapore time on 30 June 2023. Applications received after this closing date and time shall be disqualified.
 
 The NTC Secretariat also reserves the right to disqualify applicants who fail to complete any form(s) and/or provide any document(s) required in their application.
 
-**What happens next?**
+<b>What happens next?</b>
 
 Shortlisted applicants will be required to attend an interview between July and August and informed of the outcome by October.
 
@@ -112,8 +112,9 @@ All applications are rigorously assessed by our panel of assessors. Only applica
 </details>
 
 <details>  
-&nbsp; <summary>Click to read the testimonials from our past recipients</summary>  
-&nbsp;  
+ <summary>Click to read the testimonials from our past recipients</summary>  
+<img style="height:400px; width:400px;" src="/images/TD/ttds%20testimonial%20image%201.png">
+	
     ![](/images/TD/ttds%20testimonial%20image%201.png)
 ![](/images/TD/ttds%20testimonial%20image%202.png)
 ![](/images/TD/ttds%20testimonial%20image%203.png)
