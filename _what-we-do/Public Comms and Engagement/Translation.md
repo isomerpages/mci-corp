@@ -108,7 +108,7 @@ Shortlisted applicants will be required to attend an interview between July and 
 Recipients will be appointed as National Translation Committee (NTC) Ambassadors for a duration of up to two years and required to contribute their expertise to NTC initiatives.
 <br><br>
 All applications are rigorously assessed by our panel of assessors. Only applicants who are shortlisted and clear the final interview will be selected for award.
-<br>
+<br><br>
 </details>
 
 <details>  
@@ -151,9 +151,9 @@ All applications are rigorously assessed by our panel of assessors. Only applica
  <summary>How To Apply</summary>  
 <br>
 Each applicant can submit only one application per cycle. Late submissions will not be entertained.
-<br>
+<br><br>
 Applicants may send the completed [Application Form](/files/Translation/citeg%20application%20form%20(updated%2030%20apr%202021).pdf), together with all relevant supporting documents via the submission form at [https://go.gov.sg/citeg-submit](https://go.gov.sg/citeg-submit).
-<br>
+<br><br>
 Applicants can expect to be notified of their application outcome within two months of application submission. For more information, please refer to: 
-	
+<br><br>
 </details>
