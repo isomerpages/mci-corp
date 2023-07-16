@@ -4,6 +4,21 @@ permalink: /what-we-do/public-comms-and-engagement/translation/
 description: ""
 third_nav_title: Public Comms and Engagement
 ---
+
+![](/images/TD/ifg%201_ntc%20banner_mci%20website%20revamp%202023.png)
+### Raising translation standards
+
+**About the National Translation Committee**
+
+![](/images/TD/ifg%202_ntc%20and%20rp%20ifg_mci%20website%20revamp%202023.png)
+
+* The committee is chaired by&nbsp;Mr Tan Kiat How, Senior Minister of State for Ministry of National Development, and Ministry of Communications and Information.
+* Members of the public are invited to email&nbsp;[MCI_NTC_Secretariat@mci.gov.sg](mailto:MCI_NTC_Secretariat@mci.gov.sg) if they have any queries or feedback.
+
+[Full list of current NTC members](/files/Translation/ntc%205th%20term%20ntc%20cvs_080523.pdf)
+
+[Full list of current RP members](/files/Translation/resource%20panels%205th%20term%20cvs_080523.pdf)
+
 ### SG Translate Together Web Portal
 
 * The [SG Translate Together (SGTT)](https://www.sgtranslatetogether.gov.sg/) Web Portal allows members of the public to generate localised first-cut translations and contribute post-edited translation data to improve the accuracy of the SG Translate Machine Translation (MT) engine. This engine was jointly developed by the Ministry of Communications and Information (MCI) and A\*STAR’s Institute for Infocomm Research (I2R), with the support of the TRANS Grant. 
