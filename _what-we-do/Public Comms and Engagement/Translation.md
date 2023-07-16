@@ -4,6 +4,12 @@ permalink: /what-we-do/public-comms-and-engagement/translation/
 description: ""
 third_nav_title: Public Comms and Engagement
 ---
+### Nurturing talent
+
+**Information Service (Translation) Scholarship** 
+
+In 2015, MCI introduced the Information Service (Translation) Scholarship, aimed at identifying and grooming young Singaporeans who have a strong interest in translation as well as a deep familiarity with Singapore’s translation landscape and context. Click&nbsp;here for more information on the Information Service (Translation) Scholarship.
+
 ### Translation Talent Development Scheme (TTDS)
 
 * Launched in 2018, the TTDS is an initiative to support Singapore translation and interpretation (T&amp;I) practitioners from the private sector in deepening their skills. 
