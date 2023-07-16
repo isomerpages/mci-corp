@@ -4,11 +4,29 @@ permalink: /what-we-do/public-comms-and-engagement/translation/
 description: ""
 third_nav_title: Public Comms and Engagement
 ---
+### Citizen Translators Project
+
+* As part of the Government’s efforts to raise the overall translation and language standards in Singapore, the Ministry of Communications and Information soft-launched the Citizen Translators (CT) Project in Jan 2021, to encourage volunteers with passion in language and translation to join as CTs. 
+* The project is a first in Singapore involving members of the public, and aims to harness the expertise of the community to crowdsource the best translations for Government communications materials, localised to Singapore’s context. 
+* It also provides a platform for volunteers to build formal and informal networks to share experiences and knowledge to improve translation competencies.
+ 
+### Promoting best practices
+
+**Whole-of-Government Period Contract and Framework Agreement (WoG PCFA) for Translation Services**
+
+Introduced on 7 May 2015, the framework provides a list of translation vendors who have been evaluated for quality and price competitiveness. With this framework, government agencies will be able to procure quality translations at a fair rate with a quicker turn-around time.
+
+**Government Terms Translated**
+
+MCI’s Translation Department maintains the Government Terms Translated repository, which agencies, translation companies and the public can refer to for translations of Government policy-related terms in the four official languages. Click [here](https://www.translatedterms.gov.sg/)&nbsp;to visit the repository. 
+
+![](/images/TD/ifg%203_gtt%20ifg_mci%20website%20revamp%202023.png)
+
 ### Nurturing talent
 
 **Information Service (Translation) Scholarship** 
 
-In 2015, MCI introduced the Information Service (Translation) Scholarship, aimed at identifying and grooming young Singaporeans who have a strong interest in translation as well as a deep familiarity with Singapore’s translation landscape and context. Click&nbsp;here for more information on the Information Service (Translation) Scholarship.
+In 2015, MCI introduced the Information Service (Translation) Scholarship, aimed at identifying and grooming young Singaporeans who have a strong interest in translation as well as a deep familiarity with Singapore’s translation landscape and context. Click [here](/join-us/scholarship/overview/) for more information on the Information Service (Translation) Scholarship.
 
 ### Translation Talent Development Scheme (TTDS)
 
