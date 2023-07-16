@@ -4,8 +4,6 @@ permalink: /what-we-do/public-comms-and-engagement/translation/
 description: ""
 third_nav_title: Public Comms and Engagement
 ---
-
-
 ### Translation Talent Development Scheme (TTDS)
 
 * Launched in 2018, the TTDS is an initiative to support Singapore translation and interpretation (T&amp;I) practitioners from the private sector in deepening their skills. 
@@ -66,7 +64,17 @@ All applications are rigorously assessed by our panel of assessors. Only applica
 | TTDS Application Form  | TTDS Application Guide |
 | ------------- | ------------- |
 | [Application Form](https://form.gov.sg/5b6158b78860f8000f9c89d6)  | Application Guide |
-	
+</details>
+
+<details>  
+&nbsp; <summary>Click to read the testimonials from our past recipients</summary>  
+&nbsp;  
+    ![](/images/TD/ttds%20testimonial%20image%201.png)
+![](/images/TD/ttds%20testimonial%20image%202.png)
+![](/images/TD/ttds%20testimonial%20image%203.png)
+![](/images/TD/ttds%20testimonial%20image%204.png)
+![](/images/TD/ttds%20testimonial%20image%205.png)
+![](/images/TD/ttds%20testimonial%20image%206.png)
 </details>
 
 ### Community-in-Translation Events Grant
