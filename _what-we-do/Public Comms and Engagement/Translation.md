@@ -148,14 +148,11 @@ All applications are rigorously assessed by our panel of assessors. Only applica
   
 <details>  
  <summary>How To Apply</summary>  
-
-	
+<br>
 Each applicant can submit only one application per cycle. Late submissions will not be entertained.
-
+<br>
 Applicants may send the completed [Application Form](/files/Translation/citeg%20application%20form%20(updated%2030%20apr%202021).pdf), together with all relevant supporting documents via the submission form at [https://go.gov.sg/citeg-submit](https://go.gov.sg/citeg-submit).
-
+<br>
 Applicants can expect to be notified of their application outcome within two months of application submission. For more information, please refer to: 
 	
-
-
 </details>
