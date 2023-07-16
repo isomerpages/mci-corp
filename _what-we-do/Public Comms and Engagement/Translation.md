@@ -61,9 +61,6 @@ Recipients will be appointed as National Translation Committee (NTC) Ambassadors
 
 All applications are rigorously assessed by our panel of assessors. Only applicants who are shortlisted and clear the final interview will be selected for award.
 	
-| TTDS Application Form  | TTDS Application Guide |
-| ------------- | ------------- |
-| [Application Form](https://form.gov.sg/5b6158b78860f8000f9c89d6)  | Application Guide |
 </details>
 
 <details>  
@@ -106,20 +103,12 @@ All applications are rigorously assessed by our panel of assessors. Only applica
  <summary>How To Apply</summary>  
 
 	
-| Application Period  | For proposed events which start in |
-| ------------- | ------------- |
-| 1 January 2023 to 31 January 2023 | April 2023 to July 2023  |
-| 1 May 2023 to 31 May 2023 | August 2023 to December 2023 |
-| 1 August 2023 to 30 September 2023 | January 2024 to June 2024 |
-	
 Each applicant can submit only one application per cycle. Late submissions will not be entertained.
 
 Applicants may send the completed [Application Form](/files/Translation/citeg%20application%20form%20(updated%2030%20apr%202021).pdf), together with all relevant supporting documents via the submission form at [https://go.gov.sg/citeg-submit](https://go.gov.sg/citeg-submit).
 
 Applicants can expect to be notified of their application outcome within two months of application submission. For more information, please refer to: 
 	
-| Online Enquiry Form | Application Guide | Application Form |
-| ------------- | ------------- | ------------- |
-| [Enquiry Form](https://go.gov.sg/citeg-enquiry) | Application Guide  | [Application Form](/files/Translation/citeg%20application%20form%20(updated%2030%20apr%202021).pdf) |
+
 
 </details>
