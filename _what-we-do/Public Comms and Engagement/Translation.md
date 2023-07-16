@@ -113,14 +113,13 @@ All applications are rigorously assessed by our panel of assessors. Only applica
 
 <details>  
  <summary>Click to read the testimonials from our past recipients</summary>  
-<img style="height:400px; width:400px;" src="/images/TD/ttds%20testimonial%20image%201.png">
-	
-    ![](/images/TD/ttds%20testimonial%20image%201.png)
-![](/images/TD/ttds%20testimonial%20image%202.png)
-![](/images/TD/ttds%20testimonial%20image%203.png)
-![](/images/TD/ttds%20testimonial%20image%204.png)
-![](/images/TD/ttds%20testimonial%20image%205.png)
-![](/images/TD/ttds%20testimonial%20image%206.png)
+<br>
+	<img style="height:400px; width:400px;" src="/images/TD/ttds%20testimonial%20image%201.png">
+	<img style="height:400px; width:400px;" src="/images/TD/ttds%20testimonial%20image%202.png">
+	<img style="height:400px; width:400px;" src="/images/TD/ttds%20testimonial%20image%203.png">
+	<img style="height:400px; width:400px;" src="/images/TD/ttds%20testimonial%20image%204.png">
+	<img style="height:400px; width:400px;" src="/images/TD/ttds%20testimonial%20image%205.png">
+	<img style="height:400px; width:400px;" src="/images/TD/ttds%20testimonial%20image%206.png">
 </details>
 
 ### Community-in-Translation Events Grant
