@@ -96,7 +96,7 @@ iii. Proof of enrolment (e.g. letter of acceptance / matriculation) OR applicati
 iv. Translation portfolio with non-confidential items (for translation practitioners) and/or testimonials from clients (for both translation and interpretation practitioners)
 <br><br>
 Step 2: Complete the online application form here and submit your supporting documents from Step 1. Please note that incomplete forms cannot be saved as drafts, and you will have to complete the entire form once you start.
-<br>&lt;<br>
+<br><br>
 All applications must reach the NTC Secretariat by 2359hrs Singapore time on 30 June 2023. Applications received after this closing date and time shall be disqualified.
 <br><br>
 The NTC Secretariat also reserves the right to disqualify applicants who fail to complete any form(s) and/or provide any document(s) required in their application.
