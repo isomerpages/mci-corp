@@ -13,7 +13,7 @@ third_nav_title: Public Comms and Engagement
 * Interested applicants can submit applications for funding to defray expenses in organising translation-focused events featuring English, Chinese, Malay and/or Tamil.
 
 <style>  
-  /\* Styling for the accordion container \*/  
+  /* Styling for the accordion container */  
   details {  
     border: 1px solid #ccc;  
     background-color: #f9f9f9;  
@@ -22,7 +22,7 @@ third_nav_title: Public Comms and Engagement
     margin-bottom: 10px;  
   }  
   
-  /\* Styling for the accordion header \*/  
+  /* Styling for the accordion header */  
   summary {  
     font-weight: bold;  
     cursor: pointer;  
@@ -30,13 +30,23 @@ third_nav_title: Public Comms and Engagement
 </style>  
   
 <details>  
-&nbsp; <summary>How To Apply</summary>  
+ <summary>How To Apply</summary>  
 
+	
+| Application Period  | For proposed events which start in |
+| ------------- | ------------- |
+| 1 January 2023 to 31 January 2023 | April 2023 to July 2023  |
+| 1 May 2023 to 31 May 2023 | August 2023 to December 2023 |
+| 1 August 2023 to 30 September 2023 | January 2024 to June 2024 |
+	
+Each applicant can submit only one application per cycle. Late submissions will not be entertained.
 
-Each applicant can submit only&nbsp;one&nbsp;application per cycle. Late submissions will not be entertained.&nbsp;
+Applicants may send the completed [Application Form](/files/Translation/citeg%20application%20form%20(updated%2030%20apr%202021).pdf), together with all relevant supporting documents via the submission form at [https://go.gov.sg/citeg-submit](https://go.gov.sg/citeg-submit).
 
-Applicants may send the completed&nbsp;[Application Form](https://www.mci.gov.sg/-/media/MciCorp/Doc/Community-in-Translation-Events-Grant---CiTEG/2023/CiTEG-Application-Form-(Updated-30-Apr-2021).ashx), together with all relevant supporting documents via the submission form at&nbsp;[https://go.gov.sg/citeg-submit](https://go.gov.sg/citeg-submit).
-
-  
 Applicants can expect to be notified of their application outcome within two months of application submission. For more information, please refer to: 
+	
+| Online Enquiry Form | Application Guide | Application Form |
+| ------------- | ------------- | ------------- |
+| [Enquiry Form](https://go.gov.sg/citeg-enquiry) | Application Guide  | [Application Form](/files/Translation/citeg%20application%20form%20(updated%2030%20apr%202021).pdf) |
+
 </details>
