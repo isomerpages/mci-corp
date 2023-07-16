@@ -4,6 +4,16 @@ permalink: /what-we-do/public-comms-and-engagement/translation/
 description: ""
 third_nav_title: Public Comms and Engagement
 ---
+### SG Translate Together Web Portal
+
+* The SG Translate Together (SGTT)[YTC(3] Web Portal allows members of the public to generate localised first-cut translations and contribute post-edited translation data to improve the accuracy of the SG Translate Machine Translation (MT) engine. This engine was jointly developed by the Ministry of Communications and Information (MCI) and A*STAR’s Institute for Infocomm Research (I2R), with the support of the TRANS Grant. 
+* The registered users, known as Citizen Translators, can edit the MT generated translations and submit them for review. These reviewed translations will be used to further train the MT engine.
+* The portal serves as a one-stop platform for the translation community, where they can develop their translation skills, utilise translation resources, share their insights with one another and stay updated on translation-related programmes and events. 
+
+![](/images/TD/sgtt%20edm.jpg)
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/-OYRSf0Kx_Y" height="315" width="560"></iframe>
+
 ### Citizen Translators Project
 
 * As part of the Government’s efforts to raise the overall translation and language standards in Singapore, the Ministry of Communications and Information soft-launched the Citizen Translators (CT) Project in Jan 2021, to encourage volunteers with passion in language and translation to join as CTs. 
