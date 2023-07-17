@@ -46,3 +46,5 @@ Colleagues and friends</p>
 <p style="text-align: justify;">31.<span style="white-space: pre;">		</span>Thank you once again for inviting me, and I wish you very fruitful discussions ahead.</p>
 <p>
 --------------------------------------------------------------------------------------------------------------------------</p>
+
+[PDF version of the speech](/files/Speeches%202022/transcript%20of%20speech%20by%20minister%20at%20st%20asia%20future%20summit%201%20nov.pdf)
