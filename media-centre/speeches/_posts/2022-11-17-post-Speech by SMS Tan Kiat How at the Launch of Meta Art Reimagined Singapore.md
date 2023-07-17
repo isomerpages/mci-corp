@@ -41,3 +41,5 @@ Ladies and gentlemen<br>
 13.<span style="white-space: pre;"> 		</span>In this regard, I would like to thank Meta for its effort. I encourage other industry partners to similarly partner our arts and culture organisations, to spark innovation in the arts and creative space, enable our artists and creators to reach new audiences and access monetisation opportunities, while bringing more exciting opportunities and experiences to audiences.<br>
 <br>
 14.<span style="white-space: pre;"> 		</span>I wish the organisers, artists and content creators every success for Art Reimagined Singapore.<br></p>
+
+[PDF version of the speech](/files/Speeches%202022/speech%20by%20sms%20tan%20kiat%20how%20at%20meta%20art%20reimagined%20on%2017%20nov%202022.pdf)
