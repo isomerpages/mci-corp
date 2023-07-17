@@ -58,3 +58,5 @@ We need a strong global cybersecurity architecture to address these challenges. 
 11.<span style="white-space: pre;"> 		</span>This evening, in particular, we look forward to hearing from our distinguished speakers, United Nations Under-Secretary-General and High Representative for Disarmament Affairs, Ms Izumi Nakamitsu, and the US Secretary of Homeland Security, Mr Alejandro Mayorkas. I am certain we will have much to learn from their perspectives on how we can make our world safer, both physically and digitally.<br>
 <br>
 12.<span style="white-space: pre;"> 		</span>Thank you all again for being here.</p>
+
+[PDF version of the speech](/files/Speeches%202022/speech%20by%20minister%20josephine%20teo%20at%20sicw%202022%20on%2018%20october%202022%20(3).pdf)
