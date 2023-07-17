@@ -63,3 +63,4 @@ On that note, I want to thank our youth panellists, especially the inaugural bat
 <br>
 14.<span style="white-space: pre;">		</span>Thank you very much.<br>
 
+[PDF version of the speech](/files/Speeches%202022/reach%20panel%20appreciation%20event%2012%20nov%20chairman%20speech.pdf)
