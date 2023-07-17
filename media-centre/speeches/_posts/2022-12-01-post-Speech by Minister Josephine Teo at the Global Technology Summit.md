@@ -90,3 +90,6 @@ Ladies and Gentlemen</p>
 <br>
 23.<span style="white-space: pre;">		</span>Thank you.</p>
 <div style="text-align: justify;">&nbsp;</div>
+
+[PDF version of the speech](/files/Speeches%202022/speech%20by%20minister%20josephine%20teo%20at%20the%20global%20technology%20summit%20on%201%20dec%202022%20(002).pdf)
+
