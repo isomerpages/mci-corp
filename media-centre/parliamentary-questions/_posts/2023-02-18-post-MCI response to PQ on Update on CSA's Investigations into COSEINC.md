@@ -13,16 +13,10 @@ image: ""
 <br>
 <strong>20. Ms He Ting Ru:</strong> To ask the Prime Minister (a) whether the Government or related agencies have procured any services or products from a local company, Computer Security Initiative Consultancy (COSEINC); and (b) if so, what is the nature of the contract awarded to COSEINC.<br>
 <br>
-<br>
-<strong>Answer:<br>
-<br>
-</strong>
-<div>
-<div>1.<span style="white-space: pre;">		</span>Mr Speaker, Ms He Ting Ru has asked two questions about COSEINC. With your permission, I would like to address them together.&nbsp;<br>
-<br>
-2.<span style="white-space: pre;">		</span>In November 2021, the US Department of Commerce placed several companies on the Bureau of Industry and Security’s Entity List, including local company, Computer Security Initiative Consultancy, also known as COSEINC.&nbsp; The effect of being placed on this List means that US persons intending to export, re-export or transfer items that the US regulates to COSEINC must first obtain a license to do so from the US Government.&nbsp;&nbsp;<br>
-<br>
-3.<span style="white-space: pre;">		</span>Arising from this, the Cyber Security Agency (CSA) looked into COSEINC. The company’s offerings include cybersecurity training courses.&nbsp; We can share that in this regard, it is one of many vendors to have provided training services to the Government, and the contractual terms were standard.&nbsp;<br>
-<br>
-4.<span style="white-space: pre;">		</span>CSA also found no evidence that COSEINC had breached cybersecurity laws in Singapore. Companies found to have contravened our laws and regulations will be dealt with in accordance with the law.</div>
-</div>
+**Answer:**
+
+1. Mr Speaker, Ms He Ting Ru has asked two questions about COSEINC. With your permission, I would like to address them together.
+
+2. In November 2021, the US Department of Commerce placed several companies on the Bureau of Industry and Security’s Entity List, including local company, Computer Security Initiative Consultancy, also known as COSEINC. The effect of being placed on this List means that US persons intending to export, re-export or transfer items that the US regulates to COSEINC must first obtain a license to do so from the US Government.
+
+3. Arising from this, the Cyber Security Agency (CSA) looked into COSEINC. The company’s offerings include cybersecurity training courses.&nbsp; We can share that in this regard, it is one of many vendors to have provided training services to the Government, and the contractual terms were standard.CSA also found no evidence that COSEINC had breached cybersecurity laws in Singapore. Companies found to have contravened our laws and regulations will be dealt with in accordance with the law.
