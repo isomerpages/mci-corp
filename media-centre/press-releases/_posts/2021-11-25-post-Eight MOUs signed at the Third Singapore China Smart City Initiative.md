@@ -24,9 +24,10 @@ image: ""
 <p style="text-align: justify;">The 14 new joint projects reflect the transformative role of digital technologies across the SCI’s focus areas of digital connectivity, talent exchange and development, innovation and entrepreneurship. Notable projects feature the use of advanced technologies and AI for the green economy and sustainability, such as reducing carbon dioxide emissions in the transport sector, and enhancing battery management for electric vehicles.
 </p>
 <p style="text-align: justify;">To date, a total of 29 projects have been initiated and 20 MOUs have been signed under SCI.  This strong momentum in SCI collaboration is a testament to Singapore’s and Shenzhen’s leading role in digital economy development, and the potential for SCI’s innovative projects to be scaled to more cities in Southeast Asia and the Greater Bay Area.</p>
-<p><a href="-/media/8EF13582B52F41DBA1E55978CB103CE5.ashx">Annex A: 	List of MOUs signed at the 3rd SCI JIC Meeting</a>
-</p>
-<p><a href="-/media/1A405C59B9A04FD19B76B204BCE9B3AE.ashx">Annex B: 	List of Phase 3 new projects launched at the 3rd SCI JIC Meeting</a>
-</p>
+
+[Annex A: List of MOUs signed at the 3rd SCI JIC Meeting](/files/Press%20Releases%202022/annex%20a%203rd%20sci%20jic%20meeting.pdf)
+
+[Annex B: List of Phase 3 Projects launched at the 3rd SCI JIC Meeting](/files/Press%20Releases%202022/annex%20b%203rd%20sci%20jic%20meeting.pdf)
+
 --------------------------------------------------------------------------------------------------------------------------<br>
 <p><sup>1</sup> TradeTrust is a digital utility, a framework that comprises globally accepted standards and enables trusted interoperability through a public blockchain and support the exchange of electronic trade documents across digital platforms.</p>
