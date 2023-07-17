@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Public Comms and Engagement
 ---
 ![](/images/TD/ifg%201_ntc%20banner_mci%20website%20revamp%202023.png)
-### Raising translation standards
+## Raising translation standards
 
 **About the National Translation Committee**
 
