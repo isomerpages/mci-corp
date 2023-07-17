@@ -62,3 +62,4 @@ Colleagues and Friends of the Singapore cybersecurity community<br>
 10.<span style="white-space: pre;"> 		</span>Once again, congratulations on the successful signing of the MOU. Such industry collaboration in the region is an essential complement to the ASEAN governments’ existing efforts, such as the annual Singapore International Cyber Week (SICW) and ASEAN Ministerial Conference on Cybersecurity (AMCC).<br>
 <br>
 11.<span style="white-space: pre;"> 		</span>I wish you all a fruitful exchange of ideas and an enjoyable forum. Thank you.</p>
+[PDF version of the speech](/files/Speeches%202022/speech%20by%20minister%20josephine%20teo%20at%20the%20aisp%20south-east%20asia%20cybersecurity%20consortium%20forum.pdf)
