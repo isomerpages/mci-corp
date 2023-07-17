@@ -6,11 +6,11 @@ layout: post
 description: ""
 image: ""
 ---
-_Joint Media Statement_ 
+*Joint Media Statement* 
 
 1. The 3rd ASEAN Digital Ministers Meeting (ADGMIN) was held in Boracay Island, Aklan, Philippines on 9-10 February 2023. His Excellency Ivan John E. Uy, Minister of the Department of Information and Communications Technology (DICT), chaired the Meeting with His Excellency Dr Janil Puthucheary, Senior Minister of State, Ministry of Communications and Information & Ministry of Health of Singapore as the Vice-Chair.  
   
-**Synergy Towards a Sustainable Digital Future**  
+    **Synergy Towards a Sustainable Digital Future**  
   
 2. The Meeting welcomed the progress made in the second year of the ASEAN Digital Masterplan 2025 (ADM 2025), which laid a strong foundation in accelerating the region’s digital transformation, and transforming ASEAN into a leading digital community and economic bloc, powered by secure and transformative digital services, technologies and ecosystem.  
   
@@ -20,10 +20,10 @@ _Joint Media Statement_ 
   
 5. The Meeting acknowledged the continuous plans and programs of Working Group of Digital Data Governance (WG-DDG), including capacity development efforts to promote awareness and adoption of the Model Contractual Clauses (MCCs) to help Member States understand data management and cross-border data flows to boost businesses’ ability to seize opportunities in the digital economy where data protection is an essential requirement, which will be the focus before Implementing Guidelines for the ASEAN Data Management Framework (DMF) and ASEAN  
    
-**Cross Border Data Flows (CBDF) Mechanism, the initiative that was launched during the 1st ADGMIN.**  
+    **Cross Border Data Flows (CBDF) Mechanism, the initiative that was launched during the 1st ADGMIN.**  
   
-6. The Meeting welcomed the efforts of Member States in implementing enhanced cybersecurity measures consistent with the ASEAN Cybersecurity Cooperation Strategy 2021-2025 in view of the recent rise of global cybersecurity attacks and threats and as a response to a newer cyber development and to ensure that there are no weak links in the collective efforts of ASEAN Network Security Action Council (ANSAC) to secure the cyberspace for the region’s digital economy and community to grow. The Meeting also welcomed the ASEAN Regional CERT Operational Framework, which will better inform the resources required for the implementation of the ASEAN Regional CERT as well as further guide CERT- related capacity building efforts through regional cybersecurity capacity building programmes conducted by the ASEAN-Singapore Cybersecurity Centre of Excellence (ASCCE) and ASEAN - Japan Cybersecurity Capacity Building Centre (AJCCBC).  
-  
+6. The Meeting welcomed the efforts of Member States in implementing enhanced cybersecurity measures consistent with the ASEAN Cybersecurity Cooperation Strategy 2021-2025 in view of the recent rise of global cybersecurity attacks and threats and as a response to a newer cyber development and to ensure that there are no weak links in the collective efforts of ASEAN Network Security Action Council (ANSAC) to secure the cyberspace for the region’s digital economy and community to grow. The Meeting also welcomed the ASEAN Regional CERT Operational Framework, which will better inform the resources required for the implementation of the ASEAN Regional CERT as well as further guide CERT- related capacity building efforts through regional cybersecurity capacity building programmes conducted by the ASEAN-Singapore Cybersecurity Centre of Excellence (ASCCE) and ASEAN - Japan Cybersecurity Capacity Building Centre (AJCCBC).
+
 7. The Meeting agreed on the approach of digital transformation that is people- centered, safe, secure and relevant to the needs of end users and various stakeholders aims at increasing the quality and use of e-government services and solutions that can connect businesses, and supporting innovation for new business models to facilitate cross-border trade and affordable access.  
   
 8. The Meeting welcome the use of emerging technologies such as the application of Blockchain Technology and Artificial Intelligence (AI) to further digital transformation while taking into consideration on the need to establish policies and regulations to spur the development of these emerging technologies towards innovative, responsible and secure ecosystem. The Meeting recognizes the need to enhance collaborations and programs aimed at developing analytics, AI, and digital skills fundamental to closing the talent and skill gaps in the region. As such, the Meeting acknowledged the implementation of the ASEAN Strategic Guidance on Artificial Intelligence and Digital Workforce. The Meeting also noted the completion of the Artificial Intelligence Landscape Study Report, and welcomed the development of an ASEAN Guide on AI Governance and Ethics in 2023.  
@@ -32,7 +32,7 @@ _Joint Media Statement_ 
   
 10. The Meeting recognized the progress of the development of 5G ecosystem in ASEAN and noted the recommendations of the 3rd ASEAN workshop on 5G. The Meeting encouraged Member States to work more closely in collaborating national 5G policies and in developing the ASEAN 5G Roadmap.
 
-**Digital Cooperation with Dialogue and Development Partners**  
+    **Digital Cooperation with Dialogue and Development Partners**  
   
 11. The Meeting looked forward to further deepening the cooperation with Dialogue Partners and ITU in enhancing digital cooperation, developing human resources, exploring emerging technologies for adoption, and improving the regional capacity in securing the cyberspace in the implementation of the ADM2025.  
   
@@ -52,10 +52,10 @@ _Joint Media Statement_ 
   
 19. The Meeting reiterated ASEAN’s commitment to pursue policy and regulatory dialogue with all Dialogue and Development Partners. The Meeting also called for greater participation from the private sector to jointly develop digital infrastructure and services to support the growth of digitally-enabled innovative solutions to achieve inclusive and sustainable growth in the region and support the goals of the ASEAN Community. 
  
-**Next Meeting**   
+    **Next Meeting**   
   
 20. The Meeting agreed to convene the 4th ADGMIN and Related Meetings in Singapore in January/February 2024.  
   
-**Acknowledgement  
-**  
+    **Acknowledgement**  
+
 21. The Meeting expressed appreciation to the Philippines for hosting the meetings and for the warm hospitality accorded to them and for the excellent arrangement made for the 3rd ADGMIN and Related Meetings.
