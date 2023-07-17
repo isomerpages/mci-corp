@@ -61,3 +61,6 @@ Colleagues and Friends<br>
 20.<span style="white-space: pre;">		</span>As we refresh our social compact under the Forward Singapore exercise that Deputy Prime Minister Lawrence Wong launched in June this year, I think that the objectives and spirit of Forward Singapore are the same as DfL. It is about ensuring that everyone in Singapore has a chance to move ahead. It is about ensuring that no one is left behind. It is about creating that sense of inclusion. It is about building up a community. And tonight’s community is a wonderful community.<br>
 <br>
 21.<span style="white-space: pre;">		</span>Thank you all once again for being part of it.<br>
+
+[PDF version of the speech](/files/Speeches%202022/transcript%20of%20minister%20josephine%20teos%20keynote%20speech%20at%20digital%20for%20life%20appreciation%20dinner%202022.pdf)
+
