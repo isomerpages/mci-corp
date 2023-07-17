@@ -56,3 +56,5 @@ Ladies and Gentlemen,<br>
 17.<span style="white-space: pre;">		</span>Before I end my remarks, I would also like to take this opportunity to wish our members who will be celebrating the festival of lights on Monday, a “Happy Deepavali”.<br>
 <br>
 18.<span style="white-space: pre;">		</span>Thank you.<br>
+
+[PDF version of the speech](/files/Speeches%202022/sms%20tan%20kiat%20how%20speech%20at%20ttds%20award%20ceremony%20and%20ntc%20appreciation%20dinner.pdf)
