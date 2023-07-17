@@ -60,4 +60,8 @@ REACH Chairman Tan Kiat How will share more with you about that later so I shall
 15.<span style="white-space: pre;">		</span>We will very much need your help and support to shine a light on how the government can continue to gain the trust and confidence of our citizens, indeed, to strengthen it. Only then can we rise above the challenges and build a better Singapore for future generations to come.<br>
 <br>
 16.<span> </span>Thank you.<br>
-<div>&nbsp;</div>
+
+[PDF version of the speech](/files/Speeches%202022/reach%20panel%20appreciation%20event%2012%20nov%20minister%20speech.pdf)
+
+
+
