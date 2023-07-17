@@ -11,11 +11,9 @@ image: ""
 QUESTION FOR WRITTEN ANSWER
 ---------------------------
 
-**41\. Miss Rachel Ong:** To ask the Minister for Communications and Information what are the legal safety nets for companies and individuals against social media influencers or companies that do not make disclosures on sponsored social media content.**  
-  
-Answer:  
-  
-**
+**41\. Miss Rachel Ong:** To ask the Minister for Communications and Information what are the legal safety nets for companies and individuals against social media influencers or companies that do not make disclosures on sponsored social media content.
+
+**Answer:**
 
 1. The Advertising Standards Authority of Singapore (ASAS), a self-regulatory body of the advertising industry under the Consumers Association of Singapore (CASE), promotes ethical advertising in Singapore through the Singapore Code of Advertising Practice (SCAP).   
   
@@ -23,5 +21,4 @@ Answer:
   
 3. The Consumer Protection (Fair Trading) Act (CPFTA) also seeks to protect consumers against unfair practices, including non-disclosures of sponsorship for social media content to the extent that it misleads or deceives consumers in relation to a consumer transaction. Social media influencers or companies that persistently engage in such unfair trade practices could be referred to the Competition and Consumer Commission of Singapore (CCCS) for investigation.  
   
-4. ASAS is in the process of reviewing the SCAP and its Guidelines to ensure they remain relevant in the evolving advertising landscape. Consumers are encouraged to remain vigilant and discerning to make informed choices about products and services that are promoted on social media.   
-
+4. ASAS is in the process of reviewing the SCAP and its Guidelines to ensure they remain relevant in the evolving advertising landscape. Consumers are encouraged to remain vigilant and discerning to make informed choices about products and services that are promoted on social media.
