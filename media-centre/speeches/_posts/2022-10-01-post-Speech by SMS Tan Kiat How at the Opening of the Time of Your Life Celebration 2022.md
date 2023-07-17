@@ -75,4 +75,3 @@ Ladies and gentlemen&nbsp;<br>
 22.<span style="white-space: pre;">		</span>In the spirit of Forward Singapore, I look forward to hearing from the various speakers and participants, including Prof. Philp, Dr Ng and Assoc. Prof. Ma, on how we can collectively build a more inclusive society for all Singaporeans together.&nbsp;<br>
 
 [PDF version of the speech ](/files/Speeches%202022/trancsript%20of%20sms%20tan%20kiat%20hows%20speech%20at%20the%20opening%20of%20time%20of%20your%20life%20celebration%202022%20.pdf)
-
