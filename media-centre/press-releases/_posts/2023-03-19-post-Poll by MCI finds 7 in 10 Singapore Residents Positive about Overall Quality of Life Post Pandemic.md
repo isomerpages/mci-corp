@@ -38,15 +38,15 @@ image: ""
   
 9. Compared to the general population, respondents with multiple dependents (e.g., elderly seniors as well as children in the household) were more likely to rate their overall quality of life now to be “Poor” or “Very Poor” (18% for those with multiple dependents, compared to 10% for the general population).
 
-![](/images/Media%20Centre/mcipoll1.png)
-*Note: Bar charts may not add up to 100% due to rounding.*
+    ![](/images/Media%20Centre/mcipoll1.png)
+    *Note: Bar charts may not add up to 100% due to rounding.*
 
 10. Compared to the general population, respondents who were unemployed expressed less confidence about Singapore’s ability to get through another pandemic in the future (16%, compared to 7% among the general population).
 
-![](/images/Media%20Centre/mcipoll2.png)
-*Note: Bar charts may not add up to 100% due to rounding.*
+    ![](/images/Media%20Centre/mcipoll2.png)
+    *Note: Bar charts may not add up to 100% due to rounding.*
 
-11. More information on the methodology behind the poll can be found in the&nbsp;**Annex**.  
+11. More information on the methodology behind the poll can be found in the **Annex**.  
   
 ------------------------------------------------------------------------------------
 **Annex**  
