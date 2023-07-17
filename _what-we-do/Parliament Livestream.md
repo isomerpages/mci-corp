@@ -3,10 +3,10 @@ title: Parliament Livestream
 permalink: /what-we-do/parliament/livestream/
 description: ""
 ---
+## Terms and Conditions for Use of Video Recordings of Parliamentary Sessions
+
 ![](/images/parliament%20(for%20website).jpg)
 Parliament proceedings are live-streamed on [MCI Singapore YouTube channel](https://go.gov.sg/mcisingapore).
-
-**Terms and Conditions for Use of Video Recordings of Parliamentary Sessions**  
   
 These Terms and Conditions (the “**Terms**”) apply to any use of video recordings of Parliamentary Sessions.   
   
