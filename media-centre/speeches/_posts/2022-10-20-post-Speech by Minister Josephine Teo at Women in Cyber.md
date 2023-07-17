@@ -78,3 +78,5 @@ Friends from Singapore and everyone who has made the time and effort to join us 
 19.<span style="white-space: pre;">		</span>I hope each of you, in your areas of influence, makes the effort to nurture women with a passion for cyber.<br>
 <br>
 20.<span style="white-space: pre;">		</span>Cyber will be more successful with women on board, and women can be successful in cyber. I believe that and hope that you do too.&nbsp; Thank you very much.<br>
+
+[PDF version of the speech](/files/Speeches%202022/mins%20sicw%20women%20in%20cyber%20opening%20remarks.pdf)
