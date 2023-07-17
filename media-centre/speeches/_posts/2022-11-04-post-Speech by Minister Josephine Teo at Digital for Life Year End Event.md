@@ -63,4 +63,3 @@ Colleagues and Friends<br>
 21.<span style="white-space: pre;">		</span>Thank you all once again for being part of it.<br>
 
 [PDF version of the speech](/files/Speeches%202022/transcript%20of%20minister%20josephine%20teos%20keynote%20speech%20at%20digital%20for%20life%20appreciation%20dinner%202022.pdf)
-
