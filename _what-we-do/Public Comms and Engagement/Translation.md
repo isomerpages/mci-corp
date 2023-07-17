@@ -108,22 +108,11 @@ Shortlisted applicants will be required to attend an interview between July and 
 Recipients will be appointed as National Translation Committee (NTC) Ambassadors for a duration of up to two years and required to contribute their expertise to NTC initiatives.
 <br><br>
 All applications are rigorously assessed by our panel of assessors. Only applicants who are shortlisted and clear the final interview will be selected for award.
-<br><br>
+<br>
 <title>Table Example</title>  
-&nbsp;   
-&nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp;   
-&nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp;     
-&nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp;   
+ 
 &nbsp; <table><thead><tr><th>TTDS Application Form</th><th>TTDS Application Guide</th></tr></thead><tbody><tr><td><a href="https://form.gov.sg/5b6158b78860f8000f9c89d6">Click here</a></td><td>Application Guide</td></tr></tbody></table>
+<br><br>
 </details>
 
 <details>  
@@ -166,27 +155,7 @@ All applications are rigorously assessed by our panel of assessors. Only applica
  <summary>How To Apply</summary> 
 <br>
 <title>Table Example</title>  
-&nbsp;   
-&nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp;    
-&nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp;   
-&nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp;    
-&nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp;     
-&nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp; &nbsp; &nbsp;    
-&nbsp; &nbsp; &nbsp;   
-&nbsp; &nbsp;   
+
 &nbsp; <table><thead><tr><th>Application period</th><th>For proposed events which start in</th></tr></thead><tbody><tr><td>1 January 2023 to 31 January 2023</td><td>April 2023 to July 2023</td></tr><tr><td>1 May 2023 to 31 May 2023</td><td>August 2023 to December 2023</td></tr><tr><td>1 August 2023 to 30 September 2023</td><td>January 2024 to June 2024</td></tr></tbody></table>
 <br>
 Each applicant can submit only one application per cycle. Late submissions will not be entertained.
