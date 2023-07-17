@@ -62,6 +62,3 @@ REACH Chairman Tan Kiat How will share more with you about that later so I shall
 16.<span> </span>Thank you.<br>
 
 [PDF version of the speech](/files/Speeches%202022/reach%20panel%20appreciation%20event%2012%20nov%20minister%20speech.pdf)
-
-
-
