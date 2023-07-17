@@ -66,4 +66,5 @@ Supporting and recognising businesses on their journey towards being “cyber sa
 <p><em><span style="font-size: 10px;"><sup>2</sup>&nbsp;&nbsp;<em><sub>&nbsp;https://www.straitstimes.com/tech/tech-news/nearly-73500-patients-data-affected-in-ransomware-attack-on-eye-clinic-in-spore</sub></em></span></em></p>
 <p><em><em><sub><span style="font-size: 10px;">3&nbsp; &nbsp;https://www.straitstimes.com/singapore/consumer/police-investigating-furniture-retailer-vhives-data-breach-customer-information</span></sub></em></em></p>
 <p><em><em><sub><em><em><sub><span style="font-size: 10px;">4&nbsp; Under the Singapore Standardisation Programme, the Technical Reference (TR) is approved by the IT Standards Committee (ITSC).</span></sub></em></em></sub></em></em></p>
+
 [PDF version of the speech](/files/Speeches%202022/speech%20by%20sms%20tan%20kiat%20how%20for%20the%20sg%20cyber%20safe%20partnership%20appreciaion%20at%20the%20sicw.pdf)
