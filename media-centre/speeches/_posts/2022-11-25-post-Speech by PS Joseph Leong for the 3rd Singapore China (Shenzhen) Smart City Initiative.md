@@ -54,3 +54,7 @@ image: ""
 --------------------------------------------------------------------------------------------------------------------------<br>
 <p><sup>1</sup> DST is short for "Di-Shang-Tie", or 地上铁</p>
 
+[PDF version of the speech](/files/Speeches%202022/transcript%20of%20opening%20remarks%20by%20ps%20joseph%20leong%20at%203rd%20sci%20jic%20meeting.pdf)
+
+
+
