@@ -60,4 +60,3 @@ Colleagues and friends<br>
 18.<span style="white-space: pre;">		</span>I look forward to our discussions at the AMCC and I wish all of you a pleasant and fruitful time in Singapore. Thank you once again.</p>
 
 [PDF version of the speech](/files/Speeches%202022/mins%20amcc%20speech.pdf)
-
