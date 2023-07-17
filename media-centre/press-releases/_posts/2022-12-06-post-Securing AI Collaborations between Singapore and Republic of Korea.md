@@ -31,7 +31,8 @@ image: ""
 6.<span style="white-space: pre;">		</span>Minister Teo also visited Kakao Healthcare to learn about its MedTech and AI in Healthcare capabilities, and toured the Healthcare Innovation Park at the Seoul National University Bundang Hospital to learn about the ROK’s Doctor Answer 2.0 project, as well as how the hospital was making use of AI and other technologies to improve patient care and staff productivity. On the evening of 6 December, Minister Teo will engage Singaporean representatives based in the ROK, to share about the Forward Singapore exercise, and exchange views and perspectives.<br>
 <br>
 7.<span style="white-space: pre;">		</span>On 7 December, Minister Teo will meet with Mr Jean Koh, Chairman of the ROK’s Presidential Committee on Digital Platform Government (DGP) to learn about the ROK’s DGP initiative and explore opportunities to deepen collaboration between DGP and Singapore’s Smart Nation initiative.&nbsp;</p>
-<p><a href="-/media/D6DBE67D78F44DCAA99FE395862FF208.ashx">Annex A:&nbsp;Opening remarks by Mrs Josephine Teo, Minister for Communications and Information, at the signing of the Artificial Intelligence Memorandum of Understanding between Singapore and Republic of Korea on 6 December 2022</a></p>
-<p><a href="-/media/7D52889720DE4A6BAD1DAC33B50C09AC.ashx">Annex B:&nbsp;Photos and captions of Minister Josephine Teo’s official visit to Republic of Korea</a></p>
-<p>&nbsp;</p>
-<br>
+
+
+[Annex A: Opening Remarks by Minister Josephine Teo at signing of Singapore-Korea AI MOU](/files/Press%20Releases%202022/annex%20a%20-%20opening%20remarks%20by%20minister%20josephine%20teo%20at%20signing%20of%20singapore-korea%20ai%20mou%20.pdf)
+
+[Annex B: Photos and Captions of Minister Josephine Teo's official visit to Republic of Korea](/files/Press%20Releases%202022/annex%20b%20%20photos%20and%20captions%20of%20minister%20teos%20official%20visit%20to%20republic%20of%20korea%20003.pdf)
