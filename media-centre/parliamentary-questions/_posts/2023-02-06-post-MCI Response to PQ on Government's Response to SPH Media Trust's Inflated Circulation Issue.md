@@ -7,8 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-
-```### Parliament Sitting on 6 February 2023
+### Parliament Sitting on 6 February 2023
 
 QUESTION FOR ORAL ANSWER
 ------------------------
@@ -31,8 +30,8 @@ QUESTION FOR ORAL ANSWER
   
 **10. Ms Mariam Jaafar:** To ask the Minister for Communications and Information regarding the recent overstatement of SPH Media Trust (SMT)’s circulation numbers for its publications, whether the Ministry has reviewed the impact of SMT’s position with advertisers.   
   
-**11. Mr Leong Mun Wai:** To ask the Minister for Communications and Information (a) whether the inflation of circulation numbers has had any material impact on Singapore Press Holdings Limited’s or SPH Media Trust's financial metrics, such as gross revenue and gross profit; and (b) how will this affect the valuation of the company.     
-  
+**11. Mr Leong Mun Wai:** To ask the Minister for Communications and Information (a) whether the inflation of circulation numbers has had any material impact on Singapore Press Holdings Limited’s or SPH Media Trust's financial metrics, such as gross revenue and gross profit; and (b) how will this affect the valuation of the company.
+
 **12. Ms He Ting Ru:** To ask the Minister for Communications and Information what is the Ministry’s assessment of the impact of the falsification of past circulation figures by Singapore Press Holdings, including the timing and manner in which the news was made public, particularly on public confidence and the credibility of SPH Media Trust’s current products.   
   
 **13. Mr Pritam Singh:** To ask the Minister for Communications and Information (a) how does the Government determine the quantum of taxpayer subsidies allocated to SPH Media Trust each fiscal year; and (b) whether these subsidies are contingent on (i) qualitative and (ii) quantitative metrics and outcomes, respectively.   
@@ -47,44 +46,43 @@ QUESTION FOR ORAL ANSWER
   
 **18. Ms He Ting Ru:** To ask the Minister for Communications and Information (a) whether individuals involved in initiating and perpetuating the inflated circulation figures in SPH Media Trust have been referred to the Police for further investigation; and (b) if so, how many have been referred to the Police for further investigation.   
   
-  
-**Answer:  **
+**Answer:**
   
 1. Mr Speaker, may I have your permission to address PQs 2 to 18 in today’s Order Paper, as well as related written PQs 33 and 34 together? I will also address the related matters raised in the questions by Mr Darryl David, Mr Gerald Giam, Ms Hazel Poa and Dr Wan Rizal, which are scheduled for a subsequent sitting. I invite Members to seek clarifications, if need be, at this Sitting.  
   
 2. Members have asked about the internal review of circulation numbers by SPH Media Trust (SMT). The following is what we have been told by SMT, all of which is on public record:         
   
-i) After the transfer of the media business from Singapore Press Holdings Limited (SPHL) to SMT in December 2021, SMT started a review to assess the data that it had taken over. This included circulation data.   
+    i) After the transfer of the media business from Singapore Press Holdings Limited (SPHL) to SMT in December 2021, SMT started a review to assess the data that it had taken over. This included circulation data.   
   
-ii) SPHL’s previous annual reports set out circulation data. These were stated to be in accordance with rules established by the Audit Bureau of Media Consumption Singapore (ABC).   
+    ii) SPHL’s previous annual reports set out circulation data. These were stated to be in accordance with rules established by the Audit Bureau of Media Consumption Singapore (ABC).   
   
-iii) Over time, quantifying print circulation became less relevant and ABC ceased operations in Singapore in 2019.   
+    iii) Over time, quantifying print circulation became less relevant and ABC ceased operations in Singapore in 2019.
+		
+    iv) As many other publishers have done, SMT decided to reassess the methodology for reporting circulation data so as to establish a new measurement framework and baseline.   
   
-iv) As many other publishers have done, SMT decided to reassess the methodology for reporting circulation data so as to establish a new measurement framework and baseline.   
+    v) The circulation data they reviewed covered the period September 2020 to March 2022.  
   
-v) The circulation data they reviewed covered the period September 2020 to March 2022.  
-  
-vi) In its review, SMT found that circulation numbers in some months during the period under review were overstated by up to 90,000 average daily copies.  
-  
+     vi) In its review, SMT found that circulation numbers in some months during the period under review were overstated by up to 90,000 average daily copies.
+		 
 3. Sir, these events took place before SMT was formed, when the media business was under SPHL, a private listed company. However, this discrepancy has impacted SMT, including the newsrooms and journalists. SMT’s Board and management have decided to investigate the matter fully. They will have to rectify what needs to be rectified, and be transparent about how they proceed.   
   
 4. From the Government’s perspective, we have three core interests in this matter:   
   
-i) First, the usage of public funds;  
+    i) First, the usage of public funds;  
   
-ii) Second, whether SMT’s findings on circulation affect the Government’s assessment of the need to provide funding support to SMT; and  
+    ii) Second, whether SMT’s findings on circulation affect the Government’s assessment of the need to provide funding support to SMT; and  
   
-iii) Third, if we continue to assess that funding support is needed, whether the amount of funding should be revised.  
+    iii) Third, if we continue to assess that funding support is needed, whether the amount of funding should be revised.  
   
-Mr Speaker, I will discuss these three core interests in turn.  
+    Mr Speaker, I will discuss these three core interests in turn.  
   
-Impact on Public Funds   
+    **Impact on Public Funds**   
   
 5. Parliament was informed in May 2021 that the Government supported the restructuring of SPHL’s media business into SMT. Subsequently, in February 2022, Parliament was informed of the funding that the Government was prepared to commit to support SMT’s capability development for five financial years from FY 2022.    
   
 6. Up to now, we have not disbursed any funds. Moreover, the Government did not have a funding relationship with SMT before FY 2022. Therefore, the findings of SMT’s internal review of circulation data from September 2020 to March 2022 have no bearing on public funds.    
   
-Impact on Government Funding  
+    **Impact on Government Funding**  
   
 7. Second, do the findings of SMT’s internal review affect the Government’s assessment of the need to provide funding support? This is what MCI’s own review sought to answer, and what Ms Jessica Tan, Mr Darryl David, Mr Don Wee, Mr Gerald Giam and others have asked about.  
   
@@ -116,7 +114,7 @@ Impact on Government Funding
   
 21. **Mr Speaker, these reasons for supporting SMT remain valid today.**   
   
-Level of Funding Support  
+    **Level of Funding Support**  
   
 22. And this brings us to the third question – whether the findings of SMT’s review of the circulation numbers should affect the amount of funding committed.   
   
@@ -124,35 +122,35 @@ Level of Funding Support
   
 24. The funds would be used for:  
   
-i) **t****echnology development** – for example, product development for the digital space, newsroom tools like content management resources and data analytics, and IT infrastructure.  
+    i) **technology development** – for example, product development for the digital space, newsroom tools like content management resources and data analytics, and IT infrastructure.  
   
-ii) They would also be used for **talent development** – training journalists for the new operating environment, including equipping them with digital skills and multimedia capabilities.  
+    ii) They would also be used for **talent development** – training journalists for the new operating environment, including equipping them with digital skills and multimedia capabilities.  
   
-iii) The funds would also be used for the **preservation of vernacular media** – sustaining the vernacular newsrooms, and developing new content formats like videos and podcasts to reach younger audiences.  
+    iii) The funds would also be used for the **preservation of vernacular media** – sustaining the vernacular newsrooms, and developing new content formats like videos and podcasts to reach younger audiences.  
   
 25. I had also informed Parliament that in its initial years, we expect SMT to spend approximately 40% of the funding on tech investments and digital talent.  The remainder will be spent on newsroom capability building and training, in particular, of the vernacular newsrooms.  
   
-26. As Members can see, in assessing the funding required for SMT’s transformation, **circulation numbers were not a key consideration. The level of funding previously assessed for the purposes of investing in technology and capability development remain valid.**    
-  
-Ensuring Accountability  
+26. As Members can see, in assessing the funding required for SMT’s transformation, **circulation numbers were not a key consideration. The level of funding previously assessed for the purposes of investing in technology and capability development remain valid.**
+
+    **Ensuring Accountability**  
   
 27. Let me now talk about ensuring accountability. When Government funding is given, SMT will be held to account. Our focus is on readership and reach, which measure how many people consume the content, and not circulation, which is how many print and digital copies are sold or distributed.   
   
-28. Readership and reach are measured through surveys done by third parties. SPHL had previously commissioned surveys conducted by third-party research agencies such as GfK. MCI had also independently verified readership and reach using data sources outside of SPHL and SMT, including data collected by the Reuters Institute of Oxford University1, and our own News Consumption Surveys.   
+28. Readership and reach are measured through surveys done by third parties. SPHL had previously commissioned surveys conducted by third-party research agencies such as GfK. MCI had also independently verified readership and reach using data sources outside of SPHL and SMT, including data collected by the Reuters Institute of Oxford University[^1], and our own News Consumption Surveys.   
   
 29. We also have in place conditions and safeguards to ensure that public funding is used in an accountable and responsible manner.  
   
 30. I informed Parliament last year about the Key Performance Indicators (KPIs) we would be applying, including:  
   
-i) Total reach and engagement of SMT’s products, with a focus on their digital platforms; and  
+    i) Total reach and engagement of SMT’s products, with a focus on their digital platforms; and  
   
-ii) Specific reach indicators for vernacular groups and youths  
+    ii) Specific reach indicators for vernacular groups and youths  
   
 31. The achievement of the KPIs will determine the amount of funding SMT receives. SMT’s KPI performance and financial statements must be audited by independent external auditors before submission to the Government. The Government can also conduct its own audits of SMT.  
   
 32. I further shared that SMT would be required to provide progress updates to MCI on a half-yearly basis. Specifically, funding will only be disbursed if SMT provides satisfactory regular updates on where and how funding has been utilised, and future business plans. The Government will also review the funding quantum during the mid-term and adjust KPIs and funding where necessary.   
   
-Other Issues  
+    **Other Issues**  
   
 33. Mr Speaker, I have explained the Government’s key concerns with respect to SMT’s findings from its review of circulation data.  Specifically, no public monies have been lost; there is no change to the decision to provide funding support to SMT; and there is no change to the amount of funding for SMT.  
   
@@ -164,21 +162,20 @@ Other Issues
   
 37. There were other questions about the details of SMT’s review, including    
   
-i) the duration and financial implications of the overstated circulation numbers;  
+    i) the duration and financial implications of the overstated circulation numbers;  
   
-ii) the manner, timing, and extent to which SMT discloses details of its review; and  
+    ii) the manner, timing, and extent to which SMT discloses details of its review; and  
   
-iii) police investigations.  
+    iii) police investigations.  
    
 38. The Members’ concerns are valid, and these questions should be addressed to SMT. This includes the corporate culture Ms Poa asked about, as well as SMT’s position with advertisers, as noted by Ms Mariam Jaafar.   
   
-39. SMT has its own corporate governance and executive team. Their CEO is accountable to their Board, which is in turn accountable to the Members of the CLG.  The Government cannot speak on behalf of SMT, and it is premature for us to say more at this juncture. This is especially as the Board has tasked its Audit and Risk Committee to conduct further investigations into the circulation discrepancy.  
+39. SMT has its own corporate governance and executive team. Their CEO is accountable to their Board, which is in turn accountable to the Members of the CLG. The Government cannot speak on behalf of SMT, and it is premature for us to say more at this juncture. This is especially as the Board has tasked its Audit and Risk Committee to conduct further investigations into the circulation discrepancy.  
   
 40. The Government welcomes the Board’s resolve to examine the findings of its internal review, and to put SMT on the right footing.  MCI expects SMT to share the findings of its Audit and Risk Committee’s investigation with us.   
   
 41. SMT’s Board and management must also be mindful of their public duties, their responsibility to maintain the public’s trust in their newsrooms and journalists, and the need to discharge these responsibilities in a diligent and timely manner.  
   
+------------------------------------------------------------------------------------
 
-\--------------------------------------------------------------------------------------------------------------------------
-
-\[1\] The Reuters Institute for the Study of Journalism publishes an annual Digital News Report tracking worldwide changes in news consumption. In 2022, over 93,000 digital news users in 46 countries were surveyed.
+[^1]: The Reuters Institute for the Study of Journalism publishes an annual Digital News Report tracking worldwide changes in news consumption. In 2022, over 93,000 digital news users in 46 countries were surveyed.
