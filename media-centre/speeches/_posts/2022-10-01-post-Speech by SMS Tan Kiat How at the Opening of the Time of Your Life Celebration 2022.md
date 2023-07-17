@@ -73,3 +73,6 @@ Ladies and gentlemen&nbsp;<br>
 21.<span style="white-space: pre;">		</span>As all of you would be aware, Deputy Prime Minister Lawrence Wong launched the Forward Singapore exercise a couple of months ago. The intent of this exercise is to bring society together and remain united as one people as Singapore emerges from COVID-19. It is a timely opportunity for us to refresh our social compact – especially in a much more uncertain world in the future. As part of this Forward Singapore exercise, we want to bring different stakeholders together – not just the Government, but also community partners, civil society, individuals, experts in academia – to look at important issues confronting Singapore and how each of us can play a role to make Singapore a vibrant, inclusive&nbsp; home for all Singaporeans, including future generations.&nbsp;&nbsp;<br>
 &nbsp;<br>
 22.<span style="white-space: pre;">		</span>In the spirit of Forward Singapore, I look forward to hearing from the various speakers and participants, including Prof. Philp, Dr Ng and Assoc. Prof. Ma, on how we can collectively build a more inclusive society for all Singaporeans together.&nbsp;<br>
+
+[PDF version of the speech ](/files/Speeches%202022/trancsript%20of%20sms%20tan%20kiat%20hows%20speech%20at%20the%20opening%20of%20time%20of%20your%20life%20celebration%202022%20.pdf)
+
