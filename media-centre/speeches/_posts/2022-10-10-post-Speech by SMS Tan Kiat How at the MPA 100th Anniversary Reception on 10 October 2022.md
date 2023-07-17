@@ -28,3 +28,6 @@ Ladies and Gentlemen</p>
 <p><sup>1</sup>&nbsp;<em><sub>MPA counts the creation of the film rating system, and partnering with governments to tackle piracy and protect Intellectual Property (IP), among its key historical achievements. </sub>&nbsp;</em></p>
 <em></em>
 <p><em><sup>2</sup>&nbsp;<em><sub>MPA’s focus on “preserving creativity” refers to IP protections. Singapore’s IP regime also ranked 1st in the 2019 WEF Global Competitiveness Report, and 2nd in the 2021 Bloomberg Innovation Index (Source: IPOS).</sub>&nbsp;</em></em></p>
+
+[PDF version of the speech](/files/Speeches%202022/transcript%20of%20speech%20by%20parl%20sec%20rahayu%20at%20innovfest%20x%20elevating%20founders%20(atximpact).pdf)
+
