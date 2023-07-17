@@ -13,17 +13,17 @@ image: ""
   
 2  The idea of Forward SG really has to do with the social compact. To me, the social compact is about what each one of us needs to contribute to the broader society. At the same time, it is about what each one of us can expect in the form of support from society so that we can be our best selves.   
   
-3  We had another session two weeks ago, where we were interested in the support for a different profile1 – persons from disadvantaged backgrounds and how we can help them as part of our nation’s digital development. Today, we are focusing on seniors and how to help them build confidence.   
+3  We had another session two weeks ago, where we were interested in the support for a different profile[^1] – persons from disadvantaged backgrounds and how we can help them as part of our nation’s digital development. Today, we are focusing on seniors and how to help them build confidence.   
   
 4  At the previous session, I shared how my international counterparts are impressed by some of the progress that Singapore has achieved in digitalisation. For example, our household Internet access is at 99%, and 92% of households have computer access. For some of my colleagues from other parts of the world, they are still trying their best to get thousands of villages connected. Yet, the point we must keep in mind is that just because we have digital access does not mean that we have digital inclusion. You can be connected but if you don't have a level of proficiency, you cannot participate or your participation will be shallow. Keeping that in mind, our efforts at digital inclusion must be thoughtful, and they must be very much a part of our DNA. It is not something that is a nice to have. It has to be core to everything that we do in promoting digital developments.   
   
-**Digital Social Compact  
-**  
+**Digital Social Compact**
+
 5  Digital inclusion is a key part of us moving forward together as a nation and strengthening our social compact. There is a digital dimension to the social compact that we seek to strengthen in Singapore – a digital social compact that we are seeking and working hard to build.    
   
 6 In today's session, we are particularly focusing on building confidence amongst our seniors so that they can navigate the digital domain securely and successfully. There was very rich conversation. A participant pointed out something that is very useful, which is that we have to start with seniors’ frame of mind first – start with where they are.   
   
-7  Today I'm going to share a set of research findings2 that we have just assembled. We have not published these findings, but I think they help us understand the issues and have the right level of ambition as well as the right level of optimism.   
+7  Today I'm going to share a set of research findings[^2] that we have just assembled. We have not published these findings, but I think they help us understand the issues and have the right level of ambition as well as the right level of optimism.   
   
 8  We start with how people feel about digital technologies making their lives easier. We asked the general population and the level of agreement for this group is very high -- 84%. Then we asked people of different age groups. When we look at the data and we break it down further, it is quite interesting, but also not totally surprising.   
   
@@ -34,9 +34,9 @@ c.  So, this set of data suggests that even among seniors aged 70 years old and
 9  For the next set of data, we asked if they are keen to try out new digital technologies. Here, there is also something interesting. Even though the earlier set of data suggests that digital technologies have made life easier, it does not mean that they want more of it.   
   
 a.  This is true of the general population. While 84% agreed that digital technologies made their lives easier, only 65% were keen to try out new digital technologies.   
-b.  Similarly, smaller numbers for seniors in the 60s and seniors in their 70s3. So, majority believe that digital technologies would make their lives better, but in the senior years, usually less than half would want to try more.   
+b.  Similarly, smaller numbers for seniors in the 60s and seniors in their 70s[^3]. So, majority believe that digital technologies would make their lives better, but in the senior years, usually less than half would want to try more.   
   
-10  We also asked questions to ascertain people's digital proficiency. Essentially, we asked people whether they know how to perform a particular task. Some could only perform a few tasks and would be categorised as having low proficiency. If they can get to six basic tasks4, then we say that they have developing proficiency. If they can do 13 basic tasks5, that will be termed ‘basic proficiency’. To exceed basic proficiency, one must be able to do all 30 tasks.   
+10  We also asked questions to ascertain people's digital proficiency. Essentially, we asked people whether they know how to perform a particular task. Some could only perform a few tasks and would be categorised as having low proficiency. If they can get to six basic tasks[^4], then we say that they have developing proficiency. If they can do 13 basic tasks[^5], that will be termed ‘basic proficiency’. To exceed basic proficiency, one must be able to do all 30 tasks.   
   
 11  What do the results say? Let me explain how to read this set of data.   
   
@@ -47,13 +47,13 @@ d.  So for the general population, what you can keep in mind is that in terms o
   
 12  Now then, what about seniors in their 60s? The most interesting thing to me is that basic or higher proficiency among seniors in their 60s is at 44% today. But it is the direction of change that I feel most optimistic about. Just two years ago, it was 28% - meaning that those with basic or higher proficiency went up by 16 percentage points. That is very significant. For those with low proficiency, it also went down by the same share – by 16 percentage points.   
   
-13  What about seniors in their 70s and above? For those with basic or higher proficiency – 17% in 2022, which is still higher than two years ago, but the improvement is not so big6. The biggest improvement for seniors in their 70s is from low to developing proficiency7, meaning that they did make an improvement but a more modest one. But the direction and development is still a good one. Those with low proficiency is now down to about half (54%). So in time to come, it could go down even further. They may not be as proficient as the general population, but the direction of change is very encouraging.   
+13  What about seniors in their 70s and above? For those with basic or higher proficiency – 17% in 2022, which is still higher than two years ago, but the improvement is not so big[^6]. The biggest improvement for seniors in their 70s is from low to developing proficiency[^7], meaning that they did make an improvement but a more modest one. But the direction and development is still a good one. Those with low proficiency is now down to about half (54%). So in time to come, it could go down even further. They may not be as proficient as the general population, but the direction of change is very encouraging.   
   
 14  What are the areas where they seem to be having more challenges? We picked up a few.  
   
 15  Use of smartphone for contactless payment came up. Amongst the general population only 18% say they did not know how to do so. For seniors in their 60s, 34%. Among seniors aged 70 and above, about 60% said they did not know how to use a contactless payment. This is something that we can keep in mind. That's where a practical gap could be plugged.   
   
-16  If we look at another important area – we are always concerned about our parents being scammed by fake news. To mitigate this, we must cross check news and information. Amongst the general population, most people know how to do it. Only about one in five (22%) said they did not know how to do it. For seniors in their 60s, as well as those aged 70 and above – it is more significant8. So that is probably another area of intervention that we could devote some attention to.   
+16  If we look at another important area – we are always concerned about our parents being scammed by fake news. To mitigate this, we must cross check news and information. Amongst the general population, most people know how to do it. Only about one in five (22%) said they did not know how to do it. For seniors in their 60s, as well as those aged 70 and above – it is more significant[^8]. So that is probably another area of intervention that we could devote some attention to.   
   
 **Digital First but not Digital Only**  
   
@@ -88,14 +88,16 @@ c.  The Government also sets up service centres to enable our citizens to come 
 27  We hope that by working together, we can truly strengthen this digital social compact. We should become a nation that brings everyone along as we move towards the digital future. This includes seniors, whether they are in their 60s, or in their 70s – they are part of this digital future and part of this community. And I think we can do it.   
   
 28  Thank you.   
+
+[PDF version of the speech](/files/Speeches%202023/speech%20by%20minister%20josephine%20teo%20at%20forward%20sg%20engagement%20on%20digital%20inclusion%20.pdf)
+
+------------------------------------------------------------------------------------
    
-  
-\[1\] Engagement session on “Enhancing Digital Access for Low-income Households” held on 3 February  
-\[2\] The Digital Readiness Survey 2022 was conducted by the Ministry of Communications and Information with a random sample of over 2,000 Singapore citizens aged 15 years and above.  
-\[3\] 49% of seniors in their 60s agreed that they were keen to try out new digital technologies, while 41% of seniors aged 70 and above agreed with this statement. This is in contrast with 70% of seniors in their 60s and 62% of seniors aged 70 and above who agreed that digital technologies have made their lives easier  
-\[4\] These include browsing/reading content on social media; searching for information on a topic online; and using instant messaging  
-\[5\] These include accessing Government services using SingPass; buying products/services online; using smartphones to make contactless payments; setting a strong password for online accounts; and enabling 2FA  
-\[6\] In 2020, about 14% of seniors aged 70 and above had basic or higher proficiency.  
-\[7\] About 29% of seniors in their 70s and above had developing proficiency in 2022, compared to 7% in 2020. Meanwhile, about 54% of seniors in their 70s and above had low proficiency in 2022, compared to 80% in 2020.  
-\[8\] About 45% of seniors in their 60s and 62% of seniors aged 70 and above said they did not know how to do so.
-[](/files/Speeches%202023/speech%20by%20minister%20josephine%20teo%20at%20forward%20sg%20engagement%20on%20digital%20inclusion%20.pdf)
+[^1]: Engagement session on “Enhancing Digital Access for Low-income Households” held on 3 February  
+[^2]: The Digital Readiness Survey 2022 was conducted by the Ministry of Communications and Information with a random sample of over 2,000 Singapore citizens aged 15 years and above.  
+[^3]: 49% of seniors in their 60s agreed that they were keen to try out new digital technologies, while 41% of seniors aged 70 and above agreed with this statement. This is in contrast with 70% of seniors in their 60s and 62% of seniors aged 70 and above who agreed that digital technologies have made their lives easier  
+[^4]: These include browsing/reading content on social media; searching for information on a topic online; and using instant messaging  
+[^5]: These include accessing Government services using SingPass; buying products/services online; using smartphones to make contactless payments; setting a strong password for online accounts; and enabling 2FA  
+[^6]: In 2020, about 14% of seniors aged 70 and above had basic or higher proficiency.  
+[^7]: About 29% of seniors in their 70s and above had developing proficiency in 2022, compared to 7% in 2020. Meanwhile, about 54% of seniors in their 70s and above had low proficiency in 2022, compared to 80% in 2020.  
+[^8]: About 45% of seniors in their 60s and 62% of seniors aged 70 and above said they did not know how to do so.
