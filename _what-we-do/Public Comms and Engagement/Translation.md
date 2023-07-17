@@ -148,7 +148,31 @@ All applications are rigorously assessed by our panel of assessors. Only applica
 </style>  
   
 <details>  
- <summary>How To Apply</summary>  
+ <summary>How To Apply</summary> 
+<br>
+<title>Table Example</title>  
+&nbsp;   
+&nbsp; &nbsp;   
+&nbsp; &nbsp; &nbsp;   
+&nbsp; &nbsp; &nbsp; &nbsp;   
+&nbsp; &nbsp; &nbsp; &nbsp;    
+&nbsp; &nbsp; &nbsp;   
+&nbsp; &nbsp;   
+&nbsp; &nbsp;   
+&nbsp; &nbsp; &nbsp;   
+&nbsp; &nbsp; &nbsp; &nbsp;   
+&nbsp; &nbsp; &nbsp; &nbsp;    
+&nbsp; &nbsp; &nbsp;   
+&nbsp; &nbsp; &nbsp;   
+&nbsp; &nbsp; &nbsp; &nbsp;   
+&nbsp; &nbsp; &nbsp; &nbsp;     
+&nbsp; &nbsp; &nbsp;   
+&nbsp; &nbsp; &nbsp;   
+&nbsp; &nbsp; &nbsp; &nbsp;   
+&nbsp; &nbsp; &nbsp; &nbsp;    
+&nbsp; &nbsp; &nbsp;   
+&nbsp; &nbsp;   
+&nbsp; <table><thead><tr><th>Application period</th><th>For proposed events which start in</th></tr></thead><tbody><tr><td>1 January 2023 to 31 January 2023</td><td>April 2023 to July 2023</td></tr><tr><td>1 May 2023 to 31 May 2023</td><td>August 2023 to December 2023</td></tr><tr><td>1 August 2023 to 30 September 2023</td><td>January 2024 to June 2024</td></tr></tbody></table>
 <br>
 Each applicant can submit only one application per cycle. Late submissions will not be entertained.
 <br><br>
