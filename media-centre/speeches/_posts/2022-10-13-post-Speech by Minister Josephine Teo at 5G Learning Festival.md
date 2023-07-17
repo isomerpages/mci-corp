@@ -89,4 +89,3 @@ Colleagues and Friends<br>
 39.<span style="white-space: pre;"> 		</span>Thank you.<br>
 
 [PDF version of the speech](/files/Speeches%202022/speech%20by%20minister%20at%205g%20learning%20festival%20on%2013%20oct%202022.pdf)
-
