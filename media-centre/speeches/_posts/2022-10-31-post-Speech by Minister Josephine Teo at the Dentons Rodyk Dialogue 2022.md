@@ -122,3 +122,5 @@ b.<span style="white-space: pre;">	</span>Meta has partnered TOUCH Community Ser
 <p>--------------------------------------------------------------------------------------------------------------------------<br>
 <sup>1</sup> MCI study conducted online between 15 to 22 June 2022, with 1,053 Singapore residents aged 15 and above.&nbsp;<br>
 <sup>2</sup> In areas such as sex, violence, suicide and self-harm, cyberbullying, the endangerment of public health, as well as content facilitating vice and organised crime.</p>
+
+[PDF version of the speech](/files/Speeches%202022/transcript%20of%20speech%20by%20minister%20josephine%20teo%20at%20the%20dentons%20rodyk%20dialogue%202022.pdf)
