@@ -32,8 +32,7 @@ Please send the Notice of Appeal and other documentation in person and attenti
 Ministry of Communications and Information  
 Singapore 179369*
   
-Payment of filing fee has to be made by electronic means (i.e. bank transfer or PayNow) . Please email the Secretary to the Data Protection Appeal Panel to request for further details.  
-  
+Payment of filing fee has to be made by electronic means (i.e. bank transfer or PayNow) . Please email the Secretary to the Data Protection Appeal Panel to request for further details.
   
 **More Information**
 
