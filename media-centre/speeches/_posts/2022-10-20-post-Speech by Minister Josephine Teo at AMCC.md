@@ -58,3 +58,6 @@ Colleagues and friends<br>
 17.<span style="white-space: pre;">		</span>In closing, I want to reaffirm the significant progress that ASEAN has made towards a secure and resilient cyberspace. We have accomplished all these because we stand by the principle of “Addressing Challenges Together” to build a sustainable digital future for all our peoples.&nbsp;<br>
 <br>
 18.<span style="white-space: pre;">		</span>I look forward to our discussions at the AMCC and I wish all of you a pleasant and fruitful time in Singapore. Thank you once again.</p>
+
+[PDF version of the speech](/files/Speeches%202022/mins%20amcc%20speech.pdf)
+
