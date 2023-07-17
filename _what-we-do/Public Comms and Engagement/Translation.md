@@ -109,6 +109,21 @@ Recipients will be appointed as National Translation Committee (NTC) Ambassadors
 <br><br>
 All applications are rigorously assessed by our panel of assessors. Only applicants who are shortlisted and clear the final interview will be selected for award.
 <br><br>
+<title>Table Example</title>  
+&nbsp;   
+&nbsp; &nbsp;   
+&nbsp; &nbsp; &nbsp;   
+&nbsp; &nbsp; &nbsp; &nbsp;   
+&nbsp; &nbsp; &nbsp; &nbsp;   
+&nbsp; &nbsp; &nbsp;   
+&nbsp; &nbsp;   
+&nbsp; &nbsp;   
+&nbsp; &nbsp; &nbsp;   
+&nbsp; &nbsp; &nbsp; &nbsp;   
+&nbsp; &nbsp; &nbsp; &nbsp;     
+&nbsp; &nbsp; &nbsp;   
+&nbsp; &nbsp;   
+&nbsp; <table><thead><tr><th>TTDS Application Form</th><th>TTDS Application Guide</th></tr></thead><tbody><tr><td><a href="https://form.gov.sg/5b6158b78860f8000f9c89d6">Click here</a></td><td>Application Guide</td></tr></tbody></table>
 </details>
 
 <details>  
