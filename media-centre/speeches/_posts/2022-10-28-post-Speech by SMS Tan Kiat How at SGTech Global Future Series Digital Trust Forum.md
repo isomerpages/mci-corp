@@ -70,3 +70,5 @@ Ladies and gentlemen,<br>
 27.<span style="white-space: pre;">		</span>Trust is fundamental. We need the government, industry, and people. Singapore wants to be a stage for like-minded partners from around the world, thought leaders and companies to share learnings to the rest of the world. With that, I wish you a fruitful Forum. Thank you very much.</p>
 <p>
 --------------------------------------------------------------------------------------------------------------------------</p>
+
+[PDF version of the speech](/files/Speeches%202022/speech%20by%20sms%20tan%20kiat%20how%20at%20sgtech%20global%20future%20series%20digital%20trust%20forum.pdf)
