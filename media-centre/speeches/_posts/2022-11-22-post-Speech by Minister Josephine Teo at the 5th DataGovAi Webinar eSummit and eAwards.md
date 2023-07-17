@@ -43,3 +43,5 @@ Distinguished guests<br>
 16.<span style="white-space: pre;"> 		</span>Cooperation will be key as we continue to nurture a vibrant and resilient Digital Economy together. I look forward to building more bridges across ASEAN and the rest of the world to harness the full potential of data and the Digital Economy.<br>
 <br>
 17.<span style="white-space: pre;">		</span>Terimah kasih.</p>
+
+[PDF version of the speech](/files/Speeches%202022/speech%20by%20minister%20josephine%20teo%20at%20the%205th%20datagovai%20webinar%20esummit%20and%20eawards%20.pdf)
