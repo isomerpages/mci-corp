@@ -9,11 +9,11 @@ image: ""
 ---
 **Introduction**  
   
-1. Thank you for making time and for spending your afternoon with us. This set of conversations has been organised as part of the Forward Singapore (Forward SG) movement. This movement has to do with the idea that while we may be maturing as a society - and in many regards, are successful as a country - we have to always challenge ourselves by laying out the path towards a brighter future for ourselves and for our future generations.   
-  
-2. The idea of Forward SG really has to do with the social compact. To me, the social compact is about what each one of us needs to contribute to the broader society. At the same time, it is about what each one of us can expect in the form of support from society so that we can be our best selves.   
-  
-3. We had another session two weeks ago, where we were interested in the support for a different profile [^1] persons from disadvantaged backgrounds and how we can help them as part of our nation’s digital development. Today, we are focusing on seniors and how to help them build confidence.   
+1. Thank you for making time and for spending your afternoon with us. This set of conversations has been organised as part of the Forward Singapore (Forward SG) movement. This movement has to do with the idea that while we may be maturing as a society - and in many regards, are successful as a country - we have to always challenge ourselves by laying out the path towards a brighter future for ourselves and for our future generations.
+
+2. The idea of Forward SG really has to do with the social compact. To me, the social compact is about what each one of us needs to contribute to the broader society. At the same time, it is about what each one of us can expect in the form of support from society so that we can be our best selves.
+
+3. We had another session two weeks ago, where we were interested in the support for a different profile[^1] persons from disadvantaged backgrounds and how we can help them as part of our nation’s digital development. Today, we are focusing on seniors and how to help them build confidence.   
   
 4. At the previous session, I shared how my international counterparts are impressed by some of the progress that Singapore has achieved in digitalisation. For example, our household Internet access is at 99%, and 92% of households have computer access. For some of my colleagues from other parts of the world, they are still trying their best to get thousands of villages connected. Yet, the point we must keep in mind is that just because we have digital access does not mean that we have digital inclusion. You can be connected but if you don't have a level of proficiency, you cannot participate or your participation will be shallow. Keeping that in mind, our efforts at digital inclusion must be thoughtful, and they must be very much a part of our DNA. It is not something that is a nice to have. It has to be core to everything that we do in promoting digital developments.   
   
@@ -92,7 +92,6 @@ image: ""
 [PDF version of the speech](/files/Speeches%202023/speech%20by%20minister%20josephine%20teo%20at%20forward%20sg%20engagement%20on%20digital%20inclusion%20.pdf)
 
 ------------------------------------------------------------------------------------
-   
 [^1]: Engagement session on “Enhancing Digital Access for Low-income Households” held on 3 February  
 
 [^2]: The Digital Readiness Survey 2022 was conducted by the Ministry of Communications and Information with a random sample of over 2,000 Singapore citizens aged 15 years and above.  
