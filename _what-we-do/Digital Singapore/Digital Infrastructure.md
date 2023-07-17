@@ -38,6 +38,8 @@ MCI will work with stakeholders in the public and private sectors to take these 
 2. strengthening trust to participate in the digital economy and society confidently; and 
 3. empowering communities to connect and improve lives. 
 
+![](/images/Digital%20Infrastructure/dcb%20infographic%20with%20qr%20code_final.jpg)
+
 ## Ensuring an Effective and Conducive Regulatory Environment
 
 Regulatory measures are one of the levers MCI employs to strengthen the resilience and robustness of our digital infrastructure. 
@@ -45,4 +47,3 @@ Regulatory measures are one of the levers MCI employs to strengthen the resilien
 We regularly review them to ensure they keep pace with technological advancements, business models, and our people’s needs. Examples of such measures include IMDA’s Code of Practice for Telecom Service Resilience and Quality of Service standards. 
 
 As outlined in the Digital Connectivity Blueprint, we will also explore the need to regulate critical components of the expanding digital infrastructure stack in a calibrated, risk-based manner.
-
