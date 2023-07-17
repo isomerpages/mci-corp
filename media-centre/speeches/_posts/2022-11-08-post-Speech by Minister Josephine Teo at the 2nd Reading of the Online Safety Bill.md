@@ -331,3 +331,4 @@ image: ""
 <p>&nbsp;</p>
 </div>
 
+[PDF version of the speech](/files/Speeches%202022/2r%20opening%20speech%20by%20minister%20josephine%20teo%20on%20the%20online%20safety%20(misc)%20bill%20(2).pdf)
