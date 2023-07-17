@@ -22,3 +22,8 @@ image: ""
 <br>
 6.<span style="white-space: pre;">		</span>Veteran actor Zheng Ge Ping, who is the Executive Producer of the show, says, “We are happy to collaborate with MCI once again to deliver a high quality dialect drama that explores the theme of active aging and other issues relevant for seniors. We believe our viewers can gain valuable insights and useful knowledge from the show, and we hope everyone enjoys it!”<br>
 <br>
+[Annex A-Cast List](/files/Press%20Releases%202022/annex%20a%20-%20cast%20list%20(4).pdf)
+
+[Annex B- Synopsis](/files/Press%20Releases%202022/annex%20b%20-%20synopsis%20(2).pdf)
+
+
