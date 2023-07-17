@@ -102,3 +102,5 @@ Colleagues and Friends&nbsp;<br>
 38.<span style="white-space: pre;">		</span>To everyone present today, thank you for leading the way in growing, developing and advancing our cybersecurity ecosystem. I have a feeling that when we gather in a matter of three years, five years, ten years, the cybersecurity community will be one that has grown in both breadth and depth. I see this happening because digitalisation is not stopping. Digitalisation will continue to be a mainstay of our economic development. Whether or not there are economic downturns, it is a trend that is not going to stop in any way. So, this community has every reason to be hopeful about the future, to be optimistic about the prospects, and also every reason to be confident that you can be a leader.<br>
 <br>
 39.<span style="white-space: pre;">		</span>Thank you very much for inviting me.&nbsp;</p>
+
+[PDF version of the speech](/files/Speeches%202022/opening%20speech%20by%20minister%20josephine%20teo%20at%20the%20cybersecurity%20awards%202022.pdf)
