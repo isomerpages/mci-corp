@@ -155,7 +155,7 @@ Each applicant can submit only one application per cycle. Late submissions will 
 Applicants may send the completed <a href="/files/Translation/citeg%20application%20form%20(updated%2030%20apr%202021).pdf">Application Form</a>, together with all relevant supporting documents via the submission form at <a href="https://go.gov.sg/citeg-submit">https://go.gov.sg/citeg-submithere</a>.
 <br><br>
 Applicants can expect to be notified of their application outcome within two months of application submission. For more information, please refer to: 
-<br>
+<br><br>
 <title>Table Example</title>
 <table>
     <thead>
@@ -172,5 +172,5 @@ Applicants can expect to be notified of their application outcome within two mon
         <td><a href="/files/Translation/citeg%20application%20form%20(updated%2030%20apr%202021).pdf">Click here</a></td>
       </tr>
     </tbody>
-  </table>
+  </table><br><br>
 </details>
