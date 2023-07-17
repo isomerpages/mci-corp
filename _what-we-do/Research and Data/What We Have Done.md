@@ -4,7 +4,8 @@ permalink: /what-we-do/research-and-data/what-we-have-done/
 description: ""
 third_nav_title: Research and Data
 ---
-# **What we have done**
+## What we have done
+
 Some examples of research that MCI has done include:
 
 **Understanding Singapore Residents’ Overall Quality of Life Post- Pandemic**
