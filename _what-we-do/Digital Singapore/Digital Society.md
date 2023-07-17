@@ -106,4 +106,4 @@ The [Source, Understand, Research, Evaluate (S.U.R.E)](https://sure.nlb.gov.sg/)
 	
 ## Feedback
 	
-If you have any suggestions on how we can work together towards a safe and digitally inclusive Singapore, or if you would like to contribute to this effort in any way, we would be happy to hear from you. You may [email us at MCI-Digital\_Readiness\_and\_Learning\_Div@mci.gov.sg](mailto:MCI-Digital_Readiness_and_Learning_Div@mci.gov.sg)
+If you have any suggestions on how we can work together towards a safe and digitally inclusive Singapore, or if you would like to contribute to this effort in any way, we would be happy to hear from you. You may email us at [MCI-Digital\_Readiness\_and\_Learning\_Div@mci.gov.sg](mailto:MCI-Digital_Readiness_and_Learning_Div@mci.gov.sg)
