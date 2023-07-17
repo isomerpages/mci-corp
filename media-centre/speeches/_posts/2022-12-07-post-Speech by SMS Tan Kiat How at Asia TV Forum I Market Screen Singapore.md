@@ -56,3 +56,5 @@ Ladies and gentlemen<br>
 22.<span style="white-space: pre;"> 		</span>Let me conclude. The initiatives I have shared capitalise on Singapore’s globally connected media ecosystem to tell Asia’s stories to the world. I welcome partners all around the world to collaborate with us and leverage Singapore’s connectivity to not just Asia, but to the rest of the world as well.<br>
 <br>
 23.<span style="white-space: pre;"> 		</span>I wish everyone a fruitful time at ATF and the Festival. Thank you.<br>
+
+[PDF version of the speech](/files/Speeches%202022/transcript%20of%20speech%20by%20sms%20tan%20kiat%20how%20at%20atf-ss%20.pdf)
