@@ -44,3 +44,4 @@ image: ""
 <p>16.<span style="white-space: pre;">		</span>Thank you very much, everyone.</p>
 <p>
 --------------------------------------------------------------------------------------------------------------------------</p>
+[PDF version of the speech](/files/Speeches%202022/transcript%20of%20closing%20remarks%20by%20sms%20tan%20at%20apple%20swift%20explorers%20singapore%2026%20oct.pdf)
