@@ -53,3 +53,5 @@ I would like to commend all the teams’ projects I saw today.&nbsp;<br>
 <div><em style="font-size: x-small;">[1]&nbsp;<span>Career Compass in an SCS initiative that supports individuals in their career discovery journeys and helps them secure jobs in the ICT sector through mentoring sessions by experienced ICT career mentors and webinars that cover professional tips.&nbsp;</span></em></div>
 <span style="font-size: 10px;"><em></em>
 </span>
+
+[PDF version of the speech](/files/Speeches%202022/transcript%20of%20speech%20by%20sms%20tan%20kiat%20how%20at%20scs%20splash%20awards%202022.pdf)
