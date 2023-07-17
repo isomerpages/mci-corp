@@ -51,3 +51,5 @@ Conclusion</span></strong></p>
 <span style="font-size: 10px;"><em></em>
 </span>
 &nbsp;
+
+[PDF version of the speech](/files/Speeches%202022/speech%20by%20sms%20janil%20for%20iot%20security%20roundtable%20on%2020%20october%202022%20.pdf)
