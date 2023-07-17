@@ -90,7 +90,7 @@ For enquiries, please use our&nbsp;enquiry form&nbsp;or email&nbsp;[MCI_NTC_Secr
 <br><br>
 Step 1: To apply, please prepare the following documents for submission in a single ZIP archive (max file size 7MB):
 <br><br>
-i. Completed Capability Development Plan Form<br>
+i. <a href="/files/Translation/ttds_capability%20development%20programme%20form%202023.pdf">Completed Capability Development Plan Form</a><br>
 ii. Curriculum vitae<br>
 iii. Proof of enrolment (e.g. letter of acceptance / matriculation) OR application (e.g. application acknowledgement emails) OR awaiting confirmation / invitation (e.g. registration emails) from the programme provider of each programme OR planning to apply for upcoming programmes (screenshots of programme details stating the application period if it has yet to commence)<br>
 iv. Translation portfolio with non-confidential items (for translation practitioners) and/or testimonials from clients (for both translation and interpretation practitioners)
@@ -209,7 +209,7 @@ Applicants can expect to be notified of their application outcome within two mon
         <td><a href="https://go.gov.sg/citeg-enquiry">Click here</a></td>
         <td>Application Guide</td>
         <td><a href="/files/Translation/citeg%20application%20form%20(updated%2030%20apr%202021).pdf">Click here</a></td>
-      </tr>
-    </tbody>
-  </table><br><br>
+</tr>
+</tbody>
+</table><br><br>
 </details>
