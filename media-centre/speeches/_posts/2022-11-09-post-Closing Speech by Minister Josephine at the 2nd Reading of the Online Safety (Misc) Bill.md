@@ -358,7 +358,7 @@ Conclusion</span></strong><br>
 77.<span style="white-space: pre;"> 		</span>Shared responsibility, parental guidance and active individual involvement will play a key role in ensuring that even in the face of harmful online content, users, including children, can stay safe online.<br>
 <div>&nbsp;</div>
 	
-[PDF version of the speech]()
+[PDF version of the speech](/files/Speeches%202022/2r%20closing%20speech%20by%20minister%20josephine%20teo%20on%20the%20online%20safety%20(misc)%20bill%20on%209%20nov%202022.pdf)
 	
 
 	
