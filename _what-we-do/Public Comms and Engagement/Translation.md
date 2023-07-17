@@ -157,63 +157,20 @@ Applicants may send the completed [Application Form](/files/Translation/citeg%20
 Applicants can expect to be notified of their application outcome within two months of application submission. For more information, please refer to: 
 <br>
 <title>Table Example</title>
-  <table>
+<table>
     <thead>
       <tr>
-        <th>Header 1</th>
-        <th>Header 2</th>
-        <th>Header 3</th>
+        <th>Online Enquiry Form</th>
+        <th>Application Guide</th>
+        <th>Application Form</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td>Row 1, Column 1</td>
-        <td>Row 1, Column 2</td>
-        <td>Row 1, Column 3</td>
-      </tr>
-      <tr>
-        <td>Row 2, Column 1</td>
-        <td>Row 2, Column 2</td>
-        <td>Row 2, Column 3</td>
-      </tr>
-      <tr>
-        <td>Row 3, Column 1</td>
-        <td>Row 3, Column 2</td>
-        <td>Row 3, Column 3</td>
+        <td><a href="https://go.gov.sg/citeg-enquiry">Click here</a></td>
+        <td>Application Guide</td>
+        <td><a href="/files/Translation/citeg%20application%20form%20(updated%2030%20apr%202021).pdf">Click here</a></td>
       </tr>
     </tbody>
   </table>
 </details>
-
-
-
-
-  <title>Table Example</title>
-
-
-  <table>
-    <thead>
-      <tr>
-        <th>Header 1</th>
-        <th>Header 2</th>
-        <th>Header 3</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Row 1, Column 1</td>
-        <td>Row 1, Column 2</td>
-        <td>Row 1, Column 3</td>
-      </tr>
-      <tr>
-        <td>Row 2, Column 1</td>
-        <td>Row 2, Column 2</td>
-        <td>Row 2, Column 3</td>
-      </tr>
-      <tr>
-        <td>Row 3, Column 1</td>
-        <td>Row 3, Column 2</td>
-        <td>Row 3, Column 3</td>
-      </tr>
-    </tbody>
-  </table>
