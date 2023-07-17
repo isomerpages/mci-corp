@@ -53,3 +53,5 @@ Introduction<br>
 13.<span style="white-space: pre;"> 		</span>To the students amongst the audience, I would encourage you to explore and consider taking up a career in this exciting and growing field of cybersecurity.<br>
 <br>
 14.<span style="white-space: pre;"> 		</span>On that note, my heartiest congratulations again to all the award winners.</p>
+
+[PDF version of the speech](/files/Speeches%202022/speech%20by%20sms%20tan%20kiat%20how%20for%20aisp%20svrp%202022%20on%2016%20nov%202022%20.pdf)
