@@ -105,7 +105,7 @@ DRAFT POSTAL SERVICES (AMENDMENT) BILL**
   
 27. MCI/IMDA will continue to solicit views and feedback as the Network is being rolled out, and as MCI/IMDA implement the various proposals associated with the amendments to the PSA.
 
-Click  for the PDF version of the Closing Note.
+Click [here](/files/Public%20consultations%202021/closing%20note%20to%20public%20consultation%20on%20draft%20postal%20services%20(amendment)%20bill.pdf)  for the PDF version of the Closing Note.
 
 ------------------------------------------------------------------------------------
 [^1]: [https://www.mci.gov.sg/public-consultations/public-consultation-items/responses-received-from-public-consultation-on-draft-postal-services-(amendment)-bill-2020](https://www.mci.gov.sg/public-consultations/public-consultation-items/responses-received-from-public-consultation-on-draft-postal-services-(amendment)-bill-2020)
