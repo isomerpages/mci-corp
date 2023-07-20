@@ -7,14 +7,13 @@ layout: post
 description: ""
 image: ""
 ---
-<h3>Parliament Sitting on 12 January 2022</h3>
-<h2>QUESTION FOR WRITTEN ANSWER</h2>
-<br>
-<strong>23.&nbsp;<strong><span>Ms He Ting Ru</span></strong><strong>:&nbsp;</strong></strong>To ask the Minister for Communications and Information for each year since the enactment of the Prevention of Online Falsehoods and Manipulation Act (POFMA), (a) how many public complaints has the POFMA Office received relating to alleged online falsehoods; and (b) of these, how many subsequently led to a direction or order being issued under POFMA.<br>
-<br>
-<strong>Answer:<br>
-<br>
-</strong>
-<div>
-<div>1.<span style="white-space: pre;">		</span>After POFMA took effect in October 2019, the POFMA Office received 22 pieces of public feedback and enquiries in 2019, 435 in 2020, and 345 in 2021. The vast majority of alleged falsehoods reported by the public included content that was not actionable as “false statements of fact” under POFMA, such as opinions and criticisms. Seven POFMA directions were issued regarding falsehoods that had been reported by a total of nine pieces of public feedback to the POFMA Office.&nbsp;</div>
-</div>
+### Parliament Sitting on 12 January 2022
+
+QUESTION FOR WRITTEN ANSWER
+------------------------------------
+
+**23. Ms He Ting Ru:** To ask the Minister for Communications and Information for each year since the enactment of the Prevention of Online Falsehoods and Manipulation Act (POFMA), (a) how many public complaints has the POFMA Office received relating to alleged online falsehoods; and (b) of these, how many subsequently led to a direction or order being issued under POFMA.
+
+**Answer:**
+
+1. After POFMA took effect in October 2019, the POFMA Office received 22 pieces of public feedback and enquiries in 2019, 435 in 2020, and 345 in 2021. The vast majority of alleged falsehoods reported by the public included content that was not actionable as “false statements of fact” under POFMA, such as opinions and criticisms. Seven POFMA directions were issued regarding falsehoods that had been reported by a total of nine pieces of public feedback to the POFMA Office.
