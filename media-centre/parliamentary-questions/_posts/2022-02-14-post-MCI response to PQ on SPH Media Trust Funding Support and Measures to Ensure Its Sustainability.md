@@ -7,61 +7,63 @@ layout: post
 description: ""
 image: ""
 ---
-<h3>Parliament Sitting on 15 February 2022</h3>
-<h2>QUESTIONS FOR ORAL ANSWER</h2>
-<p style="text-align: justify;"><strong><span>8. Mr Alex Yam Ziming: </span></strong><span>To ask the Minister for Communications and Information with the commitment of the Government to provide funding support to SPH Media Trust, how will the Ministry ensure that editorial independence continues to be upheld in the newsrooms.<br>
-<br>
-</span><strong>9. Ms Tin Pei Ling: </strong>To ask the Minister for Communications and Information (a) whether there are any updates from the Government’s discussion with SPH Media Trust and on the level of funding support that the Government will provide; and (b) how will the Government ensure that the funding provided will be used to achieve the necessary digital transformation.<br>
-<br>
-<strong>10. Ms Tin Pei Ling: </strong>To ask the Minister for Communications and Information whether the Ministry will require SPH Media Trust to have adequate emphasis on thought leadership content from Singapore’s perspective so as to increase Singapore’s mindshare on the global stage.<br>
-<br>
-<strong>11. Ms Hany Soh: </strong>To ask the Minister for Communications and Information what steps will the Ministry take to ensure that its funding support for SPH Media Trust will go towards the development of news media on online platforms that are engaging for younger audiences.<br>
-<br>
-<strong>12. Ms Hany Soh:</strong> To ask the Minister for Communications and Information (a) how will the Ministry ensure that the Singapore Media Academy and the planned SPH Media Academy differentiate themselves in terms of skillsets and avoid an overlap of functions; (b) whether the Ministry has a definite roadmap for SPH’s upcoming media academy to help achieve the goal of nurturing more local talent for the mass communications industry; and (c) whether a collaboration with SG Women In Tech will be considered to attract, retain and develop more female talent in the infocomm workforce.<br>
-<br>
-<strong>13. Ms Jessica Tan Soon Neo:</strong> To ask the Minister for Communications and Information (a) how will SPH Media Trust remain relevant and sustainable in a highly competitive media industry given digital disruption and declining demand for print news; (b) how can the quality of local journalism keep pace with global standards since audiences can easily access digital versions of international newspapers; and (c) what are the desired outcomes for SPH Media Trust and how will the Government track the progress.<br>
-<br>
-<strong>14. Mr Sharael Taha: </strong>To ask the Minister for Communications and Information (a) what will be done to ensure the viability of our vernacular news media, given their limited local market sizes; (b) how will the Ministry (i) ensure that our vernacular news media has enough resources, talent and technology to continue to produce good quality news and (ii) create opportunities for our vernacular news media to grow beyond Singapore readership; and (c) how does vernacular news media remain relevant given the declining use of vernacular languages amongst our younger generations.</p>
-<h2>QUESTION FOR WRITTEN ANSWER</h2>
-<p><span><strong>Miss Cheryl Chan Wei Ling</strong>: To ask the Minister for Communications and Information (a) whether the Government has plans to support SPH Media Trust in its digital transformation; and (b) if so, in what specific areas.&nbsp;<br>
-<br clear="all">
-</span></p>
-<p>
-<strong>Answer:<br>
-<br>
-</strong>
-</p>
-<div>1.<span style="white-space: pre;">		</span>In May last year, Singapore Press Holdings Limited (SPHL) announced the restructuring of its media business to a not-for-profit entity.<br>
-<br>
-2.<span style="white-space: pre;">		</span>The restructuring process is complete, and the new SPH Media Trust (SMT) shared its plans with the public about two weeks ago.<br>
-<br>
-3.<span style="white-space: pre;">		</span>I thank members for their questions.&nbsp; My reply is organised around three themes: first, the need for Government support for SMT’s transformation; second, how transformation preserves trusted media for our citizens and serves the larger public interest; and third, how the Government will maintain accountability.<br>
-<br>
-4.<span style="white-space: pre;">		</span>Ms Tin Pei Ling and Ms Cheryl Chan asked about the Government’s plans to support SMT.<br>
-<br>
-5.<span style="white-space: pre;">		</span>MCI has worked closely with SMT to understand the challenges they face.<br>
-<br>
-6.<span style="white-space: pre;">		</span>In fact, readership and trust in SMT’s journalism continue to be high. Based on a survey last year, SMT’s weekly reach extends to almost 75% of Singaporeans. Three in four Singaporeans trust SMT to produce reliable news and content.<br>
-<br>
-7.<span style="white-space: pre;">		</span>However, the global digital shift has severely disrupted print business models. Traditionally they have relied heavily on advertising revenue to support quality journalism. But today, the proliferation of free news aggregators and user-generated content compete with newsrooms for eyeballs and correspondingly, advertisers.<br>
-<br>
-8.<span style="white-space: pre;">		</span>Globally, print advertising revenue is declining 7% year-on-year. Although digital advertising revenue has increased, a large share of it goes to Big Tech platforms like Google and Facebook, or Meta as it is now known.&nbsp;<br>
-&nbsp;<br>
-<span>9.<span style="white-space: pre;">		</span></span>On top of the cost of producing quality content, newsrooms must also invest in reaching audiences in a crowded digital space. In 2019, German publisher Axel Springer committed 100 million euros in investments for digital growth projects at two of its papers. This is on top of its IT development projects supporting its digital business model, which amounted to another 100 million euros. The New York Times, prioritising its digital growth, has seen its product development costs increase over 25% year on year. In 2020, this exceeded US$130 million.<br>
-<br>
-10.<span style="white-space: pre;">		</span>The high costs to achieve success online, even for those who already have significant readership, are testament to the challenging industry conditions.<br>
-&nbsp;<br>
-11.<span style="white-space: pre;">		</span>As an open, cosmopolitan city-state, we consume varied perspectives from around the world. Nonetheless, preserving local news media remains critical. Our local news media provide a vital Singaporean lens through which citizens can make sense of global events. It is an essential public good in our multi-racial, multi-religious society. In its discharge of its role, SMT now produces six daily newspapers in four languages.&nbsp;<br>
-<br>
-12.<span style="white-space: pre;">		</span>To achieve its mission, SMT must do three things: first, make long-term investments in the capability development of technology and talent; second, sustain and develop our vernacular news media; and third, position itself as a regional thought leader.<br>
-<br>
-<span style="text-decoration: underline;">Capability Building – Technology</span><br>
-<br>
-13.<span style="white-space: pre;">		</span>Ms Jessica Tan and Ms Hany Soh asked about maintaining SMT’s relevance amidst digital disruption, especially for younger audiences.<br>
-&nbsp;<br>
-14.<span style="white-space: pre;">		</span>It is vital to understand the media consumption habits of our digitally native audience. Based on an MCI survey, around 65% of respondents access SMT’s digital content frequently in 2020. This is a steep jump from about 40% a year before. In contrast, hardcopy reach declined from about 40% to 30% over the same period, or a single year.&nbsp;<br>
-&nbsp;<br>
-15.<span style="white-space: pre;">		</span>The digital pivot of SMT will be key to growing its reach with the young and old, and even with overseas audiences. More will need to be done.<br>
+### Parliament Sitting on 15 February 2022
+
+QUESTIONS FOR ORAL ANSWER
+----------------------------------
+
+**8. Mr Alex Yam Ziming:** To ask the Minister for Communications and Information with the commitment of the Government to provide funding support to SPH Media Trust, how will the Ministry ensure that editorial independence continues to be upheld in the newsrooms. 
+
+**9. Ms Tin Pei Ling:** To ask the Minister for Communications and Information (a) whether there are any updates from the Government’s discussion with SPH Media Trust and on the level of funding support that the Government will provide; and (b) how will the Government ensure that the funding provided will be used to achieve the necessary digital transformation.
+
+**10. Ms Tin Pei Ling:** To ask the Minister for Communications and Information whether the Ministry will require SPH Media Trust to have adequate emphasis on thought leadership content from Singapore’s perspective so as to increase Singapore’s mindshare on the global stage.
+
+**11. Ms Hany Soh:** To ask the Minister for Communications and Information what steps will the Ministry take to ensure that its funding support for SPH Media Trust will go towards the development of news media on online platforms that are engaging for younger audiences.
+
+**12. Ms Hany Soh:** To ask the Minister for Communications and Information (a) how will the Ministry ensure that the Singapore Media Academy and the planned SPH Media Academy differentiate themselves in terms of skillsets and avoid an overlap of functions; (b) whether the Ministry has a definite roadmap for SPH’s upcoming media academy to help achieve the goal of nurturing more local talent for the mass communications industry; and (c) whether a collaboration with SG Women In Tech will be considered to attract, retain and develop more female talent in the infocomm workforce.
+
+**13. Ms Jessica Tan Soon Neo:** To ask the Minister for Communications and Information (a) how will SPH Media Trust remain relevant and sustainable in a highly competitive media industry given digital disruption and declining demand for print news; (b) how can the quality of local journalism keep pace with global standards since audiences can easily access digital versions of international newspapers; and (c) what are the desired outcomes for SPH Media Trust and how will the Government track the progress.
+
+**14. Mr Sharael Taha:** To ask the Minister for Communications and Information (a) what will be done to ensure the viability of our vernacular news media, given their limited local market sizes; (b) how will the Ministry (i) ensure that our vernacular news media has enough resources, talent and technology to continue to produce good quality news and (ii) create opportunities for our vernacular news media to grow beyond Singapore readership; and (c) how does vernacular news media remain relevant given the declining use of vernacular languages amongst our younger generations.
+
+QUESTION FOR WRITTEN ANSWER
+-----------------------------------
+
+**Miss Cheryl Chan Wei Ling:** To ask the Minister for Communications and Information (a) whether the Government has plans to support SPH Media Trust in its digital transformation; and (b) if so, in what specific areas.
+
+**Answer:**
+
+1. In May last year, Singapore Press Holdings Limited (SPHL) announced the restructuring of its media business to a not-for-profit entity.
+
+2. The restructuring process is complete, and the new SPH Media Trust (SMT) shared its plans with the public about two weeks ago.
+
+3. I thank members for their questions. My reply is organised around three themes: first, the need for Government support for SMT’s transformation; second, how transformation preserves trusted media for our citizens and serves the larger public interest; and third, how the Government will maintain accountability.
+
+4. Ms Tin Pei Ling and Ms Cheryl Chan asked about the Government’s plans to support SMT.
+
+5. MCI has worked closely with SMT to understand the challenges they face.
+
+6. In fact, readership and trust in SMT’s journalism continue to be high. Based on a survey last year, SMT’s weekly reach extends to almost 75% of Singaporeans. Three in four Singaporeans trust SMT to produce reliable news and content.
+
+7. However, the global digital shift has severely disrupted print business models. Traditionally they have relied heavily on advertising revenue to support quality journalism. But today, the proliferation of free news aggregators and user-generated content compete with newsrooms for eyeballs and correspondingly, advertisers.
+
+8. Globally, print advertising revenue is declining 7% year-on-year. Although digital advertising revenue has increased, a large share of it goes to Big Tech platforms like Google and Facebook, or Meta as it is now known.
+
+9. On top of the cost of producing quality content, newsrooms must also invest in reaching audiences in a crowded digital space. In 2019, German publisher Axel Springer committed 100 million euros in investments for digital growth projects at two of its papers. This is on top of its IT development projects supporting its digital business model, which amounted to another 100 million euros. The New York Times, prioritising its digital growth, has seen its product development costs increase over 25% year on year. In 2020, this exceeded US$130 million.
+
+10. The high costs to achieve success online, even for those who already have significant readership, are testament to the challenging industry conditions.
+
+11. As an open, cosmopolitan city-state, we consume varied perspectives from around the world. Nonetheless, preserving local news media remains critical. Our local news media provide a vital Singaporean lens through which citizens can make sense of global events. It is an essential public good in our multi-racial, multi-religious society. In its discharge of its role, SMT now produces six daily newspapers in four languages.
+
+12. To achieve its mission, SMT must do three things: first, make long-term investments in the capability development of technology and talent; second, sustain and develop our vernacular news media; and third, position itself as a regional thought leader.
+
+**Capability Building – Technology**
+
+13. Ms Jessica Tan and Ms Hany Soh asked about maintaining SMT’s relevance amidst digital disruption, especially for younger audiences.
+
+14. It is vital to understand the media consumption habits of our digitally native audience. Based on an MCI survey, around 65% of respondents access SMT’s digital content frequently in 2020. This is a steep jump from about 40% a year before. In contrast, hardcopy reach declined from about 40% to 30% over the same period, or a single year.
+
+15. The digital pivot of SMT will be key to growing its reach with the young and old, and even with overseas audiences. More will need to be done.<br>
 <br>
 16.<span style="white-space: pre;">		</span>In terms of user experience, digital content must be delivered swiftly. Websites must be intuitively designed. Applications must allow for personalisation.<br>
 &nbsp;<br>
@@ -180,4 +182,4 @@ image: ""
 <br>
 66.<span style="white-space: pre;">		</span>To conclude, the coming years will be an exciting period as we expect a major digital transformation of our local news media landscape.&nbsp;<br>
 <br>
-67.<span style="white-space: pre;">		</span>MCI will work closely with SMT to ensure that our local news media upholds quality journalism delivered in an innovative and engaging way.</div>
+67.<span style="white-space: pre;">		</span>MCI will work closely with SMT to ensure that our local news media upholds quality journalism delivered in an innovative and engaging way.
