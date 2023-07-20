@@ -8,9 +8,10 @@ description: ""
 image: ""
 ---
 ### Parliament Sitting on 10 January 2022
+
 QUESTION FOR WRITTEN ANSWER
 ---------------------------------
-**45\. Mr Melvin Yong Yik Chye:** To ask the Minister for Communications and Information (a) in the past five years, how many cases of unauthorised sale of consumers’ personal data did the Personal Data Protection Commission investigate; and (b) of the investigated cases, how many were successfully prosecuted.
+**45. Mr Melvin Yong Yik Chye:** To ask the Minister for Communications and Information (a) in the past five years, how many cases of unauthorised sale of consumers’ personal data did the Personal Data Protection Commission investigate; and (b) of the investigated cases, how many were successfully prosecuted.
 		
 **Answer:**
 
