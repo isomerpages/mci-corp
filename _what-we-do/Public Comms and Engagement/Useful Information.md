@@ -17,6 +17,7 @@ Media organisations that wish to set up a news bureau in Singapore have to apply
 Please indicate whether the news bureau will be engaging in other activities besides news gathering and reporting. If the news bureau engages only in news gathering and reporting, it will be considered a representative office and does not need to be registered as a business.  If the bureau also engages in other activities, such as the selling of news, then a business office has to be set up. For this, please contact:
 
 [Accounting and Corporate Regulatory Authority](https://www.acra.gov.sg/)
+
 10 Anson Road #05-01/15  
 International Plaza  
 Singapore 079903  
