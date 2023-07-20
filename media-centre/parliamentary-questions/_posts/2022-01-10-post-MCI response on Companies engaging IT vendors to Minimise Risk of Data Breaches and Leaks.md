@@ -7,11 +7,11 @@ layout: post
 description: ""
 image: ""
 ---
-###Parliament Sitting on 10 January 2022###
+###Parliament Sitting on 10 January 2022
 
 QUESTION FOR WRITTEN ANSWER
-------------------------------------
-**53\. Ms Joan Pereira:** To ask the Minister for Communications and Information what measures are in place to ensure that companies which engage third- or fourth-party IT vendors select those that are licensed and certified by the Ministry so as to minimise the risk of data breaches and leaks.
+------------------------------
+**53. Ms Joan Pereira:** To ask the Minister for Communications and Information what measures are in place to ensure that companies which engage third- or fourth-party IT vendors select those that are licensed and certified by the Ministry so as to minimise the risk of data breaches and leaks.
 
 **Answer:**
 1. The Personal Data Protection Act (“PDPA”) obliges all companies to protect the personal data they manage or process.
