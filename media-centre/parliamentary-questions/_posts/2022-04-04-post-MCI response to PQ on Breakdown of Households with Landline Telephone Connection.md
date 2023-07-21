@@ -11,7 +11,7 @@ image: ""
 
 QUESTION FOR WRITTEN ANSWER
 ------------------------------------
-**40.&nbsp;Dr Tan Wu Meng:** To ask the Minister for Communications and Information how many households, broken down by the different categories of housing type, still have a landline telephone connection which is (i) an analogue line and (ii) connected via optical network terminal or other home digital line, respectively.
+**40.Dr Tan Wu Meng:** To ask the Minister for Communications and Information how many households, broken down by the different categories of housing type, still have a landline telephone connection which is (i) an analogue line and (ii) connected via optical network terminal or other home digital line, respectively.
 
 **Answer:**
 
