@@ -11,6 +11,7 @@ image: ""
 
 QUESTION FOR WRITTEN ANSWER
 ------------------------------------
+
 **29. Mr Alex Yam Ziming:** To ask the Minister for Communications and Information with regard to the recent REACH survey on attitudes towards LGBTQ (a) what were the reasons for the unusually high volume of responses in a short timeframe; (b) whether the survey is restricted to only Singaporeans and permanent residents; and (c) whether the Ministry considers the survey results to be representative of attitudes towards LGBTQ due to concerns over the mobilisation of respondents by various groups.
 
 **30. Mr Zhulkarnain Abdul Rahim:** To ask the Minister for Communications and Information with regard to the recent REACH survey on attitudes towards LGBTQ (a) what are the considerations behind how the survey questions are structured; and (b) what is the usual process and typical timelines considered before the issuance of any surveys by REACH.
