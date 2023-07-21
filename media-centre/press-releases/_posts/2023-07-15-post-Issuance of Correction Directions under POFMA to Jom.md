@@ -12,8 +12,7 @@ image: ""
   
     b) The Singapore Land Authority (SLA) spent more than $1 million on the renovation for 26 and 31 Ridout Road because the Ministers were to be the tenants.   
   
-    c) The Government caused Instagram to geo-block a post by Charles Yeo.  
-  
+    c) The Government caused Instagram to geo-block a post by Charles Yeo.
 
 2. The Minister for Culture, Community and Youth and Second Minister for Law Edwin Tong, and the Minister for Communications and Information Josephine Teo have instructed for Correction Directions, under the Protection from Online Falsehoods and Manipulation Act (POFMA), to be issued to Jom. Jom will be required to carry the correction notices, stating that the article contains false statements of fact.  
   
@@ -21,7 +20,7 @@ image: ""
   
     *Correction Direction issued by the Minister for Culture, Community and Youth and Second Minister for Law*
   
-3.  First, Jom made the statement that Senior Minister Teo Chee Hean did not respond to questions concerning the issue of actual or apparent conflicts of interest and possible breach of the Code of Conduct for Ministers beyond replying that it is more important to observe the spirit rather than just the letter of the Code. The article omits important information from what Senior Minister Teo Chee Hean said in Parliament[^1] on 3 July 2023.  
+3. First, Jom made the statement that Senior Minister Teo Chee Hean did not respond to questions concerning the issue of actual or apparent conflicts of interest and possible breach of the Code of Conduct for Ministers beyond replying that it is more important to observe the spirit rather than just the letter of the Code. The article omits important information from what Senior Minister Teo Chee Hean said in Parliament[^1] on 3 July 2023.  
   
     a) Senior Minister Teo Chee Hean had expressly clarified that he meant it was important to observe the spirit as well as the letter of the Code. Senior Minister Teo Chee Hean also said that Minister K Shanmugam had recused himself, and this meant that he no longer had any duty in the matter. There could thus be no potential or actual conflict of interest.   
   
