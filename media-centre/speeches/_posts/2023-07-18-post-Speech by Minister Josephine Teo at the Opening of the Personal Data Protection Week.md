@@ -51,8 +51,8 @@ image: ""
   
 19. The PDPC has received useful feedback from a wide range of stakeholders during closed consultations, and I am pleased to share that the **Advisory Guidelines will now progress to the stage of open consultation, before being published**.   
   
-20. The Advisory Guidelines will provide businesses with more clarity on the use of personal data to train or develop AI models. To promote transparency, there will be guidance on explanations that should be provided before seeking consent from consumers who are providing personal data for use in an AI system to make recommendations, decisions, or predictions.  
-   
+20. The Advisory Guidelines will provide businesses with more clarity on the use of personal data to train or develop AI models. To promote transparency, there will be guidance on explanations that should be provided before seeking consent from consumers who are providing personal data for use in an AI system to make recommendations, decisions, or predictions.
+
 21. The Guidelines also encourage AI solution providers to support their clients in their compliance with the PDPA. This can include designing systems such that it is easy to extract information clients need for providing their explanations.   
   
 22. This Advisory Guideline applies to traditional AI systems used for recommendations and decision-making.  
@@ -92,8 +92,8 @@ Facilitate cross border data flows to boost ASEAN’s ability to gain from the b
   
 38. Singapore believes that clear and transparent guidelines on permissible cross-border data flows work better than a blunt application of data localisation rules across the board. On this, we commend our neighbours such as Indonesia and Thailand for enacting progressive legislation to enable data transfers across borders. We can give these efforts a further boost at the regional level. 
   
-39. ASEAN recognises cross-border data flows as a strategic priority, and we have been working towards alignment through the development of robust and practical data transfer mechanisms.  
-   
+39. ASEAN recognises cross-border data flows as a strategic priority, and we have been working towards alignment through the development of robust and practical data transfer mechanisms.
+
 40. We have made good progress in some key areas. For example, we introduced the ASEAN Framework on Digital Data Governance in 2016, which established developing regional data transfer mechanisms as a strategic priority. One such data transfer mechanism is the ASEAN Model Contractual Clauses (MCCs), which provide a “ready-to-use" template to help businesses develop contracts in compliance with regional regulatory requirements for transferring data.   
   
 41. As a region, we have also worked to facilitate cross-border data flows between ASEAN and EU to enhance companies’ access to data.   
