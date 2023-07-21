@@ -4,8 +4,6 @@ permalink: /what-we-do/digital-singapore/digital-security/
 description: ""
 third_nav_title: Digital Singapore
 ---
-(TO UPDATE)
-
 ## Building a resilient and trusted cyber environment
 
 Singapore’s Cybersecurity Strategy aims to build a trusted cyber environment, to realise the benefits of technology and secure a better future for Singaporeans. The Ministry of Communications and Information (MCI) and the Cyber Security Agency (CSA) work with government agencies and private organisations to build resilient infrastructure, create a safer cyberspace, develop a vibrant cyber ecosystem and strengthen international partnerships.
