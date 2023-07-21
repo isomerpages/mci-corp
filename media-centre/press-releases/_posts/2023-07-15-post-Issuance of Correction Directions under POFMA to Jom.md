@@ -44,4 +44,4 @@ image: ""
 
 ------------------------------------------------------------------------------------
 
-[^1] SM Teo’s Ministerial Statement is available at: [https://www.pmo.gov.sg/Newsroom/Ministerial-Statement-by-SM-Teo-Chee-Hean-on-Ridout-Road](https://www.pmo.gov.sg/Newsroom/Ministerial-Statement-by-SM-Teo-Chee-Hean-on-Ridout-Road)
+[^1]: SM Teo’s Ministerial Statement is available at: [https://www.pmo.gov.sg/Newsroom/Ministerial-Statement-by-SM-Teo-Chee-Hean-on-Ridout-Road](https://www.pmo.gov.sg/Newsroom/Ministerial-Statement-by-SM-Teo-Chee-Hean-on-Ridout-Road)
