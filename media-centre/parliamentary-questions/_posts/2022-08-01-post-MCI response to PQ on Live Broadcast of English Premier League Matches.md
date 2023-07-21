@@ -6,8 +6,11 @@ layout: post
 description: ""
 image: ""
 ---
-<h3>Parliament Sitting on 1 August 2022</h3>
-<h2>QUESTION FOR WRITTEN ANSWER</h2>
+### Parliament Sitting on 1 August 2022
+
+QUESTION FOR WRITTEN ANSWER
+------------------------------------
+
 <p><strong>42. Mr Murali Pillai:</strong> asked the Minister for Communications and Information with regard to IMDA’s Cross Carriage Measure (CCM) (a) whether, as a policy, a transmitting or receiving pay TV operator has the discretion not to share or broadcast exclusive content under the CCM; and (b) whether there are measures to ensure that both Singtel and StarHub have a joint obligation to broadcast all English Premier League matches "live" even if the number of matches being played at the material time may exceed the four channels allotted by Singtel and, if so, what are they.</p>
 <p><strong>43. Mr Murali Pillai</strong>: asked the Minister for Communications and Information why does IMDA allow StarHub to impose a subscription price of $64.90 per month for Premier League Pack via cross-carriage, in comparison to the preferential charge of $19.99 per month for subscribers applying by 30 June 2022 for the same programme via StarHub's set-top boxes.</p>
 <p><strong>Answer:</strong></p>
