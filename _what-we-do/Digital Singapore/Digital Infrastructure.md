@@ -18,7 +18,7 @@ MCI’s approach toward building Singapore’s digital infrastructure centres on
 <br>
 2. **Taking a holistic view of the digital infrastructure stack** –looking beyond traditional connectivity to plan for the entire ‘digital infrastructure stack’ in an integrated manner:
     
-    a. hard infrastructure – traditional submarine cable, satellite, broadband, mobile and Wi-Fi networks, as well as Data Centres and cloud computing;<br>
+<br>    a. hard infrastructure – traditional submarine cable, satellite, broadband, mobile and Wi-Fi networks, as well as Data Centres and cloud computing;<br>
 		b. physical-digital infrastructure – devices, middleware, and networks that enable greater interaction between different digital infrastructure components and their integration with the physical world; and<br>
     c. soft infrastructure – the Singapore Digital Utility Stack, comprising the foundation for key digital transactions to be conducted seamlessly and securely, upon which businesses can build innovative platforms and applications.<br><br>
 		
