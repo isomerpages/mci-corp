@@ -6,14 +6,17 @@ layout: post
 description: ""
 image: ""
 ---
-<h3>Parliament Sitting on 3 October 2022</h3>
-<h2>QUESTION FOR WRITTEN ANSWER</h2>
-<p><strong>50. Dr Tan Wu Meng:</strong> To ask the Minister for Communications and Information since 2019 annually (a) how many incidents of unscheduled disruption of fibre broadband service have occurred due to construction activity; (b) what is the average number of households that have been affected during each of such incident; and (c) what penalties have been applied against the contractors involved.</p>
-<p><strong>Answer:</strong></p>
-<div>
-<p><span>1.<span style="white-space: pre;">		</span>The Infocomm Media Development Authority (IMDA) takes a serious view of fibre broadband service disruptions that have occurred due to construction activity. In 2019, IMDA introduced the Cable Cut Preventive Measures and Earthworks Requirements to minimise the risk of cable cuts due to construction activity and earthworks. The number of cable cut incidents causing broadband service disruptions since 2019 is in <span style="text-decoration: underline;">Table 1</span>. During this period, </span><span>an average of 570 end-user connections, comprising both residential end-users and commercial entities, were affected by each cable cut incident.<br>
-<br>
-</span><strong><span style="text-decoration: underline;">Table 1: Cable cut incidents (2019 – 2022)</span></strong></p>
+### Parliament Sitting on 3 October 2022
+QUESTION FOR WRITTEN ANSWER
+-----------------------------------
+
+**50. Dr Tan Wu Meng:** To ask the Minister for Communications and Information since 2019 annually (a) how many incidents of unscheduled disruption of fibre broadband service have occurred due to construction activity; (b) what is the average number of households that have been affected during each of such incident; and (c) what penalties have been applied against the contractors involved.
+
+**Answer:**
+
+1. The Infocomm Media Development Authority (IMDA) takes a serious view of fibre broadband service disruptions that have occurred due to construction activity. In 2019, IMDA introduced the Cable Cut Preventive Measures and Earthworks Requirements to minimise the risk of cable cuts due to construction activity and earthworks. The number of cable cut incidents causing broadband service disruptions since 2019 is in Table 1. During this period, an average of 570 end-user connections, comprising both residential end-users and commercial entities, were affected by each cable cut incident.
+
+<strong><span style="text-decoration: underline;">Table 1: Cable cut incidents (2019 – 2022)</span></strong><p></p>
 <p> </p>
 <table style="border: none;" cellpadding="0" cellspacing="0" border="1">
     <tbody>
@@ -53,7 +56,7 @@ image: ""
         </tr>
     </tbody>
 </table>
-<p>2.<span style="white-space: pre;">		</span>Under the Telecommunications Act 1999, IMDA may impose composition fines for minor cable cut cases, or prosecute errant contractors in court for failing to comply with the earthworks requirements and for causing damage to telecommunications cables in the course of carrying out earthworks. The contractors shall be liable, on conviction, to a fine not exceeding $1 million or to imprisonment for a term not exceeding 5 years or both. Since 2019, more than $1.13 million in composition sums and court fines have been meted out to errant contractors found to have damaged telecommunication cables due to the conduct of earthworks.<br>
-<br>
-3.<span style="white-space: pre;">		</span>IMDA also conducts regular dialogues with contractors and disseminates content to educate workers on the earthworks requirements and the precautionary measures needed to prevent cable damage.</p>
-</div>
+
+2. Under the Telecommunications Act 1999, IMDA may impose composition fines for minor cable cut cases, or prosecute errant contractors in court for failing to comply with the earthworks requirements and for causing damage to telecommunications cables in the course of carrying out earthworks. The contractors shall be liable, on conviction, to a fine not exceeding $1 million or to imprisonment for a term not exceeding 5 years or both. Since 2019, more than $1.13 million in composition sums and court fines have been meted out to errant contractors found to have damaged telecommunication cables due to the conduct of earthworks.
+
+3. IMDA also conducts regular dialogues with contractors and disseminates content to educate workers on the earthworks requirements and the precautionary measures needed to prevent cable damage.
