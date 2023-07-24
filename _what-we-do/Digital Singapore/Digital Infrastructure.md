@@ -16,9 +16,9 @@ MCI’s approach toward building Singapore’s digital infrastructure centres on
 
 1. **Making forward-looking investments** – investing ahead of demand so that Singapore is ready to embrace opportunities when technological trends (e.g., Artificial Intelligence, autonomous systems, immersive experiences, distributed cloud, quantum technologies) mature, and has the capacity to deal with unexpected challenges (e.g., the surge in digital interactions during a pandemic).
 <br>
-2. **Taking a holistic view of the digital infrastructure stack** –looking beyond traditional connectivity to plan for the entire ‘digital infrastructure stack’ in an integrated manner:
-    
-<br>    a. hard infrastructure – traditional submarine cable, satellite, broadband, mobile and Wi-Fi networks, as well as Data Centres and cloud computing;<br>
+2. **Taking a holistic view of the digital infrastructure stack** –looking beyond traditional connectivity to plan for the entire ‘digital infrastructure stack’ in an integrated manner:<br>
+
+    a. hard infrastructure – traditional submarine cable, satellite, broadband, mobile and Wi-Fi networks, as well as Data Centres and cloud computing;<br>
 		b. physical-digital infrastructure – devices, middleware, and networks that enable greater interaction between different digital infrastructure components and their integration with the physical world; and<br>
     c. soft infrastructure – the Singapore Digital Utility Stack, comprising the foundation for key digital transactions to be conducted seamlessly and securely, upon which businesses can build innovative platforms and applications.<br><br>
 		
