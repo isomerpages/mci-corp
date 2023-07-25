@@ -105,14 +105,12 @@ More information will be available at a later date.
 <br>
 	
   <title>Two Images in a Row</title>
-  
-
-
+ 
   <div class="image-container">
-    <img src="/images/TD/ttds%20testimonial%20image%201.png" alt="Image 1">
-    <img src="/images/TD/ttds%20testimonial%20image%202.png" alt="Image 2">
+    <img src="/images/TD/ttds%20testimonial%20image%201.png" style="height:200px; width:200px;"><img src="/images/TD/ttds%20testimonial%20image%202.png" style="height:200px; width:200px;">
   </div>
 
+	
 
 	<img src="/images/TD/ttds%20testimonial%20image%201.png" style="height:400px; width:400px;"><img src="/images/TD/ttds%20testimonial%20image%202.png" style="height:400px; width:400px;"><br>
 	<img src="/images/TD/ttds%20testimonial%20image%203.png" style="height:400px; width:400px;">
