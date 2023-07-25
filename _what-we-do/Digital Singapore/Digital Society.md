@@ -33,9 +33,9 @@ The [Digital Readiness Blueprint](/files/dr%20blueprint.pdf), published in 2018,
 To galvanise people, private, and public sectors (3P) partnerships and help Singaporeans enrich their lives by embracing digital as a lifelong pursuit, the [Digital for Life (DfL) movement](https://www.digitalforlife.gov.sg/) was launched in 2021 as a national movement with the President as its Patron. Under the movement, the [DfL Fund](https://www.imda.gov.sg/digitalforlife/funding#donating-to-our-cause) was also set up to support digital inclusion initiatives by charities and other community groups. The movement calls for organisations and individuals to champion projects and activities that promote (1) Digital Technology and Inclusion and (2) Digital Literacy and Wellness.
 	
 	
-## Get Connected
+<h2 id="section1">Get Connected</h2>
 
-<h5 id="section1">Digital Access Schemes</h5>
+**Digital Access Schemes**
 
 Digital access support is provided to vulnerable segments through [Digital Access Schemes](https://eservice.imda.gov.sg/das/homepage) by IMDA.
 
@@ -60,10 +60,10 @@ Many Government agencies currently provide in-person and contact centre services
 
 The Public Service has also set up [ServiceSG Centres](https://www.psd.gov.sg/servicesg/) at various heartland locations, to serve as first-stop physical service touchpoints where officers can guide citizens through digital transactions and offer integrated services across different public agencies for citizens.
 
-## Learn and Explore
+<h2 id="section2">Learn and Explore</h2>
 <img style="height:455px; width:411px;" src="/images/dmilf%20logo.png">
 
-<h5 id="section2">Digital Media and Information Literacy Framework</h5>
+**Digital Media and Information Literacy Framework**
 
 The [Digital Media and Information Literacy Framework](/digital-media-information-literacy-framework/) (last updated in 2019) guides digital literacy programme owners and public agencies in planning media literacy and information literacy programmes.&nbsp;
 
