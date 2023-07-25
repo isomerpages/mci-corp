@@ -12,7 +12,7 @@ We do this by developing the careers and professional competencies of SBR office
 
 ## What we do
 
-MCI creates a wide suite of research capabilities and resources to:
+MCI creates a wide suite of sentiments research capabilities and resources to:
 
 \- elevate the SBR capabilities and standards across WoG
 
@@ -22,8 +22,8 @@ MCI creates a wide suite of research capabilities and resources to:
 
 ## What we have done
 
-Some examples of what MCI has done for the community of research practitioners:
+Some examples of what MCI has done for the community of SBR research practitioners:
 
-*   Oversees a framework that enables government agencies to procure research services quickly while tapping on a pre-established pool of qualified research companies. This framework is officially known as the Whole-of-Government Research Services Period Contract cum Framework Agreement.
-*   Provides training opportunities to develop research proficiencies in SBR officers.
-*   Collaborates with private sector and research organisations to build a strong core of researchers.
+1. Oversees a framework that enables government agencies to procure SBR services quickly while tapping on a pre-established pool of qualified market research companies. This framework is officially known as the Whole-of-Government Research Services Period Contract cum Framework Agreement.
+2. Provides training opportunities to develop research proficiencies in SBR officers.
+3. Collaborates with private sector and research organisations to build a strong core of SBR researchers.
