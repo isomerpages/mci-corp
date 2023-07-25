@@ -43,7 +43,7 @@ Introduced on 7 May 2015, the framework provides a list of translation vendors w
 
 **Government Terms Translated**
 
-MCI’s Translation Department maintains the Government Terms Translated repository, which agencies, translation companies and the public can refer to for translations of Government policy-related terms in the four official languages. Click [here](https://www.translatedterms.gov.sg/)&nbsp;to visit the repository. 
+MCI’s Translation Department maintains the Government Terms Translated repository, which agencies, translation companies and the public can refer to for translations of Government policy-related terms in the four official languages. Click [here](https://www.translatedterms.gov.sg/) to visit the repository. 
 
 ![](/images/TD/updated%20ifg%203_gtt%20ifg_mci%20website%20revamp%202023.png)
 
@@ -59,7 +59,9 @@ In 2015, MCI introduced the Information Service (Translation) Scholarship, aimed
 
 * Awarded recipients can receive up to S$10,000, to offset 90 percent of the expenses incurred in their participation of capability development programme(s) related to translation, interpretation and/or languages in Singapore and overseas.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fnbfRZbJQto" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<div style="text-align: center;">
+  <iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/fnbfRZbJQto" height="315" width="560"></iframe>
+</div>
 
 ![](/images/TD/ttds%20brochure.png)
 
