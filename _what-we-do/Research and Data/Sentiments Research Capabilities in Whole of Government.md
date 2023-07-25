@@ -8,7 +8,7 @@ third_nav_title: Research and Data
 
 MCI also leads the development of Sentiments & Behavioural Research (SBR) capabilities across Whole-of-Government (WoG). Our goal is to develop a community of SBR officers who produce high-quality insights that inform policymaking and communications in government.
 
-We do this by developing the careers and professional competencies of SBR officers in the public service, as well as research partnerships, standards, and technologies.
+We do this by developing the careers and professional competencies of SBR officers in the public service, as well as sentiments research partnerships, standards, and technologies.
 
 ## What we do
 
