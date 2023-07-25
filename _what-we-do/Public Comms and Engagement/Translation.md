@@ -20,19 +20,19 @@ third_nav_title: Public Comms and Engagement
 
 ### SG Translate Together Web Portal
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/-OYRSf0Kx_Y" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-OYRSf0Kx_Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 * The [SG Translate Together (SGTT)](https://www.sgtranslatetogether.gov.sg/) Web Portal allows members of the public to generate localised first-cut translations and contribute post-edited translation data to improve the accuracy of the SG Translate Machine Translation (MT) engine. This engine was jointly developed by the Ministry of Communications and Information (MCI) and A\*STAR’s Institute for Infocomm Research (I2R), with the support of the TRANS Grant. 
 * The registered users, known as Citizen Translators, can edit the MT generated translations and submit them for review. These reviewed translations will be used to further train the MT engine.
 * The portal serves as a one-stop platform for the translation community, where they can develop their translation skills, utilise translation resources, share their insights with one another and stay updated on translation-related programmes and events. 
 
-<img style="height:580px; width:411px;" src="/images/TD/sgtt%20edm.jpg">
+<img src="/images/TD/sgtt%20edm.jpg" style="height:580px; width:411px;">
 
 
 
 &nbsp; <div style="position: relative;">
 
-&nbsp; &nbsp; <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/-OYRSf0Kx\_Y" height="315" width="560"></iframe>
+&nbsp; &nbsp; <iframe width="560" height="315" src="https://www.youtube.com/embed/-OYRSf0Kx\_Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 &nbsp; </div>
 
@@ -67,7 +67,7 @@ In 2015, MCI introduced the Information Service (Translation) Scholarship, aimed
 
 * Awarded recipients can receive up to S$10,000, to offset 90 percent of the expenses incurred in their participation of capability development programme(s) related to translation, interpretation and/or languages in Singapore and overseas.
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/fnbfRZbJQto" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fnbfRZbJQto" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 ![](/images/TD/ttds%20brochure.png)
 
@@ -103,11 +103,22 @@ More information will be available at a later date.
 <details>  
  <summary>Click to read the testimonials from our past recipients</summary>  
 <br>
-	<img style="height:400px; width:400px;" src="/images/TD/ttds%20testimonial%20image%201.png"><img style="height:400px; width:400px;" src="/images/TD/ttds%20testimonial%20image%202.png"><br>
-	<img style="height:400px; width:400px;" src="/images/TD/ttds%20testimonial%20image%203.png">
-	<img style="height:400px; width:400px;" src="/images/TD/ttds%20testimonial%20image%204.png">
-	<img style="height:400px; width:400px;" src="/images/TD/ttds%20testimonial%20image%205.png">
-	<img style="height:400px; width:400px;" src="/images/TD/ttds%20testimonial%20image%206.png">
+	
+  <title>Two Images in a Row</title>
+  
+
+
+  <div class="image-container">
+    <img src="/images/TD/ttds%20testimonial%20image%201.png" alt="Image 1">
+    <img src="/images/TD/ttds%20testimonial%20image%202.png" alt="Image 2">
+  </div>
+
+
+	<img src="/images/TD/ttds%20testimonial%20image%201.png" style="height:400px; width:400px;"><img src="/images/TD/ttds%20testimonial%20image%202.png" style="height:400px; width:400px;"><br>
+	<img src="/images/TD/ttds%20testimonial%20image%203.png" style="height:400px; width:400px;">
+	<img src="/images/TD/ttds%20testimonial%20image%204.png" style="height:400px; width:400px;">
+	<img src="/images/TD/ttds%20testimonial%20image%205.png" style="height:400px; width:400px;">
+	<img src="/images/TD/ttds%20testimonial%20image%206.png" style="height:400px; width:400px;">
 </details>
 
 ### Community-in-Translation Events Grant
