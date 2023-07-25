@@ -17,20 +17,23 @@ MCI works with its agencies, the Infocomm Media Development Authority (IMDA) and
 MCI also recognises that a “digital first, but not digital only” approach is important to ensure that no one is left behind and everyone can participate in the increasingly digital society, regardless of their digital ability.
 
 **Digital Readiness Blueprint**
+![dfl logo](/images/Logos/dfl%20logo.png)
+The [Digital Readiness Blueprint](/files/dr%20blueprint.pdf), published in 2018, sets out recommendations for building Digital Readiness in Singaporeans, guided by four strategic thrusts:
 
-The Digital Readiness Blueprint (to add link to blueprint pdf), published in 2018, sets out recommendations for building Digital Readiness in Singaporeans, guided by four strategic thrusts:
+1: Expand and Enhance Digital Access for Inclusivity
 
-#1: Expand and Enhance Digital Access for Inclusivity
-#2: Infuse Digital Literacy into National Consciousness
-#3: Empower Community and Businesses to Drive Widespread Adoption of Technology
-#4: Promote Digital Inclusion by Design
+2: Infuse Digital Literacy into National Consciousness
+
+3: Empower Community and Businesses to Drive Widespread Adoption of Technology
+
+4: Promote Digital Inclusion by Design
 
 **People-Private-Public (3P) Approach to Build a Digitally Inclusive Society**
-  
-*  To galvanise people, private, and public sectors (3P) partnerships and help Singaporeans enrich their lives by embracing digital as a lifelong pursuit, the [Digital for Life (DfL) movement](https://www.digitalforlife.gov.sg/) was launched in 2021 as a national movement with the President as its Patron. Under the movement, the [DfL Fund](https://www.imda.gov.sg/digitalforlife/funding#donating-to-our-cause) was also set up to support digital inclusion initiatives by charities and other community groups. The movement calls for organisations and individuals to champion projects and activities that promote (1) Digital Technology and Inclusion and (2) Digital Literacy and Wellness.
+![](/images/Logos/dfl%20logo.png)  
+To galvanise people, private, and public sectors (3P) partnerships and help Singaporeans enrich their lives by embracing digital as a lifelong pursuit, the [Digital for Life (DfL) movement](https://www.digitalforlife.gov.sg/) was launched in 2021 as a national movement with the President as its Patron. Under the movement, the [DfL Fund](https://www.imda.gov.sg/digitalforlife/funding#donating-to-our-cause) was also set up to support digital inclusion initiatives by charities and other community groups. The movement calls for organisations and individuals to champion projects and activities that promote (1) Digital Technology and Inclusion and (2) Digital Literacy and Wellness.
 	
 	
-## Digital Access
+## Get Connected
 
 **Digital Access Schemes**
 
@@ -57,7 +60,7 @@ Many Government agencies currently provide in-person and contact centre services
 
 The Public Service has also set up [ServiceSG Centres](https://www.psd.gov.sg/servicesg/) at various heartland locations, to serve as first-stop physical service touchpoints where officers can guide citizens through digital transactions and offer integrated services across different public agencies for citizens.
 
-## Digital Literacy
+## Learn and Explore
 <img style="height:455px; width:411px;" src="/images/dmilf%20logo.png">
 
 **Digital Media and Information Literacy Framework**
