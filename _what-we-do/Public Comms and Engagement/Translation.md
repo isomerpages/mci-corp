@@ -96,7 +96,7 @@ We accept applications from 1 April to 30&nbsp;June (both dates inclusive) each 
 <br><br>
 More information will be available at a later date.
 <br><br>
-<a href="[https://go.gov.sg/ttds-enquiry](https://go.gov.sg/ttds-enquiry)">TTDS Enquiry Form</a>
+<a href="https://go.gov.sg/ttds-enquiry">TTDS Enquiry Form</a>
 <br><br>
 </details>
 
