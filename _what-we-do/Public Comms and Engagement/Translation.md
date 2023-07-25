@@ -29,6 +29,15 @@ third_nav_title: Public Comms and Engagement
 <img style="height:580px; width:411px;" src="/images/TD/sgtt%20edm.jpg">
 
 
+
+&nbsp; <div style="position: relative;">
+
+&nbsp; &nbsp; <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/-OYRSf0Kx\_Y" height="315" width="560"></iframe>
+
+&nbsp; </div>
+
+
+
 ### Citizen Translators Project
 
 *   The Citizen Translators (CT) Project was introduced in 2021, as part of the Government’s efforts to raise the overall translation and language standards in Singapore. An initiative under the National Translation Committee and part of the SG Together Movement, theproject is a first in Singapore involving members of the public, and aims to harness the expertise of the community to crowdsource the best translations for government communications materials.&nbsp;
