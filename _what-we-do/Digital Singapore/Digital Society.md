@@ -10,9 +10,9 @@ The Ministry of Communications and Information (MCI) aims to build a safe and in
 
 MCI works with its agencies, the Infocomm Media Development Authority (IMDA) and National Library Board (NLB), to oversee and drive programmes and initiatives to ensure that Singaporeans, especially vulnerable segments, are equipped with:&nbsp;
 
-*   internet connectivity and digital devices needed for participation in digital society&nbsp;
+*   Digital Access: internet connectivity and digital devices needed for participation in digital society&nbsp;
     
-*   digital literacy and skills, and have the confidence, and motivation to use technology in their daily lives.&nbsp;
+*   Digital Literacy and Skills, and have the confidence, and motivation to use technology in their daily lives.&nbsp;
 
 MCI also recognises that a “digital first, but not digital only” approach is important to ensure that no one is left behind and everyone can participate in the increasingly digital society, regardless of their digital ability.
 
