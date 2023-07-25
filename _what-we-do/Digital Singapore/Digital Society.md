@@ -10,9 +10,9 @@ The Ministry of Communications and Information (MCI) aims to build a safe and in
 
 MCI works with its agencies, the Infocomm Media Development Authority (IMDA) and National Library Board (NLB), to oversee and drive programmes and initiatives to ensure that Singaporeans, especially vulnerable segments, are equipped with:&nbsp;
 
-*   Digital Access: internet connectivity and digital devices needed for participation in digital society&nbsp;
+*   [Digital Access](#section1): internet connectivity and digital devices needed for participation in digital society&nbsp;
     
-*   Digital Literacy and Skills, and have the confidence, and motivation to use technology in their daily lives.&nbsp;
+*   [Digital Literacy and Skills](#section2), and have the confidence, and motivation to use technology in their daily lives.&nbsp;
 
 MCI also recognises that a “digital first, but not digital only” approach is important to ensure that no one is left behind and everyone can participate in the increasingly digital society, regardless of their digital ability.
 
@@ -35,7 +35,7 @@ To galvanise people, private, and public sectors (3P) partnerships and help Sing
 	
 ## Get Connected
 
-**Digital Access Schemes**
+<h5 id="section1">Digital Access Schemes</h5>
 
 Digital access support is provided to vulnerable segments through [Digital Access Schemes](https://eservice.imda.gov.sg/das/homepage) by IMDA.
 
@@ -63,7 +63,7 @@ The Public Service has also set up [ServiceSG Centres](https://www.psd.gov.sg/se
 ## Learn and Explore
 <img style="height:455px; width:411px;" src="/images/dmilf%20logo.png">
 
-**Digital Media and Information Literacy Framework**
+<h5 id="section2">Digital Media and Information Literacy Framework</h5>
 
 The [Digital Media and Information Literacy Framework](/digital-media-information-literacy-framework/) (last updated in 2019) guides digital literacy programme owners and public agencies in planning media literacy and information literacy programmes.&nbsp;
 
