@@ -129,22 +129,20 @@ More information will be available at a later date.
 <details>  
  <summary>How To Apply</summary> 
 <br>
+	Current and upcoming application cycles:
+<br><br>
 <title>Table Example</title>  
-<table><thead><tr><th>Application period</th><th>For proposed events which start in</th></tr></thead><tbody><tr><td>1 January 2023 to 31 January 2023</td><td>April 2023 to July 2023</td></tr><tr><td>1 May 2023 to 31 May 2023</td><td>August 2023 to December 2023</td></tr><tr><td>1 August 2023 to 30 September 2023</td><td>January 2024 to June 2024</td></tr></tbody></table>
+<table><thead><tr><th>Application period</th><th>For proposed events which start in</th></tr></thead><tbody><tr><td>1 August 2023 to 30 September 2023</td><td>January 2024 to June 2024</td></tr><tr><td>1 February 2024 to 30 March 2024</td><td>July 2024 to December 2024</td></tr></tbody></table>
 <br>
-Each applicant can submit only one application per cycle. Late submissions will not be entertained.
-<br><br>
-Applicants may send the completed <a href="/files/Translation/citeg%20application%20form%20(updated%2030%20apr%202021).pdf">Application Form</a>, together with all relevant supporting documents via the submission form at <a href="https://go.gov.sg/citeg-submit">https://go.gov.sg/citeg-submithere</a>.
-<br><br>
-Applicants can expect to be notified of their application outcome within two months of application submission. For more information, please refer to: 
+For more information, please refer to: 
 <br><br>
 <title>Table Example</title>
 <table>
     <thead>
       <tr>
-        <th>Online Enquiry Form</th>
-        <th>Application Guide</th>
-        <th>Application Form</th>
+        <th>CiTEG Enquiry Form</th>
+        <th>CiTEG Application Guide</th>
+        <th>CiTEG Application Form</th>
       </tr>
     </thead>
     <tbody>
