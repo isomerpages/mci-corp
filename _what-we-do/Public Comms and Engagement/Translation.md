@@ -147,9 +147,9 @@ For more information, please refer to:
     </thead>
     <tbody>
       <tr>
-        <td><a href="https://go.gov.sg/citeg-enquiry">Click here</a></td>
-        <td>Application Guide</td>
-        <td><a href="/files/Translation/citeg%20application%20form%20(updated%2030%20apr%202021).pdf">Click here</a></td>
+        <td><a href="https://go.gov.sg/citeg-enquiry">Enquiry Form</a></td>
+        <td><a href="/files/Translation/citeg%20application%20guide%20jan2023.pdf">Application Guide</a></td>
+        <td><a href="/files/Translation/citeg%20application%20form%20(updated%2030%20apr%202021).pdf">Application Form</a></td>
 </tr>
 </tbody>
 </table><br><br>
