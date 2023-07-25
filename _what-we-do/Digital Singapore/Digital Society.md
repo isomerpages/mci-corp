@@ -17,7 +17,7 @@ MCI works with its agencies, the Infocomm Media Development Authority (IMDA) and
 MCI also recognises that a “digital first, but not digital only” approach is important to ensure that no one is left behind and everyone can participate in the increasingly digital society, regardless of their digital ability.
 
 **Digital Readiness Blueprint**
-![dfl logo](/images/Logos/dfl%20logo.png)
+
 The [Digital Readiness Blueprint](/files/dr%20blueprint.pdf), published in 2018, sets out recommendations for building Digital Readiness in Singaporeans, guided by four strategic thrusts:
 
 1: Expand and Enhance Digital Access for Inclusivity
@@ -29,7 +29,7 @@ The [Digital Readiness Blueprint](/files/dr%20blueprint.pdf), published in 2018,
 4: Promote Digital Inclusion by Design
 
 **People-Private-Public (3P) Approach to Build a Digitally Inclusive Society**
-![](/images/Logos/dfl%20logo.png)  
+<img style="height:263px; width:455px;" src="/images/Logos/dfl%20logo.png">
 To galvanise people, private, and public sectors (3P) partnerships and help Singaporeans enrich their lives by embracing digital as a lifelong pursuit, the [Digital for Life (DfL) movement](https://www.digitalforlife.gov.sg/) was launched in 2021 as a national movement with the President as its Patron. Under the movement, the [DfL Fund](https://www.imda.gov.sg/digitalforlife/funding#donating-to-our-cause) was also set up to support digital inclusion initiatives by charities and other community groups. The movement calls for organisations and individuals to champion projects and activities that promote (1) Digital Technology and Inclusion and (2) Digital Literacy and Wellness.
 	
 	
@@ -87,7 +87,7 @@ SG Digital Office’s [Seniors Go Digital](https://www.imda.gov.sg/en/seniorsgod
 
 The [Code for Fun](https://codesg.imda.gov.sg/code-for-fun/) Enrichment Programme (offered jointly by MOE and IMDA) aims to increase primary and secondary school students’&nbsp;exposure to coding and computational thinking. Students learn computational thinking, coding concepts and emerging technology through engaging hands-on experiences, robotic kits and/or microcontrollers.
 
-**Lifelong Learning and Discovering at NLB**
+#### Lifelong Learning and Discovering at NLB
 
 NLB aims to empower and elevate every segment of society to learn and discover continuously to be ready for the future.&nbsp;
 
