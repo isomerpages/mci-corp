@@ -42,9 +42,8 @@ third_nav_title: Public Comms and Engagement
 
 ### Citizen Translators Project
 
-* As part of the Government’s efforts to raise the overall translation and language standards in Singapore, the Ministry of Communications and Information soft-launched the Citizen Translators (CT) Project in Jan 2021, to encourage volunteers with passion in language and translation to join as CTs. 
-* The project is a first in Singapore involving members of the public, and aims to harness the expertise of the community to crowdsource the best translations for Government communications materials, localised to Singapore’s context. 
-* It also provides a platform for volunteers to build formal and informal networks to share experiences and knowledge to improve translation competencies.
+*   The Citizen Translators (CT) Project was introduced in 2021, as part of the Government’s efforts to raise the overall translation and language standards in Singapore. An initiative under the National Translation Committee and part of the SG Together Movement, theproject is a first in Singapore involving members of the public, and aims to harness the expertise of the community to crowdsource the best translations for government communications materials.&nbsp;
+*   Interested parties may sign up as a CT by registering on the SGTT portal [here](https://www.sgtranslatetogether.gov.sg/).
  
 ### Promoting best practices
 
@@ -56,7 +55,7 @@ Introduced on 7 May 2015, the framework provides a list of translation vendors w
 
 MCI’s Translation Department maintains the Government Terms Translated repository, which agencies, translation companies and the public can refer to for translations of Government policy-related terms in the four official languages. Click [here](https://www.translatedterms.gov.sg/)&nbsp;to visit the repository. 
 
-![](/images/TD/ifg%203_gtt%20ifg_mci%20website%20revamp%202023.png)
+![](/images/TD/updated%20ifg%203_gtt%20ifg_mci%20website%20revamp%202023.png)
 
 ### Nurturing talent
 
@@ -66,15 +65,13 @@ In 2015, MCI introduced the Information Service (Translation) Scholarship, aimed
 
 ### Translation Talent Development Scheme (TTDS)
 
-* Launched in 2018, the TTDS is an initiative to support Singapore translation and interpretation (T&amp;I) practitioners from the private sector in deepening their skills. 
+* Launched in 2018, the TTDS is an initiative to support Singaporean translation and interpretation (T&amp;I) practitioners from the private sector in deepening their skills.&nbsp;
 
-* Awarded recipients can receive up to S$10,000, to offset 90 percent of the expenses incurred in their participation of capability development programme(s) related to translation, interpretation and/or languages in Singapore and overseas. 
+* Awarded recipients can receive up to S$10,000, to offset 90 percent of the expenses incurred in their participation of capability development programme(s) related to translation, interpretation and/or languages in Singapore and overseas.
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/fnbfRZbJQto" height="315" width="560"></iframe>
 
 ![](/images/TD/ttds%20brochure.png)
-
-For enquiries, please use our&nbsp;enquiry form&nbsp;or email&nbsp;[MCI_NTC_Secretariat@mci.gov.sg](mailto:MCI_NTC_Secretariat@mci.gov.sg)&nbsp;with the subject "TTDS Enquiry".
 
 <style>  
   /* Styling for the accordion container */  
@@ -96,41 +93,19 @@ For enquiries, please use our&nbsp;enquiry form&nbsp;or email&nbsp;[MCI_NTC_Secr
 <details>  
 <summary>When can I apply?</summary>
 	
-<br>Applications are now open from 1 April 2023 to 30 June 2023 (both dates inclusive).	
-<br><br>	
-	<b>How do I apply?</b>
-<br><br>
-Step 1: To apply, please prepare the following documents for submission in a single ZIP archive (max file size 7MB):
-<br><br>
-i. <a href="/files/Translation/ttds_capability%20development%20programme%20form%202023.pdf">Completed Capability Development Plan Form</a><br>
-ii. Curriculum vitae<br>
-iii. Proof of enrolment (e.g. letter of acceptance / matriculation) OR application (e.g. application acknowledgement emails) OR awaiting confirmation / invitation (e.g. registration emails) from the programme provider of each programme OR planning to apply for upcoming programmes (screenshots of programme details stating the application period if it has yet to commence)<br>
-iv. Translation portfolio with non-confidential items (for translation practitioners) and/or testimonials from clients (for both translation and interpretation practitioners)
-<br><br>
-Step 2: Complete the online application form here and submit your supporting documents from Step 1. Please note that incomplete forms cannot be saved as drafts, and you will have to complete the entire form once you start.
-<br><br>
-All applications must reach the NTC Secretariat by 2359hrs Singapore time on 30 June 2023. Applications received after this closing date and time shall be disqualified.
-<br><br>
-The NTC Secretariat also reserves the right to disqualify applicants who fail to complete any form(s) and/or provide any document(s) required in their application.
-<br><br>
-<b>What happens next?</b>
-<br><br>
-Shortlisted applicants will be required to attend an interview between July and August and informed of the outcome by October.
-<br><br>
-Recipients will be appointed as National Translation Committee (NTC) Ambassadors for a duration of up to two years and required to contribute their expertise to NTC initiatives.
-<br><br>
-All applications are rigorously assessed by our panel of assessors. Only applicants who are shortlisted and clear the final interview will be selected for award.
 <br>
-<title>Table Example</title>  
- <table><thead><tr><th>TTDS Application Form</th><th>TTDS Application Guide</th></tr></thead><tbody><tr><td><a href="https://form.gov.sg/5b6158b78860f8000f9c89d6">Click here</a></td><td>Application Guide</td></tr></tbody></table>
+We accept applications from 1 April to 30&nbsp;June (both dates inclusive) each year.
+<br><br>
+More information will be available at a later date.
+<br><br>
+<a href="[https://go.gov.sg/ttds-enquiry](https://go.gov.sg/ttds-enquiry)">TTDS Enquiry Form</a>
 <br><br>
 </details>
 
 <details>  
  <summary>Click to read the testimonials from our past recipients</summary>  
 <br>
-	<img style="height:400px; width:400px;" src="/images/TD/ttds%20testimonial%20image%201.png">
-	<img style="height:400px; width:400px;" src="/images/TD/ttds%20testimonial%20image%202.png">
+	<img style="height:400px; width:400px;" src="/images/TD/ttds%20testimonial%20image%201.png"><img style="height:400px; width:400px;" src="/images/TD/ttds%20testimonial%20image%202.png"><br>
 	<img style="height:400px; width:400px;" src="/images/TD/ttds%20testimonial%20image%203.png">
 	<img style="height:400px; width:400px;" src="/images/TD/ttds%20testimonial%20image%204.png">
 	<img style="height:400px; width:400px;" src="/images/TD/ttds%20testimonial%20image%205.png">
