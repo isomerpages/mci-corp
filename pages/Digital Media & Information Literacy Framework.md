@@ -145,7 +145,7 @@ Keep up to date on the latest information, news and resources around digital med
 
 # Individual
 Self-Assessment Checklist  
-This checklist[checklist](/files/selfassessment%20checklist%208%20july%202019.pdf) will help individuals to assess their level of competency in a range of digital media and information literacy skills.  
+This [checklist](/files/selfassessment%20checklist%208%20july%202019.pdf) will help individuals to assess their level of competency in a range of digital media and information literacy skills.  
 
 **Appreciation of Technology**
 
