@@ -17,7 +17,7 @@ Comparing Quality of Life Now Compared to Pre-COVID
 
 Vulnerable Segments
 *   A higher proportion of youths aged 15 to 19 years reported a drop in their quality of life (38% for youths vs. 28% for the general population), as well as their ability to manage their mental health (37% for youths vs. 28% for the general population), compared to before the pandemic. 
-*   This suggest that the impact of COVID-19 restrictions on social activities was more keenly felt by the young, especially teenagers.
+*   This suggests that the impact of COVID-19 restrictions on social activities was more keenly felt by the young, especially teenagers.
 
 Click [here](/media-centre/press-releases/7-in-10-sg-residents-positive-overall-quality-of-life-post-pandemic/) to view the public release. 
 
@@ -27,7 +27,7 @@ Click [here](/media-centre/press-releases/7-in-10-sg-residents-positive-overall-
 
 **Most agreed that technology made their lives better, but fewer were keen to try out new technologies.** 
 *   84% agreed that digital technologies made their lives easier.
-*   This was so even among seniors aged 70 years old and above, where a majority (62%) of them agreed that digital technologies make their lives easier.
+*   This was so even among seniors aged 70 years old and above, where a majority (62%) of them agreed that digital technologies made their lives easier.
 *   However, only 65% were keen to try out new digital technologies.
 
 **A Growing Digital Proficiency** 
