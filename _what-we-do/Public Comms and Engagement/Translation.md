@@ -104,13 +104,9 @@ More information will be available at a later date.
  <summary>Click to read the testimonials from our past recipients</summary>  
 <br>
 	
-  <title>Two Images in a Row</title>
+<div style="display: flex;"> <img style="width: 50%; max-width: 100%; height: auto;" alt="Image 1" src="/images/TD/ttds%20testimonial%20image%201.png"> <img style="width: 50%; max-width: 100%; height: auto;" alt="Image 2" src="/images/TD/ttds%20testimonial%20image%202.png"> </div>
  
-  <div class="image-container">
-    <img src="/images/TD/ttds%20testimonial%20image%201.png" style="height:200px; width:200px;"><img src="/images/TD/ttds%20testimonial%20image%202.png" style="height:200px; width:200px;">
-  </div>
 
-	
 
 	<img src="/images/TD/ttds%20testimonial%20image%201.png" style="height:400px; width:400px;"><img src="/images/TD/ttds%20testimonial%20image%202.png" style="height:400px; width:400px;"><br>
 	<img src="/images/TD/ttds%20testimonial%20image%203.png" style="height:400px; width:400px;">
