@@ -105,29 +105,33 @@ Individuals will learn:
 <p><span style="text-decoration: underline;">Learning Objectives</span></p>
 
 *   Protect Personal Data and Cybersecurity, including:
-			*   How to secure digital devices and online accounts
-			*   How to adjust privacy settings across different social media platforms
-			*   The difference between secured and unsecured Wi-Fi networks, and implications of using each of them
-			*   Common concepts in cybersecurity like encryption and virtual private networks (VPN)
+	*   How to secure digital devices and online accounts
+	*   How to adjust privacy settings across different social media platforms
+	*   The difference between secured and unsecured Wi-Fi networks, and implications of using each of them
+	*   Common concepts in cybersecurity like encryption and virtual private networks (VPN)
 
 *   Guard Against Online Scams and Cyber Threats, including:
-			*   What are the different types of online scams
-			*   What phishing is and how to recognise the tell-tale signs
-			*   How to respond to an online scam
-			*   What are the different types of cyber threats
-			*   What cyber threats and malware can do
-			*   What to do to guard against cyber threats
+
+	*   What are the different types of online scams
+	*   What phishing is and how to recognise the tell-tale signs
+	*   How to respond to an online scam
+	*   What are the different types of cyber threats
+	*   What cyber threats and malware can do
+	*   What to do to guard against cyber threats
 
 <p><span style="text-decoration: underline;">Suggested Focus Areas</span></p>
 
 *   Protecting Personal Data and Cybersecurity
-			*   Protecting Personal Data
-			*   Common Concepts in Cybersecurity
-*   Online Scams and Cyber Threats
-			*   Types of Online Scams
-			*   How to Respond to Online Scams
-			*   Types of Cyber Threats
-			*   How to Guard Against Cyber Threats
+
+	1.   Protecting Personal Data
+	2.   Common Concepts in Cybersecurity	
+	
+* Online Scams and Cyber Threats
+
+	1.   Types of Online Scams
+	2.   How to Respond to Online Scams
+	3.   Types of Cyber Threats
+	4.   How to Guard Against Cyber Threats
 
 **Additional Resources**
 
