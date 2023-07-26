@@ -57,9 +57,7 @@ In 2015, MCI introduced the Information Service (Translation) Scholarship, aimed
 
 * Awarded recipients can receive up to S$10,000, to offset 90 percent of the expenses incurred in their participation of capability development programme(s) related to translation, interpretation and/or languages in Singapore and overseas.
 
-<div style="text-align: center;">
-  <iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/fnbfRZbJQto" height="315" width="560"></iframe>
-</div>
+<div style="position:relative;padding-top:56.25%;"> <iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" align="center" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/fnbfRZbJQto" height="315" width="560"></iframe> </div>
 
 ![](/images/TD/ttds%20brochure.png)
 
