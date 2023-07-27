@@ -126,6 +126,7 @@ Individuals will learn:
 	1.   Protecting Personal Data
 	2.   Common Concepts in Cybersecurity	
 	
+	
 * Online Scams and Cyber Threats
 
 	1.   Types of Online Scams
