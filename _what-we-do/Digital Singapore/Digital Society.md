@@ -29,7 +29,7 @@ The [Digital Readiness Blueprint](/files/dr%20blueprint.pdf), published in 2018,
 4: Promote Digital Inclusion by Design
 
 **People-Private-Public (3P) Approach to Build a Digitally Inclusive Society**
-<img style="height:231px; width:400px;" src="/images/Logos/dfl%20logo.png">
+<img style="height:173px; width:300px;" src="/images/Logos/dfl%20logo.png">
 To galvanise people, private, and public sectors (3P) partnerships and help Singaporeans enrich their lives by embracing digital as a lifelong pursuit, the [Digital for Life (DfL) movement](https://www.digitalforlife.gov.sg/) was launched in 2021 as a national movement with the President as its Patron. Under the movement, the [DfL Fund](https://www.imda.gov.sg/digitalforlife/funding#donating-to-our-cause) was also set up to support digital inclusion initiatives by charities and other community groups. The movement calls for organisations and individuals to champion projects and activities that promote (1) Digital Technology and Inclusion and (2) Digital Literacy and Wellness.
 	
 	
