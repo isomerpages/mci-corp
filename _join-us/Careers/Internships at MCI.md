@@ -4,7 +4,7 @@ permalink: /join-us/careers/mci-internships/
 description: ""
 third_nav_title: Careers
 ---
-The MCI Internship Programme welcomes all students from tertiary institutions to join us in shaping Singapore’s digital future and Whole-of-Government communications.
+The MCI Internship Programme welcomes students from tertiary institutions to join us in shaping Singapore’s digital future and Whole-of-Government communications.
 
 Get hands-on experience working on exciting internship projects ranging from digital policy work to Whole-of-Government communications and citizen feedback! You will have the opportunity to:  
   
