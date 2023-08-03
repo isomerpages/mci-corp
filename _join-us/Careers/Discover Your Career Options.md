@@ -26,7 +26,7 @@ Management Executives are involved in a myriad of key functions, including polic
 
 #### Apply
 
-View our full list of available job vacancies at Careers@Gov. Submit your application directly if there are any roles that interest you. We would contact you within two weeks if you are shortlisted for the role.
+View our available job vacancies at Careers@Gov. Submit your application directly if there are any roles that interest you. We will get in touch with you within two weeks if you are shortlisted for the role.
 
 #### Interview
 
