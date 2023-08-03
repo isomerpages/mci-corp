@@ -6,7 +6,7 @@ third_nav_title: Scholarship
 ---
 At MCI, we offer two scholarships – the **MCI Information Service Scholarship** for individuals who are interested in pursuing a career in government communications and the **MCI Information Service (Translation) Scholarship** for individuals with an interest in both government communications and translation work.
 
-As a MCI Scholar, you will be the voice connecting the Government and our people. You will shape public communications and translation capabilities in the public service and engage Singaporeans on national issues.
+As an MCI Scholar, you will be the voice connecting the Government and our people. You will shape public communications and translation capabilities in the public service and engage Singaporeans on national issues.
 
 Upon graduation, you can look forward to a challenging and purposeful career filled with diverse opportunities and developments.
 
