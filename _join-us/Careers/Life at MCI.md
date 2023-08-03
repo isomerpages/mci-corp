@@ -29,9 +29,7 @@ We value teamwork and collaboration, and our office spaces are designed to help 
 ![](/images/CDD/mci%20office%2004.jpg)
 ## How We Have Fun 
 
-We believe in creating a positive environment for all through shared experiences, from engaging team-building activities to having fun together during festive celebrations. Come be a part of our exciting and vibrant work culture!&nbsp;
-
-[insert visual (optional): images of MCI’s staff events/ celebrations (CED to provide the images if any]
+We believe in creating a positive environment for all through shared experiences, from engaging team-building activities to having fun together during festive celebrations. Come be a part of our exciting and vibrant work culture!
 
 ## How We Grow
 
