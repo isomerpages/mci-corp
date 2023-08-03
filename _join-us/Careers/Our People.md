@@ -4,7 +4,7 @@ permalink: /join-us/careers/our-people/
 description: ""
 third_nav_title: Careers
 ---
-## Find out more about what our officers are saying about their experiences in MCI!
+## Find out what our officers are saying about their experiences in MCI!
 
 **Keen to be a part of the MCI Family? Apply with us today!**
 
