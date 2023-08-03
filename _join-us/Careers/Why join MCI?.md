@@ -4,7 +4,7 @@ permalink: /join-us/careers/why-join-mci/
 description: ""
 third_nav_title: Careers
 ---
-At MCI, you can look forward to diverse learning opportunities and a meaningful career where you play an important role in keeping Singaporeans engaged and informed on national and social issues.
+At MCI, you can look forward to diverse learning opportunities and a meaningful career where you will play an important role in keeping Singaporeans engaged and informed on national and social issues.
 
 From developing policies that shape the future of Singapore’s digital economy, to ensuring that businesses seize opportunities in the infocomm and media sector, our work at MCI enables Singaporeans to work, live and thrive in a better future.
 
