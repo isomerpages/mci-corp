@@ -64,3 +64,5 @@ A very good morning.
 *Conclusion*  
   
 13. Thank you once again for having me. Have a great day. Congratulations to all of you.
+
+[PDF version of the speech](/files/Speeches%202023/speech%20by%20minister%20josephine%20teo%20at%20apples%20swift%20explorers%20singapore%202023.pdf)
