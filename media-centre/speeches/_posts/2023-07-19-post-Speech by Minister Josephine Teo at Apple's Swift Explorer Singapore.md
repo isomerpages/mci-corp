@@ -26,11 +26,11 @@ A very good morning.
 <br>
   
 3. We can see how digital technologies have become an essential part of our daily lives. From home-based learning to connecting with one another on social media, online shopping, streaming our favourite movies and tv shows, these digital activities have become part of our daily routine.  
-&nbsp;  
-4. Digital will continue to be a core part of our lives and certainly in Singapore, we would like to see new innovations that serve to improve our productivity, and contribute to us having more meaningful experiences in how we interact with one another. This means that we must continue with our Smart Nation endeavours: putting in place the necessary digital infrastructure, continuing to design inclusive government services, and helping our people to embrace opportunities in an increasingly digital future.&nbsp;  
-  
-5. But a successfully digital Singapore will only be possible if our people have some level of digital proficiency. For the younger generation and the generations to follow, digital proficiency is going to be much more necessary. Our students are acquiring the skill sets that their parents’ generation was not required to have and perhaps did not have an impetus to acquire. They are doing something really interesting and building for themselves a future that can take them far. I am glad to see that happening. At this point, I would like to encourage our students who are keen to deepen your learning in tech to do so by joining an Infocomm Media Club in your school. Do also bring more friends on board. You could also take Computing as an elective subject at Upper Secondary. Or perhaps, you could even take up scholarships like the SG Digital Scholarship to pursue tech or media-related studies, enabling you to develop deep and useful skills that could benefit communities and serve society.  
-&nbsp;  
+
+4. Digital will continue to be a core part of our lives and certainly in Singapore, we would like to see new innovations that serve to improve our productivity, and contribute to us having more meaningful experiences in how we interact with one another. This means that we must continue with our Smart Nation endeavours: putting in place the necessary digital infrastructure, continuing to design inclusive government services, and helping our people to embrace opportunities in an increasingly digital future.
+
+5. But a successfully digital Singapore will only be possible if our people have some level of digital proficiency. For the younger generation and the generations to follow, digital proficiency is going to be much more necessary. Our students are acquiring the skill sets that their parents’ generation was not required to have and perhaps did not have an impetus to acquire. They are doing something really interesting and building for themselves a future that can take them far. I am glad to see that happening. At this point, I would like to encourage our students who are keen to deepen your learning in tech to do so by joining an Infocomm Media Club in your school. Do also bring more friends on board. You could also take Computing as an elective subject at Upper Secondary. Or perhaps, you could even take up scholarships like the SG Digital Scholarship to pursue tech or media-related studies, enabling you to develop deep and useful skills that could benefit communities and serve society.
+
 6. A digitally proficient Singapore can also better harness digital to help the community. This can be done through digital solutions that address real-world problems, such as national challenges like ageing, healthcare, education and sustainability.  
   
     a. I had the pleasure of listening to Kenryk from Pathlight School share about his Isight app. The app helps to identify eyesight problems in young people and facilitate timely treatment by providing colour blindness and visual sharpness tests and practical eye care tips.  
@@ -47,12 +47,12 @@ A very good morning.
   
 9. To further my point, let me share with you the experience of Jiang Tongyu who participated in a similar programme, the Swift Accelerator Programme, organised by IMDA and Apple to develop secondary school students’ coding skills.  
   
-    a. &nbsp;After joining the programme, Tongyu went on to chair Raffles Girls’ School’s Infocomm Club and won the Distinction award in the Tech category at the 2022 Infocomm Media Club Youth Awards for her team’s project called “Healing Café” which provided a one-stop platform for mental health resources.  
-&nbsp;  
-    b. Tongyu also emerged as one of the 375 winners of Apple’s Worldwide Developers Conference Swift Student Challenge this year for her “City Night” app which reminds users to care for themselves and accept support by others amidst the busy-ness and challenges of life.&nbsp;
+    a. After joining the programme, Tongyu went on to chair Raffles Girls’ School’s Infocomm Club and won the Distinction award in the Tech category at the 2022 Infocomm Media Club Youth Awards for her team’s project called “Healing Café” which provided a one-stop platform for mental health resources.  
+
+    b. Tongyu also emerged as one of the 375 winners of Apple’s Worldwide Developers Conference Swift Student Challenge this year for her “City Night” app which reminds users to care for themselves and accept support by others amidst the busy-ness and challenges of life.
 <br>
 
-10. Tongyu is another great example of how this programme has ignited her interest and allowed her to go further.&nbsp;  
+10. Tongyu is another great example of how this programme has ignited her interest and allowed her to go further.
   
     *Educators also play a key role in empowering students to grow their digital proficiencies and thrive in a digital future.*  
 <br>
