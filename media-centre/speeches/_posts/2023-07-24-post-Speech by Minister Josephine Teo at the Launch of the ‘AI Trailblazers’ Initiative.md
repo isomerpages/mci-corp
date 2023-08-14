@@ -51,8 +51,7 @@ Good morning.&nbsp;
   
 17. These are just some of the prerequisites that will allow us to pursue our ambitions: to foster a thriving and competitive AI landscape, and ultimately, to uplift the lives and livelihoods of Singaporeans.&nbsp;&nbsp;  
   
-    **Partnership with private sector and Trailblazers initiative**  
-<br>
+    **Partnership with private sector and Trailblazers initiative**
 
 18. Close coordination across the Government will help to ensure all the ingredients are in place. But equally important are partnerships like these, which allow us to tap on the dynamism and capabilities of the private sector.&nbsp;  
   
