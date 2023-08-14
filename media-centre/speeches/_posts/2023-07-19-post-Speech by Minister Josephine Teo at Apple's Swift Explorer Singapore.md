@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-*DEVELOPING DIGITALLY SKILLED PROBLEM SOLVERS TODAY, FOR THE FUTURE * 
+*DEVELOPING DIGITALLY SKILLED PROBLEM SOLVERS TODAY, FOR THE FUTURE* 
   
 Mr Richard Hames, Senior Director of Apple Retail in APAC,  
 Mr Jancu Koenig, Senior Director of Retail Engagement &amp; Marketing in APAC,  
@@ -22,7 +22,7 @@ A very good morning.
   
 2. I recall that when the iPhone was first released in 2007 – which was before most of you were born – it transformed the way we consume and engage with content, and how we interact with one another. The app ecosystem that we are so familiar with was integral to this transformation. Almost 20 years on, it is heartening to see so many young people developing your own apps and leading the way,&nbsp;  
   
-   *As digital technologies grow more pervasive, digital skills have become key to enable individuals to participate meaningfully and embrace opportunities in an increasingly digital world as well as benefit the wider community.* 
+   **As digital technologies grow more pervasive, digital skills have become key to enable individuals to participate meaningfully and embrace opportunities in an increasingly digital world as well as benefit the wider community.** 
 <br>
   
 3. We can see how digital technologies have become an essential part of our daily lives. From home-based learning to connecting with one another on social media, online shopping, streaming our favourite movies and tv shows, these digital activities have become part of our daily routine.  
@@ -40,7 +40,7 @@ A very good morning.
   
 7. To the students here today, I hope you continue honing your digital skills and apply yourselves creatively to develop innovations that will not only enhance others’ lives, but also help build a better Singapore. May you also continue putting people at the heart of the digital solutions you create, using your skills for the greater good to solve problems that others may face.&nbsp;  
   
-    *Partnership with industry and the community is needed to nurture future generations of digitally talented problem-solvers that can give back to society and contribute to Singapore’s “heart ware”.*
+    **Partnership with industry and the community is needed to nurture future generations of digitally talented problem-solvers that can give back to society and contribute to Singapore’s “heart ware”.**
 <br>
   
 8. The other important aspect of how we do this is partnerships with companies. We do want to ensure that the skills that our younger generation are building up are relevant. They need to be relevant to our businesses and more importantly, to societies. And that is why we prefer not to carry out these programmes in a vacuum. We would like to bring in partners like Apple and many other tech companies out there that know what it takes to develop digital proficiency; that also know what kind of skills are useful for the development of products and services that societies are in need of and have a demand for. Such partnerships will be very important, and I hope that we can continue to build these relationships further.  
@@ -54,8 +54,7 @@ A very good morning.
 
 10. Tongyu is another great example of how this programme has ignited her interest and allowed her to go further.
   
-    *Educators also play a key role in empowering students to grow their digital proficiencies and thrive in a digital future.*  
-<br>
+    **Educators also play a key role in empowering students to grow their digital proficiencies and thrive in a digital future.**
 
 11. &nbsp;Finally, I want to say that this is a very energizing way to start the day, and I love nothing more than seeing our young people so enthusiastic. I can sense your energy, passion and capability. This gives me a lot of hope, joy, and confidence in our future.&nbsp;  
   
