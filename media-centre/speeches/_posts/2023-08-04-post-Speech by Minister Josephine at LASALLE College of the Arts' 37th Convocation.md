@@ -91,3 +91,5 @@ Ladies and gentlemen,&nbsp;
 27. We are thrilled by the students’ achievements and equally proud that the efforts of LASALLE and your teachers have been outstanding.  
   
 28. As we will also be celebrating National Day soon, let me once again congratulate LASALLE and the class of 2023 for making Singapore a more vibrant and lovely home for all of us! Well done!
+
+[PDF version of the speech](/files/Speeches%202023/speech%20by%20minister%20josephine%20teo%20at%20lasalle%20college%20of%20the%20arts%2037th%20convocation%20on%204%20august%202023.pdf)
