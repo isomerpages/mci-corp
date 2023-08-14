@@ -13,10 +13,10 @@ Good morning.&nbsp;
   
 1. I’m thrilled to be here for the launch of the Trailblazers initiative.&nbsp; This is a timely and exciting partnership between Google, the Ministry for Communications and Information (MCI), the Smart Nation and Digital Government Office (SNDGO), and Digital Industry Singapore (DISG). Thank you for working with us on it.  
   
-    **Harnessing the Transformative Potential of AI**&nbsp;  
+    **Harnessing the Transformative Potential of AI**
 <br>
 
-2. &nbsp;The name ‘Trailblazers’ is an apt one. Not only for the 20 teams from the public and private sectors who are participating in today’s workshop, but for all of us in Singapore who are eager to enter new territories and chart new paths in AI.  
+2. The name ‘Trailblazers’ is an apt one. Not only for the 20 teams from the public and private sectors who are participating in today’s workshop, but for all of us in Singapore who are eager to enter new territories and chart new paths in AI.  
   
 3. &nbsp;AI itself is not such a new technology. It has been around for several decades. For some of the companies that have set up their exhibits here, they have been doing AI in Singapore for well over a decade.  
   
@@ -26,7 +26,7 @@ Good morning.&nbsp;
   
 6. &nbsp;Technology continues to develop at light-speed, with interesting twists and turns. Not so long ago, the Metaverse was all the rage. People could not stop talking about it. More recently, advances in large language models and image diffusion-based models have turned the spotlight on generative AI. These models can not only be deployed as point solutions to raise productivity, but also embedded deep within our business models and tech stacks, delivering new kinds of value for consumers and citizens. With generative AI as a new beachhead, I think we will see very exciting developments in customer operations, marketing and sales, software engineering, as well as many applications in research and development. This will raise the quality of research because we will be better able to target the pathways that could produce results.&nbsp;  
   
-7. &nbsp;As a result, the transformative potential of AI appears to be much more within reach and for many more people. With the expanding possibilities, the scope to harness AI for public good outcomes – at speed and scale – have multiplied accordingly.&nbsp;  
+7. &nbsp;As a result, the transformative potential of AI appears to be much more within reach and for many more people. With the expanding possibilities, the scope to harness AI for public good outcomes – at speed and scale – have multiplied accordingly. 
   
     **Singapore’s ambitions for AI-driven value creation**
 <br>
