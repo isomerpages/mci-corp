@@ -64,8 +64,7 @@ Ladies and gentlemen,&nbsp;
   
 22. Coincidentally, LASALLE is located within my constituency, Jalan Besar GRC. The ingenuity of LASALLE’s Arts Management students never fails to impress. They organise the ARTWALK festival every year in Little India, bringing to life the stories of the culture and heritage of the district.  
   
-    **Strong Support from MCI and IMDA**  
-<br>
+    **Strong Support from MCI and IMDA** 
 
 23. MCI and IMDA value our artists and creative professionals and are committed to providing them with the relevant support. For instance, IMDA has partnered with LASALLE on several successful collaborations.  
   
