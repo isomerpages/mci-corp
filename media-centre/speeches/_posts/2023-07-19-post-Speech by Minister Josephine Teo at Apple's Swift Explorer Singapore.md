@@ -54,14 +54,14 @@ A very good morning.
 
 10. Tongyu is another great example of how this programme has ignited her interest and allowed her to go further.&nbsp;  
   
-*Educators also play a key role in empowering students to grow their digital proficiencies and thrive in a digital future.*  
+    *Educators also play a key role in empowering students to grow their digital proficiencies and thrive in a digital future.*  
 <br>
 
 11. &nbsp;Finally, I want to say that this is a very energizing way to start the day, and I love nothing more than seeing our young people so enthusiastic. I can sense your energy, passion and capability. This gives me a lot of hope, joy, and confidence in our future.&nbsp;  
   
 12. I want to also take this opportunity to thank your teachers; I see that they have worked very hard to pick up new knowledge and skills so that they can continue to be good mentors and guides to their students; working with your students on projects, in my time, we could only dream about, we could not imagine.  
   
-*Conclusion*  
+    *Conclusion*  
   
 13. Thank you once again for having me. Have a great day. Congratulations to all of you.
 
