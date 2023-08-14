@@ -16,7 +16,7 @@ Students,
   
 A very good morning.  
   
-*Introduction*  
+**Introduction** 
   
 1. I want to start by saying how impressed I am by all the presentations. I loved the fact that technologies are not only being used for entertainment and to bond with your friends, but also be of service to the groups that you are designing the app for.&nbsp;  
   
@@ -60,7 +60,7 @@ A very good morning.
   
 12. I want to also take this opportunity to thank your teachers; I see that they have worked very hard to pick up new knowledge and skills so that they can continue to be good mentors and guides to their students; working with your students on projects, in my time, we could only dream about, we could not imagine.  
   
-    *Conclusion*  
+    **Conclusion**  
   
 13. Thank you once again for having me. Have a great day. Congratulations to all of you.
 
