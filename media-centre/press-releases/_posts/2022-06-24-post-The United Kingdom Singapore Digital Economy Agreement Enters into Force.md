@@ -17,6 +17,12 @@ image: ""
 
 4. Singapore and the UK have also signed three Memoranda of Understanding<sup>1</sup> and exchanged two side-letters<sup>2</sup>, as part of efforts to pursue cooperative projects on forward-looking and emerging issues under the UKSDEA.
 
+[Annex A:Factsheet on the UKSDEA](/files/Press%20Releases%202022/uksdea%20eif%20annex%20a.pdf)
+
+[Annex B: Infographic of the UKSDEA](/files/Press%20Releases%202022/uksdea%20eif%20annex%20b.pdf)
+
+[Annex C: Quotes from the companies on UKSDEA](/files/Press%20Releases%202022/uksdea%20eif%20annex%20c.pdf)
+
 --------------------------------------------------------------------------------------------------------------------------
 <sup>1</sup> These cover Digital Trade Facilitation, Digital Identities and Cyber Security.
 <sup>2</sup> These cover FinTech and Customs Cooperation.
