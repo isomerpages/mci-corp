@@ -16,21 +16,19 @@ image: ""
 
 4. A survey<sup>2</sup> in January 2022 by the Sunlight Alliance for Action (“AfA”)<sup>3</sup> found that almost half of the respondents had personally encountered harmful online content. Another survey<sup>4</sup> in June 2022 by MCI found that respondents were most concerned with harms affecting children, with a high majority (97%) who felt that harmful online content can have at least moderate impact on children and youths. Sexual content, cyberbullying and violent content were the top three types of content that respondents felt the young needed to be protected from most.
 
-5. The proposed measures under the Bill are the result of extensive consultations with various stakeholders including parents, youths, community group representatives, academics and the industry, since June 2022. MCI’s public consultation from July to August 2022, in particular, showed that there was consensus that social media services needed to do more to protect young users from harmful online content. A summary of the feedback received, together with MCI’s response, is available on REACH’s website at <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/feedbackonlinesafety">https://go.gov.sg/feedbackonlinesafety</a>.<br>
-<br>
-<strong>Key Features of the Bill</strong><br>
-<br>
-6.<span style="white-space: pre;">		</span>Globally, as well as locally, there is widespread acceptance that online services have a responsibility to keep their users safe from harm. The Bill therefore proposes to introduce a new part to the Broadcasting Act (“BA”) to regulate <strong>Online Communication Services (“OCSs”)</strong>. These are electronic services that allow users to access or communicate content via the Internet or deliver content to end-users. The scope of the Bill is limited to services accessible by Singapore users which may be provided in, from, or outside Singapore.<br>
-<br>
-7.<span style="white-space: pre;">		</span><strong>Social Media Services (“SMSs”)</strong><sup>5</sup>&nbsp;is a type of OCS which will be specified in a new Schedule under the BA, and be subject to provisions under the new Part.&nbsp;<br>
-<br>
-<em><span style="text-decoration: underline;">A calibrated and tiered regulatory approach</span></em><br>
-<br>
-8.<span style="white-space: pre;">		</span>There are two key parts to our regulatory approach:<br>
-<br>
-<span style="white-space: pre;">		</span>(1)<span style="white-space: pre;">	</span><strong>Requiring OCSs with significant reach or impact to comply with Code(s) of Practice</strong><br>
-<br>
-<span style="white-space: pre;">			</span>•<span style="white-space: pre;">	</span>IMDA may designate OCSs with significant reach or impact in Singapore as <strong>Regulated Online Communication Services</strong><sup>6</sup><strong> (“ROCSs”)</strong>, and require the ROCS providers<sup>7</sup> to comply with <strong>Code(s) of Practice (“COP(s)”)</strong>. The COP(s) may require ROCS providers to put in place measures on their services to mitigate the risks of danger to Singapore users from exposure to harmful content and provide accountability to their users on such measures.&nbsp;<br>
+5. The proposed measures under the Bill are the result of extensive consultations with various stakeholders including parents, youths, community group representatives, academics and the industry, since June 2022. MCI’s public consultation from July to August 2022, in particular, showed that there was consensus that social media services needed to do more to protect young users from harmful online content. A summary of the feedback received, together with MCI’s response, is available on REACH’s website at[https://go.gov.sg/feedbackonlinesafety](https://go.gov.sg/feedbackonlinesafety) 
+
+**Key Features of the Bill**
+
+6. Globally, as well as locally, there is widespread acceptance that online services have a responsibility to keep their users safe from harm. The Bill therefore proposes to introduce a new part to the Broadcasting Act (“BA”) to regulate **Online Communication Services (“OCSs”)**. These are electronic services that allow users to access or communicate content via the Internet or deliver content to end-users. The scope of the Bill is limited to services accessible by Singapore users which may be provided in, from, or outside Singapore.
+
+7. **Social Media Services (“SMSs”)**<sup>5</sup>&nbsp;is a type of OCS which will be specified in a new Schedule under the BA, and be subject to provisions under the new Part.
+
+<span style="text-decoration: underline;">~~~~A calibrated and tiered regulatory approach~~~~</span>
+
+8. There are two key parts to our regulatory approach:
+(1) Requiring OCSs with significant reach or impact to comply with Code(s) of Practice
+		•IMDA may designate OCSs with significant reach or impact in Singapore as <strong>Regulated Online Communication Services</strong><sup>6</sup><strong> (“ROCSs”)</strong>, and require the ROCS providers<sup>7</sup> to comply with <strong>Code(s) of Practice (“COP(s)”)</strong>. The COP(s) may require ROCS providers to put in place measures on their services to mitigate the risks of danger to Singapore users from exposure to harmful content and provide accountability to their users on such measures.&nbsp;<br>
 <br>
 <span style="white-space: pre;">		</span>(2)<span style="white-space: pre;">	</span><strong>Dealing with Egregious Content</strong><sup>8</sup><strong> on an OCS</strong><br>
 <br>
