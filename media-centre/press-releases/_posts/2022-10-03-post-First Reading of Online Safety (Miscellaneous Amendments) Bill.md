@@ -6,17 +6,17 @@ layout: post
 description: ""
 image: ""
 ---
-1.<span style="white-space: pre;">		</span>The Ministry of Communications and Information (MCI) introduced the Online Safety (Miscellaneous Amendments) Bill (“Bill”) for First Reading in Parliament on 3 October 2022 to propose new measures to tackle harmful content on online services accessible to users in Singapore.&nbsp;<br>
-<span> </span><br>
-<strong>Background and Overview</strong><br>
-<br>
-2.<span style="white-space: pre;">		</span>During MCI’s Committee of Supply debate in March 2022, Minister for Communications and Information Josephine Teo announced that the Government will introduce measures to improve online safety for users in Singapore, combat harmful content on online services accessible to users in Singapore, and empower users with information and tools to protect themselves from content which is harmful or detrimental to their wellbeing.<br>
-<br>
-3.<span style="white-space: pre;">		</span>Tackling harmful online content is a global issue<sup>1</sup>. While some online services have made efforts to address harmful content, the prevalence of harmful online content remains a concern, given the high level of digital penetration and pervasive usage of online services among Singapore users, including children.&nbsp;<br>
-<br>
-4.<span style="white-space: pre;">		</span>A survey<sup>2</sup> in January 2022 by the Sunlight Alliance for Action (“AfA”)<sup>3</sup> found that almost half of the respondents had personally encountered harmful online content. Another survey<sup>4</sup> in June 2022 by MCI found that respondents were most concerned with harms affecting children, with a high majority (97%) who felt that harmful online content can have at least moderate impact on children and youths. Sexual content, cyberbullying and violent content were the top three types of content that respondents felt the young needed to be protected from most.&nbsp;<br>
-<br>
-5.<span style="white-space: pre;">		</span>The proposed measures under the Bill are the result of extensive consultations with various stakeholders including parents, youths, community group representatives, academics and the industry, since June 2022. MCI’s public consultation from July to August 2022, in particular, showed that there was consensus that social media services needed to do more to protect young users from harmful online content. A summary of the feedback received, together with MCI’s response, is available on REACH’s website at <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/feedbackonlinesafety">https://go.gov.sg/feedbackonlinesafety</a>.<br>
+1. The Ministry of Communications and Information (MCI) introduced the Online Safety (Miscellaneous Amendments) Bill (“Bill”) for First Reading in Parliament on 3 October 2022 to propose new measures to tackle harmful content on online services accessible to users in Singapore.
+
+**Background and Overview**
+
+2. During MCI’s Committee of Supply debate in March 2022, Minister for Communications and Information Josephine Teo announced that the Government will introduce measures to improve online safety for users in Singapore, combat harmful content on online services accessible to users in Singapore, and empower users with information and tools to protect themselves from content which is harmful or detrimental to their wellbeing.
+
+3. Tackling harmful online content is a global issue<sup>1</sup>. While some online services have made efforts to address harmful content, the prevalence of harmful online content remains a concern, given the high level of digital penetration and pervasive usage of online services among Singapore users, including children.
+
+4. A survey<sup>2</sup> in January 2022 by the Sunlight Alliance for Action (“AfA”)<sup>3</sup> found that almost half of the respondents had personally encountered harmful online content. Another survey<sup>4</sup> in June 2022 by MCI found that respondents were most concerned with harms affecting children, with a high majority (97%) who felt that harmful online content can have at least moderate impact on children and youths. Sexual content, cyberbullying and violent content were the top three types of content that respondents felt the young needed to be protected from most.
+
+5. The proposed measures under the Bill are the result of extensive consultations with various stakeholders including parents, youths, community group representatives, academics and the industry, since June 2022. MCI’s public consultation from July to August 2022, in particular, showed that there was consensus that social media services needed to do more to protect young users from harmful online content. A summary of the feedback received, together with MCI’s response, is available on REACH’s website at <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/feedbackonlinesafety">https://go.gov.sg/feedbackonlinesafety</a>.<br>
 <br>
 <strong>Key Features of the Bill</strong><br>
 <br>
