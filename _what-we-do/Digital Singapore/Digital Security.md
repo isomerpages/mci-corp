@@ -55,4 +55,4 @@ Digital Defence is one of the six pillars of Total Defence.
 
 Total Defence is a recognition that every individual has a role to play in defending Singapore and keeping Singapore strong.  
   
-For more information on other pillars of Total Defence, visit [www.totaldefence.sg](www.totaldefence.sg).
+For more information on other pillars of Total Defence, visit [www.totaldefence.sg](http://www.totaldefence.sg).
