@@ -10,9 +10,9 @@ sections:
   - hero:
       url: who-we-are/about-us/our-purpose/
       key_highlights:
-        - title: Digital singapore
+        - title: Digital Singapore
           description: What we do
-          url: /what-we-do/digital-singapore/digita-economy/
+          url: /what-we-do/digital-singapore/digital-economy//digita-economy/
         - title: News
           description: Speeches & Press Releases
           url: /media-centre
