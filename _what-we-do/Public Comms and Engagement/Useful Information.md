@@ -45,7 +45,7 @@ Media personnel working in Singapore may apply for a press accreditation card (P
 * MCI does not accredit media personnel from specialised publications  
 * Contract staff, temporary staff, interns and freelancers are not eligible to apply for a PAC
 
-To apply for Media Organisation Accreditation or a PAC, please visit the [PAC Online website](http://www.mci.gov.sg/paconline). For enquiries on press accreditation, email: [MCI_PAC_Online@mci.gov.sg](mailto:MCI_PAC_Online@mci.gov.sg).
+To apply for Media Organisation Accreditation or a PAC, please visit the [PAC Online website](http://www.paconline.mci.gov.sg). For enquiries on press accreditation, email: [MCI_PAC_Online@mci.gov.sg](mailto:MCI_PAC_Online@mci.gov.sg).
 
 ### MCI Duty Desk
 
