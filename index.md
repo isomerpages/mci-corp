@@ -16,7 +16,7 @@ sections:
         - title: News
           description: Speeches & Press Releases
           url: /media-centre
-        - title: careers
+        - title: Careers
           description: Join the MCI Family
           url: /join-us/careers/why-join-mci/
         - title: Committee of Supply
