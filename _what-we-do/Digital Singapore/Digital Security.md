@@ -4,13 +4,11 @@ permalink: /what-we-do/digital-singapore/digital-security/
 description: ""
 third_nav_title: Digital Singapore
 ---
-## Building a resilient and trusted cyber environment
+## Building a safe, secure, resilient and trusted digital environment
 
-Singapore’s Cybersecurity Strategy aims to build a trusted cyber environment, to realise the benefits of technology and secure a better future for Singaporeans. The Ministry of Communications and Information (MCI) and the Cyber Security Agency (CSA) work with government agencies and private organisations to build resilient infrastructure, create a safer cyberspace, develop a vibrant cyber ecosystem and strengthen international partnerships.
+The digital future offers unprecedented opportunities for Singapore’s economy and society. In the digital world, we are not constrained by geography or the scale of market size. The borderless nature of the digital domain means that a variety of risks can come from anywhere. These risks can undermine the security and resiliency of our digital ecosystem or the safety of our digital citizens and companies.
 
-## Personal Data Protection
-
-The Ministry of Communications and Information, through the Personal Data Protection Commission (PDPC) in the Infocomm Media Development Authority (IMDA), oversees and crafts policies to strengthen Singapore’s personal data protection regime. It aims to raise awareness of the importance of data protection among Singaporeans and assist businesses in building up their data protection capacity.
+The Ministry of Communications and Information (MCI) work with government agencies, industry, and international partners to build a safe, secure, resilient and trusted digital space for our citizens and businesses.
 
 ## Digital Defence
 
