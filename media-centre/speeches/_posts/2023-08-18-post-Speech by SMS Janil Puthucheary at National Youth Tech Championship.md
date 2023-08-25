@@ -60,3 +60,5 @@ Principals, teachers and students,
 24. All of us see the benefit of this type of industry-education alliance to support the aspirations of our young people. And please do come on board as part of our Digital for Life movement to use technology as a force for good and bring all of Singapore and Singaporeans along this journey with you.  
   
 25. Congratulations to all the teams. I hope you’ve enjoyed yourself and I hope you’ve developed a lifelong passion for technology. I encourage you to continue honing your digital skills and build a better, brighter digital future for Singapore. Thank you all very much.
+
+[PDF version of the speech](/files/Speeches%202023/speech%20by%20sms%20janil%20at%20national%20youth%20tech%20championship%20on%2018%20aug%2023%20.pdf)
