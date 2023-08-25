@@ -11,7 +11,7 @@ Mr Lew Chuen Hong, Chief Executive, Infocomm Media Development Authority
 Colleagues, parents,   
 Principals, teachers and students,  
   
-1.  Good afternoon. I am very pleased to join you for the inaugural National Youth Tech Championship (NYTC).  
+1. Good afternoon. I am very pleased to join you for the inaugural National Youth Tech Championship (NYTC).  
   
 2. Technology is very much a part of our lives. We are pushing the boundaries and doing more and more.   
   
