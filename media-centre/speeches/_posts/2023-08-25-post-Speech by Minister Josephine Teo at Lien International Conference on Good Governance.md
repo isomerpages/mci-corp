@@ -64,10 +64,9 @@ Distinguished guests, ladies and gentlemen 
   
     **Aims of Digital Governance**   
   
-23. Governments have differing priorities. For Singapore, three key objectives drive our approach to digital governance for the common good – expanding opportunities, ensuring trust and safety, and strengthening community.    
-   
-    **Opportunity**   
-   
+23. Governments have differing priorities. For Singapore, three key objectives drive our approach to digital governance for the common good – expanding opportunities, ensuring trust and safety, and strengthening community.
+
+    **Opportunity**
 24. We want our citizens to live better and more prosperous lives and have the assurance of a promising future. To help achieve these goals, we need the digital economy to generate opportunities for our people and businesses. This is easier said than done.
 
 25. First, technology diffusion has tended to be slow and uneven.  A few frontier firms benefit quickly and enormously, while many others languish. Hence, we need to ask ourselves – how can we equip more firms and their workers to benefit from digitalisation?
