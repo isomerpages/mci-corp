@@ -67,7 +67,7 @@ Colleagues 
    
 27. So, on that note, congratulations once again to all our scholars and your proud parents. Thank you!  
 
-
+[PDF version of the speech.](/files/Speeches%202023/speech%20by%20minister%20josephine%20teo%20at%20joint%20scholarship%20ceremony%202023%20(21%20aug).pdf)
 
 ------------------------------------------------------------------------------------
 [^1]: Speech by Mr Lee Kuan Yew at the Asian Media Conference, Los Angeles, 29 Oct 1998  
