@@ -9,7 +9,7 @@ image: ""
 Distinguished guests  
 Ladies and gentlemen  
   
-**Introduction ** 
+**Introduction** 
   
 1. Good morning. I am happy to be here at CISO Singapore 2023.  
   
@@ -100,4 +100,3 @@ Ladies and gentlemen
 23. I wish everyone a fruitful time at the event. Thank you.
 
 [PDF version of the speech.](/files/Speeches%202023/opening%20keynote%20speech%20by%20sms%20tan%20kiat%20how%20at%20ciso%20singapore%20on%2022%20august%202023.pdf)
-
