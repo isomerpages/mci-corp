@@ -152,8 +152,7 @@ Gensler) has warned that AI would be the “centre of future financial crises”
   
 56. The global reach of digital technologies means no country can hope to succeed in governing all of them on their own. Instead of decoupling, we should be seeking greater interoperability.     
   
-57. This is why Singapore is one of the first countries in the world to enter into bilateral digital economy agreements, first with Australia and later with the UK. Together with New Zealand and Chile, we founded the multi-lateral Digital   
-Economy Partnership Agreement (DEPA). Since DEPA’s launch, countries like South Korea, Canada and China have applied to come on board.   
+57. This is why Singapore is one of the first countries in the world to enter into bilateral digital economy agreements, first with Australia and later with the UK. Together with New Zealand and Chile, we founded the multi-lateral Digital Economy Partnership Agreement (DEPA). Since DEPA’s launch, countries like South Korea, Canada and China have applied to come on board.   
   
 58. At a regional level, Singapore cooperates closely with ASEAN member states, for example to establish norms for seamless and secure cross-border data flows.    
 We were one of the first countries to sign up for the APEC Cross Border Privacy Rules (CBPR) and subsequently the Global CBPR initiatives.    
