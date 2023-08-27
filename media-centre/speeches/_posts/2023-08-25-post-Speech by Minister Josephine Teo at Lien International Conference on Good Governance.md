@@ -54,8 +54,7 @@ Distinguished guests, ladies and gentlemen 
   
 18. Over in the US, the White House recently secured the voluntary commitments of seven leading companies to mitigate the risks of AI. These commitments signal a promising shift towards Big Tech companies assuming greater responsibility for their products and services.  However, some observers say the commitments lack concrete enforcing mechanisms to hold companies accountable for their promises.    
   
-19. In the meantime, the US Security and Exchange Commission (Chair Gary   
-Gensler) has warned that AI would be the “centre of future financial crises”.  This follows an advisory in May issued by the US Surgeon-General (Vivek Murthy) declaring “a national youth mental health crisis” largely driven by social media.   
+19. In the meantime, the US Security and Exchange Commission (Chair Gary Gensler) has warned that AI would be the “centre of future financial crises”.  This follows an advisory in May issued by the US Surgeon-General (Vivek Murthy) declaring “a national youth mental health crisis” largely driven by social media.   
   
 20. Across the board, governing in a digital age has proven to be trickier than expected. Even if well-intentioned policies and programmes are developed, implementing them carries considerable risk. Just last month, Japanese Prime Minister Kishida had to apologise for technical and administrative errors arising from the newly implemented national identification card system known as ‘My Number’.    
   
@@ -69,10 +68,10 @@ Gensler) has warned that AI would be the “centre of future financial crises”
    
     **Opportunity**   
    
-24. We want our citizens to live better and more prosperous lives and have the assurance of a promising future. To help achieve these goals, we need the digital economy to generate opportunities for our people and businesses. This is easier said than done.    
-   
-25. First, technology diffusion has tended to be slow and uneven.  A few frontier firms benefit quickly and enormously, while many others languish. Hence, we need to ask ourselves – how can we equip more firms and their workers to benefit from digitalisation?    
-   
+24. We want our citizens to live better and more prosperous lives and have the assurance of a promising future. To help achieve these goals, we need the digital economy to generate opportunities for our people and businesses. This is easier said than done.
+
+25. First, technology diffusion has tended to be slow and uneven.  A few frontier firms benefit quickly and enormously, while many others languish. Hence, we need to ask ourselves – how can we equip more firms and their workers to benefit from digitalisation?
+
 26. Second, many workers experience increased anxieties over job security. Unlike previous waves of automation, the accelerated development of AI tools is expected to displace more white-collar and knowledge-workers. The jobs that may disappear aren’t bad at all. How do we create new and better jobs, and equip our citizens for them?    
    
     **Trust & Safety**    
@@ -225,6 +224,5 @@ Gensler) has warned that AI would be the “centre of future financial crises”
   
 [^1]: Speech by Mr Lee Kuan Yew, when he opened Trade Union House and Singapore Conference Hall at Shenton Way on 15 Oct 1965   
 [^2]: Matt Sheehan. 10 July 2023. Carnegie Endowment for International Peace. China’s AI Regulations and How They Get Made.    
-[^3]: This refers to the value generated from investments and spending in digital technologies across all other non-I&C sectors of the economy.  
-This includes firms outside the I&C sector that invest in digital technologies to better reach customers, optimize business processes, improve productivity, as well as for product and service innovation.   
+[^3]: This refers to the value generated from investments and spending in digital technologies across all other non-I&C sectors of the economy. This includes firms outside the I&C sector that invest in digital technologies to better reach customers, optimize business processes, improve productivity, as well as for product and service innovation.  
 [^4]: Among SMEs, the technology adoption rate (% of firms adopting at least one digital tool) grew from 74% in 2018 to 94% in 2022. For non-SMEs, the technology adoption rate in 2022 was 100%.  Source: IMDA
