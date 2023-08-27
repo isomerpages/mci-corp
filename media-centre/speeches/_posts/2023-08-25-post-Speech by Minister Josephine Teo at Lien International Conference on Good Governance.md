@@ -142,13 +142,13 @@ Gensler) has warned that AI would be the “centre of future financial crises”
   
 53. In all the strategies I have described above, it is important that the Government does not act alone.  The private and people sectors can and should be encouraged to do their part.   
   
-54. Partnerships for Inclusion:  
-For example, to promote digital inclusion for the most vulnerable, telcos have offered free data plans while tech companies have supported social service agencies to design useful devices for the frail elderly. They do this under the aegis of the nationwide Digital for Life (DfL) movement, where the spirit of gotong-royong has come alive again in our cyber domain.    
+54. *Partnerships for Inclusion*:  
+    For example, to promote digital inclusion for the most vulnerable, telcos have offered free data plans while tech companies have supported social service agencies to design useful devices for the frail elderly. They do this under the aegis of the nationwide Digital for Life (DfL) movement, where the spirit of gotong-royong has come alive again in our cyber domain.    
   
-55. Partnerships for Knowledge-building:    
-In the area of AI governance, the government works closely with industry partners and the research community, to advance understanding and promote sound principles for responsible AI deployment. This is how we have built on the Model AI Governance Framework to develop a software testing and evaluation toolkit known as AI Verify. Earlier this year, we decided to open source AI Verify and set up a Foundation with members including Temasek, IBM, Microsoft and Google, to steer its development.   
-  
-   **International Cooperation**   
+55. *Partnerships for Knowledge-building*:    
+    In the area of AI governance, the government works closely with industry partners and the research community, to advance understanding and promote sound principles for responsible AI deployment. This is how we have built on the Model AI Governance Framework to develop a software testing and evaluation toolkit known as AI Verify. Earlier this year, we decided to open source AI Verify and set up a Foundation with members including Temasek, IBM, Microsoft and Google, to steer its development.	
+		
+    **International Cooperation**   
   
 56. The global reach of digital technologies means no country can hope to succeed in governing all of them on their own. Instead of decoupling, we should be seeking greater interoperability.     
   
