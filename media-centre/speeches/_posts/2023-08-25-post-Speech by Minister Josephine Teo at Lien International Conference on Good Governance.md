@@ -61,7 +61,7 @@ Gensler) has warned that AI would be the “centre of future financial crises”
   
 21. The events I mentioned are therefore only a sampling of the challenges of digital governance. We have not even discussed the lawsuits that have been mounted on privacy as well as discrimination concerns.   
   
-22. Despite these difficulties, a responsible government cannot be frozen into inaction.  But to govern digital for the common good, we must first be clear about our aims.    
+22. Despite these difficulties, a responsible government cannot be frozen into inaction.  But to govern digital for the common good, we must first be clear about our aims.
   
     **Aims of Digital Governance**   
   
@@ -187,7 +187,6 @@ We were one of the first countries to sign up for the APEC Cross Border Privacy 
     **Capability (3): Becoming Data-Driven**   
   
 69. Increasingly, digital governance must be data-driven.     
-  
 70. Without good data, we can only rely on our impressions and limited interactions to guess the problems, why they exist and what we can do about them.  Given how much of digital is about the movement of bits and bytes, the lack of good quality and internationally comparable data for policy-making in digital is both ironic and unsatisfactory.     
   
 71. For example, there is no standard measure of the digital economy.  How does one treat influencer marketing, telehealth consultations, 5G-enabled manufacturing, e-transactions in financial services, retail and entertainment spending that have shifted online? Countries can therefore make outlandish claims about how big their digital economies are. It all depends on what they include.    
