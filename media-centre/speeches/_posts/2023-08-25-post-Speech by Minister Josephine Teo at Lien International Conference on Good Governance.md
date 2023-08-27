@@ -26,7 +26,7 @@ Distinguished guests, ladies and gentlemen 
   
 5. But it does not mean there are no difficult trade-offs. Sometimes, when these cannot be avoided, we have to proceed while finding ways to mitigate the impact on specific groups of citizens. The alternative could be endless hand-wringing or gridlock, which is usually bad news, and in Singapore’s case, a recipe for failure.     
   
-6. At the birth of our nation, our founding Prime Minister Mr Lee Kuan Yew already warned, "Either we learn to think in terms of the national interest, instead of sectional interests, or we are in trouble ”. This reminder bears repeating as we mark the 100th anniversary of his birth.   
+6. At the birth of our nation, our founding Prime Minister Mr Lee Kuan Yew already warned, "Either we learn to think in terms of the national interest, instead of sectional interests, or we are in trouble[^1] ”. This reminder bears repeating as we mark the 100th anniversary of his birth.   
   
 7. The challenges of good governance are no less acute in the digital age, which is the focus of the rest of my speech. There are very few tried and tested formulas of good digital governance.     
   
@@ -48,7 +48,7 @@ Distinguished guests, ladies and gentlemen 
   
 15. In the rapidly developing area of AI technologies, countries are compelled to move quickly while it is still unclear what the best approaches are.  Even with its AI Act, the EU acknowledges it had not expected the sudden surge of capabilities in Generative AI, as seen through the likes of ChatGPT.    
   
-16. Further to the east, China has pioneered regulations on publicly available generative AI models to prevent the generation of false and harmful information. The Carnegie Endowment for International Peace described China’s regulatory approach as “vertical and iterative”.     
+16. Further to the east, China has pioneered regulations on publicly available generative AI models to prevent the generation of false and harmful information. The Carnegie Endowment for International Peace described China’s regulatory approach as “vertical and iterative”[^2].     
   
 17. China’s regulations are vertical in that they focus on specific applications of the technology, and iterative because new regulations will be introduced to address gaps or expand the scope of existing regulations. However, until the various regulations come together to create a “comprehensive, horizontal piece of legislation” on AI, it is possible that Chinese businesses may experience “confusion” in complying with the different pieces of regulation.    
   
@@ -148,7 +148,7 @@ For example, to promote digital inclusion for the most vulnerable, telcos have o
 55. Partnerships for Knowledge-building:    
 In the area of AI governance, the government works closely with industry partners and the research community, to advance understanding and promote sound principles for responsible AI deployment. This is how we have built on the Model AI Governance Framework to develop a software testing and evaluation toolkit known as AI Verify. Earlier this year, we decided to open source AI Verify and set up a Foundation with members including Temasek, IBM, Microsoft and Google, to steer its development.   
   
-    **International Cooperation**   
+   **International Cooperation**   
   
 56. The global reach of digital technologies means no country can hope to succeed in governing all of them on their own. Instead of decoupling, we should be seeking greater interoperability.     
   
@@ -192,7 +192,7 @@ We were one of the first countries to sign up for the APEC Cross Border Privacy 
   
 71. For example, there is no standard measure of the digital economy.  How does one treat influencer marketing, telehealth consultations, 5G-enabled manufacturing, e-transactions in financial services, retail and entertainment spending that have shifted online? Countries can therefore make outlandish claims about how big their digital economies are. It all depends on what they include.    
   
-72. As a result, we cannot really analyse the factors that have contributed to the growth of the digital economy and compare them across countries as a way of informing our own considerations.  Neither can we easily identify the gaps and take steps to close them for the common good.   
+72. As a result, we cannot really analyse the factors that have contributed to the growth of the digital economy and compare them across countries as a way of informing our own considerations.  Neither can we easily identify the gaps and take steps to close them for the common good.
   
 73. At a more fundamental level, there is also no unified approach to collecting new data that would shed light on digitally-enabled activities.  For example, no one can say how much cross-border data flows there really are, and whether our international cooperation mechanisms have been helpful.    
   
@@ -204,9 +204,9 @@ We were one of the first countries to sign up for the APEC Cross Border Privacy 
   
 77. The Information and Communications sector was the fastest growing sector between 2017 and 2022. It was the key driver of our digital expansion and engine of growth for the economy.    
   
-78. The value added in other sectors  that is directly attributable to investments in digital technology, has also registered rapid growth over the same period, outpacing the rest of the economy.    
+78. The value added in other sectors[^3] that is directly attributable to investments in digital technology, has also registered rapid growth over the same period, outpacing the rest of the economy.    
   
-79. Expectedly, SMEs still lag behind larger companies in technology adoption. It is however encouraging that 94%  of SMEs had adopted at least one digital solution in 2022, compared to 74% in 2018.  A 20%-point improvement over five years is quite commendable, especially when the base was already quite high.    
+79. Expectedly, SMEs still lag behind larger companies in technology adoption. It is however encouraging that 94%[^4]  of SMEs had adopted at least one digital solution in 2022, compared to 74% in 2018.  A 20%-point improvement over five years is quite commendable, especially when the base was already quite high.    
   
 80. This report is again a “minimum viable product”. We are committed to learn more about the different dimensions of the digital economy and to capture their contributions more comprehensively over time.   
     
@@ -230,5 +230,4 @@ We were one of the first countries to sign up for the APEC Cross Border Privacy 
 [^2]: Matt Sheehan. 10 July 2023. Carnegie Endowment for International Peace. China’s AI Regulations and How They Get Made.    
 [^3]: This refers to the value generated from investments and spending in digital technologies across all other non-I&C sectors of the economy.  
 This includes firms outside the I&C sector that invest in digital technologies to better reach customers, optimize business processes, improve productivity, as well as for product and service innovation.   
-[^4]: Among SMEs, the technology adoption rate (% of firms adopting at least one digital tool) grew from 74% in 2018 to 94% in 2022. For non-SMEs, the technology adoption rate in 2022 was 100%.  Source: IMDA 
-
+[^4]: Among SMEs, the technology adoption rate (% of firms adopting at least one digital tool) grew from 74% in 2018 to 94% in 2022. For non-SMEs, the technology adoption rate in 2022 was 100%.  Source: IMDA
