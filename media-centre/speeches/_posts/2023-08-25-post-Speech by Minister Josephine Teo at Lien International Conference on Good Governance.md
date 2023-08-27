@@ -154,8 +154,7 @@ Gensler) has warned that AI would be the “centre of future financial crises”
   
 57. This is why Singapore is one of the first countries in the world to enter into bilateral digital economy agreements, first with Australia and later with the UK. Together with New Zealand and Chile, we founded the multi-lateral Digital Economy Partnership Agreement (DEPA). Since DEPA’s launch, countries like South Korea, Canada and China have applied to come on board.   
   
-58. At a regional level, Singapore cooperates closely with ASEAN member states, for example to establish norms for seamless and secure cross-border data flows.    
-We were one of the first countries to sign up for the APEC Cross Border Privacy Rules (CBPR) and subsequently the Global CBPR initiatives.    
+58. At a regional level, Singapore cooperates closely with ASEAN member states, for example to establish norms for seamless and secure cross-border data flows. We were one of the first countries to sign up for the APEC Cross Border Privacy Rules (CBPR) and subsequently the Global CBPR initiatives.    
   
 59. We also help to lead some of the workstreams in the International Counter Ransomware Initiative which involves over 40 countries. At the UN, Singapore’s Permanent Representative chairs the Open-Ended Working Group for ICT Security. More recently, we convened the Digital Forum of Small States, and have committed to do more to support capacity building.     
   
