@@ -23,7 +23,7 @@ image: ""
 
     iii. For businesses: Initiatives like the Small and Medium Enterprises (SMEs) Go Digital program aid SMEs in their digitalization journey, offering both foundational solutions and advanced digital tools to enhance capabilities and competitiveness.
 
-3. Please see the full transcripts of Minister Teo’s interventions on the three priority areas above [here](https://www.mci.gov.sg/-/media/MciCorp/Doc/Pressroom/Minister-Josephine-Teos-interventions-at-G20-DEMM.ashx).
+3. Please see the full transcripts of Minister Teo’s interventions on the three priority areas above [here](/files/Press%20Releases%202023/minister%20josephine%20teos%20interventions%20at%20g20%20demm%20(1).pdf).
 
     **Celebrating Singapore Start-Ups**
 
