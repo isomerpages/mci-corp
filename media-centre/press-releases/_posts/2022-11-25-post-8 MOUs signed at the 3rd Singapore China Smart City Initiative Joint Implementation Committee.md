@@ -27,6 +27,9 @@ The 14 new joint projects reflect the transformative role of digital technologie
 
 To date, a total of 29 projects have been initiated and 20 MOUs have been signed under SCI. This strong momentum in SCI collaboration is a testament to Singapore’s and Shenzhen’s leading role in digital economy development, and the potential for SCI’s innovative projects to be scaled to more cities in Southeast Asia and the Greater Bay Area.
 
+[Annex A-List of MOUs signed at 3rd SCI JCI meeting](/files/Press%20Releases%202022/annex%20a%203rd%20sci%20jic%20meeting.pdf)
+[Annex B-List of Phase 3 new projects launched at the 3rd SCI JIC Meeting](/files/Press%20Releases%202022/annex%20b%203rd%20sci%20jic%20meeting.pdf)
+
 
 \--------------------------------------------------------------------------------------------------------------------------  
 
