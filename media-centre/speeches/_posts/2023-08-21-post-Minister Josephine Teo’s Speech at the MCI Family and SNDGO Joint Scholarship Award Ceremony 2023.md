@@ -49,7 +49,7 @@ Colleagues 
    
 19. Another challenge for MCI is the fast-evolving media landscape, where opinions can be polarized and divisive on issues relating to race, religion and LGBTQ. In the year of our independence, Mr Lee already warned "Either we learn to think in terms of the national interest, instead of sectional interest, or we are in trouble.[^4]”    
    
-20. Our Information Service Scholars like **Abdul Mateen** and **Faith Ng** will need to apply creativity and harness the power of media for nation building, to help Singapore navigate complex times, strengthen trust between Singaporeans and stay united when society comes under pressure, as we did during the COVID-19 pandemic.   
+20. Our Information Service Scholars like **Abdul Mateen** and **Faith Ngien** will need to apply creativity and harness the power of media for nation building, to help Singapore navigate complex times, strengthen trust between Singaporeans and stay united when society comes under pressure, as we did during the COVID-19 pandemic.   
    
 21. Keep in mind what Mr Lee said that “without a clear enunciation of government positions and policies and the reasons for them, it is not possible to rally people around common goals[^5].”    
    
@@ -67,7 +67,7 @@ Colleagues 
    
 27. So, on that note, congratulations once again to all our scholars and your proud parents. Thank you!  
 
-[PDF version of the speech.](/files/Speeches%202023/speech%20by%20minister%20josephine%20teo%20at%20joint%20scholarship%20ceremony%202023%20(21%20aug).pdf)
+[PDF version of the speech.](/files/Speeches%202023/transcript%20of%20speech%20by%20minister%20josephine%20teo%20at%20joint%20scholarship%20award%202023%20v2.pdf)
 
 ------------------------------------------------------------------------------------
 [^1]: Speech by Mr Lee Kuan Yew at the Asian Media Conference, Los Angeles, 29 Oct 1998  
