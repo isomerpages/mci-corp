@@ -126,3 +126,6 @@ Ladies and Gentlemen, 
 2 Singapore’s DEAs (and partners) include the: Digital Economy Partnership Agreement (with Chile, New Zealand) (signed), Singapore-Australia Digital Economy Agreement (signed), UK-Singapore Digital Economy Agreement (signed) and the Korea-Singapore Digital Partnership Agreement (concluded/pending signing). 
 
 3 Deloitte, _From the Basement to the Cloud – “The role of the CIO over our decades”_.
+
+[PDF version of the speech](/files/Speeches%202022/speech%20by%20sms%20tan%20kiat%20how%20at%20accenture%20itma%2035th%20cio%20workshop.pdf)
+
