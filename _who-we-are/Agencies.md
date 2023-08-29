@@ -3,8 +3,6 @@ title: Agencies
 permalink: /who-we-are/agencies/
 description: ""
 ---
-(PREAMBLE)
-
 ### Cyber Security Agency of Singapore
 <img style="height:150px; width:400px;" src="/images/Logos/csa%20logo%20-%20color%20(june2015).jpg">
 
