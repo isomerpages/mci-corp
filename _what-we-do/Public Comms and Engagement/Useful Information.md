@@ -8,7 +8,7 @@ third_nav_title: Public Comms and Engagement
 
 ### Establishing a news bureau
 
-Media organisations that wish to set up a news bureau in Singapore have to apply to the Ministry of Communications and Information (MCI) for approval. To do so, please email MCI’s Media Division ([mci_duty_officer@mci.gov.sg])(mailto:mci_duty_officer@mci.gov.sg) with the following information:
+Media organisations that wish to set up a news bureau in Singapore have to apply to the Ministry of Communications and Information (MCI) for approval. To do so, please email MCI’s Media Division [mci_duty_officer@mci.gov.sg](mailto:mci_duty_officer@mci.gov.sg) with the following information:
 
 * Letter of request from the media organisation, printed on its letterhead  
 * Background information of the media organisation  

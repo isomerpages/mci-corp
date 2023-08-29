@@ -3,8 +3,6 @@ title: Agencies
 permalink: /who-we-are/agencies/
 description: ""
 ---
-(PREAMBLE)
-
 ### Cyber Security Agency of Singapore
 <img style="height:150px; width:400px;" src="/images/Logos/csa%20logo%20-%20color%20(june2015).jpg">
 
@@ -12,7 +10,7 @@ The Cyber Security Agency of Singapore (CSA) is the national body overseeing cyb
 
 [GO TO WEBSITE](http://www.csa.gov.sg/)
 
-###   Infocomm Media Development Authority
+### Infocomm Media Development Authority
 <img style="height:103px; width:400px;" src="/images/Logos/imda_logo_colour.png">
 
 The Infocomm Media Development Authority (IMDA) was officially formed on 1 October 2016, with the restructuring of the Media Development Authority (MDA) and Infocomm Development Authority (IDA).  
