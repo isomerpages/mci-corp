@@ -8,7 +8,7 @@ The MCI Internship Programme welcomes students from tertiary institutions to joi
 
 Get hands-on experience working on exciting internship projects ranging from digital policy work to Whole-of-Government communications and citizen feedback! You will have the opportunity to:  
   
-* Be exposed to MCI’s exciting and diverse portfolios in in a fast-paced environment  
+* Be exposed to MCI’s exciting and diverse portfolios in a fast-paced environment  
 * Connect and learn under the guidance of dedicated line managers and fellow colleagues  
 * Present your project findings and learnings to senior leaders at the end of your internship  
 * Build valuable networks and gain practical skills and experience for your continuous development  
