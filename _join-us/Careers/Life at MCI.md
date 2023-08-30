@@ -20,7 +20,7 @@ At MCI, our work enables Singaporeans to work, live and thrive in a better futur
 
 ## How We Work
 
-At MCI, we care for our people and have adopted hybrid work arrangements to provide employees with felxibility to manage their work-life priorities while synergising the benefits of remote and oonsite work. 
+At MCI, we care for our people and have adopted hybrid work arrangements to provide employees with flexibility to manage their work-life priorities while synergising the benefits of remote and onsite work. 
 
 We value teamwork and collaboration, and our office spaces are designed to help us connect and collaborate together to achieve work outcomes.
 

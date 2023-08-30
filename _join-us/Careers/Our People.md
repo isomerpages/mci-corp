@@ -12,7 +12,7 @@ third_nav_title: Careers
 
 **Meet Foong Wai Lumn, Deputy Director, Digital Strategy Office, MCI**
 
-**Hi Wei Lumn! Tell us more about your work as a Deputy Director in the Digital Strategy Office team.**
+**Hi Wai Lumn! Tell us more about your work as a Deputy Director in the Digital Strategy Office team.**
 
 The Digital Strategy Office paves the way for Singapore’s digital future. We plug ourselves into up-and-coming spaces like Web3, blockchain technology, the Metaverse, etc. With that, we must consider what is required (for Singapore) to thrive in this digital era, and the harms we must safeguard against.
 
@@ -40,7 +40,7 @@ At the Translation Department (TD), Amirah and her team provides translation ser
 
 We spoke with Amirah to find out more about her personal #LifeatMCI experience.
 
-**Hi Siti! Tell us more about your work in the Translation Department.**
+**Hi Amirah! Tell us more about your work in the Translation Department.**
 
 TD translates a range of Government communications from Gov.sg WhatsApp messages to ministerial speeches. We also collaborate with community partners and stakeholders including local educational institutions, language and cultural groups, and the Institute for Infocomm Research. This challenges us to go beyond just translation work, but also undertake projects to raise translation and language standards in Singapore.
 

@@ -22,8 +22,6 @@ Mid-Term Scholarship Applicants must also:
 
 * Possess good university academic results and are expected to attain at least a Honours (Distinction) degree or equivalent
 
-* Scholarship Applications
-
 ### Scholarship Applications
 
 All applications are to be submitted via the PSC Gateway (please indicate ‘Information Service’ as your first choice of service). For more information on application deadlines and process, please visit the [PSC Gateway](https://www.psc.gov.sg/scholarships/undergraduate-scholarships/psc-scholarships?q=apply) website.
