@@ -14,7 +14,7 @@ Officers may be appointed on one of the following schemes of service:
 
 As the government’s communications specialists, Information Officers play an important role in the entire value chain of governance from the formulation of policy, to its communication and delivery to the public, and the management of consequences arising from its implementation.
 
-#### 2.     Langauge Executive
+#### 2.     Language Executive
 
 Language Executives provide translation services to support the Government’s public communications efforts.
 
@@ -26,7 +26,7 @@ Management Executives are involved in a myriad of key functions, including polic
 
 #### Apply
 
-View our available job vacancies at Careers@Gov. Submit your application directly if there are any roles that interest you. We will get in touch with you within two weeks if you are shortlisted for the role.
+View our available job vacancies at [Careers@Gov](https://www.careers.gov.sg/). Submit your application directly if there are any roles that interest you. We will get in touch with you within two weeks if you are shortlisted for the role.
 
 #### Interview
 
