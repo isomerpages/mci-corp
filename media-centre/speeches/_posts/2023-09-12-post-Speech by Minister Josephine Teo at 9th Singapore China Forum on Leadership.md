@@ -7,7 +7,7 @@ description: ""
 image: ""
 ---
 **“Evolving Governance in a Modern World”
-(现代化进程中的领导力建设)**
+<br>(现代化进程中的领导力建设)**
 
 **Introduction**
 
@@ -21,13 +21,12 @@ image: ""
 
 3.	In Singapore, three enduring goals guide our approach to governance:
 
-    a.	First, Opportunities.  All citizens aspire to a better future.  Our policies and governance models must enable our businesses to thrive and our people to prosper. 
+    a.	First, Opportunities. All citizens aspire to a better future.  Our policies and governance models must enable our businesses to thrive and our people to prosper. 
 
-    b.	Second, Trust and Safety.  These are vital for citizens and businesses to have certainty and confidence.  Our safeguards must extend to both our physical and digital spaces.  
+    b.	Second, Trust and Safety. These are vital for citizens and businesses to have certainty and confidence.  Our safeguards must extend to both our physical and digital spaces.  
 
-   c.	Third, Community.  The aim of governance must ultimately be to foster a sense of solidarity and commitment for society to move forward together.  These are what make or break us as a nation.
-
-    **Three Fundamentals of Good Governance**
+   c.	Third, Community.The aim of governance must ultimately be to foster a sense of solidarity and commitment for society to move forward together. These are what make or break us as a nation.<br><br>
+   **Three Fundamentals of Good Governance**
 
 4.	In fact, these three enduring goals are very much aligned to what Minister Li Ganjie has talked about. He referred to them as 获得感、安全感和幸福感. They are all underpinned by three fundamentals, ever since Singapore’s nation-building efforts began in 1965. 
 
