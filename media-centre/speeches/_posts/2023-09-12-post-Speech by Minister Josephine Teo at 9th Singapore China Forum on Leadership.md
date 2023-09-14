@@ -19,7 +19,7 @@ image: ""
 
     **Three Goals of Governance**
 
-3.	In Singapore, three enduring goals guide our approach to governance:
+3. In Singapore, three enduring goals guide our approach to governance:
 
     a.	First, Opportunities. All citizens aspire to a better future.  Our policies and governance models must enable our businesses to thrive and our people to prosper. 
 
@@ -28,15 +28,15 @@ image: ""
    c.	Third, Community.The aim of governance must ultimately be to foster a sense of solidarity and commitment for society to move forward together. These are what make or break us as a nation.<br><br>
    **Three Fundamentals of Good Governance**
 
-4.	In fact, these three enduring goals are very much aligned to what Minister Li Ganjie has talked about. He referred to them as 获得感、安全感和幸福感. They are all underpinned by three fundamentals, ever since Singapore’s nation-building efforts began in 1965. 
+4. In fact, these three enduring goals are very much aligned to what Minister Li Ganjie has talked about. He referred to them as 获得感、安全感和幸福感. They are all underpinned by three fundamentals, ever since Singapore’s nation-building efforts began in 1965. 
 
-5.	First, the rule of law.  
+5. First, the rule of law.  
 
    a.	On the international stage, respect for the rule of law by all parties is essential. Particularly for a small state like Singapore, the observance of international law is vital for our sovereignty and independence. Singapore has consistently advocated adherence to international law, and is willing to refer disputes to a binding third-party dispute settlement procedure. An example is the dispute between Singapore and Malaysia over sovereignty of Pedra Branca, which began in 1979. Both sides agreed to refer the dispute to the International Court of Justice, which made its ruling in 2008. Singapore and Malaysia accepted the decision of the Court, and the issue is now conclusively settled. 
 
     b.	Domestically, the rule of law applies to everyone, fairly and equally.  The Government’s ability to make executive decisions is not unfettered and can be subject to judicial review.  This means that, generally, while the Courts cannot examine the merits of executive decisions, the Courts can consider and adjudicate on whether Government agencies followed due process in making decisions, and were not arbitrary.  The Government is committed to ensuring all Singaporeans are served by the justice system – the Legal Aid Bureau and the Public Defenders Office ensure that even low-income Singaporeans have ready access to legal representation.  
 
-6.	The second fundamental is a clean and capable Government and Public Service.  
+6. The second fundamental is a clean and capable Government and Public Service.  
 
     a.	To uphold integrity and incorruptibility, the system must remain effective to check and punish wrongdoings.
 
@@ -46,7 +46,7 @@ image: ""
 
     d.	These have contributed to Singapore ranking consistently amongst the least corrupt countries in Transparency International’s Corruption Perception Index.  This is a hard-earned accolade which we uphold judiciously.  
 
-7.	The third fundamental of good governance is stewardship.
+7. The third fundamental of good governance is stewardship.
 
     a.	Stewardship is the idea that every generation must govern itself for the benefit of the next. We are always thinking on behalf of Singaporeans yet to be born. Policies may change to cater to new circumstances but the principles and values behind them should stand the test of time.  
 
@@ -54,15 +54,15 @@ image: ""
 
     c.	Another good example is how we provide social benefits. We provide significant subsidies and grants to ensure that public housing remains affordable to citizens from a wide range of different incomes. Today, around 8 in 10 Singaporeans live in public housing, of which, around 9 in 10 own these homes they live in. Healthcare has never been made free of charge. Services are heavily subsidised but everyone pays something through their insurance premiums or Medisave. This approach encourages individual responsibility and is more sustainable for society.
 
-8.	Mr Lee Kuan Yew once warned that “honest and effective government, public order and personal security, economic and social progress, did not come about as a natural course of events”.  This reminder bears repeating as we mark the 100th anniversary of his birth.
+8. Mr Lee Kuan Yew once warned that “honest and effective government, public order and personal security, economic and social progress, did not come about as a natural course of events”.  This reminder bears repeating as we mark the 100th anniversary of his birth.
 
     **Three Evolutions** 
 
-9.	Let me now turn to the “Three Evolutions”.  At the time of Singapore’s independence in 1965, survival was everything.  The old social compact was premised upon the Government being able to fulfill urgent basic needs, build an economy and our own defence capabilities.
+9. Let me now turn to the “Three Evolutions”.  At the time of Singapore’s independence in 1965, survival was everything.  The old social compact was premised upon the Government being able to fulfill urgent basic needs, build an economy and our own defence capabilities.
 
-10.	With each passing year, fewer people would have experienced these post-independence challenges first-hand.  Earlier this month, 162,000 Singaporeans voted in a national election for the first time; constituting about 6% of all voters.   This includes youths born in the new millenia, after the year 2000.  Their parents, like me, were born around the year of Singapore’s independence, in 1965.
+10. With each passing year, fewer people would have experienced these post-independence challenges first-hand.  Earlier this month, 162,000 Singaporeans voted in a national election for the first time; constituting about 6% of all voters.   This includes youths born in the new millenia, after the year 2000.  Their parents, like me, were born around the year of Singapore’s independence, in 1965.
 
-11.	As the profile of our citizens change, so too do their needs, aspirations, and expectations.  Therefore, our governance approaches must evolve.
+11. As the profile of our citizens change, so too do their needs, aspirations, and expectations.  Therefore, our governance approaches must evolve.
 
 12.	For example, younger Singaporeans do not only want to do well for themselves; they also want to see reduction in social inequality.  They have legitimate concerns about climate change and want to do their part to contribute to environment sustainability.
 
