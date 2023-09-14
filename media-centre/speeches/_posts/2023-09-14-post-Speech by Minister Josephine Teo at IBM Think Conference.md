@@ -6,7 +6,9 @@ layout: post
 description: ""
 image: ""
 ---
-Turning Challenges into Opportunities – What’s next for Singapore? Mr Paul Burton, General Manager, IBM Asia Pacific
+Turning Challenges into Opportunities – What’s next for Singapore? 
+
+Mr Paul Burton, General Manager, IBM Asia Pacific
 
 Mr Kareem Yusuf, Senior Vice President of Product Management and Growth, IBM Software
 
@@ -16,7 +18,7 @@ Mr Kareem Yusuf, Senior Vice President of Product Management and Growth, IBM Sof
 
 3. It is not an exaggeration for me to say that IBM has supported Singapore’s development with its technology. Our first mainframe computer was installed at the Central Provident Fund Board (CPFB) in 1963, and it was the IBM 1401. IBM was also an important partner in driving our national computerisation programme[^1] in the 1980s. Today, IBM continues to be a valued partner in talent and skills development, and in the R&D of AI, quantum computing, and sustainable ICT.
 
-**Innovating with transformative new technologies**
+    **Innovating with transformative new technologies**
 
 4. This morning’s theme asks us, “how do we turn challenges into opportunities?” This is the very question Singapore asks itself every day.
 
@@ -24,7 +26,7 @@ Mr Kareem Yusuf, Senior Vice President of Product Management and Growth, IBM Sof
 
 6. In many ways, we share similar experiences as IBM in your century-long history. With every new wave of technology, we both had to reinvent ourselves to stay relevant. For example, the advent of cloud computing and virtualisation threatened all on- premise mainframe computers; they could be replaced by on-demand remote access to vast compute capacity. In the face of this challenge, IBM reinvented itself by offering the hybrid Cloud. This strategy allowed IBM to continue tapping into its traditional expertise in hardware, and opened up new opportunities to provide cloud-based software solutions and IT services.
 
-**Singapore government takes lead in AI experimentation; harnessing AI for Public Good**
+    **Singapore government takes lead in AI experimentation; harnessing AI for Public Good**
 
 7. Today, AI is the transformative technology that presents tremendous opportunities and challenges.
 
@@ -66,7 +68,7 @@ Mr Kareem Yusuf, Senior Vice President of Product Management and Growth, IBM Sof
 
 25. We also welcome the efforts of industry players to encourage the responsible deployment of AI. For example, I understand that IBM is set to offer3 its own AI governance toolkit, **WatsonX.Governance**.
 
-    Conclusion
+    **Conclusion**
 
 26. Even as we focus our attention on turning challenges into opportunities with AI today, we must look further ahead to keep abreast of other emerging technologies such as quantum computing.
 
