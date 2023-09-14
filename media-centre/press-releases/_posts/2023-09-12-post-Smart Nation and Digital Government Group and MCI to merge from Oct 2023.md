@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-Singapore, 12 September 2023 – The Smart Nation and Digital Government Group (SNDGG) will merge with the Ministry of Communications and Information (MCI)’s digital development functions to form an enlarged Smart Nation group. This merged entity will be part of the Prime Minister’s Office and administered by MCI. The merger will better position the Government to advance the full range of the digital agenda. The announcement was shared with SNDGG and MCI staff on 12 September 2023.
+1. Singapore, 12 September 2023 – The Smart Nation and Digital Government Group (SNDGG) will merge with the Ministry of Communications and Information (MCI)’s digital development functions to form an enlarged Smart Nation group. This merged entity will be part of the Prime Minister’s Office and administered by MCI. The merger will better position the Government to advance the full range of the digital agenda. The announcement was shared with SNDGG and MCI staff on 12 September 2023.
 
 2. Today, SNDGG oversees the Smart Nation strategy, digitalisation of government services, and the development and application of digital technologies and capabilities across Singapore. MCI has been leading the development of the digital economy, digital readiness and inclusion, regulation of digital infrastructure and data, online regulation, and digital and cyber security. This is in addition to MCI’s role of coordinating Whole-of-Government information policy and public communications efforts.
 
