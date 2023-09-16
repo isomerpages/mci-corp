@@ -13,4 +13,4 @@ image: ""
 
 3. The Minister in the Prime Minister’s Office has also separately instructed the Protection from Online Falsehoods and Manipulation Act (POFMA) Office to issue today, a Targeted Correction Direction1 to Meta Platforms, Inc in light of East Asia Forum’s failure to carry the Correction Notice on its Facebook post linking to the same article. Meta Platforms, Inc will be required to communicate a correction notice to all end-users in Singapore who had accessed East Asia Forum’s Facebook Post. 
        
-4. For facts of the case, please refer to the Factually article “Corrections regarding false statements of fact in article and post published by East Asia Forum on 18 August 2023” (https://www.gov.sg/article/factually130923-b) 
+4. For facts of the case, please refer to the Factually article “Corrections regarding false statements of fact in article and post published by East Asia Forum on 18 August 2023” ([https://www.gov.sg/article/factually130923-b](https://www.gov.sg/article/factually130923-b))
