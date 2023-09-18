@@ -58,7 +58,7 @@ image: ""
 
 15. The Sunlight AfA has also contributed valuable feedback to MCI on the need for measures to tackle and address online harms. MCI has considered the views of the AfA as well as various stakeholders and are looking into two proposed Codes of Practice to enhance online safety for users in Singapore, especially young users. MCI has also launched the Public Consultation exercise for the Codes, and welcome members of public to provide views at [https://go.gov.sg/feedbackonlinesafety](https://go.gov.sg/feedbackonlinesafety).
 
-16. For more information on the Sunlight AfA’s work, please click [here](/files/Press%20Releases%202022/mci%20sunlight%20report%20270722v2.pdf) for the Sunlight AfA’s final report.
+16. For more information on the Sunlight AfA’s work, please click [here](/files/Press%20Releases%202022/mci%20sunlight%20report%20fa-ed-compressed.pdf) for the Sunlight AfA’s final report.
 
 [NYC-Milieu Online Harms Poll (Jun 2021) ](/files/Press%20Releases%202022/nyc%20milieu%20poll%20findings%20for%20afa%20report%20(1).pdf)
 
