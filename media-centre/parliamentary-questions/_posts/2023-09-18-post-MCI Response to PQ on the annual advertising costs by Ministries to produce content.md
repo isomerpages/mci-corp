@@ -12,7 +12,7 @@ image: ""
 QUESTION FOR WRITTEN ANSWER
 ---------------------------
 
-**4985. Ms He Ting Ru:** To ask the Minister for Communications and Information between 2020 and 2023 to date (a) how much was spent annually on advertising costs, including consultancy and production fees, to produce content featuring political office holders for (i) social media and (ii) mainstream media respectively; and (b) what is the annual breakdown of these figures by
+**70. Ms He Ting Ru:** To ask the Minister for Communications and Information between 2020 and 2023 to date (a) how much was spent annually on advertising costs, including consultancy and production fees, to produce content featuring political office holders for (i) social media and (ii) mainstream media respectively; and (b) what is the annual breakdown of these figures by
 Ministries.
 
 **Answer:**
