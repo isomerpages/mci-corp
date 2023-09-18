@@ -12,7 +12,7 @@ image: ""
 QUESTION FOR WRITTEN ANSWER
 ---------------------------
 
-**4970. Ms Sylvia Lim**: To ask the Minister for Communications and Information (a) whether the Infocomm Media Development Authority intends to replace its hard copy application forms for newspaper permits with digitally-enabled forms; and (b) if so, when.
+**69. Ms Sylvia Lim**: To ask the Minister for Communications and Information (a) whether the Infocomm Media Development Authority intends to replace its hard copy application forms for newspaper permits with digitally-enabled forms; and (b) if so, when.
 
 **Answer:**
 
