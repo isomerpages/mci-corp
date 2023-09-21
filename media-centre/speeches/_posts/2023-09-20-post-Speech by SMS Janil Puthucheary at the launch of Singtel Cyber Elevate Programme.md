@@ -32,7 +32,7 @@ Ladies and Gentlemen
 
 8.	I encourage all of you to take cybersecurity seriously and consider what we can do to preserve trust in the digital domain.  
 
-**Cybersecurity does not have to be daunting for SMEs.**
+    **Cybersecurity does not have to be daunting for SMEs.**
 
 9.	This applies to all businesses - big companies and SMEs alike. In particular, cybersecurity may appear to be a daunting task for our SMEs. This is understandable as most, if not all, SMEs do not have access to the scale, resources or expertise that larger companies may have. 
  
@@ -42,7 +42,7 @@ Ladies and Gentlemen
 
 12.	The **Cyber Essential and Cyber Trust marks** are part of a certification scheme for organisations to recognise their commitment to cybersecurity. The Cyber Essentials mark is designed to be accessible for most SMEs, and intended to help SMEs differentiate themselves from others so that customers seeking to work with firms that adopted good cybersecurity practices can identify them easily. More than 170 organisations have already received their certifications, or are in the process of receiving their Cyber Essentials or Cyber Trust certification, and I would also encourage you to tap on the CISO-as-a-Service scheme and participate.
 
-**Good cybersecurity depends on the community.** 
+    **Good cybersecurity depends on the community.** 
 
 13.	Cybersecurity is a team effort. Apart from government efforts, industry and community efforts are equally important and valuable in strengthening our collective cyber defences collectively. Companies that can do more should lean forward and do more to help others level up and improve.
 
@@ -52,7 +52,7 @@ Ladies and Gentlemen
 
 16.	Cybersecurity is a team sport, but also a community response. We are only as good as our weakest link. Your SME may be strongly protected, but if everyone else that you do business with is not, everyone suffers. The more of your friends that you bring along, the stronger your defences will be. 
 
-**Conclusion** 
+    **Conclusion** 
 
 17.	Cybersecurity is a foundation for Singapore to digitalise confidently and achieve our goals. This is also true for you and your business. 
 
