@@ -61,4 +61,3 @@ Ladies and Gentlemen
 19.	On that note, I would like to offer my warmest congratulations again to Singtel, Drew & Napier and Blackpanda on the successful launch of the Singtel Cyber ELEVATE Programme. 
 
 20.	Thank you, and I wish you a very enjoyable collaboration.
-
