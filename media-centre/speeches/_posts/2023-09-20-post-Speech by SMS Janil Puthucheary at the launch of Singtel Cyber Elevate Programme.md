@@ -62,4 +62,4 @@ Ladies and Gentlemen
 
 20.	Thank you, and I wish you a very enjoyable collaboration.
 
-[PDF version of the speech]
+[PDF version of the speech](/files/Speeches%202023/speech%20by%20sms%20janil%20puthucheary%20at%20the%20launch%20of%20singtel%20cyber%20elevate%20programme%20on%2020%20sep%202023.pdf)
