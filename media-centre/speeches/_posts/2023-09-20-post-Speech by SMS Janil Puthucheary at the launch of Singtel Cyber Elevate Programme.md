@@ -20,7 +20,7 @@ Ladies and Gentlemen
 
 3.	So, I am pleased that the Singtel Cyber ELEVATE programme exists. It focuses on improving cyber resilience and capabilities for our Small-Medium Enterprises (SMEs), drawing on the resources and commitment from Singtel and its partners Drew & Napier and Blackpanda. This spirit of helping each other is commendable and necessary, and will go a long way to developing the community spirit we need for a strong and healthy cybersecurity ecosystem. Thank you very much to Singtel, Drew & Napier and Blackpanda for doing your part. 
 
-**Cybersecurity is key to building a Smart Nation.**
+    **Cybersecurity is key to building a Smart Nation.**
 
 4.	Just like the trust I have in my phone and online transactions is key to my online participation, cybersecurity is a key enabler for our Smart Nation vision here in Singapore. 
 
@@ -61,3 +61,5 @@ Ladies and Gentlemen
 19.	On that note, I would like to offer my warmest congratulations again to Singtel, Drew & Napier and Blackpanda on the successful launch of the Singtel Cyber ELEVATE Programme. 
 
 20.	Thank you, and I wish you a very enjoyable collaboration.
+
+[PDF version of the speech]
