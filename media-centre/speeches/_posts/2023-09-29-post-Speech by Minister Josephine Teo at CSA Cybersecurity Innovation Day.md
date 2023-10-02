@@ -83,6 +83,7 @@ Growth” Plan. Cyber TIG Plan is a comprehensive approach that will includeexis
 
     b. The Office will catalyse cybersecurity research by administering calls for research challenges in areas of strategic importance. It will also seek to translate this research into commercial products. This will provide a structured path for researchers to contribute to the ecosystem by finding solutions to specific problem statements, encourage the translation of research directly into market development.
 
+
 19. The Cyber TIG Plan and the CyberSG R&amp;D Programme Office are like the wings of an eagle. What about the wind beneath the wings? Well, the Government will be setting aside $110M to support these two initiatives to grow our cybersecurity ecosystem. This clearly demonstrates our strong commitment and belief in the critical importance of cybersecurity.
 
       **Conclusion** 
