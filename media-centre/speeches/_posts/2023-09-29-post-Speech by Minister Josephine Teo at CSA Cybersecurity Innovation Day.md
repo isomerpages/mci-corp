@@ -99,3 +99,5 @@ development.
 21. With our efforts to grow our local cybersecurity ecosystem, we will be strengthening this position; and in time, fortify our position as the cybersecurity hub in this region.
 
 22. In doing so, we will not only afford valuable opportunities for talent and businesses, but also make the cyberspace in this region and beyond a safer one. Thank you.
+
+[PDF version of the speech](/files/Speeches%202023/speech%20by%20minister%20at%20cybersecurity%20innovation%20day%20(002).pdf)
