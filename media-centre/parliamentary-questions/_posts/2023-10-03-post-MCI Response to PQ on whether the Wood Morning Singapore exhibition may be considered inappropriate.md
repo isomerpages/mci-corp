@@ -7,9 +7,8 @@ layout: post
 description: ""
 image: ""
 ---
-
 ##### Parliament Sitting on 3 October 2023
-##### 
+
 ##### QUESTION FOR WRITTEN ANSWER
 
   
@@ -28,5 +27,3 @@ image: ""
   
 
 3. We also understand that police reports have been lodged and Police are looking into the matter.
-
-**
