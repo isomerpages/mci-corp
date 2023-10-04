@@ -8,8 +8,7 @@ description: ""
 image: ""
 ---
 #### Parliament Sitting on 4 October 2023
-# 
-# 
+ 
 #### QUESTION FOR ORAL ANSWER
 
 **1. Mr Yip Hon Weng:** To ask the Minister for Communications and Information (a) whether IMDA is aware of SingPost’s projected revenue as a result of the increase in postage rate for standard regular mails announced on 19  September 2023; (b) if so, what is the projected amount; (c) whether SingPost requires IMDA’s approval before postage rates are increased; and (d) whether the recent decision to increase postage rate for standard regular mails could have been considered earlier.
