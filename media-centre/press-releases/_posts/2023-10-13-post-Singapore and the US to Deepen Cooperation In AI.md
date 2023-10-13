@@ -16,7 +16,7 @@ image: ""
 
 4. The successful crosswalk was one of the AI initiatives announced at the CET Dialogue, a platform where Singapore and the US reaffirmed our aligned approaches in the field of AI and discussed ways to deepen information-sharing and consultations on international AI security, safety, trust, and standards development, while continuing to race ahead at the leading edge of responsible innovation. Both parties also reaffirmed the importance of facilitating the responsible development and deployment of AI by the private sector, and to enhance opportunities for further public-private exchanges and partnerships. 
 
-5. The Singapore and US governments also announced two other AI initiatives at the CET Dialogue (*see [Annex B](/files/Press%20Releases%202023/annex%20b.pdf) for the joint statement*): 
+5. The Singapore and US governments also announced two other AI initiatives at the CET Dialogue (*click [here](https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2023/10/Critical-and-Emerging-Technology-Dialogue) for the joint statement*): 
 
     a. **Establishment of a bilateral AI Governance Group.** Singapore and the US intend to launch an AI Governance Group to advance shared principles and deepen information exchanges for safe, trustworthy, and responsible AI innovation. 
 		
