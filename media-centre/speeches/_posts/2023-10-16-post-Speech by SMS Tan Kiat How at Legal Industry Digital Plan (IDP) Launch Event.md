@@ -98,4 +98,3 @@ Colleagues and friends
 18.  Thank you.**
 
 [PDF version of the speech ](/files/pdf%20version%20of%20the%20speech.pdf)
-
