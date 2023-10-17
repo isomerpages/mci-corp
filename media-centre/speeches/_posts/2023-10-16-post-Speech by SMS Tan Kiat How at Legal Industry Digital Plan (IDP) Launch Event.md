@@ -95,6 +95,6 @@ Colleagues and friends
 17.  I encourage all companies to leverage these resources and continue with your digital transformation journey. I wish all of you a pleasant session and look forward to a productive conversation later on.
     
 
-18.  Thank you.**
+18.  Thank you.
 
 [PDF version of the speech ](/files/pdf%20version%20of%20the%20speech.pdf)
