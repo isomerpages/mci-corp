@@ -6,8 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
-
 **Professionalising cybersecurity sector is key to developing talent**
 
 
@@ -147,7 +145,7 @@ Ladies and gentlemen
       
     
 
-**Conclusion**
+   **Conclusion**
 
   
 
