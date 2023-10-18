@@ -25,6 +25,8 @@ image: ""
 
 3. About two-thirds (65%) of Singapore users had encountered harmful online content, with the most common types of content being cyberbullying (29%) and sexual content (28%). Other examples include content which promotes illegal activities (22%), racial or religious disharmony (18%), violence (12%) and self-harm (9%) (see Table 1 below for details). Half (49%) of the parents surveyed also reported that their children encountered harmful online content, particularly sexual content (20%) and cyberbullying (19%). The findings indicated that encounters with such harmful online content, and especially sexual and cyberbullying content, were relatively common among both adults and children in Singapore.
 
+
+
 4. Among online services, encounters with harmful online content were most prevalent on social media services[^1] (57%). In contrast, encounters via messaging apps (14%), search engines (8%) and emails (6%) were significantly lower.
 
 5. For social media services that have significant reach or impact in Singapore[^2], the proportion of active users who had encountered harmful online content on these platforms ranged from 28% to 57%.
@@ -55,3 +57,15 @@ image: ""
 14. Designated social media services also have a role to play in complying with the Code of Practice for Online Safety4 which was introduced by the Infocomm Media Development Authority (IMDA) in July 2023. The Code requires these services to provide reporting tools which are accessible and easy to use, and to act on user reports in a timely manner. Under the Code, each designated social media service is also required to submit annual online safety reports to help users make an informed choice on the best suited platform to provide a safe user experience.
 
 15. Beyond efforts by government agencies, civil society and end users also have a role to play. For instance, the Media Literacy Council, comprising representatives from 3P, has produced resources to equip parents, youths and members of the public to keep themselves and their loved ones safe online, as well as manage potential online risks. These resources are publicly accessible on [www.betterinternet.sg](www.betterinternet.sg). End users can also play their part to make the online space safer for themselves and the community by reporting harmful online content to social media services. Ultimately, a whole-of-society approach is needed to provide a safe online environment for all Singapore users.
+
+------------------------------------------------------------------------------------
+
+[^1]: Social media services include social media platforms and online forums.
+
+[^2]: These platforms are Facebook, HardwareZone, Instagram, TikTok, X (formerly known as Twitter) and
+YouTube. They have been designated by the Infocomm Media Development Authority and are required to
+comply with the Code of Practice for Online Safety which came into effect on 18 July 2023.
+
+[^3]: MLC | Tools and resources for managing your own safety online (betterinternet.sg)
+
+[^4]: Details of the Code of Practice for Online Safety can be found on IMDA’s website.
