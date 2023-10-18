@@ -25,8 +25,6 @@ image: ""
 
 3. About two-thirds (65%) of Singapore users had encountered harmful online content, with the most common types of content being cyberbullying (29%) and sexual content (28%). Other examples include content which promotes illegal activities (22%), racial or religious disharmony (18%), violence (12%) and self-harm (9%) (see Table 1 below for details). Half (49%) of the parents surveyed also reported that their children encountered harmful online content, particularly sexual content (20%) and cyberbullying (19%). The findings indicated that encounters with such harmful online content, and especially sexual and cyberbullying content, were relatively common among both adults and children in Singapore.
 
-
-
 4. Among online services, encounters with harmful online content were most prevalent on social media services [^1] (57%). In contrast, encounters via messaging apps (14%), search engines (8%) and emails (6%) were significantly lower.
 
 5. For social media services that have significant reach or impact in Singapore [^2], the proportion of active users who had encountered harmful online content on these platforms ranged from 28% to 57%.
@@ -66,6 +64,6 @@ image: ""
 YouTube. They have been designated by the Infocomm Media Development Authority and are required to
 comply with the Code of Practice for Online Safety which came into effect on 18 July 2023.
 
-[^3]: MLC | Tools and resources for managing your own safety online (betterinternet.sg)
+[^3]: MLC Tools and resources for managing your own safety online (betterinternet.sg)
 
 [^4]: Details of the Code of Practice for Online Safety can be found on IMDA’s website.
