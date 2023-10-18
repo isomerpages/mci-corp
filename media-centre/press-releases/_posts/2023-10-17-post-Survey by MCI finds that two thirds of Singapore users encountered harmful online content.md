@@ -23,7 +23,9 @@ image: ""
 
      **Prevalence and Types of Harmful Online Content**
 
-3. About two-thirds (65%) of Singapore users had encountered harmful online content, with the most common types of content being cyberbullying (29%) and sexual content (28%). Other examples include content which promotes illegal activities (22%), racial or religious disharmony (18%), violence (12%) and self-harm (9%). Half (49%) of the parents surveyed also reported that their children encountered harmful online content, particularly sexual content (20%) and cyberbullying (19%). The findings indicated that encounters with such harmful online content, and especially sexual and cyberbullying content, were relatively common among both adults and children in Singapore.
+3. About two-thirds (65%) of Singapore users had encountered harmful online content, with the most common types of content being cyberbullying (29%) and sexual content (28%). Other examples include content which promotes illegal activities (22%), racial or religious disharmony (18%), violence (12%) and self-harm (9%)(see Table 1 below for details). Half (49%) of the parents surveyed also reported that their children encountered harmful online content, particularly sexual content (20%) and cyberbullying (19%). The findings indicated that encounters with such harmful online content, and especially sexual and cyberbullying content, were relatively common among both adults and children in Singapore.
+
+    ![](/images/Press%20Releases%202023/table%201.jpeg)
 
 4. Among online services, encounters with harmful online content were most prevalent on social media services [^1] (57%). In contrast, encounters via messaging apps (14%), search engines (8%) and emails (6%) were significantly lower.
 
@@ -39,12 +41,18 @@ image: ""
 
 8. According to the survey, the majority of respondents (88%) knew of at least one privacy tool that they could use on social media services. Awareness was highest towards tools that allowed users to control access to their profile information (56%) or their content (54%), and to block other users from finding or contacting them (52%).
 
-9. Despite having awareness of privacy tools, there remained a gap in respondents’ usage of the tools. For respondents who did not make use of some of the privacy tools that they were aware of, top reasons cited were that they had not encountered issues which required them to use privacy tools (45%), or that they had never thought of doing so (28%).
+9. Despite having awareness of privacy tools, there remained a gap in respondents’ usage of the tools. For respondents who did not make use of some of the privacy tools that they were aware of, top reasons cited were that they had not encountered issues which required them to use privacy tools (45%), or that they had never thought of doing so (28%). (see Table 2 on the prevalence of the use of various privacy tools).
+
+    ![](/images/Press%20Releases%202023/table%202.jpeg)
 
     **Moderate Usage of Child Safety Tools by Parents**
 10. Half (51%) of parents surveyed had used parental controls to restrict the types of content that could be accessed by their children, but usage was lower for other child safety tools.
 
-11. Among parents who did not use some of these tools, 3 in 10 (30%) indicated that their children had limited online access, while 2 in 10 (22%) trusted that their children could handle themselves online. The rest had other concerns on use of these tools.
+    ![](/images/Press%20Releases%202023/table%203.jpeg)
+
+11. Among parents who did not use some of these tools, 3 in 10 (30%) indicated that their children had limited online access, while 2 in 10 (22%) trusted that their children could handle themselves online. The rest had other concerns on use of these tools. (see Table 4 below on why child safety tools were not used).
+
+    ![](/images/Press%20Releases%202023/table%204.jpeg)
 
     **Conclusion**
 
