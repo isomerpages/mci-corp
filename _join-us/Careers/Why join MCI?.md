@@ -9,3 +9,5 @@ At MCI, you can look forward to diverse learning opportunities and a meaningful 
 From developing policies that shape the future of Singapore’s digital economy, to ensuring that businesses seize opportunities in the infocomm and media sector, our work at MCI enables Singaporeans to work, live and thrive in a better future.
 
 We Dare, Innovate, Learn and Collaborate to create new opportunities and forge a digital future for all. We believe in the power of teamwork and collaboration. If you are ready to grow your career and are passionate about making a difference, join us to build an engaged and connected Singapore.
+
+View our career brochure [here](https://go.gov.sg/mcicareerbrochure2023) to find out more
