@@ -68,9 +68,7 @@ image: ""
 
 [^1]: Social media services include social media platforms and online forums.
 
-[^2]: These platforms are Facebook, HardwareZone, Instagram, TikTok, X (formerly known as Twitter) and
-YouTube. They have been designated by the Infocomm Media Development Authority and are required to
-comply with the Code of Practice for Online Safety which came into effect on 18 July 2023.
+[^2]: These platforms are Facebook, HardwareZone, Instagram, TikTok, X (formerly known as Twitter) and YouTube. They have been designated by the Infocomm Media Development Authority and are required to comply with the Code of Practice for Online Safety which came into effect on 18 July 2023.
 
 [^3]: MLC Tools and resources for managing your own safety online (betterinternet.sg)
 
