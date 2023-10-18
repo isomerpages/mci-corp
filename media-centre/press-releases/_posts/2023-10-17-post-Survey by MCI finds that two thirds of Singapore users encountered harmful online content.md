@@ -7,8 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-**SURVEY BY MCI FINDS THAT TWO-THIRDS OF SINGAPORE USERS ENCOUNTERED HARMFUL
-ONLINE CONTENT; NEARLY HALF TOOK NO ACTION AGAINST SUCH CONTENT**
+**SURVEY BY MCI FINDS THAT TWO-THIRDS OF SINGAPORE USERS ENCOUNTERED HARMFUL ONLINE CONTENT; NEARLY HALF TOOK NO ACTION AGAINST SUCH CONTENT**
 
 * Two-thirds of respondents encountered harmful online content; half of the parents surveyed reported that their children encountered harmful online content
 
@@ -43,43 +42,16 @@ ONLINE CONTENT; NEARLY HALF TOOK NO ACTION AGAINST SUCH CONTENT**
 9. Despite having awareness of privacy tools, there remained a gap in respondents’ usage of the tools. For respondents who did not make use of some of the privacy tools that they were aware of, top reasons cited were that they had not encountered issues which required them to use privacy tools (45%), or that they had never thought of doing so (28%). (see Table 2 on the prevalence of the use of various privacy tools).
 
     **Moderate Usage of Child Safety Tools by Parents**
-10. Half (51%) of parents surveyed had used parental controls to restrict the types of content
-that could be accessed by their children, but usage was lower for other child safety tools.
+10. Half (51%) of parents surveyed had used parental controls to restrict the types of content that could be accessed by their children, but usage was lower for other child safety tools.
 
-11 Among parents who did not use some of these tools, 3 in 10 (30%) indicated that their
-children had limited online access, while 2 in 10 (22%) trusted that their children could handle
-themselves online. The rest had other concerns on use of these tools (see Table 4 below on why
-child safety tools were not used).
+11. Among parents who did not use some of these tools, 3 in 10 (30%) indicated that their children had limited online access, while 2 in 10 (22%) trusted that their children could handle themselves online. The rest had other concerns on use of these tools (see Table 4 below on why child safety tools were not used).
 
-Conclusion
-12 Harmful online content is a prevailing concern, especially with the pervasive usage of
-online platforms among Singapore users. The survey findings indicated that although some 65%
-of Singapore users had encountered harmful online content on social media, nearly 50% of them
-did not take action against the harmful online content. It did not occur to them to report the harmful
-online content or they were not concerned about the content. For the other half who decided to
-block the content or report the harmful online content to social media services, the majority of
-them had experienced issues with the reporting process.
+    **Conclusion**
 
-13 Countering harmful online content requires collective action from the people, private and
-public (3P) sectors. On the Government’s end, MCI has worked with technology companies such
-as Google, Meta, ByteDance and X (formerly Twitter) to launch an Online Safety Digital Toolkit3 in
-March 2023. This toolkit recommends parental controls, privacy and reporting tools, as well as
-self-help resources for individuals and parents to manage their own or their child’s safety online.
-In addition, MCI, Ministry of Education (MOE) and Ministry of Social and Family Development (MSF)
-are working on a Parents’ Toolbox, which is expected to be launched in phases from early 2024,
-to empower and equip parents to build up their children’s well-being and resilience, supporting
-their children’s digital journey and keeping them safe online.
-14 Designated social media services also have a role to play in complying with the Code of
-Practice for Online Safety4 which was introduced by the Infocomm Media Development Authority
-(IMDA) in July 2023. The Code requires these services to provide reporting tools which are
-accessible and easy to use, and to act on user reports in a timely manner. Under the Code, each
-designated social media service is also required to submit annual online safety reports to help
-users make an informed choice on the best suited platform to provide a safe user experience.
-15 Beyond efforts by government agencies, civil society and end users also have a role to play.
-For instance, the Media Literacy Council, comprising representatives from 3P, has produced
-resources to equip parents, youths and members of the public to keep themselves and their loved
-ones safe online, as well as manage potential online risks. These resources are publicly accessible
-on www.betterinternet.sg. End users can also play their part to make the online space safer for
-themselves and the community by reporting harmful online content to social media services.
-Ultimately, a whole-of-society approach is needed to provide a safe online environment for all
-Singapore users.
+12. Harmful online content is a prevailing concern, especially with the pervasive usage of online platforms among Singapore users. The survey findings indicated that although some 65% of Singapore users had encountered harmful online content on social media, nearly 50% of them did not take action against the harmful online content. It did not occur to them to report the harmful online content or they were not concerned about the content. For the other half who decided to block the content or report the harmful online content to social media services, the majority of them had experienced issues with the reporting process.
+
+13. Countering harmful online content requires collective action from the people, private and public (3P) sectors. On the Government’s end, MCI has worked with technology companies such as Google, Meta, ByteDance and X (formerly Twitter) to launch an Online Safety Digital Toolkit[^3] in March 2023. This toolkit recommends parental controls, privacy and reporting tools, as well as self-help resources for individuals and parents to manage their own or their child’s safety online. In addition, MCI, Ministry of Education (MOE) and Ministry of Social and Family Development (MSF) are working on a Parents’ Toolbox, which is expected to be launched in phases from early 2024, to empower and equip parents to build up their children’s well-being and resilience, supporting their children’s digital journey and keeping them safe online.
+
+14. Designated social media services also have a role to play in complying with the Code of Practice for Online Safety4 which was introduced by the Infocomm Media Development Authority (IMDA) in July 2023. The Code requires these services to provide reporting tools which are accessible and easy to use, and to act on user reports in a timely manner. Under the Code, each designated social media service is also required to submit annual online safety reports to help users make an informed choice on the best suited platform to provide a safe user experience.
+
+15. Beyond efforts by government agencies, civil society and end users also have a role to play. For instance, the Media Literacy Council, comprising representatives from 3P, has produced resources to equip parents, youths and members of the public to keep themselves and their loved ones safe online, as well as manage potential online risks. These resources are publicly accessible on [www.betterinternet.sg](www.betterinternet.sg). End users can also play their part to make the online space safer for themselves and the community by reporting harmful online content to social media services. Ultimately, a whole-of-society approach is needed to provide a safe online environment for all Singapore users.
