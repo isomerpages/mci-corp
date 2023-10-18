@@ -10,7 +10,7 @@ As an MCI Scholar, you will be the voice connecting the Government and our peopl
 
 Upon graduation, you can look forward to a challenging and purposeful career filled with diverse opportunities and developments.
 
-Find out more about our MCI Scholars’ experiences via the Brightsparks 2023 Magazine [here](https://brightsparks.com.sg/magazine/february-2023/mci-keeping-singaporeans-engaged-and-informed.php).
+View our scholarship brochure&nbsp;[here](http://go.gov.sg/mcischolarshipbrochure2023)&nbsp;to find out more. You may also read up on our MCI Scholars’ experiences via the Brightsparks 2023 Magazine&nbsp;[here](https://brightsparks.com.sg/magazine/july-2023/mci-bridging-barriers-and-building-trust.php).
 
 #### Scholarship Terms
   
