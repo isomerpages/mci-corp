@@ -10,4 +10,4 @@ From developing policies that shape the future of Singapore’s digital economy,
 
 We Dare, Innovate, Learn and Collaborate to create new opportunities and forge a digital future for all. We believe in the power of teamwork and collaboration. If you are ready to grow your career and are passionate about making a difference, join us to build an engaged and connected Singapore.
 
-View our career brochure [here](https://go.gov.sg/mcicareerbrochure2023) to find out more
+View our career brochure [here](https://go.gov.sg/mcicareerbrochure2023) to find out more.
