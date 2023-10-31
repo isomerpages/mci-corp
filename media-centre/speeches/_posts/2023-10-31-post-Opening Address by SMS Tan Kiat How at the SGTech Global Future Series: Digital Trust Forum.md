@@ -68,10 +68,9 @@ competitiveness.
 
 16. I look forward to engaging with the panel and hearing their insights on how we can better ensure trust in our digital space.
 
-   **Conclusion**
+    **Conclusion**
 
-17. In conclusion, I would like to reiterate that upholding trust in the digital space is essential for the functioning of our society and economy. This will require a concerted effort by Government and industry to address emerging challenges. Our joint efforts in closing the skills gap in our digital trust workforce, and the formation of the advisory panel in the Centre of Excellence are important steps as we continue to build a trusted digital space, where people and businesses can transact
-securely and confidently, and benefit from the opportunities that digital brings.
+17. In conclusion, I would like to reiterate that upholding trust in the digital space is essential for the functioning of our society and economy. This will require a concerted effort by Government and industry to address emerging challenges. Our joint efforts in closing the skills gap in our digital trust workforce, and the formation of the advisory panel in the Centre of Excellence are important steps as we continue to build a trusted digital space, where people and businesses can transact securely and confidently, and benefit from the opportunities that digital brings.
 
 18. Digital trust is an important area for Singapore. As a small nation, an open economy with scarce natural resources, trust is one of the most invaluable competitive advantages that Singapore has. The trust that we build between the government and people, between people and different communities in Singapore, and the international stakeholders.
 
