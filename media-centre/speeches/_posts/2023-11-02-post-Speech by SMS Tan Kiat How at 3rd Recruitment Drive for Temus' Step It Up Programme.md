@@ -8,8 +8,11 @@ description: ""
 image: ""
 ---
 Mr Yeoh Keat Chuan, Chief Executive Officer, Temus
+
 Mr Srijay Ghosh, Founding Member and Chief Revenue Officer, Temus
+
 Distinguished guests
+
 Colleagues and friends
 
 1. A very good morning to all of you. Thank you for inviting me to launch the third iteration of Temus’ “Step IT Up” programme. Firstly, I need to congratulate the Temus team for a very important milestone, notwithstanding some of the challenges as we came out of COVID-19.
