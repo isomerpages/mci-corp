@@ -16,24 +16,23 @@ Colleagues and friends
 
 2. The digital industry has been one of the most dynamic and rapidly growing sectors of our economy in recent years, offering significant career opportunities for Singaporeans.
 
-				a. IMDA’s inaugural report on Singapore's digital economy highlighted that the digital economy amounted to S$106 billion in 2022, equivalent to 17.3% of Singapore’s nominal GDP, up from 13% of GDP in 2017.
+    a. IMDA’s inaugural report on Singapore's digital economy highlighted that the digital economy amounted to S$106 billion in 2022, equivalent to 17.3% of Singapore’s nominal GDP, up from 13% of GDP in 2017.
 				
-				b. The number of digital tech jobs created also increased from 155,500 to 201,100 over the same five-year period.
+    b. The number of digital tech jobs created also increased from 155,500 to 201,100 over the same five-year period.
 
 3. It is therefore important that we continue to grow the pipeline of our tech talent to fuel our digital economy. The tech sector remains an important enabler for many industries Singapore, including trade, healthcare, logistics, banking – you name it. Every single sector of the economy is impacted by the tremendous opportunity of digital to transform and become more competitive, more globally known.
 
 4. I am therefore glad to hear about Temus’ ‘Step IT Up’ programme’s achievements thus far.
 
-				a. Its focus on training Singaporeans with no background or prior training in computing has opened the new doors for many Singaporeans to enter the tech sector.
+    a. Its focus on training Singaporeans with no background or prior training in computing has opened the new doors for many Singaporeans to enter the tech sector.
 				
-				b. Past cohorts included mid-careerists who were professional musicians, researchers, platform delivery riders. They were put through intensive courses to be trained in low-code platforms, enabling them to become digital builders in sectors such as telcos, healthcare, and financial institutions.
+    b. Past cohorts included mid-careerists who were professional musicians, researchers, platform delivery riders. They were put through intensive courses to be trained in low-code platforms, enabling them to become digital builders in sectors such as telcos, healthcare, and financial institutions.
 				
-								i. Take for example, Mr Farhan Samsuri, who was previously working in an operations role. His interest in tech was ignited when he saw how tech was growing and more companies were looking for people with tech skills. Farhan first embarked on a software development immersive at NTUC, but was initially not confident to venture into a tech role. Farhan was attracted to the ‘Step IT Up’ programme as it offered concrete job prospects upon course completion, something not all similar programmes could offer. He is now able to apply his skills to automate business processes and develop apps.
+    i. Take for example, Mr Farhan Samsuri, who was previously working in an operations role. His interest in tech was ignited when he saw how tech was growing and more companies were looking for people with tech skills. Farhan first embarked on a software development immersive at NTUC, but was initially not confident to venture into a tech role. Farhan was attracted to the ‘Step IT Up’ programme as it offered concrete job prospects upon course completion, something not all similar programmes could offer. He is now able to apply his skills to automate business processes and develop apps.
 								
-								ii. Another example is Mr Soh Wen Ming, a trained jazz drummer with a degree in professional music. Wen Ming wanted to pursue a career in the technology sector. And after successfully completing the ‘Step IT Up’ programme, Wen Ming is now in a full-time role at Temus and hope to
-continue honing his skills.
+    ii. Another example is Mr Soh Wen Ming, a trained jazz drummer with a degree in professional music. Wen Ming wanted to pursue a career in the technology sector. And after successfully completing the ‘Step IT Up’ programme, Wen Ming is now in a full-time role at Temus and hope to continue honing his skills.
 
-c. It shows that those who have the right attitude and aptitude towards learning can successfully transit into tech roles when given the right opportunity and training.
+    c. It shows that those who have the right attitude and aptitude towards learning can successfully transit into tech roles when given the right opportunity and training.
 
 5. Temus has committed to help 400 workers in Singapore for digital roles over the next 3 years through this programme.
 
@@ -45,11 +44,10 @@ c. It shows that those who have the right attitude and aptitude towards learning
 
 9. To Temus and everyone involved in accelerating the Step IT Up journey, and to all aspiring candidates, I wish you every success and congratulations again on the third iteration of this meaningful programme.
 
-10. On a personal note, something I’m very passionate about is giving young Singaporeans more opportunities to take on meaningful and good careers in the technology space. The tech space evolves so quickly that it is crucial to update training and skills upgrading programmes to support
-this fast-changing landscape. You cannot imagine where the tech scene will be five years from now, but the foundational skillsets and attitude to learn will keep you relevant five years away from today. You must always believe you have something to learn, and to always invest in yourself. One
-investment that nobody can take away from you is the investment in yourself.
+10. On a personal note, something I’m very passionate about is giving young Singaporeans more opportunities to take on meaningful and good careers in the technology space. The tech space evolves so quickly that it is crucial to update training and skills upgrading programmes to support this fast-changing landscape. You cannot imagine where the tech scene will be five years from now, but the foundational skillsets and attitude to learn will keep you relevant five years away from today. You must always believe you have something to learn, and to always invest in yourself. One investment that nobody can take away from you is the investment in yourself.
 
 11. So I’m very glad that all of you took up that challenge, stepped out of your comfort zone, and are now here part of Temus’ Step IT Up programme. I wish you all very best, and hope that when you graduate, you’ll pay it forward by mentoring and inspiring many others who come after you. Let's collectively shape a vibrant future for Singapore and secure our place in the global digital economy.
 
 12. Thank you.
+
 [PDF version of the speech](/files/Speeches%202023/speech%20by%20sms%20tan%20kiat%20how%20at%20third%20recruitment%20drive%20for%20temus'%20'step%20it%20up'%20progamme%20(2%20nov%202023).pdf)
