@@ -8,10 +8,9 @@ description: ""
 image: ""
 variant: markdown
 ---
-### Parliament Sitting on 6 November 2023
+##### Parliament Sitting on 6 November 2023
 
-QUESTION FOR WRITTEN ANSWER
----------------------------
+##### QUESTION FOR WRITTEN ANSWER
 
 **95. Mr Murali Pillai:** To ask the Minister for Communications and Information (a) whether the Ministry has received information of designated social media services which allow advertisements to be
 used as tools for scams or to promote violence, which can be accessed from their respective platforms by Singapore-based
