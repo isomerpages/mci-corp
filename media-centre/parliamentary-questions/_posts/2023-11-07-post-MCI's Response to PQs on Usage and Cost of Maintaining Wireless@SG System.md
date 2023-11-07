@@ -10,7 +10,6 @@ variant: markdown
 ### Parliament Sitting on 7 November 2023
 
 ### QUESTION FOR WRITTEN ANSWER
-------------------------
 
 **30. Assoc Prof Jamus Jerome Lim:** To ask the Minister for Communications and Information (a) for each of the past ten years, what is the usage rate, in terms of unique logins, for Wireless@SG; and (b) what is the share of resident versus non-resident usage for each of those years respectively.
 
