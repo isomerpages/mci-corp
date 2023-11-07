@@ -12,6 +12,8 @@ variant: markdown
 
 ##### QUESTION FOR WRITTEN ANSWER
 
+**58. Miss Cheryl Chan Wei Ling:** To ask the Minister for Communications and Information in view of recent outages of digital services affecting the banks and other essential platforms, what more can be done to ensure that the service providers (i) maintain minimal services during disruptions and (ii) be obligated to have business continuity plans to prevent the public and private sector from being impacted negatively.
+
 **89. Mr Saktiandi Supaat:** To ask the Minister for Communications and Information in light of the data centre outage on 14 October 2023 affecting banks, telcos, and social media platforms (a) whether there are plans to regulate big technology companies to ensure adherence to service standards given that such outages affect many people and may have a real economic impact; and (b) what are the Ministry’s efforts for Singapore’s overall national security to minimise a concentration of risks from the usage of a few data centres by the public and private sectors.
 
 **107. Mr Liang Eng Hwa**: To ask the Minister for Communications and Information (a) what are the lessons learnt from the recent disruptions to the various digital services; and (b) whether the Government will step up regulations to minimise risks of data centre outage and to ensure the resiliency of data centre services in Singapore.
