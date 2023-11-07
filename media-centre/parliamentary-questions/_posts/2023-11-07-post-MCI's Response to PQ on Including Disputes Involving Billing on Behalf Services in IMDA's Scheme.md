@@ -11,7 +11,6 @@ variant: markdown
 ### Parliament Sitting on 7 November 2023
 
 ### QUESTION FOR WRITTEN ANSWER
-------------------------
 
 **28. Ms See Jinli Jean:** To ask the Minister for Communications and Information (a) what are the considerations for excluding disputes involving billing-on-behalf-services in IMDA’s Alternative Dispute Resolution Scheme; and (b) whether the Ministry will consider including disputes on such services, especially those involving App store purchases, in the Scheme.
 

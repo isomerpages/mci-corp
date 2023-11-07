@@ -11,7 +11,6 @@ variant: markdown
 ### Parliament Sitting on 7 November 2023
 
 ### QUESTION FOR WRITTEN ANSWER
-------------------------
 
 **29. Ms See Jinli Jean:** To ask the Minister for Communications and Information (a) what is the proportion and number of micro-enterprises in (i) the exercise sector and (ii) the education sector that are supported by IMDA’s Data Protection Essentials Programme since its inception in April 2022; and (b) in each sector, what is the breakdown by the number of enterprises that have (i) completed the IMDA Start Digital Programme and (ii) successfully implemented the one-step professional service and received the grant of $1,600.
 
