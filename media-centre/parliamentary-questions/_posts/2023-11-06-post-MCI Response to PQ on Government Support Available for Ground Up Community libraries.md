@@ -8,10 +8,9 @@ description: ""
 image: ""
 variant: markdown
 ---
-### Parliament Sitting on 6 November 2023
+##### Parliament Sitting on 6 November 2023
 
-QUESTION FOR WRITTEN ANSWER
----------------------------
+##### QUESTION FOR WRITTEN ANSWER
 
 **79. Ms Usha Chandradas:** To ask the Minister for Communications and Information what is the extent of Government support available for ground-up community libraries that encourage reading in Singapore.
 
