@@ -82,3 +82,5 @@ better in-built cybersecurity. And you know, it's not something you think of pra
 15. Let me conclude by thanking everyone for making time to be part of this event. Cybersecurity is a team effort. Today is a great opportunity to bring the community together to exchange ideas to see how we can do better to improve our IoT security. Doing this, as I have outlined in my speech, it requires our efforts at the device level, at the individual user level, at the manufacturer, at the consumer and within the profession, new entrants as well as experienced professionals. We all have a very important role to play in government, enterprise, academia and industry. The organisers have put together an exhibition and brought together a line-up of speakers from both the public and private sectors to share their perspectives and efforts towards the advancement of IoT security.
 
 16. I wish all of you a fruitful day ahead. Thank you.
+
+[PDF version of the speech](/files/Speeches%202023/opening%20speech%20by%20sms%20janil%20at%20the%20aisp%20iot%20security%20sharing%20at%20ntu%202023%203%20nov%202023.pdf)
