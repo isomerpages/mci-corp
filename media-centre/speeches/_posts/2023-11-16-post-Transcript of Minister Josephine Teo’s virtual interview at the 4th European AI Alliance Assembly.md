@@ -28,7 +28,7 @@ variant: markdown
 
 9. So, we hope that we can explore ways to promote interoperability between our AI governance frameworks. They may come from a slightly different philosophy, and they may not be identical, but there will always be value in us trying to find common ground. And this is the reason why Singapore in the US announced our recent collaboration. We recently went through a successful mapping between the US National Institute of Standards and Technologies’ AI Risk Management Framework and Singapore's AI Verify. So, we are confident that the foundation for international collaboration has already begun to be built. And it will help to promote innovation that is responsible and safe and can lead to tangible benefits for both our people as well as our businesses.
 
-**Q2) How does Singapore see itself contributing to international cooperation for trustworthy AI globally?**
+    **Q2) How does Singapore see itself contributing to international cooperation for trustworthy AI globally?**
 
 10. I will take a step back to first suggest that when it comes to international cooperation, we really must try our best to be inclusive. And by that, we mean that all the countries whose populations whose people and businesses will be impacted by the widespread development and deployment of AI. We all want to be part of this conversation, and we don't want to be left out.
 
