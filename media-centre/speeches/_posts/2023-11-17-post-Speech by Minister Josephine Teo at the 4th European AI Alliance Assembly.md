@@ -7,9 +7,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-**Transcript of Minister Josephine Teo’s virtual interview at the 4th European AI Alliance Assembly (16 Nov 2023)**
-
-    **Q1) Could you share the vision and efforts of Singapore to ensure trustworthy AI in your country?**
+**Q1) Could you share the vision and efforts of Singapore to ensure trustworthy AI in your country?**
 		
 1. AI safety is now an issue of concern for all countries, both large and small. At the same time, I think we all see the tremendous opportunities that AI can bring. AI certainly has transformative potential, and we believe can be harnessed for the public good. And for a country like Singapore that is fundamentally constrained by the size of our workforce, our interest in AI is really grounded in its potential as a force multiplier.
 
@@ -45,4 +43,4 @@ variant: markdown
 
 16. And earlier this month, I was at the AI Safety Summit that was held in the United Kingdom, which brought together various stakeholders to discuss the important issue of AI safety, especially with foundation models. Participants cut across governments, industry experts, as well as the research community and civil society. It was announced at the Summit that Singapore will be working with the UK AI Safety Institute to collectively advance capabilities and expertise in AI testing. Ultimately, we want to co-create trustworthy AI that can effectively benefit the economy as well as society.
 
-[PDF version of the speech](/files/Transcript_of_Minister_Josephine_Teos_virtual_interview_at_the_4th_European_AI_Alliance_Assembly.pdf)
+[PDF version of the transcript](/files/Transcript_of_Minister_Josephine_Teos_virtual_interview_at_the_4th_European_AI_Alliance_Assembly.pdf)
