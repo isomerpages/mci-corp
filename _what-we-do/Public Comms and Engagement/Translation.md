@@ -3,6 +3,7 @@ title: Translation
 permalink: /what-we-do/public-comms-and-engagement/translation/
 description: ""
 third_nav_title: Public Comms and Engagement
+variant: markdown
 ---
 ![](/images/TD/updated%20ifg%201_ntc%20banner_mci%20website%20revamp%202023.png)
 ## Raising translation standards
@@ -14,7 +15,7 @@ third_nav_title: Public Comms and Engagement
 * The committee is chaired by Mr Tan Kiat How, Senior Minister of State for Ministry of National Development, and Ministry of Communications and Information.
 * Members of the public are invited to email&nbsp;[MCI_NTC_Secretariat@mci.gov.sg](mailto:MCI_NTC_Secretariat@mci.gov.sg) if they have any queries or feedback.
 
-[Full list of current NTC members](/files/Translation/ntc%205th%20term%20ntc%20cvs%20(as%20of%2018%20sep%202023).pdf)
+[Full list of current NTC members](/files/Translation/N_NTC_5th_Term_NTC_CVs_Updated_as_of_15_Nov_2023.pdf)
 
 [Full list of current RP members](/files/Translation/ntc%20-%20resource%20panels%205th%20term%20cvs%20(as%20of%2018%20sep%202023).pdf)
 
