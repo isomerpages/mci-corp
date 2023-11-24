@@ -87,3 +87,5 @@ Ladies and Gentlemen.
 35.  Once again, congratulations to all the finalists and winners of the Emerging Enterprise Awards 2023. I wish you all the best in your journey ahead.
 
 36.  Thank you.
+
+[PDF version of the speech](/files/Speeches%202023/Transcript_of_SMS_Tan_speech_at_Emerging_Enterprise_Awards_2023v2__002_.pdf)
