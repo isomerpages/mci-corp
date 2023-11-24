@@ -36,8 +36,6 @@ Ladies and Gentlemen.
 
 10.  These trends have significant implications for the world economy and for Singapore. According to the latest IMF World Economic Outlook, the global economy is projected to grow by only 3 percent in both 2023 and 2024, down from 3.5 percent in 2022.
 
-                               
-
 11.  Singapore’s own economic growth is projected to improve only in the second half of next year after facing an “effective standstill” since late 2022, according to the latest report by the Monetary Authority of Singapore (MAS). The MAS also highlighted that such geopolitical conflict and adverse weather events also pose risks to our inflation outlook.
 
 12.  Domestically, Singapore will also need to navigate major trends in the coming years. Let me just touch on a few.
