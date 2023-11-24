@@ -35,7 +35,7 @@ Ladies and Gentlemen.
 9.  Businesses have had to deal with significant challenges in recent years – COVID-19 global health pandemic, heightened geopolitical tensions, uncertain macro-economic environment, supply chain realignments, technological changes including more sophisticated cybersecurity threats and potentially disruptive application of Generative AI – just to name some of them, while at the same time, having to navigate increasing complexity of upholding environmental and social responsibility.
 
 10.  These trends have significant implications for the world economy and for Singapore. According to the latest IMF World Economic Outlook, the global economy is projected to grow by only 3 percent in both 2023 and 2024, down from 3.5 percent in 2022.
-
+      
 11.  Singapore’s own economic growth is projected to improve only in the second half of next year after facing an “effective standstill” since late 2022, according to the latest report by the Monetary Authority of Singapore (MAS). The MAS also highlighted that such geopolitical conflict and adverse weather events also pose risks to our inflation outlook.
 
 12.  Domestically, Singapore will also need to navigate major trends in the coming years. Let me just touch on a few.
