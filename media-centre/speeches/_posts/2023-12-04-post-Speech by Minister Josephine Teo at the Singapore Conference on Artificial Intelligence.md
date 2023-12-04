@@ -43,8 +43,6 @@ Friends and colleagues 
 
 14\. This aspiration is, perhaps, best exemplified by our water story.
 
-\[Embargoed till after speech delivery by DPM Lawrence Wong at SCAI Dinner, 4 Dec\]
-
 15\. As you may be aware, water is an existential issue for Singapore. We are a small island, with a limited water catchment.
 
 16\. In the past, up to 80% of our water was imported from overseas. In the 1990s, when membrane technologies were maturing, we sent our people to learn this technology from the United States, so that we could use it to recycle water. The recycled water, which we call “NEWater”, now supplies up to 40% of Singapore’s water needs.
@@ -71,8 +69,6 @@ Friends and colleagues 
 
 27\. In case you have never tried acupuncture before, and have trouble figuring out what I am saying, we have arranged for an acupuncturist to be with us all day tomorrow. If you feel stuck, or just curious, sign up for a 30-minute session, and maybe that will help you along. Consider this our contribution to helping you get into the _flow_ while in Singapore! 
 
-\[Embargoed till after speech delivery by DPM Lawrence Wong at SCAI Dinner, 4 Dec\]
-
 28\. Just as TCM practitioners strive for holistic health through a systematic approach, the system-orientation may well be the most robust approach to considering our strategies and efforts to address the opportunities and risks of AI. 
 
 29\. We have therefore convened SCAI with a systems-orientation. We are very grateful for the partnership of the Topos Institute, and I want to personally thank its Chairman Ilyas Khan and CEO Dr Brendan Fong, for your intellectual rigour in shaping our program. 
@@ -94,8 +90,6 @@ Friends and colleagues 
 37\. But we know that we must try, because the age of AI is too important for us to sleep-walk into. Particularly, as a small country, constrained by the size of our workforce, AI’s potential as a force multiplier holds much promise, provided we also help our people adapt effectively.
 
 38\. AI is, at the same time, a technology that no country can stop from entering its borders, nor its effects from impacting its societies.
-
-\[Embargoed till after speech delivery by DPM Lawrence Wong at SCAI Dinner, 4 Dec\]
 
 39\. On cross-border issues, Singapore has long believed in the need for international cooperation. This is why we have actively contributed and occasionally played leadership roles, such as in the UN Convention of the Law of the Sea, in the World Intellectual Property Organization, the Open-Ended Working Group on cyber-security, and the Forum of Small States.
 
