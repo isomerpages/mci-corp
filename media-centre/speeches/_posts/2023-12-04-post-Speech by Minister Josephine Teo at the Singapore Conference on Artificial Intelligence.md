@@ -108,4 +108,4 @@ Friends and colleagues 
 
 48\. Thank you!
 
-[PDF version of the speech ](/files/Speeches%202023/Embargoed_Opening_speech_by_Minister_Josephine_Teo_at_Singapore_Conference_on_AI.pdf)
+[PDF version of the speech](/files/Speeches%202023/Opening_speech_by_Minister_Josephine_Teo_at_Singapore_Conference_on_AI.pdf)
