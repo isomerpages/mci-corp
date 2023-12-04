@@ -116,3 +116,5 @@ Friends and colleagues 
 47\. We hope you will find this a meaningful use of your time, to build the brain trust that will help to truly bring about AI for the Global Good.
 
 48\. Thank you!
+
+[PDF version of the speech ](/files/Speeches%202023/Embargoed_Opening_speech_by_Minister_Josephine_Teo_at_Singapore_Conference_on_AI.pdf)
