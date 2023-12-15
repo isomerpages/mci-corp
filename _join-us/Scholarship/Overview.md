@@ -3,6 +3,7 @@ title: Overview
 permalink: /join-us/scholarship/overview/
 description: ""
 third_nav_title: Scholarship
+variant: markdown
 ---
 At MCI, we offer two scholarships – the **MCI Information Service Scholarship** for individuals who are interested in pursuing a career in government communications and the **MCI Information Service (Translation) Scholarship** for individuals with an interest in both government communications and translation work.
 
@@ -11,6 +12,15 @@ As an MCI Scholar, you will be the voice connecting the Government and our peopl
 Upon graduation, you can look forward to a challenging and purposeful career filled with diverse opportunities and developments.
 
 View our scholarship brochure&nbsp;[here](http://go.gov.sg/mcischolarshipbrochure2023)&nbsp;to find out more. You may also read up on our MCI Scholars’ experiences via the Brightsparks 2023 Magazine&nbsp;[here](https://brightsparks.com.sg/magazine/july-2023/mci-bridging-barriers-and-building-trust.php).
+
+Watch our MCI Scholarship video below to hear from our scholars on their exciting journey as an MCI scholar!
+
+<div class="bp-youtube">
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/k01oNmxCh9Y?si=TVV6o72V8pRpQVK9" height="315" width="560"></iframe>
+</div>
+
+
 
 #### Scholarship Terms
   
