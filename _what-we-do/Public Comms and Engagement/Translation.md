@@ -134,7 +134,7 @@ More information will be available at a later date.
 	Current and upcoming application cycles:
 <br><br>
 <title>Table Example</title>  
-<table><thead><tr><th>Application period</th><th>For proposed events which start in</th></tr></thead><tbody><tr><td>1 August 2023 to 30 September 2023</td><td>January 2024 to June 2024</td></tr><tr><td>1 February 2024 to 31 March 2024</td><td>July 2024 to December 2024</td></tr></tbody></table>
+<table><thead><tr><th>Application period</th><th>For proposed events which start in</th></tr></thead><tbody><tr><td>1 February 2024 to 31 March 2024</td><td>July 2024 to December 2024</td></tr><tr><td>1 August 2024 to 30 September 2024</td><td>January 2025 to June 2025</td></tr></tbody></table>
 <br>
 For more information, please refer to: 
 <br><br>
@@ -150,7 +150,7 @@ For more information, please refer to:
     <tbody>
       <tr>
         <td><a href="https://go.gov.sg/citeg-enquiry">Enquiry Form</a></td>
-        <td><a href="/files/Translation/citeg%20application%20guide%20jan2023.pdf">Application Guide</a></td>
+        <td><a href="/files/Translation/CiTEG_Application_Guide_caa_21_Sep_2023.pdf">Application Guide</a></td>
         <td><a href="/files/Translation/citeg%20application%20form%20(updated%2030%20apr%202021).pdf">Application Form</a></td>
 </tr>
 </tbody>
