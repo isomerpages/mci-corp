@@ -109,7 +109,6 @@ to grow the AI ecosystem here.</p>
 all of the Trailblazers graduates, and the ‘Transformation Award’ winners
 and ‘Innovation Award’ winners.</p>
 <p>13. Thank you.</p>
-<p><a href="/files/Transcript_of_Speech_by_Minister_Josephine_Teo_at_Explore_AI__29_Jan_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">PDF Version of the Speech </a>
+<p><a href="/files/Transcript_of_Speech_by_Minister_Josephine_Teo_at_Explore_AI__29_Jan_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">PDF Version of the Speech</a>
 </p>
-<p><a href="/files/Transcript_of_Speech_by_Minister_Josephine_Teo_at_Explore_AI__29_Jan_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank"> </a>
-</p>
+<p></p>
