@@ -151,3 +151,5 @@ later.</p>
 <p>[2] Digital Skills for Life Framework</p>
 <p>[3] Source: 2023 Asia Scam Report published by the Global Anti-Scam Alliance
 (GASA) and Gogolook, Nov 2023.</p>
+<p><a href="/files/Speeches 2024/Transcript_of_Speech_by_Minister_Josephine_Teo_at_the_4th_ASEAN_Digital_Ministers__Meeting__1_Feb_.pdf" rel="noopener noreferrer nofollow" target="_blank">PDF version of the speech</a>
+</p>
