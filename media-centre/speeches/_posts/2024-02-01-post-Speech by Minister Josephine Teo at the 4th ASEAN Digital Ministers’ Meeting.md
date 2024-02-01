@@ -5,7 +5,7 @@ date: 2024-02-01
 layout: post
 description: ""
 image: ""
-variant: tiptap
+variant: markdown
 ---
 <p>Fellow Digital Ministers</p>
 <p>Excellencies</p>
@@ -71,7 +71,7 @@ areas of potential to unlock.</p>
 Joint Guide on Model Contractual Clauses for International Data Transfers.
 ASEAN is the EU’s third largest trading partner, while the EU is the second
 largest investor in ASEAN, having invested US$26.5 billion in our economy
-in 2021[1]. I am sure that figure has grown since. Singapore alone has
+	in 2021<sup>[1]</sup>. I am sure that figure has grown since. Singapore alone has
 more than 14,000 European businesses that use us as their regional headquarters,
 logistics and distribution centres for the region.</p>
 <p>15. This joint Guide will therefore be useful for businesses that operate
@@ -104,7 +104,7 @@ which many consider to be less tech-savvy, 82% are already comfortable
 using the Internet to search for information. But we believe we can do
 much more to help them, as well as anyone who wishes to acquire the skills
 needed to benefit from technology. This is why, during the debate, my Ministry
-announced the introduction of a framework[2], which identifies baseline
+	announced the introduction of a framework<sup>[2]</sup>, which identifies baseline
 digital skills for Singaporeans to carry out daily tasks online.</p>
 <p>21. In this regard, I am also glad to learn about the project by Laos
 on Assessing the Relationship between ICT Infrastructure and Digital Skills
@@ -120,7 +120,7 @@ we have to do much more to combat scams carried out with the help of digital
 technologies.</p>
 <p>24. According to the Global Anti-Scam Alliance, US$1.4 trillion was lost
 to scams worldwide between August 2022 to August 2023. In Asia alone, more
-than 60% of people encounter at least one scam each week[3]. Scams are
+	than 60% of people encounter at least one scam each week<sup>[3]</sup>. Scams are
 now a transnational problem, with criminals and cybercrime syndicates using
 digital tools to operate at scale and at speed, across borders.</p>
 <p>25. In this regard, we welcome Thailand’s timely proposal on the Operational
@@ -146,10 +146,10 @@ where we can deliver concrete outcomes for the benefit of the 650 million
 people in this region.</p>
 <p>29. Thank you very much for being here. I look forward to our exchanges
 later.</p>
-<hr>
-<p>[1] Source: ASEAN Key Figures 2022</p>
-<p>[2] Digital Skills for Life Framework</p>
-<p>[3] Source: 2023 Asia Scam Report published by the Global Anti-Scam Alliance
-(GASA) and Gogolook, Nov 2023.</p>
 <p><a href="/files/Speeches 2024/Transcript_of_Speech_by_Minister_Josephine_Teo_at_the_4th_ASEAN_Digital_Ministers__Meeting__1_Feb_.pdf" rel="noopener noreferrer nofollow" target="_blank">PDF version of the speech</a>
 </p>
+<hr>
+<p><sup>[1]</sup> Source: ASEAN Key Figures 2022</p>
+<p><sup>[2]</sup> Digital Skills for Life Framework</p>
+<p><sup>[3]</sup> Source: 2023 Asia Scam Report published by the Global Anti-Scam Alliance
+(GASA) and Gogolook, Nov 2023.</p>
