@@ -71,7 +71,7 @@ areas of potential to unlock.</p>
 Joint Guide on Model Contractual Clauses for International Data Transfers.
 ASEAN is the EU’s third largest trading partner, while the EU is the second
 largest investor in ASEAN, having invested US$26.5 billion in our economy
-in 2021[1]. I am sure that figure has grown since. Singapore alone has
+in 2021[^1]. I am sure that figure has grown since. Singapore alone has
 more than 14,000 European businesses that use us as their regional headquarters,
 logistics and distribution centres for the region.</p>
 <p>15. This joint Guide will therefore be useful for businesses that operate
@@ -147,4 +147,4 @@ people in this region.</p>
 <p>29. Thank you very much for being here. I look forward to our exchanges
 later.</p>
 <hr>
-<p>[1] Source: ASEAN Key Figures 2022</p>
+<p>[^1]: Source: ASEAN Key Figures 2022</p>
