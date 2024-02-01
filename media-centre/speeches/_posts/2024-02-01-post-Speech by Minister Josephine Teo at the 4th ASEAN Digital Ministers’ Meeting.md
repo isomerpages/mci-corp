@@ -146,10 +146,10 @@ where we can deliver concrete outcomes for the benefit of the 650 million
 people in this region.</p>
 <p>29. Thank you very much for being here. I look forward to our exchanges
 later.</p>
+<p><a href="/files/Speeches 2024/Transcript_of_Speech_by_Minister_Josephine_Teo_at_the_4th_ASEAN_Digital_Ministers__Meeting__1_Feb_.pdf" rel="noopener noreferrer nofollow" target="_blank">PDF version of the speech</a>
+</p>
 <hr>
 <p>[1] Source: ASEAN Key Figures 2022</p>
 <p>[2] Digital Skills for Life Framework</p>
 <p>[3] Source: 2023 Asia Scam Report published by the Global Anti-Scam Alliance
 (GASA) and Gogolook, Nov 2023.</p>
-<p><a href="/files/Speeches 2024/Transcript_of_Speech_by_Minister_Josephine_Teo_at_the_4th_ASEAN_Digital_Ministers__Meeting__1_Feb_.pdf" rel="noopener noreferrer nofollow" target="_blank">PDF version of the speech</a>
-</p>
