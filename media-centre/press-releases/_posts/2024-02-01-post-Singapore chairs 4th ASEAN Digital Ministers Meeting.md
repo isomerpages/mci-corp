@@ -47,7 +47,7 @@ and EU Standard Clauses will also be launched. The Joint Guide aims to
 facilitate understanding between ASEAN and EU businesses and streamline
 processes for cross-border data flows.</p>
 <p>7. During this period, the ASEAN Digital Ministers will engage in comprehensive
-discussions, with Singapore set to emphasise key prioritises at</p>
+discussions, with Singapore set to emphasise key prioritises at this ADGMIN:</p>
 <p>(i) Artificial Intelligence (AI) Governance: Acknowledging the transformative
 potential of AI, Singapore recognises the transformative potential of AI,
 and the need for trust and safety to underwrite AI for the Public Good.
@@ -67,5 +67,4 @@ cyber and data security, and digital literacy.</p>
 endeavours of the ASEAN Member States (AMS) in digitally transforming the
 region. This collective effort aims to enhance the digital skills and competency
 of every ASEAN citizen, fostering an environment ready to embrace emerging
-technologies and elevate the quality of life for citizens and businesses.
-this ADGMIN:</p>
+technologies and elevate the quality of life for citizens and businesses.</p>
