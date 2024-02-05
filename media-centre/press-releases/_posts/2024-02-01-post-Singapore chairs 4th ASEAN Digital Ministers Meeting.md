@@ -7,9 +7,10 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>Singapore chairs 4 th ASEAN Digital Ministers Meeting</p>
-<p>ASEAN Digital Ministers Convene at 4th ASEAN Digital Ministers Meeting
-in Singapore to Discuss Emerging Digital Issues including AI and Scams</p>
+<p><strong>Singapore chairs 4th ASEAN Digital Ministers Meeting</strong>
+</p>
+<p><strong>ASEAN Digital Ministers Convene at 4th ASEAN Digital Ministers Meeting in Singapore to Discuss Emerging Digital Issues including AI and Scams</strong>
+</p>
 <p><em>First time after 11 years that Singapore plays host to Ministers in this portfolio.</em>
 </p>
 <p><em>Discussions under Singapore’s Chairmanship likely to focus on AI governance and fostering ASEAN collaborations to combat online scams.</em>
