@@ -41,8 +41,7 @@ and secure digital infrastructures and systems.</p>
 Meeting (ADGSOM) took place on January 30-31, 2024, with the signing of
 several key agreements, including a Memorandum of Understanding between
 the Ministry of Communications and Information in Singapore and Kementerian
-Komunikasi dan Informatika (KOMINFO). [Refer to the media factsheet in
-Annex].</p>
+Komunikasi dan Informatika (KOMINFO). [Refer to the media factsheet <a href="/files/Press Releases 2024/Media_Factsheet_Annex.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>].</p>
 <p>6. At ADGMIN, Part Two of the Joint Guide to ASEAN Model Contractual Clauses
 and EU Standard Clauses will also be launched. The Joint Guide aims to
 facilitate understanding between ASEAN and EU businesses and streamline
