@@ -174,3 +174,5 @@ have.</p>
 it will undermine our hard-won credibility as a serious, constructive,
 inclusive society and nation.</p>
 <p>33. Thank you, Mr. Speaker.</p>
+<p><a href="/files/Parliament 2024/Response_by_Dr__Janil_Puthucheary__Senior_Minister_of_State_for_Communications_and_Information__to_the_Adjournment_Motion_on_Global_Leadership_in_Artificial_Intelligence.pdf" rel="noopener noreferrer nofollow" target="_blank">PDF version of the speech</a>
+</p>
