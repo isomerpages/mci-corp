@@ -20,7 +20,6 @@ variant: markdown
 [Full list of current NTC members](/files/Translation/N_NTC_5th_Term_NTC_CVs_Updated_as_of_15_Nov_2023.pdf)
 
 [Full list of current RP members](/files/Translation/ntc%20-%20resource%20panels%205th%20term%20cvs%20(as%20of%2018%20sep%202023).pdf)
-</section>
 	
 ### SG Translate Together Web Portal
 
@@ -158,4 +157,4 @@ For more information, please refer to:
 </tr>
 </tbody>
 </table><br><br>
-</details>
+</details></section>
