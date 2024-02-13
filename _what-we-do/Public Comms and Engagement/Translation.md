@@ -6,7 +6,9 @@ third_nav_title: Public Comms and Engagement
 variant: markdown
 ---
 ![](/images/TD/updated%20ifg%201_ntc%20banner_mci%20website%20revamp%202023.png)
-## Raising translation standards
+
+<section id="raising-translation-standards">
+	<h2>Raising translation standards</h2>
 
 **About the National Translation Committee**
 
@@ -51,7 +53,7 @@ MCI’s Translation Department maintains the Government Terms Translated reposit
 **Information Service (Translation) Scholarship** 
 
 In 2015, MCI introduced the Information Service (Translation) Scholarship, aimed at identifying and grooming young Singaporeans who have a strong interest in translation as well as a deep familiarity with Singapore’s translation landscape and context. Click [here](/join-us/scholarship/overview/) for more information on the Information Service (Translation) Scholarship.
-
+	
 ### Translation Talent Development Scheme (TTDS)
 
 * Launched in 2018, the TTDS is an initiative to support Singaporean translation and interpretation (T&amp;I) practitioners from the private sector in deepening their skills.&nbsp;
@@ -155,4 +157,4 @@ For more information, please refer to:
 </tr>
 </tbody>
 </table><br><br>
-</details>
+</details></section>
