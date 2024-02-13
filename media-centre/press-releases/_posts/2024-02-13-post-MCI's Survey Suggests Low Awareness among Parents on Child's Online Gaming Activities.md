@@ -67,6 +67,9 @@ predators and online scams.</p>
 </li>
 </ol>
 <p>Figure 1: Youths’ Interactions with Other Players</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Press Release 2024/Figure_1_Youths_Interactions_with_Other_Players.png">
+</div>
 <ol start="5" data-tight="true" class="tight">
 <li>
 <p>Among respondents aged 13 to 18 years old, 17% experienced in-game bullying
@@ -93,6 +96,9 @@ of the amount of time their child spent on gaming. Only 3 in 10 parents
 </li>
 </ol>
 <p>Figure 2: Parents’ Awareness of Child’s Interactions with Other Players</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Press Release 2024/Figure_2_Parents_Awareness.png">
+</div>
 <ol start="8" data-tight="true" class="tight">
 <li>
 <p>Parents who were concerned about their child’s gaming habits were more
