@@ -8,40 +8,25 @@ description: ""
 image: ""
 variant: markdown
 ---
-<p>MCI’s Survey Suggests Low Awareness among Parents on Child’s Online Gaming
-Activities; New Resources Launched to Support Parents in Guiding Children
-to Navigate Online World</p>
+<p>MCI’s Survey Suggests Low Awareness among Parents on Child’s Online Gaming Activities; New Resources Launched to Support Parents in Guiding Children to Navigate Online World</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>One-third of youths surveyed played online games with strangers, sometimes
-or frequently</p>
+<p>One-third of youths surveyed played online games with strangers, sometimes or frequently</p>
 </li>
 <li>
-<p>One-third of youths surveyed came across vulgarities or violent content
-in games, sometimes or frequently</p>
+<p>One-third of youths surveyed came across vulgarities or violent content in games, sometimes or frequently</p>
 </li>
 <li>
-<p>Only three in ten parents surveyed were fully aware of who their child
-gamed with</p>
+<p>Only three in ten parents surveyed were fully aware of who their child gamed with</p>
 </li>
 </ul>
 <ol data-tight="true" class="tight">
 <li>
-<p>To better understand youths'; gaming habits and their parents'; awareness
-and efforts to manage the impact of gaming on their child's well-being,
-the Ministry of Communications and Information (MCI) conducted a door-to-door
-survey from October 2022 to February 2023 with 810 Singaporean youths aged
-10 to 18 years old, and their parents. Youths who played online or video
-games at least once a month were surveyed.</p>
+<p>To better understand youths'; gaming habits and their parents'; awareness and efforts to manage the impact of gaming on their child's well-being, the Ministry of Communications and Information (MCI) conducted a door-to-door survey from October 2022 to February 2023 with 810 Singaporean youths aged 10 to 18 years old, and their parents. Youths who played online or video games at least once a month were surveyed.</p>
 <p></p>
 </li>
 <li>
-<p>While MCI’s survey focused on potential risks and dangers that youths
-may be exposed to, it did not conclude that online gaming only resulted
-in negative impacts. Other studies showed that there were benefits of gaming,
-such as enhancing perceptual and motor skills, promoting teamwork and prosocial
-behaviour, and providing platforms to express creativity and imagination
-1 . MCI’s survey sought to highlight the need to raise parents’ awareness
+<p>While MCI’s survey focused on potential risks and dangers that youths may be exposed to, it did not conclude that online gaming only resulted in negative impacts. Other studies showed that there were benefits of gaming, such as enhancing perceptual and motor skills, promoting teamwork and prosocial behaviour, and providing platforms to express creativity and imagination [^1] . MCI’s survey sought to highlight the need to raise parents’ awareness
 of their child’s gaming activities, and encourage youths to make more informed
 decisions about their gaming behaviour.</p>
 </li>
@@ -174,7 +159,7 @@ ideas on how 3P partners can work together to promote digital wellbeing.</p>
 </li>
 </ol>
 <hr>
-<p>1 The Ministry of Health’s evidence review of screen use in childhood
+<p>[^1]: The Ministry of Health’s evidence review of screen use in childhood
 (2022) summarised both the positive and negative impacts that can potentially
 arise from gaming. Beyond gaming, it also examined the impact of watching
 TV, and use of computers and/or mobile phones.</p>
