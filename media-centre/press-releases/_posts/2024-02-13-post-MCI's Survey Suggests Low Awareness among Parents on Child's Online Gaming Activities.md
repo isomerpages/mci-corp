@@ -6,27 +6,42 @@ date: 2024-02-13
 layout: post
 description: ""
 image: ""
-variant: markdown
+variant: tiptap
 ---
-<p>MCI’s Survey Suggests Low Awareness among Parents on Child’s Online Gaming Activities; New Resources Launched to Support Parents in Guiding Children to Navigate Online World</p>
+<p>MCI’s Survey Suggests Low Awareness among Parents on Child’s Online Gaming
+Activities; New Resources Launched to Support Parents in Guiding Children
+to Navigate Online World</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>One-third of youths surveyed played online games with strangers, sometimes or frequently</p>
+<p>One-third of youths surveyed played online games with strangers, sometimes
+or frequently</p>
 </li>
 <li>
-<p>One-third of youths surveyed came across vulgarities or violent content in games, sometimes or frequently</p>
+<p>One-third of youths surveyed came across vulgarities or violent content
+in games, sometimes or frequently</p>
 </li>
 <li>
-<p>Only three in ten parents surveyed were fully aware of who their child gamed with</p>
+<p>Only three in ten parents surveyed were fully aware of who their child
+gamed with</p>
 </li>
 </ul>
 <ol data-tight="true" class="tight">
 <li>
-<p>To better understand youths'; gaming habits and their parents'; awareness and efforts to manage the impact of gaming on their child's well-being, the Ministry of Communications and Information (MCI) conducted a door-to-door survey from October 2022 to February 2023 with 810 Singaporean youths aged 10 to 18 years old, and their parents. Youths who played online or video games at least once a month were surveyed.</p>
+<p>To better understand youths'; gaming habits and their parents'; awareness
+and efforts to manage the impact of gaming on their child's well-being,
+the Ministry of Communications and Information (MCI) conducted a door-to-door
+survey from October 2022 to February 2023 with 810 Singaporean youths aged
+10 to 18 years old, and their parents. Youths who played online or video
+games at least once a month were surveyed.</p>
 <p></p>
 </li>
 <li>
-<p>While MCI’s survey focused on potential risks and dangers that youths may be exposed to, it did not conclude that online gaming only resulted in negative impacts. Other studies showed that there were benefits of gaming, such as enhancing perceptual and motor skills, promoting teamwork and prosocial behaviour, and providing platforms to express creativity and imagination [^1] . MCI’s survey sought to highlight the need to raise parents’ awareness
+<p>While MCI’s survey focused on potential risks and dangers that youths
+may be exposed to, it did not conclude that online gaming only resulted
+in negative impacts. Other studies showed that there were benefits of gaming,
+such as enhancing perceptual and motor skills, promoting teamwork and prosocial
+behaviour, and providing platforms to express creativity and imagination
+[1] . MCI’s survey sought to highlight the need to raise parents’ awareness
 of their child’s gaming activities, and encourage youths to make more informed
 decisions about their gaming behaviour.</p>
 </li>
@@ -38,22 +53,22 @@ decisions about their gaming behaviour.</p>
 <ol start="3" data-tight="true" class="tight">
 <li>
 <p>The survey found that about one in two (47%) youths aged 10 to 18 years
-old gamed every day. Those who did, tended to play for two hours 2 or more
-in each gaming session.</p>
+old gamed every day. Those who did, tended to play for two hours [2] or
+more in each gaming session.</p>
 <p></p>
 </li>
 <li>
 <p>While the majority of youth respondents (64%) never or rarely played online
 games with strangers, about one-third of them (36%) played games with strangers
 sometimes or frequently. Some 14% had also engaged strangers outside of
-gaming 3 . Such behaviour presents a risk of potential exposure to adult
+gaming [3]. Such behaviour presents a risk of potential exposure to adult
 predators and online scams.</p>
 <p></p>
 </li>
 </ol>
 <p>Figure 1: Youths’ Interactions with Other Players</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Press Release 2024/Figure_1_Youths_Interactions_with_Other_Players.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Press Releases 2024/Figure_1_Youths_Interactions_with_Other_Players.png">
 </div>
 <ol start="5" data-tight="true" class="tight">
 <li>
@@ -82,7 +97,7 @@ of the amount of time their child spent on gaming. Only 3 in 10 parents
 </ol>
 <p>Figure 2: Parents’ Awareness of Child’s Interactions with Other Players</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Press Release 2024/Figure_2_Parents_Awareness.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Press Releases 2024/Figure_2_Parents_Awareness.png">
 </div>
 <ol start="8" data-tight="true" class="tight">
 <li>
@@ -159,15 +174,15 @@ ideas on how 3P partners can work together to promote digital wellbeing.</p>
 </li>
 </ol>
 <hr>
-<p>[^1]: The Ministry of Health’s evidence review of screen use in childhood
+<p>[1]: The Ministry of Health’s evidence review of screen use in childhood
 (2022) summarised both the positive and negative impacts that can potentially
 arise from gaming. Beyond gaming, it also examined the impact of watching
 TV, and use of computers and/or mobile phones.</p>
-<p>2 The American Academy of Pediatrics suggests that for children above
+<p>[2]: The American Academy of Pediatrics suggests that for children above
 six years old, gaming time should be limited to under 60 min/day on school
 days and two hours or less on non-school days. This allows children to
 balance gaming with other activities, such as socialising, physical activity
 and homework.</p>
-<p>3 This refers to having done at least one of the following: (a) chatted
+<p>[3]: This refers to having done at least one of the following: (a) chatted
 with strangers about non-gaming related topics, (b) shared personal information
 with strangers, or (c) met strangers in person.</p>
