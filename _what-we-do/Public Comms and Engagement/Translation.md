@@ -9,6 +9,7 @@ variant: markdown
 
 <section id="raising-translation-standards">
 	<h2>Raising translation standards</h2>
+</section>
 
 **About the National Translation Committee**
 
@@ -157,4 +158,4 @@ For more information, please refer to:
 </tr>
 </tbody>
 </table><br><br>
-</details></section>
+</details>
