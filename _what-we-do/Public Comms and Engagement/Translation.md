@@ -10,6 +10,7 @@ variant: markdown
 <section id="raising-translation-standards">
 	<h2>Raising translation standards</h2>
 </section>
+
 **About the National Translation Committee**
 
 ![](/images/TD/updated%20ifg%202_ntc%20and%20rp%20ifg_mci%20website%20revamp%202023.png)
