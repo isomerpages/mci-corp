@@ -7,9 +7,7 @@ variant: markdown
 ---
 ![](/images/TD/updated%20ifg%201_ntc%20banner_mci%20website%20revamp%202023.png)
 
-<section id="raising-translation-standards">
-	<h2>Raising translation standards</h2>
-</section>
+### Raising translation standards
 
 **About the National Translation Committee**
 
