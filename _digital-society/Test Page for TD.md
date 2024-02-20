@@ -20,7 +20,8 @@ description: ""
 
 <p><a href="“/files/Translation/N\_NTC\_5th\_Term\_NTC\_CVs\_Updated\_as\_of\_15\_Nov\_2023.pdf”">Full list of current NTC members</a></p>
 <p><a href="“/files/Translation/ntc%20-%20resource%20panels%205th%20term%20cvs%20(as%20of%2018%20sep%202023).pdf”">Full list of current RP members</a></p>&nbsp;
-
+</section>
+	
 <section id="“sgtt-web-portal”">
 	<h2>SG Translate Together Web Portal</h2>
 
@@ -29,4 +30,7 @@ description: ""
 <ul>
 <li>The <a href="“https://www.sgtranslatetogether.gov.sg/“">SG Translate Together (SGTT)</a> Web Portal allows members of the public to generate localised first-cut translations and contribute post-edited translation data to improve the accuracy of the SG Translate Machine Translation (MT) engine. This engine was jointly developed by the Ministry of Communications and Information (MCI) and A*STAR’s Institute for Infocomm Research (I<sup>2</sup>R), with the support of the TRANS Grant. </li>
 <li>The registered users, known as Citizen Translators, can edit the MT generated translations and submit them for review. These reviewed translations will be used to further train the MT engine.</li>
-<li>The portal serves as a one-stop platform for the translation community, where they can develop their translation skills, utilise translation resources, share their insights with one another and stay updated on translation-related programmes and events.</li></ul></section></section>
+<li>The portal serves as a one-stop platform for the translation community, where they can develop their translation skills, utilise translation resources, share their insights with one another and stay updated on translation-related programmes and events.</li>
+	
+<img src="https://www.mci.gov.sg/images/TD/sgtt%20edm.jpg" style="height:580px; width:411px;">
+	</ul></section>
