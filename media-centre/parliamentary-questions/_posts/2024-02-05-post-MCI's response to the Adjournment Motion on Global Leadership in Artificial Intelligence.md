@@ -8,6 +8,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<h3>Parliament Sitting on 5 February 2024</h3>
 <p>1. Thank you, Mr. Speaker.</p>
 <p>2. I thank Mr. Giam, for raising some very important issues to do with
 AI. I thank him for reading our National Artificial Intelligence Strategy
