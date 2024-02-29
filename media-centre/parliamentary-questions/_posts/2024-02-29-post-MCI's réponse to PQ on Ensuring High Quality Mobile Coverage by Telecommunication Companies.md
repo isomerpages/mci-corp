@@ -17,7 +17,7 @@ service especially in new towns; (b) how does the Ministry monitor and
 ensure the quality of mobile services provided by telecommunication companies;
 and (c) what benchmarks or standards are put in place to measure and maintain
 high-quality mobile coverage.</p>
-<p><strong>Answer: </strong>
+<p><strong>Answer:</strong>
 </p>
 <ol>
 <li>
