@@ -16,9 +16,9 @@ variant: markdown
 * The committee is chaired by Mr Tan Kiat How, Senior Minister of State for Ministry of National Development, and Ministry of Communications and Information.
 * Members of the public are invited to email&nbsp;[MCI_NTC_Secretariat@mci.gov.sg](mailto:MCI_NTC_Secretariat@mci.gov.sg) if they have any queries or feedback.
 
-[Full list of current NTC members](/files/Translation/Full_list_of_6th_Term_NTC_members__29_Feb_2024_.pdf)
+[Full list of current NTC members](/files/Translation/N_NTC_5th_Term_NTC_CVs_Updated_as_of_15_Nov_2023.pdf)
 
-[Full list of current RP members](/files/Translation/Full_list_of_6th_Term_RP_members__29_Feb_2024_.pdf)
+[Full list of current RP members](/files/Translation/ntc%20-%20resource%20panels%205th%20term%20cvs%20(as%20of%2018%20sep%202023).pdf)
 	
 ### SG Translate Together Web Portal
 
