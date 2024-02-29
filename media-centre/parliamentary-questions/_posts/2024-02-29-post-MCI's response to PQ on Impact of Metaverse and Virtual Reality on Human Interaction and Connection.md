@@ -17,7 +17,7 @@ connection in the Singaporean context; and (b) how are relevant stakeholders
 such as parents, educators and mental health professionals equipped to
 guide and support children and young adults to navigate the social dimensions
 of these virtual environments.</p>
-<p><strong>Answer: </strong>
+<p><strong>Answer:</strong>
 </p>
 <ol>
 <li>
