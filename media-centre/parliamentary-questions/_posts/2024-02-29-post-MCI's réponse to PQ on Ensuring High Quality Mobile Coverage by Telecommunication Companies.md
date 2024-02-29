@@ -10,7 +10,7 @@ variant: tiptap
 ---
 <h3>Parliament Sitting on 29 February 2024</h3>
 <h3>QUESTION FOR WRITTEN ANSWER</h3>
-<p><strong>17. Mr Shawn Huang Wei Zhong: </strong>To ask the Minister for
+<p><strong>13. Mr Shawn Huang Wei Zhong: </strong>To ask the Minister for
 Communications and Information (a) whether he can provide an update on
 the current state of telecommunications mobile coverage and quality of
 service especially in new towns; (b) how does the Ministry monitor and
