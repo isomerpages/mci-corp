@@ -9,7 +9,7 @@ variant: tiptap
 ---
 <h3>Parliament Sitting on 29 February 2024</h3>
 <h3>QUESTION FOR ORAL ANSWER</h3>
-<p><strong>5788</strong>. Mr Yip Hon Weng: To ask the Minister for Communications
+<p><strong>*3</strong>. Mr Yip Hon Weng: To ask the Minister for Communications
 and Information (a) whether there are concerns that the extent of artificial
 intelligence (AI)-driven job losses in Singapore may be underestimated
 with Singapore being the fastest adopter of generative AI in the Asia-Pacific;
