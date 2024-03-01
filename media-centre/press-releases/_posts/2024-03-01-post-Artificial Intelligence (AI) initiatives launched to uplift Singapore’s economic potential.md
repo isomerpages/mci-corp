@@ -61,24 +61,23 @@ products and services.</p>
 <p>As an initial step to nurture a pool of top-tier AI Creators:</p>
 </li>
 </ol>
-<p>a. The government will launch a new AI Visiting Professorship to attract
-world-class AI researchers to establish collaborations with Singapore.
+<p>a. The government will launch a new <strong>AI Visiting Professorship</strong> to
+attract world-class AI researchers to establish collaborations with Singapore.
 Refer to <a href="/files/Press Releases 2024/AI___Annex_A.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex A</a> for
 more details.</p>
-<p>b. The government will invest S$7 million into a new AI Accelerated Masters
-Programme in collaboration with local universities to build up our own
-pipeline of Singaporean AI researchers. Refer to <a href="/files/Press Releases 2024/AI___Annex_B.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex B</a> for more
+<p>b. The government will invest S$7 million into a new <strong>AI Accelerated Masters Programme</strong> in
+collaboration with local universities to build up our own pipeline of Singaporean
+AI researchers. Refer to <a href="/files/Press Releases 2024/AI___Annex_B.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex B</a> for more
 details.</p>
 <ol start="7" data-tight="true" class="tight">
 <li>
 <p>As for AI practitioners, we will level up and triple the pool of practitioners
 to 15,000 over 5 years to support growing AI demand. As an initial step
-towards this goal, the government will invest over $20 million to enhance
-AI Practitioner training for students over three years, including an increase
-in the number of AI-related SG Digital Scholarships for Singaporeans to
-pursue AI and related undergraduate, masters, and PhD courses in top universities,
-and facilitate access to overseas internships in AI-related roles. These
-scholarships will allow students to work in the industry after graduation,
+towards this goal, the government will invest <strong>over $20 million to enhance AI Practitioner training</strong>  <strong>for students over three years</strong>,
+including an increase in the number of AI-related <strong>SG Digital Scholarships</strong> for
+Singaporeans to pursue AI and related undergraduate, masters, and PhD courses
+in top universities, and facilitate access to <strong>overseas internships in AI-related roles</strong>.
+These scholarships will allow students to work in the industry after graduation,
 while the internships will provide students with opportunities to gain
 industry exposure and apply their knowledge and skills to solve real-world
 problems. This is in addition to the ramping up of our Continuous Education
@@ -108,11 +107,11 @@ GenAI solutions on the <a href="https://go.gov.sg/sme-gen-ai" rel="noopener nore
 <p></p>
 </li>
 <li>
-<p>For enterprises that are digitally more mature, IMDA has launched the
-Generative AI x Digital Leaders initiative to provide them with access
-to GenAI expertise and resources to better understand GenAI and further
-build their capabilities to implement customised GenAI applications with
-tech partners to meet their business needs. Refer to <a href="/files/Press Releases 2024/AI__Annex_D.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex D</a> for
+<p>For enterprises that are digitally more mature, IMDA has launched the <strong>Generative AI x Digital Leaders</strong> initiative
+to provide them with access to GenAI expertise and resources to better
+understand GenAI and further build their capabilities to implement customised
+GenAI applications with tech partners to meet their business needs. Refer
+to <a href="/files/Press Releases 2024/AI__Annex_D.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex D</a> for
 more details of this initiative.</p>
 </li>
 </ol>
@@ -126,11 +125,10 @@ needs reliable access to high-performance compute to facilitate AI innovation.</
 <p></p>
 </li>
 <li>
-<p>To achieve this goal, an investment of up to $500 million will go towards
-availing high-performance compute to support AI innovation and capability
-building for a start, and catalyse further investments by industry. Refer
-to <a href="/files/Press Releases 2024/AI___Annex_E.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex E </a>for
-more details.</p>
+<p>To achieve this goal, <strong>an investment of up to $500 million will go towards availing high-performance compute</strong> to
+support AI innovation and capability building for a start, and catalyse
+further investments by industry. Refer to <a href="/files/Press Releases 2024/AI___Annex_E.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex E </a>for more
+details.</p>
 </li>
 </ol>
 <p><strong>Enabler 4: Trusted Environment</strong>
@@ -145,9 +143,9 @@ trustworthy, and responsible manner.</p>
 </li>
 <li>
 <p>To this end, the Personal Data Protection Commission (PDPC) has finalised
-its Advisory Guidelines on the use of Personal Data in AI Recommendation
-and Decision Systems, and published it on 1 Mar 2024. Refer to <a href="/files/Press Releases 2024/AI___Annex_F.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex F</a> for
-more details of these guidelines.</p>
+its <strong>Advisory Guidelines on the use of Personal Data in AI Recommendation and Decision Systems</strong>,
+and published it on 1 Mar 2024. Refer to <a href="/files/Press Releases 2024/AI___Annex_F.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex F</a> for more
+details of these guidelines.</p>
 <p></p>
 </li>
 <li>
