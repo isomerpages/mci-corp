@@ -154,7 +154,7 @@ relating to the use of personal data. In this regard, the PDPC is also
 reviewing how to give guidance on the use of personal data in the context
 of training or as input in Generative AI applications.
 <br>
-<br><a href="/files/Press Releases 2024/_Infographic__AI_initiatives_to_power_Singapore_s_economic_growth.pdf" rel="noopener noreferrer nofollow" target="_blank">Infographic on AI initiatives</a>
+<br><a href="/files/Press Releases 2024/AI_initiatives_to_power_Singapores_economic_growth.pdf" rel="noopener noreferrer nofollow" target="_blank">Infographic on AI initiatives</a>
 </p>
 </li>
 </ol>
