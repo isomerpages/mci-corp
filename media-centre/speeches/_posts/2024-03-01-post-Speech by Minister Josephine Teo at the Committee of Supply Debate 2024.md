@@ -337,163 +337,188 @@ the digital domain.</p>
 <li>
 <p>Both Ms Hany Soh and Mr Eric Chua asked how we maintain the human touch,
 amidst increasing digitalisation.</p>
+<p></p>
 </li>
 <li>
 <p>Sir, Coincidentally, I spoke about it yesterday at MHA’s COS debate. The
-reality</p>
+reality is that there is no silver bullet. Digitalisation is taking place
+across multiple settings and changes our interactions with each other in
+so many ways. We will therefore have to feel our way forward and be willing
+to adjust our approaches.</p>
+<p></p>
+</li>
+<li>
+<p>Where the government is concerned, we are mindful that the delivery of
+public services through digital means should be carefully designed to cater
+to different population segments, including seniors.</p>
+<p></p>
+</li>
+<li>
+<p>Two days ago, Minister Chan Chun Sing also reiterated the Government’s
+commitment to ensure our services remain accessible to all. For example,
+citizens who require support for Government services can head to any ServiceSG
+Centre, which can help with close to 600 services and schemes from over
+25 agencies. IMDA’s Digital Ambassadors also stand ready at multiple community
+touchpoints to provide guidance to seniors.</p>
+<p></p>
+</li>
+<li>
+<p>As the digital landscape evolves, our libraries will also continue efforts
+to promote reading and lifelong learning. This includes NLB’s mobile library
+service, or MOLLY, which Ms Hany Soh touched on. I thank you for your support
+and appreciation of NLB’s MOLLY’s outreach.</p>
+<p></p>
+</li>
+<li>
+<p>Since its launch in 2008, MOLLY has served over 500 institutions, received
+around 1.4 million visits, and facilitated about 2.7m loans. Other than
+MOLLY, there are other ways libraries make their presence felt, such as
+through pop-up stations in malls with high footfall.</p>
+<p></p>
+</li>
+<li>
+<p>I will now address two other dimensions of digital trust that Ms Tin,
+Ms Jessica Tan, Mr De Souza and Mr Xie asked about: security and resilience.
+These largely concern the digital infrastructure and services that power
+our digital economy and enable citizens to meet their day-to-day needs.</p>
+<p></p>
+</li>
+<li>
+<p>In 2023, Singapore faced disruptions in online Government services, banking
+and payment services, and when accessing the websites of public healthcare
+institutions.</p>
+<p></p>
+</li>
+<li>
+<p>But we were not alone. Many countries are grappling with similar issues
+as they become more digitalised. For example, a data centre outage in France
+caused widespread disruption to government and other services. A cloud
+service outage in the US caused many websites to be inaccessible, including
+those of news outlets and airlines.</p>
+<p></p>
+</li>
+<li>
+<p>To manage the impact of such disruptions, the EU, Germany, and Australia
+have already introduced regulations to enhance the security and resilience
+of digital infrastructure such as cloud services and data centres.</p>
+<p></p>
+</li>
+<li>
+<p>While we cannot fully eliminate disruptions, we will do more to minimise
+their occurrence. An inter-agency taskforce led by MCI has been reviewing
+the evolving landscape and developing mitigating measures. We are looking
+at two key moves.</p>
+<p></p>
+</li>
+<li>
+<p>First, we will enhance our regulatory levers. The upcoming amendments
+to the Cybersecurity Act will raise the cybersecurity of foundational digital
+infrastructure and other systems as well as entities, beyond the Critical
+Information Infrastructure it covers today.</p>
+<p></p>
+</li>
+<li>
+<p>The expanded coverage will include data centres, cloud services, and key
+entities that may hold sensitive data or perform important public functions.
+I am pleased to update Members that public consultations on the amendments
+were completed in January. We plan to introduce the amendment Bill in Parliament
+next week and will share more details then.</p>
+<p></p>
+</li>
+<li>
+<p>While enhancing our cybersecurity posture is important, it is not enough.
+Past outages in Singapore and elsewhere have shown that disruptions can
+occur due to non-cyber causes. These include misconfigurations in cloud
+architecture, or the outage of data centres due to fires, water leakages,
+and cooling system failures.</p>
+<p></p>
+</li>
+<li>
+<p>The Taskforce is therefore also studying the introduction of a new Digital
+Infrastructure Act (DIA), to address broader security and resilience concerns
+of key digital infrastructure and services, beyond cybersecurity.</p>
+<p></p>
+</li>
+<li>
+<p>The DIA will focus on digital infrastructure that can cause significant
+impact on the economy and society if disrupted. For example, large cloud
+service providers and data centres are crucial to the functioning of a
+wide array of digital services that enterprises and consumers use daily.
+These operators ma therefore need to meet higher security and resilience
+standards, to reduce the likelihood of systemic disruptions.</p>
+<p></p>
+</li>
+<li>
+<p>The Taskforce is conducting further studies to properly scope the DIA
+and develop its proposals.</p>
+<p></p>
+</li>
+<li>
+<p>The challenges are complex, and include the cross-border nature of digital
+infrastructure operators like cloud service providers. We will also need
+to balance trade-offs between mitigating risks and increasing compliance
+costs. We will continue to consult industry players and relevant stakeholders
+and ensure coherence in requirements between the DIA and the Cybersecurity
+Act.</p>
+<p></p>
+</li>
+<li>
+<p>Second, the Taskforce is exploring non-regulatory measures that will complement
+our laws and regulations. These could include providing guidance to digital
+infrastructure and service providers on best practices for security and
+resilience.</p>
+<p></p>
+</li>
+<li>
+<p>While the Government does our best to ensure that digital infrastructure
+and services are secure and resilient, enterprises and consumers also need
+to play their part. For example, enterprises must have robust business
+continuity and incident recovery plans. Smaller enterprises can refer to
+resources like CSA’s Cyber Essentials programme; larger enterprises should
+adopt CSA’s Cyber Trust mark.</p>
+<p></p>
+</li>
+<li>
+<p>Consumers should also be prepared to use alternatives if a digital service
+disruption occurs. This creates a strong incentive to service providers
+to buck up.</p>
+<p></p>
+</li>
+<li>
+<p>Mr Xie asked about the risks associated with quantum computing, especially
+in our data and communications networks.</p>
+<p></p>
+</li>
+<li>
+<p>Last June, DPM Heng announced the launch of the National Quantum Safe
+Network Plus (NQSN+). Singtel and SPTel, together with another local company
+SpeQtral, have since been appointed to build Singapore’s first quantum-safe
+network –the first of its kind in Southeast Asia as well. The network is
+expected to be ready by end-2024. We are also building capabilities to
+develop solutions that enable safe and trusted data sharing, something
+that Ms Mariam Jaafar talked about.</p>
+<p></p>
+</li>
+<li>
+<p>In July 2022, we launched the Privacy Enhancing Technology (PET) sandbox
+initiative, to support businesses in piloting technological solutions that
+allow them to safely extract value from data while protecting personal
+data and commercially sensitive data.</p>
+<p></p>
+</li>
+<li>
+<p>Mastercard was one of the participating businesses, which piloted a solution
+to share information on financial crime across international borders while
+complying with prevailing regulations. Mastercard is now studying the implementation
+of this in a commercial setting.</p>
+<p></p>
+</li>
+<li>
+<p>I now turn to the third and final theme in my speech: safeguarding our
+infrastructure of fact to uphold social cohesion. This infrastructure has
+several</p>
 </li>
 </ol>
-<p>is that there is no silver bullet. Digitalisation is taking place across
-multiple</p>
-<p>settings and changes our interactions with each other in so many ways.
-We will</p>
-<p>therefore have to feel our way forward and be willing to adjust our approaches.</p>
-<p>52. Where the government is concerned, we are mindful that the delivery
-of public</p>
-<p>services through digital means should be carefully designed to cater to
-different</p>
-<p>population segments, including seniors. 53. Two days ago, Minister Chan
-Chun Sing also reiterated the Government’s</p>
-<p>commitment to ensure our services remain accessible to all. For example,</p>
-<p>citizens who require support for Government services can head to any</p>
-<p>ServiceSG Centre, which can help with close to 600 services and schemes
-from</p>
-<p>over 25 agencies. IMDA’s Digital Ambassadors also stand ready at multiple</p>
-<p>community touchpoints to provide guidance to seniors.</p>
-<p>54. As the digital landscape evolves, our libraries will also continue
-efforts to</p>
-<p>promote reading and lifelong learning. This includes NLB’s mobile library</p>
-<p>service, or MOLLY, which Ms Hany Soh touched on. I thank you for your
-support</p>
-<p>and appreciation of NLB’s MOLLY’s outreach.</p>
-<p>55. Since its launch in 2008, MOLLY has served over 500 institutions,
-received</p>
-<p>around 1.4 million visits, and facilitated about 2.7m loans. Other than
-MOLLY,</p>
-<p>there are other ways libraries make their presence felt, such as through
-pop-up</p>
-<p>stations in malls with high footfall.</p>
-<p>56. I will now address two other dimensions of digital trust that Ms Tin,
-Ms Jessica</p>
-<p>Tan, Mr De Souza and Mr Xie asked about: security and resilience. These</p>
-<p>largely concern the digital infrastructure and services that power our
-digital</p>
-<p>economy and enable citizens to meet their day-to-day needs.</p>
-<p>57. In 2023, Singapore faced disruptions in online Government services,
-banking</p>
-<p>and payment services, and when accessing the websites of public healthcare</p>
-<p>institutions.</p>
-<p>58. But we were not alone. Many countries are grappling with similar issues
-as they</p>
-<p>become more digitalised. For example, a data centre outage in France caused</p>
-<p>widespread disruption to government and other services. A cloud service</p>
-<p>outage in the US caused many websites to be inaccessible, including those
-of</p>
-<p>news outlets and airlines.</p>
-<p>59. To manage the impact of such disruptions, the EU, Germany, and Australia
-have</p>
-<p>already introduced regulations to enhance the security and resilience
-of digital</p>
-<p>infrastructure such as cloud services and data centres.</p>
-<p>60. While we cannot fully eliminate disruptions, we will do more to minimise
-their</p>
-<p>occurrence. An inter-agency taskforce led by MCI has been reviewing the</p>
-<p>evolving landscape and developing mitigating measures. We are looking
-at two</p>
-<p>key moves.</p>
-<p>61. First, we will enhance our regulatory levers. The upcoming amendments
-to the</p>
-<p>Cybersecurity Act will raise the cybersecurity of foundational digital</p>
-<p>infrastructure and other systems as well as entities, beyond the Critical</p>
-<p>Information Infrastructure it covers today.</p>
-<p>62. The expanded coverage will include data centres, cloud services, and
-key</p>
-<p>entities that may hold sensitive data or perform important public functions.
-I am</p>
-<p>pleased to update Members that public consultations on the amendments
-were completed in January. We plan to introduce the amendment Bill in Parliament</p>
-<p>next week and will share more details then.</p>
-<p>63. While enhancing our cybersecurity posture is important, it is not
-enough. Past</p>
-<p>outages in Singapore and elsewhere have shown that disruptions can occur</p>
-<p>due to non-cyber causes. These include misconfigurations in cloud</p>
-<p>architecture, or the outage of data centres due to fires, water leakages,
-and</p>
-<p>cooling system failures.</p>
-<p>64. [Announcement] The Taskforce is therefore also studying the introduction
-of a</p>
-<p>new Digital Infrastructure Act (DIA), to address broader security and</p>
-<p>resilience concerns of key digital infrastructure and services, beyond</p>
-<p>cybersecurity.</p>
-<p>65. The DIA will focus on digital infrastructure that can cause significant
-impact on</p>
-<p>the economy and society if disrupted. For example, large cloud service</p>
-<p>providers and data centres are crucial to the functioning of a wide array
-of digital</p>
-<p>services that enterprises and consumers use daily. These operators may</p>
-<p>therefore need to meet higher security and resilience standards, to reduce
-the</p>
-<p>likelihood of systemic disruptions.</p>
-<p>66. The Taskforce is conducting further studies to properly scope the
-DIA and</p>
-<p>develop its proposals.</p>
-<p>67. The challenges are complex, and include the cross-border nature of
-digital</p>
-<p>infrastructure operators like cloud service providers. We will also need
-to</p>
-<p>balance trade-offs between mitigating risks and increasing compliance
-costs.</p>
-<p>We will continue to consult industry players and relevant stakeholders
-and</p>
-<p>ensure coherence in requirements between the DIA and the Cybersecurity
-Act.</p>
-<p>68. Second, the Taskforce is exploring non-regulatory measures that will</p>
-<p>complement our laws and regulations. These could include providing guidance</p>
-<p>to digital infrastructure and service providers on best practices for
-security and</p>
-<p>resilience.</p>
-<p>69. While the Government does our best to ensure that digital infrastructure
-and</p>
-<p>services are secure and resilient, enterprises and consumers also need
-to play</p>
-<p>their part. For example, enterprises must have robust business continuity
-and</p>
-<p>incident recovery plans. Smaller enterprises can refer to resources like
-CSA’s</p>
-<p>Cyber Essentials programme; larger enterprises should adopt CSA’s Cyber</p>
-<p>Trust mark.</p>
-<p>70. Consumers should also be prepared to use alternatives if a digital
-service</p>
-<p>disruption occurs. This creates a strong incentive to service providers
-to buck</p>
-<p>up.</p>
-<p>71. Mr Xie asked about the risks associated with quantum computing, especially
-in</p>
-<p>our data and communications networks. 72. Last June, DPM Heng announced
-the launch of the National Quantum Safe</p>
-<p>Network Plus (NQSN+). Singtel and SPTel, together with another local</p>
-<p>company SpeQtral, have since been appointed to build Singapore’s first</p>
-<p>quantum-safe network –the first of its kind in Southeast Asia as well.
-The</p>
-<p>network is expected to be ready by end-2024.</p>
-<p>We are also building capabilities to develop solutions that enable safe
-and</p>
-<p>trusted data sharing, something that Ms Mariam Jaafar talked about.</p>
-<p>73. In July 2022, we launched the Privacy Enhancing Technology (PET) sandbox</p>
-<p>initiative, to support businesses in piloting technological solutions
-that allow</p>
-<p>them to safely extract value from data while protecting personal data
-and</p>
-<p>commercially sensitive data.</p>
-<p>74. Mastercard was one of the participating businesses, which piloted
-a solution to</p>
-<p>share information on financial crime across international borders while</p>
-<p>complying with prevailing regulations. Mastercard is now studying the</p>
-<p>implementation of this in a commercial setting.</p>
-<p>75. I now turn to the third and final theme in my speech: safeguarding
-our</p>
-<p>infrastructure of fact to uphold social cohesion. This infrastructure
-has several</p>
 <p>pillars.</p>
 <p>76. Internationally, we have witnessed how deepfake technology has been
 misused</p>
@@ -694,3 +719,4 @@ remarks</p>
 <p>础,让新加坡 在 人工智能的时代 保持竞争力,继续 在国际舞台上,发光发</p>
 <p>热!</p>
 <p>can be developed anywhere in the world.</p>
+<p></p>
