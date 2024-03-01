@@ -267,4 +267,7 @@ same time, we have to look ahead to the horizon and invest in digital infrastruc
 goals for digitalisation. So far, this approach has been successful , and
 there is much more that this approach can deliver for Singapore as we enter
 the second decade of our Smart Nation journey.</p>
+<p></p>
+<p></p>
+<p></p>
 <p>42. Thank you Sir.</p>
