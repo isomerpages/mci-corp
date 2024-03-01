@@ -516,104 +516,126 @@ of this in a commercial setting.</p>
 <li>
 <p>I now turn to the third and final theme in my speech: safeguarding our
 infrastructure of fact to uphold social cohesion. This infrastructure has
-several</p>
+several pillars.</p>
+<p></p>
+</li>
+<li>
+<p>Internationally, we have witnessed how deepfake technology has been misused
+to spread falsehoods or manipulate public opinion on gun violence in the
+US, the Israel-Hamas conflict, and even undermine election integrity.</p>
+<p></p>
+</li>
+<li>
+<p>Their realism make them a particularly dangerous weapon, as pointed out
+by Mr De Souza, Ms Tin and Mr Chua.</p>
+<p></p>
+</li>
+<li>
+<p>We take a strong stance against malicious AI-generated content. Targeted
+legislation to deal with them swiftly is thus one pillar in this infrastructure.
+This includes the Protection from Online Falsehoods and Manipulation Act
+(POFMA), which enables us to issue corrections and label AI-generated misinformation
+with the correct facts. We can also consider disabling directions if the
+content poses serious harm to public interest.</p>
+<p></p>
+</li>
+<li>
+<p>Another pillar is public education initiatives to equip Singaporeans to
+be discerning consumers and producers of information. Our libraries play
+a key role in this effort.</p>
+<p></p>
+</li>
+<li>
+<p>Last year, NLB introduced resources and workshops on Generative AI as
+part of its S.U.R.E programme, to educate Singaporeans about the benefits
+and perils of AI, as well as impart skills to verify and fact-check online
+content that may be AI-generated. These efforts have reached over 66,000
+people.</p>
+<p></p>
+</li>
+<li>
+<p>Later this year, NLB will roll out new programmes and learning packages
+to educate Singaporeans about the risks that AI-generated misinformation
+can pose to society.</p>
+<p></p>
+</li>
+<li>
+<p>We also recognise the need to grow new capabilities. We previously announced
+that MCI and the Agency for Science, Technology and Research (A*STAR) will
+launch the Centre for Advanced Technologies in Online Safety (CATOS). Among
+other things, CATOS will develop tools and measures to detect harmful content,
+including deepfakes.</p>
+<p></p>
+</li>
+<li>
+<p>In a fragmented media landscape awash with AI-generated content, audiences
+are finding it very difficult to separate truths from falsehoods. We therefore
+also need trusted news media to inform and engage our people, to “keep
+us all on the same page”. This is a critical pillar.</p>
+<p></p>
+</li>
+<li>
+<p>Mr Pritam Singh asked about government funding to SPH Media.</p>
+<p></p>
+</li>
+<li>
+<p>As a Public Service Media (PSM) entity, SPH Media plays a crucial role
+in:</p>
 </li>
 </ol>
-<p>pillars.</p>
-<p>76. Internationally, we have witnessed how deepfake technology has been
-misused</p>
-<p>to spread falsehoods or manipulate public opinion on gun violence in the
-US,</p>
-<p>the Israel-Hamas conflict, and even undermine election integrity.</p>
-<p>77. Their realism make them a particularly dangerous weapon, as pointed
-out by</p>
-<p>Mr De Souza, Ms Tin and Mr Chua.</p>
-<p>78. We take a strong stance against malicious AI-generated content. Targeted</p>
-<p>legislation to deal with them swiftly is thus one pillar in this infrastructure.
-This</p>
-<p>includes the Protection from Online Falsehoods and Manipulation Act</p>
-<p>(POFMA), which enables us to issue corrections and label AI-generated</p>
-<p>misinformation with the correct facts. We can also consider disabling
-directions</p>
-<p>if the content poses serious harm to public interest.</p>
-<p>79. Another pillar is public education initiatives to equip Singaporeans
-to be</p>
-<p>discerning consumers and producers of information. Our libraries play
-a key</p>
-<p>role in this effort.</p>
-<p>80. Last year, NLB introduced resources and workshops on Generative AI
-as part</p>
-<p>of its S.U.R.E programme, to educate Singaporeans about the benefits and</p>
-<p>perils of AI, as well as impart skills to verify and fact-check online
-content that</p>
-<p>may be AI-generated. These efforts have reached over 66,000 people.</p>
-<p>81. Later this year, NLB will roll out new programmes and learning packages
-to</p>
-<p>educate Singaporeans about the risks that AI-generated misinformation
-can</p>
-<p>pose to society. 82. We also recognise the need to grow new capabilities.
-We previously announced</p>
-<p>that MCI and the Agency for Science, Technology and Research (A*STAR)
-will</p>
-<p>launch the Centre for Advanced Technologies in Online Safety (CATOS).</p>
-<p>Among other things, CATOS will develop tools and measures to detect harmful</p>
-<p>content, including deepfakes.</p>
-<p>83. In a fragmented media landscape awash with AI-generated content, audiences</p>
-<p>are finding it very difficult to separate truths from falsehoods. We therefore
-also</p>
-<p>need trusted news media to inform and engage our people, to “keep us all
-on</p>
-<p>the same page”. This is a critical pillar.</p>
-<p>84. Mr Pritam Singh asked about government funding to SPH Media.</p>
-<p>85. As a Public Service Media (PSM) entity, SPH Media plays a crucial
-role in:</p>
 <p>a. Informing Singaporeans of issues of national importance;</p>
 <p>b. Reflecting Singapore’s values and way of life;</p>
 <p>c. Reporting international events with a Singapore eye; and</p>
 <p>d. Projecting Singapore’s perspectives to the rest of the world.</p>
-<p>86. SPH Media is also an institution and repository of our shared memories.
-Last</p>
-<p>year, Lianhe Zaobao celebrated its 100th Anniversary while The Straits
-Times is</p>
-<p>approaching 180 years of publication. Both Berita Harian and Tamil Murasu
-are</p>
-<p>also well-established, catering to the needs of our Malay- and Tamil-language</p>
-<p>communities.</p>
-<p>87. However, SPH Media is facing its biggest challenge yet. The entire
-media</p>
-<p>industry has been severely disrupted by digitalisation and social media.</p>
-<p>Readership is declining, as audiences have a multitude of choices. Traditional</p>
-<p>sources of revenue continue falling dramatically with advertising shifting
-to</p>
-<p>social media and other online platforms.</p>
-<p>88. These problems are not unique to SPH Media. Even an established media</p>
-<p>company like the Washington Post lost US$100 million last year and had
-to cut</p>
-<p>10% of its headcount, despite extensive efforts to transform.</p>
-<p>89. Digital-only platforms are not spared either – the Pulitzer Prize-winning</p>
-<p>Buzzfeed News shut down last April, despite hiring top journalists and
-opening</p>
-<p>bureaus around the world. According to the New York Times, “one out of
-four</p>
-<p>newspapers that existed in 2005 no longer does”.</p>
-<p>90. Prior to restructuring into a Company Limited by Guarantee, SPH posted
-its</p>
-<p>first-ever loss. Left to market forces and commercial stresses, it would
-likely</p>
-<p>have gone the way of the Washington Post and Buzzfeed. This is particularly</p>
-<p>so with its vernacular titles, which have naturally smaller audiences,
-and which</p>
-<p>members like Mr Sharael Taha, Ms Tin, and Mr Alex Yam are rightly concerned
-about. The Government decided to step in to give SPH Media, especially
-its</p>
-<p>vernacular titles, a fighting chance in the new media landscape.</p>
-<p>91. Thus far, around S$320 million has been disbursed to SPH Media, across</p>
-<p>Financial Years 2022 and 2023. Anticipating a more challenging environment</p>
-<p>as outlined earlier, We have also budgeted around S$260 million in funding
-for</p>
-<p>SPH Media in FY2024. This is reflected in MCI’s Budget Book as part of
-MCI’s</p>
-<p>overall grant disbursement provided to other organisations.</p>
+<ol start="86" data-tight="true" class="tight">
+<li>
+<p>SPH Media is also an institution and repository of our shared memories.
+Last year, Lianhe Zaobao celebrated its 100th Anniversary while The Straits
+Times is approaching 180 years of publication. Both Berita Harian and Tamil
+Murasu are also well-established, catering to the needs of our Malay- and
+Tamil-language communities.</p>
+<p></p>
+</li>
+<li>
+<p>However, SPH Media is facing its biggest challenge yet. The entire media
+industry has been severely disrupted by digitalisation and social media.
+Readership is declining, as audiences have a multitude of choices. Traditional
+sources of revenue continue falling dramatically with advertising shifting
+to social media and other online platforms.</p>
+<p></p>
+</li>
+<li>
+<p>These problems are not unique to SPH Media. Even an established media
+company like the Washington Post lost US$100 million last year and had
+to cut 10% of its headcount, despite extensive efforts to transform.</p>
+<p></p>
+</li>
+<li>
+<p>Digital-only platforms are not spared either – the Pulitzer Prize-winning
+Buzzfeed News shut down last April, despite hiring top journalists and
+opening bureaus around the world. According to the New York Times, “one
+out of four newspapers that existed in 2005 no longer does”.</p>
+<p></p>
+</li>
+<li>
+<p>Prior to restructuring into a Company Limited by Guarantee, SPH posted
+its first-ever loss. Left to market forces and commercial stresses, it
+would likely have gone the way of the Washington Post and Buzzfeed. This
+is particularly so with its vernacular titles, which have naturally smaller
+audiences, and which members like Mr Sharael Taha, Ms Tin, and Mr Alex
+Yam are rightly concerned about. The Government decided to step in to give
+SPH Media, especially its vernacular titles, a fighting chance in the new
+media landscape.</p>
+<p></p>
+</li>
+<li>
+<p>Thus far, around S$320 million has been disbursed to SPH Media, across
+Financial Years 2022 and 2023. Anticipating a more challenging environment
+as outlined earlier, We have also budgeted around S$260 million in funding
+for SPH Media in FY2024. This is reflected in MCI’s Budget Book as part
+of MCI’s overall grant disbursement provided to other organisations.</p>
+</li>
+</ol>
 <p>92. As I shared previously in the House, funding for SPH Media is targeted
 at three</p>
 <p>main areas: talent, technology, and vernacular capabilities. They reflect
