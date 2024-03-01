@@ -199,117 +199,150 @@ being replaced. With AI, it is not just rank and file workers, but PMETs
 who feel at risk, that AI tools and agents can take over the tasks they
 now perform. These include knowledge-based tasks like research, coding,
 and writing.</p>
+<p></p>
+</li>
+<li>
+<p>Many thoughtful observers have, however, pointed out that it is not so
+much AI displacing workers, but AI-proficient workers displacing AI-deficient
+workers.</p>
+<p></p>
+</li>
+<li>
+<p>As Members know, the PAP Government has a consistent record of investing
+in upskilling and reskilling workers often ahead of demand and in partnership
+with the NTUC. We will continue to do so.</p>
+<p></p>
+</li>
+<li>
+<p>Let me provide an update on the Jobs Transformation Maps (JTMs) and how
+they support workers impacted by AI, which Mr Sharael Taha asked about.
+There are now 16 JTMs that identify job roles affected by various technologies,
+of which 13 specifically outline the impact of AI. These JTMs cover about
+1.4 million in hundreds of job roles. While we cannot fully predict the
+scope and scale of AI disruptions, these JTMs provide useful signposts
+for employers, unions, and workers, so they can plan for job redesign or
+training.</p>
+<p></p>
+</li>
+<li>
+<p>Consequently, many of the NTUC’s Company Training Committees refer to
+them. Agencies responsible for sector development can also identify suitable
+training interventions. For example, IMDA appointed five training partners
+under the Information and Communications (I&amp;C) JTM in September last
+year. They now offer over 180 AI-related courses. As of December, they
+have trained about 1,000 people to be confident AI Users. There will be
+thousands more in the next three years.</p>
+<p></p>
+</li>
+<li>
+<p>This year’s Budget has also provided a generous top-up to SkillsFuture
+Credits and the Level-Up Programme for mid-career Singaporeans looking
+to re-skill through full-time diploma programmes. IMDA will work with SSG
+to ensure that there are suitable offerings to help more of our people
+gain AI-proficiency and stay relevant in the workforce.</p>
+<p></p>
+</li>
+<li>
+<p>And, as suggested by Mr Gerald Giam, we already go beyond training programmes
+to promote hands-on learning. A very good example is the NLB’s MakeIT programme,
+which allows participants to try their hand at 3D modelling and printing,
+robotics and coding. I spoke about it at COS previously.</p>
+<p></p>
+</li>
+<li>
+<p>The Public Sector itself provides both formal and informal learning experiences
+to build AI capabilities. For example, we have introduced tools like Pair,
+our secure version of ChatGPT, to help public officers in tasks such as
+writing, brainstorming, research, and coding. Today, around 35,000 public
+officers use Pair in their work to improve their productivity.</p>
+<p></p>
+</li>
+<li>
+<p>Sir, I should add that the most important strategy for sustaining high
+employment and minimising unemployment is continued job creation. This
+means ensuring that businesses continue to grow, including through the
+use of technologies like AI. By doing so, we need not react passively to
+job displacement by AI, but proactively use AI to reinstate better jobs
+for our people. This is why we will also invest in promoting AI adoption
+among enterprises, a topic which SMS Tan will deal with later.</p>
+<p></p>
+</li>
+<li>
+<p>Let me now turn to the topic of AI Governance.</p>
+<p></p>
+</li>
+<li>
+<p>While we welcome opportunities that come with AI advancements, we must
+also guard against the risks of misuse. For example, AI can intensify existing
+threats such as cyberattacks, scams, or misinformation and disinformation.</p>
+<p></p>
+</li>
+<li>
+<p>Guardrails are therefore necessary.</p>
+<p></p>
+</li>
+<li>
+<p>Mr Christopher de Souza, Mr Xie Yao Quan and Mr Mark Lee asked what we
+are doing to promote safe and responsible uses of AI and how we will protect
+personal data that may be used to train AI models. MCI recognises their
+concerns. At COS last year, I outlined our plan to clarify how the Personal
+Data Protection Act (PDPA) applies to AI systems.</p>
 </li>
 </ol>
-<p>31. Many thoughtful observers have, however, pointed out that it is not
-so much AI</p>
-<p>displacing workers, but AI-proficient workers displacing AI-deficient
-workers.</p>
-<p>32. As Members know, the PAP Government has a consistent record of investing</p>
-<p>in upskilling and reskilling workers often ahead of demand and in partnership</p>
-<p>with the NTUC. We will continue to do so. 33. Let me provide an update
-on the Jobs Transformation Maps (JTMs) and how</p>
-<p>they support workers impacted by AI, which Mr Sharael Taha asked about.</p>
-<p>There are now 16 JTMs that identify job roles affected by various technologies,</p>
-<p>of which 13 specifically outline the impact of AI. These JTMs cover about
-1.4</p>
-<p>million in hundreds of job roles. While we cannot fully predict the scope
-and</p>
-<p>scale of AI disruptions, these JTMs provide useful signposts for employers,</p>
-<p>unions, and workers, so they can plan for job redesign or training.</p>
-<p>34. Consequently, many of the NTUC’s Company Training Committees refer
-to</p>
-<p>them. Agencies responsible for sector development can also identify suitable</p>
-<p>training interventions. For example, IMDA appointed five training partners
-under</p>
-<p>the Information and Communications (I&amp;C) JTM in September last year.
-They</p>
-<p>now offer over 180 AI-related courses. As of December, they have trained
-about</p>
-<p>1,000 people to be confident AI Users. There will be thousands more in
-the next</p>
-<p>three years.</p>
-<p>35. This year’s Budget has also provided a generous top-up to SkillsFuture
-Credits</p>
-<p>and the Level-Up Programme for mid-career Singaporeans looking to re-skill</p>
-<p>through full-time diploma programmes. IMDA will work with SSG to ensure
-that</p>
-<p>there are suitable offerings to help more of our people gain AI-proficiency
-and</p>
-<p>stay relevant in the workforce.</p>
-<p>36. And, as suggested by Mr Gerald Giam, we already go beyond training</p>
-<p>programmes to promote hands-on learning. A very good example is the NLB’s</p>
-<p>MakeIT programme, which allows participants to try their hand at 3D modelling</p>
-<p>and printing, robotics and coding. I spoke about it at COS previously.</p>
-<p>37. The Public Sector itself provides both formal and informal learning
-experiences</p>
-<p>to build AI capabilities. For example, we have introduced tools like Pair,
-our</p>
-<p>secure version of ChatGPT, to help public officers in tasks such as writing,</p>
-<p>brainstorming, research, and coding. Today, around 35,000 public officers
-use</p>
-<p>Pair in their work to improve their productivity.</p>
-<p>38. Sir, I should add that the most important strategy for sustaining
-high</p>
-<p>employment and minimising unemployment is continued job creation. This</p>
-<p>means ensuring that businesses continue to grow, including through the
-use of</p>
-<p>technologies like AI. By doing so, we need not react passively to job</p>
-<p>displacement by AI, but proactively use AI to reinstate better jobs for
-our people.</p>
-<p>This is why we will also invest in promoting AI adoption among enterprises,
-a</p>
-<p>topic which SMS Tan will deal with later.</p>
-<p>39. Let me now turn to the topic of AI Governance.</p>
-<p>40. While we welcome opportunities that come with AI advancements, we
-must also</p>
-<p>guard against the risks of misuse. For example, AI can intensify existing
-threats</p>
-<p>such as cyberattacks, scams, or misinformation and disinformation.</p>
-<p>41. Guardrails are therefore necessary. 42. Mr Christopher de Souza, Mr
-Xie Yao Quan and Mr Mark Lee asked what we</p>
-<p>are doing to promote safe and responsible uses of AI and how we will protect</p>
-<p>personal data that may be used to train AI models. MCI recognises their</p>
-<p>concerns. At COS last year, I outlined our plan to clarify how the Personal
-Data</p>
-<p>Protection Act (PDPA) applies to AI systems.</p>
-<p>43. [Announcement] Following extensive consultations with stakeholders,
-PDPC</p>
-<p>has finalised its Advisory Guidelines on the use of Personal Data in AI</p>
-<p>Recommendation and Decision Systems and will publish this today. PDPC</p>
-<p>will next consider giving guidance on the use of personal data to train</p>
-<p>generative AI systems.</p>
-<p>44. Mr De Souza asked how MCI will continue to place Singapore at the
-forefront</p>
-<p>of AI governance.</p>
-<p>45. Indeed, Singapore has been recognised as an active and credible contributor</p>
-<p>to AI Governance.</p>
-<p>46. Last year, we launched the AI Verify Foundation to harness the expertise
-of the</p>
-<p>global open-source community to promote responsible use of AI. This builds
-on</p>
-<p>the roll out of AI Verify, a testing framework and software toolkit, in
-2022. Today,</p>
-<p>the Foundation counts organisations such as IBM, Google, Deloitte, DBS,
-and</p>
-<p>SIA as members.</p>
-<p>47. At the World Economic Forum in January this year, we announced a Proposed</p>
-<p>Model AI Governance Framework for Generative AI, and sought views from</p>
-<p>our partners. This framework builds on the earlier Model AI Governance</p>
-<p>Framework and reflects emerging principles, concerns, and technological</p>
-<p>developments in generative AI.</p>
-<p>48. More recently, Singapore led the development of the ASEAN Guide on
-AI</p>
-<p>Governance and Ethics, which was endorsed at the fourth ASEAN Digital</p>
-<p>Ministers’ Meeting held here last month.</p>
-<p>49. I will now move on to the second theme of my speech: upholding trust
-in the</p>
-<p>digital domain.</p>
-<p>50. Both Ms Hany Soh and Mr Eric Chua asked how we maintain the human
-touch,</p>
-<p>amidst increasing digitalisation.</p>
-<p>51. Sir, Coincidentally, I spoke about it yesterday at MHA’s COS debate.
-The reality</p>
+<ol start="43" data-tight="true" class="tight">
+<li>
+<p>Following extensive consultations with stakeholders, PDPC has finalised
+its Advisory Guidelines on the use of Personal Data in AI Recommendation
+and Decision Systems and will publish this today. PDPC will next consider
+giving guidance on the use of personal data to train generative AI systems.</p>
+<p></p>
+</li>
+<li>
+<p>Mr De Souza asked how MCI will continue to place Singapore at the forefront
+of AI governance.</p>
+<p></p>
+</li>
+<li>
+<p>Indeed, Singapore has been recognised as an active and credible contributor
+to AI Governance.</p>
+<p></p>
+</li>
+<li>
+<p>Last year, we launched the AI Verify Foundation to harness the expertise
+of the global open-source community to promote responsible use of AI. This
+builds on the roll out of AI Verify, a testing framework and software toolkit,
+in 2022. Today, the Foundation counts organisations such as IBM, Google,
+Deloitte, DBS, and SIA as members.</p>
+<p></p>
+</li>
+<li>
+<p>At the World Economic Forum in January this year, we announced a Proposed
+Model AI Governance Framework for Generative AI, and sought views from
+our partners. This framework builds on the earlier Model AI Governance
+Framework and reflects emerging principles, concerns, and technological
+developments in generative AI.</p>
+<p></p>
+</li>
+<li>
+<p>More recently, Singapore led the development of the ASEAN Guide on AI
+Governance and Ethics, which was endorsed at the fourth ASEAN Digital Ministers’
+Meeting held here last month.</p>
+<p></p>
+</li>
+<li>
+<p>I will now move on to the second theme of my speech: upholding trust in
+the digital domain.</p>
+<p></p>
+</li>
+<li>
+<p>Both Ms Hany Soh and Mr Eric Chua asked how we maintain the human touch,
+amidst increasing digitalisation.</p>
+</li>
+<li>
+<p>Sir, Coincidentally, I spoke about it yesterday at MHA’s COS debate. The
+reality</p>
+</li>
+</ol>
 <p>is that there is no silver bullet. Digitalisation is taking place across
 multiple</p>
 <p>settings and changes our interactions with each other in so many ways.
