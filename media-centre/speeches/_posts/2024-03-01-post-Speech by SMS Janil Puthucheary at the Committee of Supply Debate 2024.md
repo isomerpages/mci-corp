@@ -268,6 +268,7 @@ goals for digitalisation. So far, this approach has been successful , and
 there is much more that this approach can deliver for Singapore as we enter
 the second decade of our Smart Nation journey.</p>
 <p></p>
-<p></p>
+<p><a href="/files/Opening_address_by_SMS_Janil_at_SCS_Sustainable_Tech_Forum__24_Jan_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">PDF Version of the Speech </a>
+</p>
 <p></p>
 <p>42. Thank you Sir.</p>
