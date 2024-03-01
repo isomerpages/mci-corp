@@ -33,3 +33,8 @@ new tools and e-services, such as for booking of wake and HDB carpark spaces.
 This will support citizens in end-of-life planning, manage post-death matters
 for their loved ones, and give bereaved families more time to focus on
 other matters in their moment of grief.</p>
+<hr>
+<p>[1] <a href="http://mylegacy.life.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mylegacy.life.gov.sg</a>
+</p>
+<p>[2] About 90 per cent of bereaved families download the digital death
+certificates from My Legacy every month.</p>
