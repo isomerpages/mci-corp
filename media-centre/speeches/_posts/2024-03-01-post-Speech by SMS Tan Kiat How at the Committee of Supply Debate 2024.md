@@ -7,8 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>Speech by Senior Minister of State for Communications and Information Tan Kiat How, at the Committee of Supply Debate on 1 March 2024</strong>
-</p>
+<p></p>
 <ol>
 <li>
 <p>Mr Chairman, we have made good progress in digitalising our economy. Singapore’s
