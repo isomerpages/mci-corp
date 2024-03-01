@@ -461,6 +461,8 @@ in the next phase of our digitalisation journey to uplift enterprises and
 workers in an age of AI. It will be an exciting journey, so I welcome more
 likeminded partners to work together with us and invite all enterprises
 and workers to join us on this exciting journey ahead. Thank you.</p>
+<p><a href="/files/Speeches 2024/Transcript_of_Speech_by_Senior_Minister_of_State_for_Communications_and_Information_Tan_Kiat_How__at_the_Committee_of_Supply_Debate_on_1_March_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">PDF version of the speech</a>
+</p>
 </li>
 </ol>
 <p></p>
