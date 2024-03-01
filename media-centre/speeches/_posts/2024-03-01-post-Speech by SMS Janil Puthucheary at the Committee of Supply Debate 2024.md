@@ -7,8 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>Speech by Senior Minister of State for Communications and Information
-Janil Puthucheary, at the Committee of Supply Debate on 1 March 2024</p>
+<p></p>
 <p>1. Thank you, Mr Chairman. I thank Members for their cuts and their questions.</p>
 <p>2. And today, I would like to take the opportunity to explain MCI’s approach
 towards Digital Government: how we need to create and we are creating effective
