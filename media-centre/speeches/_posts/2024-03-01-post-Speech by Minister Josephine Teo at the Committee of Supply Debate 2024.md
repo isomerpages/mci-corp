@@ -634,94 +634,107 @@ Financial Years 2022 and 2023. Anticipating a more challenging environment
 as outlined earlier, We have also budgeted around S$260 million in funding
 for SPH Media in FY2024. This is reflected in MCI’s Budget Book as part
 of MCI’s overall grant disbursement provided to other organisations.</p>
+<p></p>
+</li>
+<li>
+<p>As I shared previously in the House, funding for SPH Media is targeted
+at three main areas: talent, technology, and vernacular capabilities. They
+reflect the importance the Government has placed on quality journalism,
+digital transformation and upholding multiculturalism.</p>
+<p></p>
+</li>
+<li>
+<p>To ensure public accountability and fiscal prudence, SPH Media Trust is
+structured to comprise members representing different segments of society,
+from commercial entities like DBS, UOB and OCBC, to local Institutes of
+Higher Learning like NUS, NTU, SMU and SUTD.</p>
+<p></p>
+</li>
+<li>
+<p>But ultimately, SPH Media is accountable to Singaporeans. The news industry
+is a people-centric business, and SPH Media has a crucial public service
+media role. Therefore, KPIs are set to track reach and engagement across
+all communities, including specific targets for the vernacular outlets,
+youth and digital reach.</p>
+<p></p>
+</li>
+<li>
+<p>MCI also requires SPH Media to report regularly on their performance in
+these areas, and comply with relevant audits to ensure oversight of how
+funds are spent, as well as ownership and accountability of public service
+media outcomes.</p>
+<p></p>
+</li>
+<li>
+<p>So far, the funding disbursed has been put to good use. SPH Media has
+been strengthening its digital systems to improve its outreach, in line
+with what other global publications have done. The New York Times and The
+Wall Street Journal for example, have pivoted from print to digital-first
+models, adopting multimedia formats to increase their readership.</p>
+<p></p>
+</li>
+<li>
+<p>Likewise, SPH Media recently adopted a new digital content management
+system to support its online coverage and launched mobile apps across its
+English and vernacular news titles. It has also made extensive efforts
+to improve retention and quality of its newsrooms, through training, scholarships
+and fellowships with overseas institutions, such as the Reuters Institute
+for the Study of Journalism.</p>
+<p></p>
+</li>
+<li>
+<p>However, there is still considerable catch-up for SPH Media. While it
+has maintained its overall reach and achieved a modest increase in its
+digital subscriptions, it did not meet all its KPIs on digital reach, youth
+reach, vernacular reach, and average time spent on its websites and apps.
+Accordingly, it did not receive the full funding that was committed.</p>
+<p></p>
+</li>
+<li>
+<p>More importantly, these results shows that the efforts made thus far are
+just the beginning. SPH Media will need to do more to maintain its relevance
+in this challenging media environment and will need continued support as
+it strives to get onto firmer footing.</p>
+<p></p>
+</li>
+<li>
+<p>Mr Chairman, I hope members agree that in an information landscape where
+truths have to compete with falsehoods, public service media is a critical
+pillar in our society’s infrastructure of fact.</p>
+<p></p>
+</li>
+<li>
+<p>On matters deserving public attention, such as critical global events,
+community news in the vernacular, or indeed Parliamentary proceedings,
+profit-driven platforms may have no interest except to sensationalise or
+add their own “spin”.</p>
+<p></p>
+</li>
+<li>
+<p>We also need public service media to tell Singapore’s stories and project
+Singapore’s voice. We cannot expect media organisations elsewhere to do
+so for us.</p>
+<p></p>
+</li>
+<li>
+<p>At stake is our ability as a people to have a shared understanding of
+issues of the day, to know where our national interests lie and what we
+must do to ensure our continued success. Sustained investment in our PSM
+entities is therefore not a “nice-to-do”. Rather, it is a “have-to-do”
+if we are to uphold quality journalism that supports the public good.</p>
+<p></p>
+</li>
+<li>
+<p>I therefore seek Members’ support to sustain public investment in PSM
+entities to preserve our infrastructure of fact and maintain the high trust
+that our public has in public service media today.</p>
+<p></p>
+</li>
+<li>
+<p>Mr Chairman, with your permission, please allow me to conclude my remarks
+Mandarin, returning to the topic of AI which I started with.</p>
 </li>
 </ol>
-<p>92. As I shared previously in the House, funding for SPH Media is targeted
-at three</p>
-<p>main areas: talent, technology, and vernacular capabilities. They reflect
-the</p>
-<p>importance the Government has placed on quality journalism, digital</p>
-<p>transformation and upholding multiculturalism.</p>
-<p>93. To ensure public accountability and fiscal prudence, SPH Media Trust
-is</p>
-<p>structured to comprise members representing different segments of society,</p>
-<p>from commercial entities like DBS, UOB and OCBC, to local Institutes of
-Higher</p>
-<p>Learning like NUS, NTU, SMU and SUTD.</p>
-<p>94. But ultimately, SPH Media is accountable to Singaporeans. The news
-industry</p>
-<p>is a people-centric business, and SPH Media has a crucial public service
-media</p>
-<p>role. Therefore, KPIs are set to track reach and engagement across all</p>
-<p>communities, including specific targets for the vernacular outlets, youth
-and</p>
-<p>digital reach.</p>
-<p>95. MCI also requires SPH Media to report regularly on their performance
-in these</p>
-<p>areas, and comply with relevant audits to ensure oversight of how funds
-are</p>
-<p>spent, as well as ownership and accountability of public service media</p>
-<p>outcomes.</p>
-<p>96. So far, the funding disbursed has been put to good use. SPH Media
-has been</p>
-<p>strengthening its digital systems to improve its outreach, in line with
-what other</p>
-<p>global publications have done. The New York Times and The Wall Street</p>
-<p>Journal for example, have pivoted from print to digital-first models,
-adopting</p>
-<p>multimedia formats to increase their readership.</p>
-<p>97. Likewise, SPH Media recently adopted a new digital content management</p>
-<p>system to support its online coverage and launched mobile apps across
-its</p>
-<p>English and vernacular news titles. It has also made extensive efforts
-to</p>
-<p>improve retention and quality of its newsrooms, through training, scholarships</p>
-<p>and fellowships with overseas institutions, such as the Reuters Institute
-for the</p>
-<p>Study of Journalism.</p>
-<p>98. However, there is still considerable catch-up for SPH Media. While
-it has</p>
-<p>maintained its overall reach and achieved a modest increase in its digital</p>
-<p>subscriptions, it did not meet all its KPIs on digital reach, youth reach,</p>
-<p>vernacular reach, and average time spent on its websites and apps.</p>
-<p>Accordingly, it did not receive the full funding that was committed. 99.
-More importantly, these results shows that the efforts made thus far are
-just the</p>
-<p>beginning. SPH Media will need to do more to maintain its relevance in
-this</p>
-<p>challenging media environment and will need continued support as it strives
-to</p>
-<p>get onto firmer footing.</p>
-<p>100. Mr Chairman, I hope members agree that in an information landscape
-where</p>
-<p>truths have to compete with falsehoods, public service media is a critical
-pillar</p>
-<p>in our society’s infrastructure of fact.</p>
-<p>101. On matters deserving public attention, such as critical global events,
-community</p>
-<p>news in the vernacular, or indeed Parliamentary proceedings, profit-driven</p>
-<p>platforms may have no interest except to sensationalise or add their own
-“spin”.</p>
-<p>102. We also need public service media to tell Singapore’s stories and
-project</p>
-<p>Singapore’s voice. We cannot expect media organisations elsewhere to do
-so</p>
-<p>for us.</p>
-<p>103. At stake is our ability as a people to have a shared understanding
-of issues of</p>
-<p>the day, to know where our national interests lie and what we must do
-to ensure</p>
-<p>our continued success. Sustained investment in our PSM entities is therefore</p>
-<p>not a “nice-to-do”. Rather, it is a “have-to-do” if we are to uphold quality</p>
-<p>journalism that supports the public good.</p>
-<p>104. I therefore seek Members’ support to sustain public investment in
-PSM entities</p>
-<p>to preserve our infrastructure of fact and maintain the high trust that
-our public</p>
-<p>has in public service media today.</p>
-<p>105. Mr Chairman, with your permission, please allow me to conclude my
-remarks</p>
-<p>in Mandarin, returning to the topic of AI which I started with.</p>
 <p>106. 人工智能 AI 将 继续渗透 世界各地 及 各个领域,包括新加坡 的 社会和经</p>
 <p>济。我们必须 把握机遇,帮助国人和企业 做好准备。为此,我今天宣布了多</p>
 <p>项举措。</p>
