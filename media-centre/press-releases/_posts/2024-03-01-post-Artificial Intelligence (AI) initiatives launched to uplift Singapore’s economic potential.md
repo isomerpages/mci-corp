@@ -93,8 +93,7 @@ details.</p>
 <p>On the industry front, MCI announced at COS 2023 that it would be developing
 a Digital Enterprise Blueprint (DEB) to chart the next bound of enterprise
 digitalisation in Singapore, including catalysing enterprise experimentation
-and innovation with emerging technologies like AI (Refer <u>here</u> for
-more details).</p>
+and innovation with emerging technologies like AI.</p>
 <p></p>
 </li>
 <li>
