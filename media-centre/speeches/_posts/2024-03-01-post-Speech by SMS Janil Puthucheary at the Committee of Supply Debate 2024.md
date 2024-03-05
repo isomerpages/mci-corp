@@ -7,7 +7,6 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p></p>
 <p>1. Thank you, Mr Chairman. I thank Members for their cuts and their questions.</p>
 <p>2. And today, I would like to take the opportunity to explain MCI’s approach
 towards Digital Government: how we need to create and we are creating effective
@@ -24,7 +23,7 @@ digital vouchers, including the CDC vouchers. It has been a key enabler
 in our shift away from paper vouchers. The drawbacks of paper vouchers
 for the consumer are obvious. Merchants have faced challenges too. The
 paper vouchers received had to be bundled together daily, then collected,
-manually processed. Reimbursement took days or weeks. RedeemSG provided
+and manually processed. Reimbursement took days or weeks. RedeemSG provided
 a better way. Households have claimed over $1 billion in digital vouchers
 since 2020. Simple, effective digital products can have a tangible impact
 on people’s lives.</p>
@@ -86,7 +85,7 @@ information. They just have one portal.</p>
 <p>14. And sometimes there’s a need for more general information, so we’ve
 produced another product, SearchSG – which is a search engine that uses
 artificial intelligence to provide citizens with relevant and up-to-date
-search results scraped from a variety of from Government sources. So multiple
+search results scraped from a variety of Government sources. So multiple
 strategies to try to solve the same problem.</p>
 <p>15. And in doing so we are able to learn more about the needs and experiences
 of our users as they engage with our digital products. And the faster we
@@ -96,7 +95,7 @@ Singaporeans’ lives, as the Smart Nation initiative enters its tenth year.
 Between 2014 and 2023, citizen satisfaction with Government services has
 improved from 73 percent to 83 percent. Over the same period, business
 satisfaction with Government services has also risen from 69 percent to
-83 percent . So, allow me to share some of the key strategies that we are
+83 percent. So, allow me to share some of the key strategies that we are
 applying that we think has resulted in this improvement. One is that we
 have to work to improve the day-to-day lives of Singaporeans. Secondly,
 we have to offer better and more integrated Government services. And third,
@@ -109,7 +108,7 @@ or finds it difficult to address.</p>
 It is difficult for there to be a market solution that can adequately protect
 Singaporeans in quite the same way. It’s a difficult problem that affects
 us on a day-to-day basis. And now we have a product – ScamShield – and
-it appears to be well-received. 850,000 downloads, it is one of our most
+it appears to be well-received. 850,000 downloads; it is one of our most
 wide-reaching tools in the fight against scams. And I would encourage Singaporeans
 to use it.</p>
 <p>19. And second is offering better and more integrated Government services.
@@ -117,14 +116,14 @@ And a couple of examples here.</p>
 <p>20. One is the Health Appointment System Users can easily make appointments
 for vaccinations, for screenings, such as mammograms. This product is available
 in English, Mandarin, Malay, Tamil. So again, that’s an aspect of the service
-that is difficult for the market to solve in a way that we need it to –multiple
-languages. This product also allows users to see what subsidies are applied
-to their health appointments from schemes such as CHAS and Medisave.</p>
-<p>21. So, we are bringing together to bring together two or three different
-aspects of the service that the market is unlikely to do. An appointment
-scheme, provided in multiple languages, and so that you can see the subsidies
-you would get for these appointments at the time to help you make your
-decision.</p>
+that is difficult for the market to solve in a way that we need it to –
+multiple languages. This product also allows users to see what subsidies
+are applied to their health appointments from schemes such as CHAS and
+Medisave.</p>
+<p>21. So, we are bringing together two or three different aspects of the
+service that the market is unlikely to do. An appointment scheme, provided
+in multiple languages, and so that you can see the subsidies you would
+get for these appointments at the time to help you make your decision.</p>
 <p>22. Another example is MyLegacy@LifeSG. This goes a step further. It brings
 together reliable information and digital services related to end-of-life
 planning as well as post-death matters in a convenient portal. Because
@@ -132,17 +131,17 @@ navigating such matters can be difficult. These times of our lives don’t
 happen very often – a lot of stress, a lot of uncertainty and a lot of
 services and transactions to get done. So, every bit of support helps at
 a time like this.</p>
-<p>23. One example of this sort of experience is Mr Christopher Hamzah. He
-is married, he’s got a 4-month-old daughter. And back in 2021, Mr Hamzah
-saw firsthand the challenges his close friend faced in settling his late
-father’s affairs in the midst of grieving. And learning from this experience,
-Mr Hamzah and his wife decided to start planning early and turned to MyLegacy
-for help. With the My Legacy product, Mr Hamzah could easily record important
+<p>23. One example of this sort of experience is Mr Christopher Hamzah. He’s
+married, he’s got a 4-month-old daughter. And back in 2021, Mr Hamzah saw
+firsthand the challenges his close friend faced in settling his late father’s
+affairs in the midst of grieving. And learning from this experience, Mr
+Hamzah and his wife decided to start planning early and turned to MyLegacy
+for help. With the MyLegacy product, Mr Hamzah could easily record important
 details, his various accounts, his insurance policies, and share that information
 with trusted persons. He describes the portal’s dashboard as ‘intuitive’,
 ‘very easy to use and navigate’. And he takes heart in the assurance that
 his information would not be used for third party marketing and he has
-become an enthusiastic advocate for My Legacy among his friends and family.
+become an enthusiastic advocate for MyLegacy among his friends and family.
 And again, I would encourage Members to look at the MyLegacy product and
 encourage their residents and constituents to consider signing up for it.</p>
 <p>24. The third part of our strategy is to be more inclusive.</p>
@@ -151,38 +150,38 @@ He asked about the mobile phone access of our seniors. 89% of seniors,
 aged 60 years and above, owned a smartphone in 2022. And this has increased
 from 74% in 2017. And our Mobile Access for Seniors scheme, has approved
 more than 16,000 assistance packages for low-income seniors since the launch
-of the scheme in 2020. Mr Chua also spoke about the need better support
+of the scheme in 2020. Mr Chua also spoke about the need for better support
 seniors in general to navigate the digital space. And to do this, we launched
-the Seniors Go Digital Programme and Over 280,000 seniors have been trained
+the Seniors Go Digital Programme and over 280,000 seniors have been trained
 so far. At the same time, we also have to take efforts to be inclusive
-in our design and development, take the process to our Seniors. We test
+in our design and development; take the process to our seniors. We test
 our digital services with a wide range of users, including seniors, to
 ensure that their needs are met. We have also built tools specifically
 to support those with differing needs.</p>
 <p>26. One example, and Members can try this out for themselves at Level
 1, is a product called ReadLiao. This is one of the prototypes that emerged
 from our recent Hack For Public Good hackathon. Today, seniors sometimes
-struggle with long and complicated letters and often have to rely on caregivers,including
-children, to summarise the information for them. Those with older relatives
-might be familiar with the experience of looking at these letters and explaining
-such letters to them. It is often not just the language, but also how the
-material is presented. So ReadLiao uses Optical Character Recognition,
-together with an AI platform, repackages and displays documents in a clear
-and comprehensible format, to better communicate the content to seniors.
-We intend to pilot ReadLiao within the community in the coming months and
-hopefully build it into a full-fledged product. It’s literally only a few
-weeks old, at the prototyping stage.</p>
+struggle with long and complicated letters and often have to rely on caregivers,
+including children, to summarise the information for them. Those with older
+relatives might be familiar with the experience of looking at these letters
+and explaining such letters to them. It is often not just the language,
+but also how the material is presented. So ReadLiao uses Optical Character
+Recognition, together with an AI platform, repackages and displays documents
+in a clear and comprehensible format, to better communicate the content
+to seniors. We intend to pilot ReadLiao within the community in the coming
+months and hopefully build it into a full-fledged product. It’s literally
+only a few weeks old, at the prototyping stage.</p>
 <p>27. We have another tool which is more mature, this is called Purple A11y
--GovTech’s open-source, automated testing tool. It scans webpages and it
-identifies potential accessibility issues. Developers can use it to identify
-improperly labelled buttons or images. For most of us, these are things
-we don’t notice. These are not necessarily errors that we pick up and we
-don’t see the difficulty that such a design might create. But if you are
-visually impaired, if you use a screen reader to navigate digital services,
-getting this type of design correct makes a huge difference. Since 2023,
-we have used Purple A11y to make Government digital services more accessible.
-And it has also been directly integrated into the development for websites
-like MyCareersFuture, to ensure they are accessible.</p>
+- GovTech’s open-source, automated testing tool. It scans webpages and
+it identifies potential accessibility issues. Developers can use it to
+identify improperly labelled buttons or images. For most of us, these are
+things we don’t notice. These are not necessarily errors that we pick up
+and we don’t see the difficulty that such a design might create. But if
+you are visually impaired, if you use a screen reader to navigate digital
+services, getting this type of design correct makes a huge difference.
+Since 2023, we have used Purple A11y to make Government digital services
+more accessible. And it has also been directly integrated into the development
+for websites like MyCareersFuture, to ensure they are accessible.</p>
 <p>28. Sir, I have so far focused on digital products. But there is another
 aspect to the work that we have to pay some attention to. The infrastructure;
 the interconnected systems that must work together to make such products
@@ -196,7 +195,7 @@ activities is vital. To that end, we will be investing up to $500 million
 to ensure that Singapore can have sufficient high-performance compute to
 support our ambitions in AI innovation and capacity building.</p>
 <p>31. We envisage that these resources will support use cases across sectors
-such as financial services, healthcare, transport, and logistics.</p>
+such as financial services, healthcare, transport and logistics.</p>
 <p>32. And over time, we hope for this seed funding to catalyse greater development
 and use of AI in Singapore, and spur additional industry investment in
 compute infrastructure.</p>
@@ -228,7 +227,7 @@ As mentioned in the Budget Speech, the Energy Efficiency Grant (EEG) will
 be extended to the Data Centre industry. With the rollout of the EEG to
 the DC industry by end of 2024, we hope more Data Centre operators and
 end-users will adopt energy-efficient equipment. The EEG is just one of
-severalefforts to grow our DCs sustainably under the Green DC Roadmap,
+several efforts to grow our DCs sustainably under the Green DC Roadmap,
 which IMDA will be launching later this year.</p>
 <p>37. Beyond the products, beyond the infrastructure, we also need to make
 sure we have access to the right technology. This is vital. Singapore needs
@@ -262,11 +261,11 @@ tools to meet the needs of citizens and businesses. We embrace bold developments
 and agile experimentation so we can wield this digital technology to create
 the greatest possible impact for Singaporeans and for Singapore. At the
 same time, we have to look ahead to the horizon and invest in digital infrastructure
-,Research &amp; Development so that we can facilitate ahead of time our
-goals for digitalisation. So far, this approach has been successful , and
-there is much more that this approach can deliver for Singapore as we enter
-the second decade of our Smart Nation journey.</p>
+and research &amp; development so that we can facilitate ahead of time
+our goals for digitalisation. So far, this approach has been successful,
+and there is much more that this approach can deliver for Singapore as
+we enter the second decade of our Smart Nation journey.</p>
 <p>42. Thank you Sir.</p>
-<p><a href="/files/Opening_address_by_SMS_Janil_at_SCS_Sustainable_Tech_Forum__24_Jan_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">PDF Version of the Speech</a>
+<p><a href="/files/Speeches 2024/Transcript_of_SMS_Janil_s_speech_v2.pdf" rel="noopener noreferrer nofollow" target="_blank">PDF version of the speech</a>
 </p>
 <p></p>
