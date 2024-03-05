@@ -17,7 +17,7 @@ are the frameworks and oversight mechanisms currently in place to ensure
 the responsible and ethical use of FRT in Singapore; and (c) what steps
 are being taken to engage with the public and relevant stakeholders about
 the responsible development and application of AI technologies to FRT.</p>
-<p><strong>Answer: </strong>
+<p><strong>Answer:</strong>
 </p>
 <p>1. Facial images as a form of biometric data can be considered personal
 data when associated with other information about an individual. When private
