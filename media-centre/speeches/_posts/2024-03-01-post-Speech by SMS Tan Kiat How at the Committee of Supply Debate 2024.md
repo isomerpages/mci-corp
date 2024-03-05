@@ -35,8 +35,8 @@ AI is picking up pace. We want to equip our enterprises and workers with
 the capabilities to ride this new wave.</p>
 </li>
 <li>
-<p>WearedevelopingaDigitalEnterpriseBlueprint(DEB)tochartthenextboundof our
-effort, which Mr Xie Yao Quan asked about.</p>
+<p>We are developing a Digital Enterprise Blueprint (DEB) to chart the next
+bound of our effort, which Mr Xie Yao Quan asked about.</p>
 </li>
 <li>
 <p>We have been consulting extensively with sector partners and industry.</p>
