@@ -248,4 +248,6 @@ are essential in empowering women too.</p>
 </li>
 </ol>
 <p></p>
+<p><a href="/files/Speeches 2024/_Updated_Transcript__Speech_by_Minister_Josephine_Teo_at_the_Singapore_Chinese_Chamber_of_Commerce_and_Industry_Career_Women_s_Group_s_International_Women_s_Day_2024_Conference__3_Mar_.pdf" rel="noopener noreferrer nofollow" target="_blank">PDF version of the speech.</a>
+</p>
 <p></p>
