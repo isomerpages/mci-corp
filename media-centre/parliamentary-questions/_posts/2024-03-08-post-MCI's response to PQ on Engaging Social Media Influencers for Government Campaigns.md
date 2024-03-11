@@ -8,7 +8,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h3>Parliament Sitting on 8 March 2024</h3>
+<h3>Parliament Sitting on 6 March 2024</h3>
 <h3>QUESTION FOR ORAL ANSWER</h3>
 <p><strong>*4. Mr Gerald Giam Yean Song: </strong>To ask the Minister for
 Communications and Information (a) whether the Ministry has a budget for
