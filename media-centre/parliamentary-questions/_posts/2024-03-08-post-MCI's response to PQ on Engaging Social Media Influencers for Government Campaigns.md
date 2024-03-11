@@ -15,7 +15,7 @@ Communications and Information (a) whether the Ministry has a budget for
 engaging social media influencers; (b) if so, how much is the budget; (c)
 what are the contents that influencers are engaged to publicise; and (d)
 how will the success of influencer campaigns be measured.</p>
-<p><strong>Answer: </strong>
+<p><strong>Answer:</strong>
 </p>
 <p>The Ministry does not have a budget specifically for engaging social media
 influencers. Social media influencers are just one of the channels used
