@@ -18,7 +18,7 @@ variant: markdown
 
 [Full list of current NTC members](/files/Translation/full_list_of_6th_term_ntc_members__29_feb_2024.pdf)
 
-[Full list of current RP members](/files/Translation/full_list_of_6th_term_rp_members__29_feb_2024.pdf)
+[Full list of current RP members](/files/Translation/Full_list_of_6th_Term_RP_members_11Mar2024.pdf)
 	
 ### SG Translate Together Web Portal
 
