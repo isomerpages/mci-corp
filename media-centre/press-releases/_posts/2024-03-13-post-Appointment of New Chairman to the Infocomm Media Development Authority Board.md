@@ -7,12 +7,17 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>13 March 2024</p>
 <p>1. The Minister for Communications and Information has appointed Mr Russell
 Tham, Head, Emerging Technologies, Temasek Holdings Pte Ltd, as Chairman
 of the Infocomm Media Development Authority (IMDA) Board. His appointment
 will take effect from 15 March 2024. Mr Tham succeeds Mr Chan Yeng Kit,
 who steps down as Chairman of the IMDA Board after nine years.</p>
+<p><strong>Mr Russell Tham</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="Mr Russell Tham" src="/images/Press Releases 2024/Russell_Tham.jpg">
+</div>
 <p>2. Mr Chan, who is also Permanent Secretary (Health), was the Chief Executive
 Officer (CEO) of Infocomm Development Authority (IDA) from January 2005
 to November 2007 and Permanent Secretary (Information, Communications and
@@ -26,6 +31,11 @@ fibre-to-the-home Nationwide Broadband Network (NBN). These provided the
 foundation to help Singapore realise its Smart Nation vision. IDA launched
 the Infocomm Media 2025 (ICM 2025) Masterplan in 2015, which IMDA has implemented
 under Mr Chan’s chairmanship.</p>
+<p><strong>Mr Chan Yeng Kit</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="Mr Chan Yeng Kit" src="/images/Press Releases 2024/Chan_Yeng_Kit_1.jpg">
+</div>
 <p>3. With Mr Chan’s guidance, IMDA has continued to architect Singapore’s
 Digital Future. It has been rolling out future-ready digital infrastructure
 from 5G standalone wireless networks to upgrading the wired NBN for seamless
