@@ -14,7 +14,6 @@ will take effect from 15 March 2024. Mr Tham succeeds Mr Chan Yeng Kit,
 who steps down as Chairman of the IMDA Board after nine years.</p>
 <p><strong>Mr Russell Tham</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="Mr Russell Tham" src="/images/Press Releases 2024/Russell_Tham.jpg">
 </div>
