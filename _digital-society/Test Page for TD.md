@@ -120,4 +120,59 @@ More information will be available at a later date.
 
 </details>
 </section>
+&nbsp;
+<section id="community-in-translation-events-grant">
+	<h2>Community-in-Translation Events Grant</h2>
 	
+<ul>
+<li>As part of the NTC’s efforts to raise translation standards in Singapore, the Community-in-Translation initiative was launched in 2016 to reach out to and engage the community through translation-related activities.</li>
+<li>The Community-in-Translation Events Grant (CiTEG) provides funding support for ground-up events with a strong translation element.</li>
+<li>Interested applicants can submit applications for funding to defray expenses in organising translation-focused events featuring English, Chinese, Malay and/or Tamil.</li>
+</ul>
+
+<style>  
+  /\* Styling for the accordion container \*/  
+  details {  
+    border: 1px solid #ccc;  
+    background-color: #f9f9f9;  
+    border-radius: 4px;  
+    padding: 10px;  
+    margin-bottom: 10px;  
+  }  
+
+  /\* Styling for the accordion header \*/  
+  summary {  
+    font-weight: bold;  
+    cursor: pointer;  
+  }  
+</style> &nbsp;
+
+<details> &nbsp;
+&nbsp;<summary>How To Apply</summary>&nbsp;
+<br>
+Current and upcoming application cycles:
+<br>
+<title>Table Example</title> &nbsp;
+<table><thead><tr><th>Application period</th><th>For proposed events which start in</th></tr></thead><tbody><tr><td>1 February 2024 to 31 March 2024</td><td>July 2024 to December 2024</td></tr><tr><td>1 August 2024 to 30 September 2024</td><td>January 2025 to June 2025</td></tr></tbody></table>
+<br>
+For more information, please refer to:&nbsp;
+<br>
+<title>Table Example</title>
+
+&nbsp; &nbsp; 
+&nbsp; &nbsp; &nbsp; 
+&nbsp; &nbsp; &nbsp; &nbsp; 
+&nbsp; &nbsp; &nbsp; &nbsp; 
+&nbsp; &nbsp; &nbsp; &nbsp; 
+&nbsp; &nbsp; &nbsp; 
+&nbsp; &nbsp; 
+&nbsp; &nbsp; 
+&nbsp; &nbsp; &nbsp; 
+&nbsp; &nbsp; &nbsp; &nbsp; 
+&nbsp; &nbsp; &nbsp; &nbsp; 
+&nbsp; &nbsp; &nbsp; &nbsp; <table><thead><tr><th>CiTEG Enquiry Form</th><th>CiTEG Application Guide</th><th>CiTEG Application Form</th></tr></thead><tbody><tr><td><a href="https://go.gov.sg/citeg-enquiry">Enquiry Form</a></td><td><a href="/files/Translation/CiTEG\_Application\_Guide\_caa\_21\_Sep\_2023.pdf">Application Guide</a></td><td><a href="/files/Translation/citeg%20application%20form%20(updated%2030%20apr%202021).pdf">Application Form</a></td>
+</tr>
+</tbody>
+</table><br><br>
+</details>
+</section>
