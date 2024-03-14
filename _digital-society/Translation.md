@@ -31,7 +31,7 @@ description: ""
 <li>The <a href="https://www.sgtranslatetogether.gov.sg/">SG Translate Together (SGTT)</a> Web Portal allows members of the public to generate localised first-cut translations and contribute post-edited translation data to improve the accuracy of the SG Translate Machine Translation (MT) engine. This engine was jointly developed by the Ministry of Communications and Information (MCI) and A*STAR’s Institute for Infocomm Research (I<sup>2</sup>R), with the support of the TRANS Grant. </li>
 <li>The registered users, known as Citizen Translators, can edit the MT generated translations and submit them for review. These reviewed translations will be used to further train the MT engine.</li>
 <li>The portal serves as a one-stop platform for the translation community, where they can develop their translation skills, utilise translation resources, share their insights with one another and stay updated on translation-related programmes and events.</li>
-	
+&nbsp;
 <img src="https://www.mci.gov.sg/images/TD/sgtt%20edm.jpg" style="height:580px; width:411px;">
 &nbsp;
 </ul></section>
@@ -81,7 +81,6 @@ description: ""
 <img alt="TTDS Image" src="https://www.mci.gov.sg/images/TD/ttds%20brochure.png">
 
 <style>  
-  /\* Styling for the accordion container \*/  
   details {  
     border: 1px solid #ccc;  
     background-color: #f9f9f9;  
@@ -90,7 +89,6 @@ description: ""
     margin-bottom: 10px;  
   }  
 
-  /\* Styling for the accordion header \*/  
   summary {  
     font-weight: bold;  
     cursor: pointer;  
@@ -130,7 +128,6 @@ More information will be available at a later date.
 <li>Interested applicants can submit applications for funding to defray expenses in organising translation-focused events featuring English, Chinese, Malay and/or Tamil.</li>
 </ul>
 <style>  
-  /\* Styling for the accordion container \*/  
   details {  
     border: 1px solid #ccc;  
     background-color: #f9f9f9;  
@@ -139,7 +136,6 @@ More information will be available at a later date.
     margin-bottom: 10px;  
   }  
 
-  /\* Styling for the accordion header \*/  
   summary {  
     font-weight: bold;  
     cursor: pointer;  
@@ -153,22 +149,23 @@ Current and upcoming application cycles:
 <title>Table Example</title> &nbsp;
 <table><thead><tr><th>Application period</th><th>For proposed events which start in</th></tr></thead><tbody><tr><td>1 February 2024 to 31 March 2024</td><td>July 2024 to December 2024</td></tr><tr><td>1 August 2024 to 30 September 2024</td><td>January 2025 to June 2025</td></tr></tbody></table>
 <br>
-For more information, please refer to:&nbsp;
-<br>
+For more information, please refer to:
+<br><br>
 <title>Table Example</title>
-
-&nbsp; &nbsp; 
-&nbsp; &nbsp; &nbsp; 
-&nbsp; &nbsp; &nbsp; &nbsp; 
-&nbsp; &nbsp; &nbsp; &nbsp; 
-&nbsp; &nbsp; &nbsp; &nbsp; 
-&nbsp; &nbsp; &nbsp; 
-&nbsp; &nbsp; 
-&nbsp; &nbsp; 
-&nbsp; &nbsp; &nbsp; 
-&nbsp; &nbsp; &nbsp; &nbsp; 
-&nbsp; &nbsp; &nbsp; &nbsp; 
-&nbsp; &nbsp; &nbsp; &nbsp; <table><thead><tr><th>CiTEG Enquiry Form</th><th>CiTEG Application Guide</th><th>CiTEG Application Form</th></tr></thead><tbody><tr><td><a href="https://go.gov.sg/citeg-enquiry">Enquiry Form</a></td><td><a href="/files/Translation/CiTEG\_Application\_Guide\_caa\_21\_Sep\_2023.pdf">Application Guide</a></td><td><a href="/files/Translation/citeg%20application%20form%20(updated%2030%20apr%202021).pdf">Application Form</a></td>
+	
+<table>
+	<thead>
+		<tr>
+			<th>CiTEG Enquiry Form</th>
+			<th>CiTEG Application Guide</th>
+			<th>CiTEG Application Form</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td><a href="https://go.gov.sg/citeg-enquiry">Enquiry Form</a></td>
+			<td><a href="/files/Translation/CiTEG\_Application\_Guide\_caa\_21\_Sep\_2023.pdf">Application Guide</a></td>
+			<td><a href="/files/Translation/citeg%20application%20form%20(updated%2030%20apr%202021).pdf">Application Form</a></td>
 </tr>
 </tbody>
 </table><br><br>
