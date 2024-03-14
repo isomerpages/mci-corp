@@ -7,7 +7,7 @@ description: ""
 <img alt="National Translation Committee Image" src="https://www.mci.gov.sg/images/TD/updated%20ifg%201_ntc%20banner_mci%20website%20revamp%202023.png">
 &nbsp;
 <section id="raising-translation-standards">
-	<h2>Raising translation standards</h2>
+	<h3>Raising translation standards</h3>
 
 <p><strong>About the National Translation Committee</strong></p>
 
@@ -18,17 +18,17 @@ description: ""
 <li>Members of the public are invited to email <a href="mailto:MCI_NTC_Secretariat@mci.gov.sg">MCI_NTC_Secretariat@mci.gov.sg</a> if they have any queries or feedback.</li>
 </ul>
 
-<p><a href="/files/Translation/N\_NTC\_5th\_Term\_NTC\_CVs\_Updated\_as\_of\_15\_Nov\_2023.pdf">Full list of current NTC members</a></p>
-<p><a href="/files/Translation/ntc%20-%20resource%20panels%205th%20term%20cvs%20(as%20of%2018%20sep%202023).pdf">Full list of current RP members</a></p>&nbsp;
+<p><a href="https://www.mci.gov.sg/files/Translation/full_list_of_6th_term_ntc_members__29_feb_2024.pdf">Full list of current NTC members</a></p>
+<p><a href="https://www.mci.gov.sg/files/Translation/ntc%20-%20resource%20panels%205th%20term%20cvs%20(as%20of%2018%20sep%202023).pdf">Full list of current RP members</a></p>&nbsp;
 </section>
 	
 <section id="sgtt-web-portal">
-	<h2>SG Translate Together Web Portal</h2>
+	<h3>SG Translate Together Web Portal</h3>
 
 <div style="position:relative;padding-top:56.25%;"> <iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" align="center" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/-OYRSf0Kx\_Y" height="315" width="560"></iframe> </div>
-
+&nbsp;
 <ul>
-<li>The <a href="“https://www.sgtranslatetogether.gov.sg/“">SG Translate Together (SGTT)</a> Web Portal allows members of the public to generate localised first-cut translations and contribute post-edited translation data to improve the accuracy of the SG Translate Machine Translation (MT) engine. This engine was jointly developed by the Ministry of Communications and Information (MCI) and A*STAR’s Institute for Infocomm Research (I<sup>2</sup>R), with the support of the TRANS Grant. </li>
+<li>The <a href="https://www.sgtranslatetogether.gov.sg/">SG Translate Together (SGTT)</a> Web Portal allows members of the public to generate localised first-cut translations and contribute post-edited translation data to improve the accuracy of the SG Translate Machine Translation (MT) engine. This engine was jointly developed by the Ministry of Communications and Information (MCI) and A*STAR’s Institute for Infocomm Research (I<sup>2</sup>R), with the support of the TRANS Grant. </li>
 <li>The registered users, known as Citizen Translators, can edit the MT generated translations and submit them for review. These reviewed translations will be used to further train the MT engine.</li>
 <li>The portal serves as a one-stop platform for the translation community, where they can develop their translation skills, utilise translation resources, share their insights with one another and stay updated on translation-related programmes and events.</li>
 	
@@ -37,7 +37,7 @@ description: ""
 </ul></section>
 
 <section id="citizens-translators-project">
-	<h2>Citizen Translators Project</h2>
+	<h3>Citizen Translators Project</h3>
 
 <ul>
 <li>The Citizen Translators (CT) Project was introduced in 2021, as part of the Government’s efforts to raise the overall translation and language standards in Singapore. An initiative under the National Translation Committee and part of the SG Together Movement, the project is a first in Singapore involving members of the public, and aims to harness the expertise of the community to crowdsource the best translations for government communications materials. </li>
@@ -45,7 +45,7 @@ description: ""
 </ul></section>
 
 <section id="promoting-best-practices">
-	<h2>Promoting best practices</h2>
+	<h3>Promoting best practices</h3>
 	
 <p><strong>Whole-of-Government Period Contract and Framework Agreement (WoG PCFA) for Translation Services</strong></p>
 
@@ -60,7 +60,7 @@ description: ""
 </section>
 
 <section id="nurturing-talent">
-	<h2>Nurturing talent</h2>
+	<h3>Nurturing talent</h3>
 
 <p><strong>Information Service (Translation) Scholarship</strong></p>
 
@@ -69,7 +69,7 @@ description: ""
 </section>
 
 <section id="translation-talent-development-scheme">
-	<h2>Translation Talent Development Scheme (TTDS)</h2>
+	<h3>Translation Talent Development Scheme (TTDS)</h3>
 	
 <ul>
 <li>Launched in 2018, the TTDS is an initiative to support Singaporean translation and interpretation (T&amp;I) practitioners from the private sector in deepening their skills.</li>
@@ -122,7 +122,7 @@ More information will be available at a later date.
 </section>
 &nbsp;
 <section id="community-in-translation-events-grant">
-	<h2>Community-in-Translation Events Grant</h2>
+	<h3>Community-in-Translation Events Grant</h3>
 	
 <ul>
 <li>As part of the NTC’s efforts to raise translation standards in Singapore, the Community-in-Translation initiative was launched in 2016 to reach out to and engage the community through translation-related activities.</li>
