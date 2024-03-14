@@ -129,7 +129,6 @@ More information will be available at a later date.
 <li>The Community-in-Translation Events Grant (CiTEG) provides funding support for ground-up events with a strong translation element.</li>
 <li>Interested applicants can submit applications for funding to defray expenses in organising translation-focused events featuring English, Chinese, Malay and/or Tamil.</li>
 </ul>
-
 <style>  
   /\* Styling for the accordion container \*/  
   details {  
@@ -146,7 +145,6 @@ More information will be available at a later date.
     cursor: pointer;  
   }  
 </style> &nbsp;
-
 <details> &nbsp;
 &nbsp;<summary>How To Apply</summary>&nbsp;
 <br>
