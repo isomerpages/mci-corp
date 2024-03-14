@@ -119,5 +119,5 @@ More information will be available at a later date.
 <div style="display: flex;"> <img style="width: 50%; max-width: 100%; height: auto;" alt="Image 1" src="/images/TD/ttds%20testimonial%20image%205.png"> <img style="width: 50%; max-width: 100%; height: auto;" alt="Image 2" src="/images/TD/ttds%20testimonial%20image%206.png"> </div>
 
 </details>
-
-	</section>
+</section>
+	
