@@ -4,14 +4,14 @@ permalink: /digital-society/test/
 variant: markdown
 description: ""
 ---
-<img alt="National Translation Committee Image" src="/images/TD/updated%20ifg%201\_ntc%20banner\_mci%20website%20revamp%202023.png">
+<img alt="National Translation Committee Image" src="https://www.mci.gov.sg/images/TD/updated%20ifg%201_ntc%20banner_mci%20website%20revamp%202023.png">
 &nbsp;
 <section id="raising-translation-standards">
 	<h2>Raising translation standards</h2>
 
 <p><strong>About the National Translation Committee</strong></p>
 
-<img alt="National Translation Committee Image" src="https://www.mci.gov.sg/images/TD/updated%20ifg%202\_ntc%20and%20rp%20ifg\_mci%20website%20revamp%202023.png">
+<img alt="National Translation Committee Image" src="https://www.mci.gov.sg/images/TD/updated%20ifg%202_ntc%20and%20rp%20ifg_mci%20website%20revamp%202023.png">
 
 <ul>
 <li>The committee is chaired by Mr Tan Kiat How, Senior Minister of State for Ministry of National Development, and Ministry of Communications and Information.</li>
@@ -55,7 +55,7 @@ description: ""
 
 <p>MCI’s Translation Department maintains the Government Terms Translated repository, which agencies, translation companies and the public can refer to for translations of Government policy-related terms in the four official languages. Click&nbsp;<a href="https://www.translatedterms.gov.sg/">here</a> to visit the repository.</p>
 
-<img alt="Government Terms Translated Image" src="https://www.mci.gov.sg/images/TD/updated%20ifg%203\_gtt%20ifg\_mci%20website%20revamp%202023.png">
+<img alt="Government Terms Translated Image" src="https://www.mci.gov.sg/images/TD/updated%20ifg%203_gtt%20ifg_mci%20website%20revamp%202023.png">
 &nbsp;
 </section>
 
