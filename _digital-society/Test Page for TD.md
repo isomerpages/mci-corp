@@ -43,3 +43,13 @@ description: ""
 <li>Interested parties may sign up as a CT by registering on the SGTT portal <a href="https://www.sgtranslatetogether.gov.sg/">here</a>.</li>
 </ul></section>
 
+<section id="promoting-best-practices">
+	<h2>Promoting best practices</h2>
+	
+<p><strong>Whole-of-Government Period Contract and Framework Agreement (WoG PCFA) for Translation Services</strong></p>
+
+<p>Introduced on 7 May 2015, the framework provides a list of translation vendors who have been evaluated for quality and price competitiveness. With this framework, government agencies will be able to procure quality translations at a fair rate with a quicker turn-around time.</p>
+
+<p><strong>Government Terms Translated</strong></p>
+
+<p>MCI’s Translation Department maintains the Government Terms Translated repository, which agencies, translation companies and the public can refer to for translations of Government policy-related terms in the four official languages. Click&nbsp;<a href="https://www.translatedterms.gov.sg/">here</a> to visit the repository.</p></section>
