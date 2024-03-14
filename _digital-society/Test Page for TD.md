@@ -52,4 +52,8 @@ description: ""
 
 <p><strong>Government Terms Translated</strong></p>
 
-<p>MCI’s Translation Department maintains the Government Terms Translated repository, which agencies, translation companies and the public can refer to for translations of Government policy-related terms in the four official languages. Click&nbsp;<a href="https://www.translatedterms.gov.sg/">here</a> to visit the repository.</p></section>
+<p>MCI’s Translation Department maintains the Government Terms Translated repository, which agencies, translation companies and the public can refer to for translations of Government policy-related terms in the four official languages. Click&nbsp;<a href="https://www.translatedterms.gov.sg/">here</a> to visit the repository.</p>
+
+<img alt="Government Terms Translated Image" src="https://www.mci.gov.sg/images/TD/updated%20ifg%203\_gtt%20ifg\_mci%20website%20revamp%202023.png">
+</section>
+
