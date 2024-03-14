@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <img alt="National Translation Committee Image" src="/images/TD/updated%20ifg%201\_ntc%20banner\_mci%20website%20revamp%202023.png">
-
+&nbsp;
 <section id="raising-translation-standards">
 	<h2>Raising translation standards</h2>
 
@@ -33,6 +33,7 @@ description: ""
 <li>The portal serves as a one-stop platform for the translation community, where they can develop their translation skills, utilise translation resources, share their insights with one another and stay updated on translation-related programmes and events.</li>
 	
 <img src="https://www.mci.gov.sg/images/TD/sgtt%20edm.jpg" style="height:580px; width:411px;">
+&nbsp;
 </ul></section>
 
 <section id="citizens-translators-project">
@@ -55,5 +56,68 @@ description: ""
 <p>MCI’s Translation Department maintains the Government Terms Translated repository, which agencies, translation companies and the public can refer to for translations of Government policy-related terms in the four official languages. Click&nbsp;<a href="https://www.translatedterms.gov.sg/">here</a> to visit the repository.</p>
 
 <img alt="Government Terms Translated Image" src="https://www.mci.gov.sg/images/TD/updated%20ifg%203\_gtt%20ifg\_mci%20website%20revamp%202023.png">
+&nbsp;
 </section>
 
+<section id="nurturing-talent">
+	<h2>Nurturing talent</h2>
+
+<p><strong>Information Service (Translation) Scholarship</strong></p>
+
+<p>In 2015, MCI introduced the Information Service (Translation) Scholarship, aimed at identifying and grooming young Singaporeans who have a strong interest in translation as well as a deep familiarity with Singapore’s translation landscape and context. Click <a href="https://www.mci.gov.sg/join-us/scholarship/overview/">here</a> for more information on the Information Service (Translation) Scholarship. </p>
+&nbsp;
+</section>
+
+<section id="translation-talent-development-scheme">
+	<h2>Translation Talent Development Scheme (TTDS)</h2>
+	
+<ul>
+<li>Launched in 2018, the TTDS is an initiative to support Singaporean translation and interpretation (T&amp;I) practitioners from the private sector in deepening their skills.</li>
+<li>Awarded recipients can receive up to S$10,000, to offset 90 percent of the expenses incurred in their participation of capability development programme(s) related to translation, interpretation and/or languages in Singapore and overseas.</li>
+</ul>
+
+<div style="position:relative;padding-top:56.25%;"> <iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" align="center" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/fnbfRZbJQto" height="315" width="560"></iframe> </div>
+&nbsp;
+<img alt="TTDS Image" src="https://www.mci.gov.sg/images/TD/ttds%20brochure.png">
+
+<style>  
+  /\* Styling for the accordion container \*/  
+  details {  
+    border: 1px solid #ccc;  
+    background-color: #f9f9f9;  
+    border-radius: 4px;  
+    padding: 10px;  
+    margin-bottom: 10px;  
+  }  
+
+  /\* Styling for the accordion header \*/  
+  summary {  
+    font-weight: bold;  
+    cursor: pointer;  
+  }  
+</style> &nbsp;
+
+<details> &nbsp;
+<summary>When can I apply?</summary>
+<br>
+We accept applications from 1 April to 30 June (both dates inclusive) each year.
+<br><br>
+More information will be available at a later date.
+<br><br>
+<a href="https://go.gov.sg/ttds-enquiry">TTDS Enquiry Form</a>
+<br><br>
+</details>
+
+<details> &nbsp;
+&nbsp;<summary>Click to read the testimonials from our past recipients</summary> &nbsp;
+
+<br>
+<div style="display: flex;"> <img style="width: 50%; max-width: 100%; height: auto;" alt="Image 1" src="/images/TD/ttds%20testimonial%20image%201.png"> <img style="width: 50%; max-width: 100%; height: auto;" alt="Image 2" src="/images/TD/ttds%20testimonial%20image%202.png"> </div>
+
+<div style="display: flex;"> <img style="width: 50%; max-width: 100%; height: auto;" alt="Image 1" src="/images/TD/ttds%20testimonial%20image%203.png"> <img style="width: 50%; max-width: 100%; height: auto;" alt="Image 2" src="/images/TD/ttds%20testimonial%20image%204.png"> </div>
+
+<div style="display: flex;"> <img style="width: 50%; max-width: 100%; height: auto;" alt="Image 1" src="/images/TD/ttds%20testimonial%20image%205.png"> <img style="width: 50%; max-width: 100%; height: auto;" alt="Image 2" src="/images/TD/ttds%20testimonial%20image%206.png"> </div>
+
+</details>
+
+	</section>
