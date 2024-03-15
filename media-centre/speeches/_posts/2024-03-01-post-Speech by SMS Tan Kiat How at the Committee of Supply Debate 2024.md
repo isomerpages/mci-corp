@@ -394,7 +394,7 @@ competencies.</p>
 </li>
 <li>
 <p>Within three months, the number of companies pledging their support for
-skills- based hiring doubled from 100 to 200.</p>
+skills-based hiring doubled from 100 to 200.</p>
 </li>
 <li>
 <p>Oracle is an example of a company that has pledged its support for the
@@ -437,13 +437,12 @@ expanded her understanding of the dynamic tech industry and the many exciting
 career paths it offers.</p>
 </li>
 <li>
-<p>人工智能让我们在现有的数码基础上更上一层楼。除了为我们的企业带来新的竞争 优势，也能提高员工的生产力 – 如虎添翼。因此，政府将协助企业，尤其是中小
-企业和员工，让他们掌握人工智能，从中获益。</p>
+<p>人工智能让我们在现有的数码基础上更上一层楼。除了为我们的企业带来新的竞争优势，也能提高员工的生产力 – 如虎添翼。因此，政府将协助企业，尤其是中小企业和员工，让他们掌握人工智能，从中获益。</p>
 </li>
 <li>
-<p>到目前为止，资媒局已经推出了 22 个产业数码化蓝图。该局接下来在更新蓝图时， 也会加入人工智能的部分。此外，在中小企业数码化计划下，资媒局也会在当局预
-先批准的数码解决方案中，纳入人工智能技术。如今，有两成的数码解决方案是由 人工智能推动的，超过 3000 家中小企业已经从中受益。更重要的是，我们将会和
-各界合作，策划相关的培训课程，协助工友掌握技能，与时俱进，把握人工智能所 带来的新机遇。</p>
+<p>到目前为止，资媒局已经推出了 22 个产业数码化蓝图。该局接下来在更新蓝图时，也会加入人工智能的部分。此外，在中小企业数码化计划下，资媒局也会在当局预
+先批准的数码解决方案中，纳入人工智能技术。如今，有两成的数码解决方案是由人工智能推动的，超过 3000 家中小企业已经从中受益。更重要的是，我们将会和
+各界合作，策划相关的培训课程，协助工友掌握技能，与时俱进，把握人工智能所带来的新机遇。</p>
 </li>
 <li>
 <p>Sir, Singapore does not have the natural advantages of many other economies.
