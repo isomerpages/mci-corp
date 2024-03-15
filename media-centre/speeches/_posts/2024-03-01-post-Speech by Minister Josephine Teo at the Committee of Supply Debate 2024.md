@@ -28,10 +28,11 @@ lives easier, and more than half are prepared to try new technologies.</p>
 <p>In January, Parliament debated extensively a motion on Digital Inclusion
 and Safety. For COS therefore, MCI will cover three other important aspects
 of Smart Nation development:</p>
+<p></p>
 </li>
 </ol>
 <p>a. First, leveraging technology to uplift our collective potential.</p>
-<p>b. Second, upholding trust in the digital domain.</p>
+<p>b. Second, upholding trust in the digital domain.&nbsp;</p>
 <p>c. Third, safeguarding our infrastructure of fact.</p>
 <ol start="5" data-tight="true" class="tight">
 <li>
@@ -98,12 +99,13 @@ that powers AI activities.</p>
 <p>In the world of AI, we can think broadly of three communities:</p>
 </li>
 </ol>
-<p>a. AI Creators who generate cutting-edge AI research, design frontier
-systems and drive novel use cases.</p>
-<p>b. AI Practitioners who have the skillsets to implement and deploy AI
-systems, models and algorithms in organisations and</p>
-<p>c. AI Users who are equipped to use AI-powered solutions and services
-to increase productivity and take up better jobs.</p>
+<p>a. AI <strong>Creators</strong> who generate cutting-edge AI research, design
+frontier systems and drive novel use cases.</p>
+<p>b. AI <strong>Practitioners</strong> who have the skillsets to implement
+and deploy AI systems, models and algorithms in organisations and</p>
+<p>c. AI <strong>Users</strong> who are equipped to use AI-powered solutions
+and services to increase productivity and take up better jobs.</p>
+<p></p>
 <ol start="16" data-tight="true" class="tight">
 <li>
 <p>Every city with some AI ambition wants these Creators, Practitioners and
@@ -137,17 +139,18 @@ who would like to work more with us.</p>
 <p></p>
 </li>
 <li>
-<p>We welcome them and will soon launch a new AI Visiting Professorship for
-world-class AI researchers to collaborate with Singapore. 22. [Announcement]
-We will also partner AI Singapore and our universities to launch a new
-AI Accelerated Masters Programme to grow our pipeline of Singaporean AI
-researchers.</p>
+<p>We welcome them and will soon launch a new<strong> AI Visiting Professorship</strong> for
+world-class AI researchers to collaborate with Singapore.</p>
+<p></p>
 </li>
-</ol>
-<ol start="23" data-tight="true" class="tight">
 <li>
-<p>At the same time, we will triple the pool of AI Practitioners here to
-15,000 over the next five years. Practitioners include data scientists
+<p>We will also partner AI Singapore and our universities to launch a new <strong>AI Accelerated Masters Programme </strong>to
+grow our pipeline of Singaporean AI researchers.</p>
+<p></p>
+</li>
+<li>
+<p>At the same time, we will triple the pool of <strong>AI Practitioners</strong> here
+to 15,000 over the next five years. Practitioners include data scientists
 and machine learning engineers, who develop and translate the use of AI
 in organisations and across the economy.</p>
 <p></p>
@@ -162,7 +165,7 @@ an entrepreneur.</p>
 </li>
 <li>
 <p>In 2020, he co-founded <a href="http://Hypotenuse.AI" rel="noopener noreferrer nofollow" target="_blank">Hypotenuse.AI</a>, a start-up which provides
-an AI- powered platform for businesses to create marketing content within
+an AI-powered platform for businesses to create marketing content within
 seconds. Today, Mr Wong continues to enjoy networking opportunities with
 fellow scholars and mentors younger talent.</p>
 <p></p>
@@ -215,8 +218,9 @@ with the NTUC. We will continue to do so.</p>
 </li>
 <li>
 <p>Let me provide an update on the Jobs Transformation Maps (JTMs) and how
-they support workers impacted by AI, which Mr Sharael Taha asked about.
-There are now 16 JTMs that identify job roles affected by various technologies,
+they support workers impacted by AI, which Mr Sharael Taha asked about.</p>
+<p>
+<br>There are now 16 JTMs that identify job roles affected by various technologies,
 of which 13 specifically outline the impact of AI. These JTMs cover about
 1.4 million in hundreds of job roles. While we cannot fully predict the
 scope and scale of AI disruptions, these JTMs provide useful signposts
@@ -292,9 +296,9 @@ Data Protection Act (PDPA) applies to AI systems.</p>
 <ol start="43" data-tight="true" class="tight">
 <li>
 <p>Following extensive consultations with stakeholders, PDPC has finalised
-its Advisory Guidelines on the use of Personal Data in AI Recommendation
-and Decision Systems and will publish this today. PDPC will next consider
-giving guidance on the use of personal data to train generative AI systems.</p>
+its <strong>Advisory Guidelines on the use of Personal Data in AI Recommendation and Decision Systems</strong> and
+will publish this today. PDPC will next consider giving guidance on the
+use of personal data to train generative AI systems.</p>
 <p></p>
 </li>
 <li>
@@ -316,11 +320,10 @@ Deloitte, DBS, and SIA as members.</p>
 <p></p>
 </li>
 <li>
-<p>At the World Economic Forum in January this year, we announced a Proposed
-Model AI Governance Framework for Generative AI, and sought views from
-our partners. This framework builds on the earlier Model AI Governance
-Framework and reflects emerging principles, concerns, and technological
-developments in generative AI.</p>
+<p>At the World Economic Forum in January this year, we announced a Proposed <strong>Model AI Governance Framework for Generative AI</strong>,
+and sought views from our partners. This framework builds on the earlier
+Model AI Governance Framework and reflects emerging principles, concerns,
+and technological developments in generative AI.</p>
 <p></p>
 </li>
 <li>
@@ -412,9 +415,9 @@ at two key moves.</p>
 </li>
 <li>
 <p>First, we will enhance our regulatory levers. The upcoming amendments
-to the Cybersecurity Act will raise the cybersecurity of foundational digital
-infrastructure and other systems as well as entities, beyond the Critical
-Information Infrastructure it covers today.</p>
+to the <strong>Cybersecurity Act </strong>will raise the cybersecurity of
+foundational digital infrastructure and other systems as well as entities,
+beyond the Critical Information Infrastructure it covers today.</p>
 <p></p>
 </li>
 <li>
@@ -422,7 +425,7 @@ Information Infrastructure it covers today.</p>
 entities that may hold sensitive data or perform important public functions.
 I am pleased to update Members that public consultations on the amendments
 were completed in January. We plan to introduce the amendment Bill in Parliament
-next week and will share more details then.</p>
+next month and will share more details then.</p>
 <p></p>
 </li>
 <li>
@@ -434,9 +437,9 @@ and cooling system failures.</p>
 <p></p>
 </li>
 <li>
-<p>The Taskforce is therefore also studying the introduction of a new Digital
-Infrastructure Act (DIA), to address broader security and resilience concerns
-of key digital infrastructure and services, beyond cybersecurity.</p>
+<p>The Taskforce is therefore also studying the introduction of a new <strong>Digital Infrastructure Act (DIA)</strong>,
+to address broader security and resilience concerns of key digital infrastructure
+and services, beyond cybersecurity.</p>
 <p></p>
 </li>
 <li>
@@ -444,7 +447,7 @@ of key digital infrastructure and services, beyond cybersecurity.</p>
 impact on the economy and society if disrupted. For example, large cloud
 service providers and data centres are crucial to the functioning of a
 wide array of digital services that enterprises and consumers use daily.
-These operators ma therefore need to meet higher security and resilience
+These operators may therefore need to meet higher security and resilience
 standards, to reduce the likelihood of systemic disruptions.</p>
 <p></p>
 </li>
@@ -494,9 +497,10 @@ in our data and communications networks.</p>
 Network Plus (NQSN+). Singtel and SPTel, together with another local company
 SpeQtral, have since been appointed to build Singapore’s first quantum-safe
 network –the first of its kind in Southeast Asia as well. The network is
-expected to be ready by end-2024. We are also building capabilities to
-develop solutions that enable safe and trusted data sharing, something
-that Ms Mariam Jaafar talked about.</p>
+expected to be ready by end-2024.</p>
+<p>
+<br>We are also building capabilities to develop solutions that enable safe
+and trusted data sharing, something that Ms Mariam Jaafar talked about.</p>
 <p></p>
 </li>
 <li>
@@ -736,16 +740,15 @@ Mandarin, returning to the topic of AI which I started with.</p>
 <p></p>
 </li>
 <li>
-<p>人工智能 AI 将继续渗透世界各地及各个领域,包括新加坡的社会和 经济。我们必须把握机遇, 帮助国人和企业做好准备。为此, 我今 天宣布了多项举措。</p>
+<p>人工智能 AI 将继续渗透世界各地及各个领域,包括新加坡的社会和 经济。我们必须把握机遇, 帮助国人和企业做好准备。为此, 我今天宣布了多项举措。</p>
 <p></p>
 </li>
 <li>
-<p>首先,我们将推出新计划, 吸引全球最顶尖的人工智能创作者来到 狮城, 与本地专家和学者合作, 让尖端技术在我国扎根。</p>
+<p>首先,我们将推出新计划, 吸引全球最顶尖的人工智能创作者来到狮城, 与本地专家和学者合作, 让尖端技术在我国扎根。</p>
 <p></p>
 </li>
 <li>
-<p>为了壮大我国的人工智能队伍,在未来 5 年把这方面的专才增加到 1</p>
-<p>万 5000 人,政府也将投入 2000 万元, 栽培本地的莘莘学子, 为他们提供奖学金和海外实习机会。</p>
+<p>为了壮大我国的人工智能队伍,在未来 5 年把这方面的专才增加到 1万 5000 人,政府也将投入 2000 万元, 栽培本地的莘莘学子, 为他们提供奖学金和海外实习机会。</p>
 <p></p>
 </li>
 <li>
