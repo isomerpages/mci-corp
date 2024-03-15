@@ -7,7 +7,6 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p></p>
 <ol>
 <li>
 <p>Mr Chairman, we have made good progress in digitalising our economy. Singapore’s
@@ -58,7 +57,7 @@ in the Age of AI’.</p>
 to <strong>Be Smarter </strong>through using AI-powered digital solutions.
 Second, we will support our enterprises to <strong>Scale Faster </strong>through
 adoption of integrated digital solutions. Third, we will equip enterprises
-to <strong>Be Safer </strong>by improving their cyber resilience.</p>
+to <strong>Be Safer</strong> by<strong> </strong>improving their cyber resilience.</p>
 </li>
 <li>
 <p>So Smarter, Scale faster and Safer.</p>
@@ -83,7 +82,7 @@ digital solutions suitable for broad based adoption.</p>
 <li>
 <p>We have started working with tech industry to incorporate AI capabilities
 in their digital solutions. I am glad to share that as of today, around
-20% of these solutions are already AI-enabled.</p>
+20% of these pre-approved solutions are already AI-enabled.</p>
 </li>
 <li>
 <p>For example, AI capabilities are integrated seamlessly into customer relationship
@@ -140,12 +139,12 @@ and sales growth.</p>
 </li>
 <li>
 <p>For enterprises who want to do more, we are supporting them through our
-Advanced Digital Solutions scheme, which helps bring together the tech
+Advanced Digital Solutions scheme, which brings together the technology
 ecosystem to curate solutions for key problems identified by sector leads.</p>
 </li>
 <li>
 <p>We also launched two new schemes for enterprises to gain experience using
-generative AI.</p>
+GenAI.</p>
 </li>
 <li>
 <p>The first is a programme by IMDA and EnterpriseSG to provide a pilot group
@@ -270,7 +269,7 @@ far.</p>
 <li>
 <p>Second, we will go upstream and raise the cybersecurity standards of the
 digital systems used by our enterprises. This will especially benefit SMEs
-with no in- house cybersecurity resources. We will start with the pre-approved
+with no in-house cybersecurity resources. We will start with the pre-approved
 digital solutions under IMDA’s SMEs Go Digital programme.</p>
 </li>
 <li>
@@ -283,7 +282,7 @@ amongst healthcare providers.</p>
 <p>We will share more details in the DEB.</p>
 </li>
 <li>
-<p>Mr Chairman, I have spoken about the three thrusts of the Digital Enterprise
+<p>Mr Chairman, I spoke briefly about the three thrusts of the Digital Enterprise
 Blueprint to uplift enterprises and workers in the Age of AI by Being Smarter,
 Scale Faster and Becoming Safer.</p>
 </li>
@@ -395,7 +394,7 @@ competencies.</p>
 </li>
 <li>
 <p>Within three months, the number of companies pledging their support for
-skills- based hiring doubled from 100 to 200.</p>
+skills-based hiring doubled from 100 to 200.</p>
 </li>
 <li>
 <p>Oracle is an example of a company that has pledged its support for the
@@ -438,13 +437,12 @@ expanded her understanding of the dynamic tech industry and the many exciting
 career paths it offers.</p>
 </li>
 <li>
-<p>人工智能让我们在现有的数码基础上更上一层楼。除了为我们的企业带来新的竞争 优势，也能提高员工的生产力 – 如虎添翼。因此，政府将协助企业，尤其是中小
-企业和员工，让他们掌握人工智能，从中获益。</p>
+<p>人工智能让我们在现有的数码基础上更上一层楼。除了为我们的企业带来新的竞争优势，也能提高员工的生产力 – 如虎添翼。因此，政府将协助企业，尤其是中小企业和员工，让他们掌握人工智能，从中获益。</p>
 </li>
 <li>
-<p>到目前为止，资媒局已经推出了 22 个产业数码化蓝图。该局接下来在更新蓝图时， 也会加入人工智能的部分。此外，在中小企业数码化计划下，资媒局也会在当局预
-先批准的数码解决方案中，纳入人工智能技术。如今，有两成的数码解决方案是由 人工智能推动的，超过 3000 家中小企业已经从中受益。更重要的是，我们将会和
-各界合作，策划相关的培训课程，协助工友掌握技能，与时俱进，把握人工智能所 带来的新机遇。</p>
+<p>到目前为止，资媒局已经推出了 22 个产业数码化蓝图。该局接下来在更新蓝图时，也会加入人工智能的部分。此外，在中小企业数码化计划下，资媒局也会在当局预
+先批准的数码解决方案中，纳入人工智能技术。如今，有两成的数码解决方案是由人工智能推动的，超过 3000 家中小企业已经从中受益。更重要的是，我们将会和
+各界合作，策划相关的培训课程，协助工友掌握技能，与时俱进，把握人工智能所带来的新机遇。</p>
 </li>
 <li>
 <p>Sir, Singapore does not have the natural advantages of many other economies.
@@ -460,8 +458,8 @@ in the next phase of our digitalisation journey to uplift enterprises and
 workers in an age of AI. It will be an exciting journey, so I welcome more
 likeminded partners to work together with us and invite all enterprises
 and workers to join us on this exciting journey ahead. Thank you.</p>
-<p><a href="/files/Speeches 2024/Transcript_of_Speech_by_Senior_Minister_of_State_for_Communications_and_Information_Tan_Kiat_How__at_the_Committee_of_Supply_Debate_on_1_March_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">PDF version of the speech</a>
-</p>
 </li>
 </ol>
+<p><a href="/files/Speeches 2024/Speech_by_Senior_Minister_of_State_for_Communications_and_Information_Tan_Kiat_How__at_the_Committee_of_Supply_Debate_on_1_March_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">PDF version of the speech</a>
+</p>
 <p></p>
