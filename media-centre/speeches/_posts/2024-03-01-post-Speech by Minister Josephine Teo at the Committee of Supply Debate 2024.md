@@ -767,6 +767,6 @@ Mandarin, returning to the topic of AI which I started with.</p>
 <p>然而, 人工智能的发展势头不会放缓。新加坡政府将秉持具有前瞻性的治国理念, 并采取“以人为本”的方式, 落实各项计划。</p>
 </li>
 </ol>
-<p><a href="/files/Speeches 2024/Transcript_of_Speech_by_Minister_for_Communications_and_Information__Josephine_Teo__at_the_Committee_of_Supply_Debate_on_1_March_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">PDF version of the speech.</a>
+<p><a href="/files/Speech_by_Minister_for_Communications_and_Information__Josephine_Teo__at_the_Committee_of_Supply_Debate_on_1_March_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">PDF version of the speech.</a>
 </p>
 <p></p>
