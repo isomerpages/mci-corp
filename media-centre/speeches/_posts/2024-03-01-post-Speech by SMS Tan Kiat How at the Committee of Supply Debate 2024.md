@@ -7,7 +7,6 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p></p>
 <ol>
 <li>
 <p>Mr Chairman, we have made good progress in digitalising our economy. Singapore’s
@@ -58,7 +57,7 @@ in the Age of AI’.</p>
 to <strong>Be Smarter </strong>through using AI-powered digital solutions.
 Second, we will support our enterprises to <strong>Scale Faster </strong>through
 adoption of integrated digital solutions. Third, we will equip enterprises
-to <strong>Be Safer </strong>by improving their cyber resilience.</p>
+to <strong>Be Safer</strong> by<strong> </strong>improving their cyber resilience.</p>
 </li>
 <li>
 <p>So Smarter, Scale faster and Safer.</p>
@@ -83,7 +82,7 @@ digital solutions suitable for broad based adoption.</p>
 <li>
 <p>We have started working with tech industry to incorporate AI capabilities
 in their digital solutions. I am glad to share that as of today, around
-20% of these solutions are already AI-enabled.</p>
+20% of these pre-approved solutions are already AI-enabled.</p>
 </li>
 <li>
 <p>For example, AI capabilities are integrated seamlessly into customer relationship
@@ -140,12 +139,12 @@ and sales growth.</p>
 </li>
 <li>
 <p>For enterprises who want to do more, we are supporting them through our
-Advanced Digital Solutions scheme, which helps bring together the tech
+Advanced Digital Solutions scheme, which brings together the technology
 ecosystem to curate solutions for key problems identified by sector leads.</p>
 </li>
 <li>
 <p>We also launched two new schemes for enterprises to gain experience using
-generative AI.</p>
+GenAI.</p>
 </li>
 <li>
 <p>The first is a programme by IMDA and EnterpriseSG to provide a pilot group
@@ -270,7 +269,7 @@ far.</p>
 <li>
 <p>Second, we will go upstream and raise the cybersecurity standards of the
 digital systems used by our enterprises. This will especially benefit SMEs
-with no in- house cybersecurity resources. We will start with the pre-approved
+with no in-house cybersecurity resources. We will start with the pre-approved
 digital solutions under IMDA’s SMEs Go Digital programme.</p>
 </li>
 <li>
@@ -283,7 +282,7 @@ amongst healthcare providers.</p>
 <p>We will share more details in the DEB.</p>
 </li>
 <li>
-<p>Mr Chairman, I have spoken about the three thrusts of the Digital Enterprise
+<p>Mr Chairman, I spoke briefly about the three thrusts of the Digital Enterprise
 Blueprint to uplift enterprises and workers in the Age of AI by Being Smarter,
 Scale Faster and Becoming Safer.</p>
 </li>
