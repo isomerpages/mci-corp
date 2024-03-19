@@ -22,7 +22,7 @@ variant: markdown
 <p><a href="https://www.mci.gov.sg/files/Translation/full_list_of_6th_term_ntc_members__29_feb_2024.pdf">Full list of current NTC members</a></p>
 <p><a href="https://www.mci.gov.sg/files/Translation/Full_list_of_6th_Term_RP_members_11Mar2024.pdf">Full list of current RP members</a></p>&nbsp;
 </section>
-
+&nbsp;
 <section id="sgtt-web-portal">
 	<h3>SG Translate Together Web Portal</h3>
 
@@ -48,7 +48,7 @@ variant: markdown
 <li>Interested parties may sign up as a CT by registering on the SGTT portal <a href="https://www.sgtranslatetogether.gov.sg/">here</a>.</li>
 
 </ul></section>
-
+&nbsp;
 <section id="promoting-best-practices">
 	<h3>Promoting best practices</h3>
 
@@ -73,7 +73,7 @@ variant: markdown
 <p>In 2015, MCI introduced the Information Service (Translation) Scholarship, aimed at identifying and grooming young Singaporeans who have a strong interest in translation as well as a deep familiarity with Singapore’s translation landscape and context. Click <a href="https://www.mci.gov.sg/join-us/scholarship/overview/">here</a> for more information on the Information Service (Translation) Scholarship. </p>
 &nbsp;
 </section>
-
+&nbsp;
 <section id="translation-talent-development-scheme">
 	<h3>Translation Talent Development Scheme (TTDS)</h3>
 
