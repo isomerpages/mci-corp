@@ -1,5 +1,4 @@
 collections:
   digital-society:
     output: true
-    order:
-      - Translation.md
+    order: []
