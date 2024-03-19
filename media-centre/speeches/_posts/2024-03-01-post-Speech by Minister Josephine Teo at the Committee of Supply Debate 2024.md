@@ -367,16 +367,20 @@ touchpoints to provide guidance to seniors.</p>
 </li>
 <li>
 <p>As the digital landscape evolves, our libraries will also continue efforts
-to promote reading and lifelong learning. This includes NLB’s mobile library
-service, or MOLLY, which Ms Hany Soh touched on. I thank you for your support
-and appreciation of NLB’s MOLLY’s outreach.</p>
+to promote reading and lifelong learning This includes NLB’s mobile library
+service, or MOLLY, which Ms Hany Soh touched on. I thank Ms Soh, for her
+support and appreciation of the outreach that MOLLY has helped the NLB
+to achieve.</p>
 <p></p>
 </li>
 <li>
 <p>Since its launch in 2008, MOLLY has served over 500 institutions, received
-around 1.4 million visits, and facilitated about 2.7m loans. Other than
-MOLLY, there are other ways libraries make their presence felt, such as
-through pop-up stations in malls with high footfall.</p>
+around 1.4 million visits and facilitated about 2.7m loans. I should also
+add that it is not only MOLLY that brings the library to our citizens,
+there are other ways in which the library makes its presence felt. For
+example, there are pop-ups stations in busy shopping malls and other locations
+with high foot fall, and you will find some representation of the library
+in them.&nbsp;</p>
 <p></p>
 </li>
 <li>
@@ -626,10 +630,9 @@ out of four newspapers that existed in 2005 no longer does”.</p>
 its first-ever loss. Left to market forces and commercial stresses, it
 would likely have gone the way of the Washington Post and Buzzfeed. This
 is particularly so with its vernacular titles, which have naturally smaller
-audiences, and which members like Mr Sharael Taha, Ms Tin, and Mr Alex
-Yam are rightly concerned about. The Government decided to step in to give
-SPH Media, especially its vernacular titles, a fighting chance in the new
-media landscape.</p>
+audiences, and which members like Mr Sharael Taha, Ms Tin, are rightly
+concerned about. The Government decided to step in to give SPH Media, especially
+its vernacular titles, a fighting chance in the new media landscape.</p>
 <p></p>
 </li>
 <li>
