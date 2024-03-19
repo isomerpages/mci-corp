@@ -25,7 +25,7 @@ description: ""
 <section id="sgtt-web-portal">
 	<h3>SG Translate Together Web Portal</h3>
 
-<div style="position:relative;padding-top:56.25%;"> <iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" align="center" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/-OYRSf0Kx\_Y" height="315" width="560"></iframe> </div>
+<div style="position:relative;padding-top:56.25%;"> <iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" align="center" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/-OYRSf0Kx_Y" height="315" width="560"></iframe> </div>
 &nbsp;
 <ul>
 <li>The <a href="https://www.sgtranslatetogether.gov.sg/">SG Translate Together (SGTT)</a> Web Portal allows members of the public to generate localised first-cut translations and contribute post-edited translation data to improve the accuracy of the SG Translate Machine Translation (MT) engine. This engine was jointly developed by the Ministry of Communications and Information (MCI) and A*STAR’s Institute for Infocomm Research (I<sup>2</sup>R), with the support of the TRANS Grant. </li>
