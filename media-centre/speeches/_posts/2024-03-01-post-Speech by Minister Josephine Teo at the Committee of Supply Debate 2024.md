@@ -219,8 +219,8 @@ with the NTUC. We will continue to do so.</p>
 <li>
 <p>Let me provide an update on the Jobs Transformation Maps (JTMs) and how
 they support workers impacted by AI, which Mr Sharael Taha asked about.</p>
-<p>
-<br>There are now 16 JTMs that identify job roles affected by various technologies,
+<p></p>
+<p>There are now 16 JTMs that identify job roles affected by various technologies,
 of which 13 specifically outline the impact of AI. These JTMs cover about
 1.4 million in hundreds of job roles. While we cannot fully predict the
 scope and scale of AI disruptions, these JTMs provide useful signposts
@@ -502,8 +502,8 @@ Network Plus (NQSN+). Singtel and SPTel, together with another local company
 SpeQtral, have since been appointed to build Singapore’s first quantum-safe
 network –the first of its kind in Southeast Asia as well. The network is
 expected to be ready by end-2024.</p>
-<p>
-<br>We are also building capabilities to develop solutions that enable safe
+<p></p>
+<p>We are also building capabilities to develop solutions that enable safe
 and trusted data sharing, something that Ms Mariam Jaafar talked about.</p>
 <p></p>
 </li>
