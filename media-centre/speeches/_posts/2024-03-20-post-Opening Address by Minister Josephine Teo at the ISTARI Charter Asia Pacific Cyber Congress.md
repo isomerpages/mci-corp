@@ -190,5 +190,25 @@ effort between three companies – SecureAge, InsiderSecurity and ReaQta
 that aims to provide SMEs with an automated end-to-end cybersecurity solution
 covering multiple attack vectors. Currently, there are already more than
 300 customers who are trying out the product.</p>
-<p></p>
-<p></p>
+<p>36. If you have novel cybersecurity challenges or solutions, I encourage
+you to throw your hat in the ring when applications open.</p>
+<p>37. The TIG Plan also facilitates the export of Singapore’s cybersecurity
+products and services, as we believe that our useful products can benefit
+not just the Singapore market, but the world. Therefore, we support local
+companies seeking to expand their business abroad, and one of the ways
+we are doing this is through overseas mission trips to explore opportunities
+together.</p>
+<p>38. The TIG Centre will be leading a delegation of Singapore cybersecurity
+companies to London this June to understand common cybersecurity problems
+to be solved, to forge connections and to broaden their business reach.
+Businesses keen on exploring opportunities to enter the UK, or other foreign
+markets, should keep an eye out for applications opening in the coming
+weeks.</p>
+<p>Conclusion</p>
+<p>39. In conclusion, building and sustaining trust in our digital domain
+requires a whole-of-ecosystem effort.</p>
+<p>40. The Government does not expect to do this alone. Instead, we welcome
+partnerships with colleagues in industry and academia.</p>
+<p>41. We believe that by working together as a team and thinking creatively,
+we can raise the level of trust and resilience in Singapore’s cybersecurity.
+Thank you.</p>
