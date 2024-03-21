@@ -213,3 +213,5 @@ partnerships with colleagues in industry and academia.</p>
 <p>41. We believe that by working together as a team and thinking creatively,
 we can raise the level of trust and resilience in Singapore’s cybersecurity.
 Thank you.</p>
+<p><a href="/files/Speeches 2024/For_immediate_reporting__Opening_Address_by_Min_CI__at_ISTARI_Charter_Event_20_Mar_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">PDF version of the speech</a>
+</p>
