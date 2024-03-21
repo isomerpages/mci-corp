@@ -204,7 +204,8 @@ to be solved, to forge connections and to broaden their business reach.
 Businesses keen on exploring opportunities to enter the UK, or other foreign
 markets, should keep an eye out for applications opening in the coming
 weeks.</p>
-<p>Conclusion</p>
+<p><strong><u>Conclusion</u></strong>
+</p>
 <p>39. In conclusion, building and sustaining trust in our digital domain
 requires a whole-of-ecosystem effort.</p>
 <p>40. The Government does not expect to do this alone. Instead, we welcome
