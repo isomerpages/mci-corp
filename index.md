@@ -21,7 +21,7 @@ sections:
           url: /join-us/careers/why-join-mci/
         - title: Committee of Supply
           description: MCI Budget Debate
-          url: /what-we-do/committee-of-supply/2023/
+          url: /what-we-do/committee-of-supply/2024/
       background: /images/revised_mcibanner.gif
       title: <h2> MINISTRY OF COMMUNICATIONS AND INFORMATION </h2>
 ---
