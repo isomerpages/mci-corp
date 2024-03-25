@@ -163,3 +163,5 @@ and boundless opportunities ahead.</p>
 a future where women are not just at the table but leading the charge in
 shaping a better tomorrow, for Singapore and around the world.</p>
 <p>34. Thank you very much and wishing all of you a fruitful symposium.</p>
+<p><a href="/files/Speeches 2024/Transcript__SMS_Tan_s_Speech_for_International_Women_in_STEM___Medicine_Symposium_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">PDF version of the speech</a>
+</p>
