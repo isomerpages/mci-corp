@@ -110,7 +110,6 @@ Applications are now open from 1 April 2024 to 30 June 2024 (both dates inclusiv
 <summary>How to apply?</summary>
 <p>Please read through the Application Guide to find out more about TTDS. Please take note that the TTDS Application Form has to be completed in one sitting, as incomplete applications cannot be saved as drafts. Hence, please set aside sufficient time to prepare the supporting documents required for the submission.</p>
 <p>If you fulfil the eligibility criteria, submit the TTDS Application Form with the required supporting documents (preferably in Microsoft Word or Adobe Acrobat PDF formats).</p>
-	<ol type="1">
 	<li>Capability Development Plan form - download the form and upload it to the TTDS
 		Application Form after completion</li>
 	<li>Curriculum vitae</li>
@@ -120,11 +119,42 @@ Applications are now open from 1 April 2024 to 30 June 2024 (both dates inclusiv
 <p>All applications must reach the NTC Secretariat by 30 June, 2359hrs (Singapore time)
 of the application year.</p><br>
 For more information, please refer to:
+<br>
+<table>
+<thead>
+<tr>
+<th>TTDS Application Guide</th>
+<th>TTDS Application Form</th>
+<th>TTDS Capability Development Plan Form</th>
+<th>TTDS Enquiry Form</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://go.gov.sg/citeg-enquiry">Enquiry Form</a></td>
+<td><a href="https://www.mci.gov.sg/files/Translation/CiTEG_Application_Guide_caa_21_Sep_2023.pdf">Application Guide</a></td>
+<td><a href="https://www.mci.gov.sg/files/Translation/citeg%20application%20form%20(updated%2030%20apr%202021).pdf">Application Form</a></td>
+<td> 
+<a href="https://go.gov.sg/ttds-enquiry">Enquiry Form</a></td>
+</tr>
+</tbody>
+</table>
 <br><br>
-<a href="https://go.gov.sg/ttds-enquiry">TTDS Enquiry Form</a>
-<br><br>
-</ol></details>
+</details>
 
+<details> 
+<summary>How does the selection process work?</summary>
+<br><br>
+There are two rounds of evaluation:
+<br><br>
+1. All applications are rigorously assessed by a panel of assessors, who will shortlist
+applicants for an interview based on the evaluation criteria;
+<br><br>
+2. Recipients are selected from the shortlisted pool by a panel of interviewers based
+on interview performance.
+<br><br>
+</details>	
+	
 <details> &nbsp;
 &nbsp;<summary>Click to read the testimonials from our past recipients</summary> &nbsp;
 
