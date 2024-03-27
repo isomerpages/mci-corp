@@ -110,7 +110,6 @@ Applications are now open from 1 April 2024 to 30 June 2024 (both dates inclusiv
 <summary>How to apply?</summary>
 <p>Please read through the Application Guide to find out more about TTDS. Please take note that the TTDS Application Form has to be completed in one sitting, as incomplete applications cannot be saved as drafts. Hence, please set aside sufficient time to prepare the supporting documents required for the submission.</p>
 <p>If you fulfil the eligibility criteria, submit the TTDS Application Form with the required supporting documents (preferably in Microsoft Word or Adobe Acrobat PDF formats).</p>
-	<ol type="1">
 	<li>Capability Development Plan form - download the form and upload it to the TTDS
 		Application Form after completion</li>
 	<li>Curriculum vitae</li>
@@ -139,9 +138,9 @@ For more information, please refer to:
 <a href="https://go.gov.sg/ttds-enquiry">Enquiry Form</a></td>
 </tr>
 </tbody>
-</table>
+		</table>
 <br><br>
-</ol></details>
+</details>
 
 <details> &nbsp;
 &nbsp;<summary>Click to read the testimonials from our past recipients</summary> &nbsp;
