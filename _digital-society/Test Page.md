@@ -121,7 +121,25 @@ Applications are now open from 1 April 2024 to 30 June 2024 (both dates inclusiv
 of the application year.</p><br>
 For more information, please refer to:
 <br><br>
-<a href="https://go.gov.sg/ttds-enquiry">TTDS Enquiry Form</a>
+<table>
+<thead>
+<tr>
+<th>TTDS Application Guide</th>
+<th>TTDS Application Form</th>
+<th>TTDS Capability Development Plan Form</th>
+<th>TTDS Enquiry Form</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://go.gov.sg/citeg-enquiry">Enquiry Form</a></td>
+<td><a href="https://www.mci.gov.sg/files/Translation/CiTEG_Application_Guide_caa_21_Sep_2023.pdf">Application Guide</a></td>
+<td><a href="https://www.mci.gov.sg/files/Translation/citeg%20application%20form%20(updated%2030%20apr%202021).pdf">Application Form</a></td>
+<td> 
+<a href="https://go.gov.sg/ttds-enquiry">Enquiry Form</a></td>
+</tr>
+</tbody>
+</table>
 <br><br>
 </ol></details>
 
