@@ -138,10 +138,23 @@ For more information, please refer to:
 <a href="https://go.gov.sg/ttds-enquiry">Enquiry Form</a></td>
 </tr>
 </tbody>
-		</table>
+</table>
 <br><br>
 </details>
 
+<details> 
+<summary>How does the selection process work?</summary>
+<br><br>
+There are two rounds of evaluation:
+<br><br>
+1. All applications are rigorously assessed by a panel of assessors, who will shortlist
+applicants for an interview based on the evaluation criteria;
+<br><br>
+2. Recipients are selected from the shortlisted pool by a panel of interviewers based
+on interview performance.
+<br><br>
+</details>	
+	
 <details> &nbsp;
 &nbsp;<summary>Click to read the testimonials from our past recipients</summary> &nbsp;
 
