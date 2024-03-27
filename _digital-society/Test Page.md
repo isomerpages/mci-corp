@@ -120,7 +120,7 @@ Applications are now open from 1 April 2024 to 30 June 2024 (both dates inclusiv
 <p>All applications must reach the NTC Secretariat by 30 June, 2359hrs (Singapore time)
 of the application year.</p><br>
 For more information, please refer to:
-<br><br>
+<br>
 <table>
 <thead>
 <tr>
