@@ -1,9 +1,8 @@
 ---
-title: Translation
-permalink: /what-we-do/public-comms-and-engagement/translation/
-description: ""
-third_nav_title: Public Comms and Engagement
+title: Test Page
+permalink: /test-page/
 variant: markdown
+description: ""
 ---
 <img alt="National Translation Committee Image" src="https://www.mci.gov.sg/images/TD/updated%20ifg%201_ntc%20banner_mci%20website%20revamp%202023.png">
 &nbsp;
@@ -77,10 +76,9 @@ variant: markdown
 
 <ul>
 <li>Launched in 2018, the TTDS is an initiative to support Singaporean translation and interpretation (T&amp;I) practitioners from the private sector in deepening their skills.</li>
-<li>Awarded recipients can receive up to S$10,000, to offset 90 percent of the expenses incurred in their participation of capability development programme(s) related to translation, interpretation and/or languages in Singapore and overseas.</li>
+<li>Awarded recipients can receive up to S$10,000, to offset 90 per cent of the expenses incurred in their participation of capability development programme(s) related to translation, interpretation and/or languages in Singapore and overseas.</li>
 
 </ul>
-	
 <div style="position:relative;padding-top:56.25%;"> <iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" align="center" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Lcflsk1blxA?si=I-YO_L03DRH0VaeQ" height="315" width="560"></iframe> </div>
 &nbsp;
 
@@ -101,17 +99,31 @@ variant: markdown
   }  
 </style> &nbsp;
 
-<details> &nbsp;
+<details> 
 <summary>When can I apply?</summary>
 <br>
-We accept applications from 1 April to 30 June (both dates inclusive) each year.
+Applications are now open from 1 April 2024 to 30 June 2024 (both dates inclusive).
 <br><br>
-More information will be available at a later date.
+</details>
+
+<details> 
+<summary>How to apply?</summary>
+<p>Please read through the Application Guide to find out more about TTDS. Please take note that the TTDS Application Form has to be completed in one sitting, as incomplete applications cannot be saved as drafts. Hence, please set aside sufficient time to prepare the supporting documents required for the submission.</p>
+<p>If you fulfil the eligibility criteria, submit the TTDS Application Form with the required supporting documents (preferably in Microsoft Word or Adobe Acrobat PDF formats).</p>
+	<ol type="1">
+	<li>Capability Development Plan form - download the form and upload it to the TTDS
+		Application Form after completion</li>
+	<li>Curriculum vitae</li>
+	<li>Proof of enrolment (e.g., letter of acceptance / matriculation) OR application (e.g., application acknowledgement emails) OR awaiting confirmation / invitation (e.g., registration emails) from the programme provider of each programme OR plan(s) to apply for upcoming programmes (screenshots of programme details stating the application period if it has yet to commence)</li>
+		<li>Translation portfolio with non-confidential items (for translation practitioners) and/or testimonials from clients (for both translation and interpretation practitioners)</li> 
+<p><i>Items 2 to 4 above must be saved as a single ZIP file (max file size 4MB), and upload via the TTDS Application Form.</i></p>
+<p>All applications must reach the NTC Secretariat by 30 June, 2359hrs (Singapore time)
+of the application year.</p><br>
+For more information, please refer to:
 <br><br>
 <a href="https://go.gov.sg/ttds-enquiry">TTDS Enquiry Form</a>
 <br><br>
-
-</details>
+</ol></details>
 
 <details> &nbsp;
 &nbsp;<summary>Click to read the testimonials from our past recipients</summary> &nbsp;
