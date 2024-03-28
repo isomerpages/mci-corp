@@ -112,8 +112,7 @@ Please read through the <a href="https://www.mci.gov.sg/files/Translation/TTDS_A
 <br><br>
 If you fulfil the eligibility criteria, submit the <a href="https://go.gov.sg/ttds-application">TTDS Application Form</a> with the required supporting documents (preferably in Microsoft Word or Adobe Acrobat PDF formats).
 <br><br>
-1. Capability Development Plan form - download the form and upload it to the TTDS
-		Application Form after completion
+1. <a href="https://go.gov.sg/ttds-cdp">Capability Development Plan form</a> - download the form and upload it to the <a href="https://go.gov.sg/ttds-application">TTDS Application Form</a> after completion
 <br><br>
 2. Curriculum vitae
 <br><br>
@@ -141,7 +140,7 @@ For more information, please refer to:
 <tr>
 <td><a href="https://www.mci.gov.sg/files/Translation/TTDS_Application_Guide_2024.pdf">Application Guide</a></td>
 <td><a href="https://go.gov.sg/ttds-application">Application Form</a></td>
-<td><a href="https://www.mci.gov.sg/files/Translation/TTDS_Application_Guide_2024.pdf">Capability Development Plan Form</a></td>
+<td><a href="https://go.gov.sg/ttds-cdp">Capability Development Plan Form</a></td>
 <td> 
 <a href="https://go.gov.sg/ttds-enquiry">Enquiry Form</a></td>
 </tr>
