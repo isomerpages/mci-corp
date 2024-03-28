@@ -152,7 +152,7 @@ For more information, please refer to:
 
 <details> 
 <summary>How does the selection process work?</summary>
-<br><br>
+<br>
 There are two rounds of evaluation:
 <br><br>
 1. All applications are rigorously assessed by a panel of assessors, who will shortlist
