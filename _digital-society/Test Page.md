@@ -119,7 +119,7 @@ If you fulfil the eligibility criteria, submit the TTDS Application Form with th
 <br><br>
 3. Proof of enrolment (e.g., letter of acceptance / matriculation) OR application (e.g., application acknowledgement emails) OR awaiting confirmation / invitation (e.g., registration emails) from the programme provider of each programme OR plan(s) to apply for upcoming programmes (screenshots of programme details stating the application period if it has yet to commence)
 <br><br>
-Translation portfolio with non-confidential items (for translation practitioners) and/or testimonials from clients (for both translation and interpretation practitioners)
+4. Translation portfolio with non-confidential items (for translation practitioners) and/or testimonials from clients (for both translation and interpretation practitioners)
 <br><br>
 <i>Items 2 to 4 above must be saved as a single ZIP file (max file size 4MB), and upload via the TTDS Application Form.</i>
 <br><br>
@@ -141,7 +141,7 @@ For more information, please refer to:
 <tr>
 <td><a href="https://go.gov.sg/citeg-enquiry">Enquiry Form</a></td>
 <td><a href="https://www.mci.gov.sg/files/Translation/CiTEG_Application_Guide_caa_21_Sep_2023.pdf">Application Form</a></td>
-<td><a href="https://www.mci.gov.sg/files/Translation/citeg%20application%20form%20(updated%2030%20apr%202021).pdf">Application Form</a></td>
+<td><a href="https://www.mci.gov.sg/files/Translation/citeg%20application%20form%20(updated%2030%20apr%202021).pdf">Download Form</a></td>
 <td> 
 <a href="https://go.gov.sg/ttds-enquiry">Enquiry Form</a></td>
 </tr>
