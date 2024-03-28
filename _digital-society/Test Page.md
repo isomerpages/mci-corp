@@ -108,11 +108,9 @@ Applications are now open from 1 April 2024 to 30 June 2024 (both dates inclusiv
 
 <details> 
 <summary>How to apply?</summary>
-Please read through the <a href="https://www.mci.gov.sg/files/Translation/TTDS_Application_Guide_2024.pdf">Application Guide</a> to find out more about TTDS. Please take note that the <a href="https://go.gov.sg/ttds-application">TTDS Application Form</a> has to be completed in one sitting, as incomplete applications cannot be saved as drafts. Hence, please set aside sufficient time to prepare the supporting documents required for the submission.
+Please read through the <a rel="noopener noreferrer" target="_blank" href="https://www.mci.gov.sg/files/Translation/TTDS_Application_Guide_2024.pdf">TTDS Application Guide</a> to find out more about TTDS. Please take note that the <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/ttds-application">TTDS Application Form</a> has to be completed in one sitting, as incomplete applications cannot be saved as drafts. Hence, please set aside sufficient time to prepare the supporting documents (preferably in Microsoft Word or Adobe Acrobat PDF formats) required for the submission:
 <br><br>
-If you fulfil the eligibility criteria, submit the <a href="https://go.gov.sg/ttds-application">TTDS Application Form</a> with the required supporting documents (preferably in Microsoft Word or Adobe Acrobat PDF formats).
-<br><br>
-1. <a href="https://go.gov.sg/ttds-cdp">Capability Development Plan form</a> - download the form and upload it to the <a href="https://go.gov.sg/ttds-application">TTDS Application Form</a> after completion
+1. <a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/ttds-cdp">Capability Development Plan form</a> - download the form and upload it to the TTDS Application Form after completion
 <br><br>
 2. Curriculum vitae
 <br><br>
@@ -138,11 +136,11 @@ For more information, please refer to:
 </thead>
 <tbody>
 <tr>
-<td><a href="https://www.mci.gov.sg/files/Translation/TTDS_Application_Guide_2024.pdf">Application Guide</a></td>
-<td><a href="https://go.gov.sg/ttds-application">Application Form</a></td>
-<td><a href="https://go.gov.sg/ttds-cdp">Capability Development Plan Form</a></td>
+<td><a rel="noopener noreferrer" target="_blank" href="https://www.mci.gov.sg/files/Translation/TTDS_Application_Guide_2024.pdf">Application Guide</a></td>
+<td><a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/ttds-application">Application Form</a></td>
+<td><a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/ttds-cdp">Capability Development Plan Form</a></td>
 <td> 
-<a href="https://go.gov.sg/ttds-enquiry">Enquiry Form</a></td>
+<a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/ttds-enquiry">Enquiry Form</a></td>
 </tr>
 </tbody>
 </table>
