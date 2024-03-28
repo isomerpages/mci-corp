@@ -108,9 +108,9 @@ Applications are now open from 1 April 2024 to 30 June 2024 (both dates inclusiv
 
 <details> 
 <summary>How to apply?</summary>
-Please read through the Application Guide to find out more about TTDS. Please take note that the TTDS Application Form has to be completed in one sitting, as incomplete applications cannot be saved as drafts. Hence, please set aside sufficient time to prepare the supporting documents required for the submission.
+Please read through the <a href="https://www.mci.gov.sg/files/Translation/TTDS_Application_Guide_2024.pdf">Application Guide</a> to find out more about TTDS. Please take note that the <a href="https://go.gov.sg/ttds-application">TTDS Application Form</a> has to be completed in one sitting, as incomplete applications cannot be saved as drafts. Hence, please set aside sufficient time to prepare the supporting documents required for the submission.
 <br><br>
-If you fulfil the eligibility criteria, submit the TTDS Application Form with the required supporting documents (preferably in Microsoft Word or Adobe Acrobat PDF formats).
+If you fulfil the eligibility criteria, submit the <a href="https://go.gov.sg/ttds-application">TTDS Application Form</a> with the required supporting documents (preferably in Microsoft Word or Adobe Acrobat PDF formats).
 <br><br>
 1. Capability Development Plan form - download the form and upload it to the TTDS
 		Application Form after completion
@@ -139,9 +139,9 @@ For more information, please refer to:
 </thead>
 <tbody>
 <tr>
-<td><a href="https://go.gov.sg/citeg-enquiry">Application Guide</a></td>
-<td><a href="https://www.mci.gov.sg/files/Translation/TTDS_Application_Guide_2024.pdf">Application Form</a></td>
-<td><a href="https://www.mci.gov.sg/files/Translation/citeg%20application%20form%20(updated%2030%20apr%202021).pdf">Capability Development Plan Form</a></td>
+<td><a href="https://www.mci.gov.sg/files/Translation/TTDS_Application_Guide_2024.pdf">Application Guide</a></td>
+<td><a href="https://go.gov.sg/ttds-application">Application Form</a></td>
+<td><a href="https://www.mci.gov.sg/files/Translation/TTDS_Application_Guide_2024.pdf">Capability Development Plan Form</a></td>
 <td> 
 <a href="https://go.gov.sg/ttds-enquiry">Enquiry Form</a></td>
 </tr>
