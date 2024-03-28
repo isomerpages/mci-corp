@@ -141,7 +141,7 @@ For more information, please refer to:
 <tr>
 <td><a href="https://go.gov.sg/citeg-enquiry">Enquiry Form</a></td>
 <td><a href="https://www.mci.gov.sg/files/Translation/CiTEG_Application_Guide_caa_21_Sep_2023.pdf">Application Form</a></td>
-<td><a href="https://www.mci.gov.sg/files/Translation/citeg%20application%20form%20(updated%2030%20apr%202021).pdf">Download Form</a></td>
+<td><a href="https://www.mci.gov.sg/files/Translation/citeg%20application%20form%20(updated%2030%20apr%202021).pdf">Capability Development Plan Form</a></td>
 <td> 
 <a href="https://go.gov.sg/ttds-enquiry">Enquiry Form</a></td>
 </tr>
