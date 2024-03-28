@@ -8,7 +8,8 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>“Inspiring the Next Generation of Women in STEM and Medicine”</p>
+<p><strong>“Inspiring the Next Generation of Women in STEM and Medicine”</strong>
+</p>
 <p>A very good morning to Professor Tan Eng Chye, President of National University
 of Singapore.</p>
 <p>Professor Joseph Sung, Dean of the Lee Kong Chian School of Medicine,
