@@ -118,7 +118,7 @@ Please read through the <a rel="noopener noreferrer" target="_blank" href="https
 <br><br>
 4. Translation portfolio with non-confidential items (for translation practitioners) and/or testimonials from clients (for both translation and interpretation practitioners)
 <br><br>
-<i>Items 2 to 4 above must be saved as a single ZIP file (max file size 4MB), and upload via the TTDS Application Form.</i>
+<i>Items 2 to 4 above must be saved as a single ZIP file (max file size 4MB), and submitted via the TTDS Application Form.</i>
 <br><br>
 All applications must reach the NTC Secretariat by 30 June, 2359hrs (Singapore time)
 of the application year.
