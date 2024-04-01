@@ -39,7 +39,7 @@ variant: markdown
 
 </ul></section>
 
-<section id="citizens-translators-project">
+<section id="citizen-translators-project">
 	<h3>Citizen Translators Project</h3>
 
 <ul>
