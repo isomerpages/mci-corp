@@ -15,7 +15,7 @@ and Information (a) for how long will the livestreams of parliamentary
 sittings be retained on MCI’s YouTube channel; and (b) whether MCI will
 consider permanently retaining all livestreams of parliamentary sittings
 on its YouTube channel and, if not, where will they be archived.</p>
-<p><strong>Answer: </strong>
+<p><strong>Answer:</strong>
 </p>
 <p>1. As mentioned in MCI’s reply to a similar PQ in January 2021, the full
 video of each Parliamentary Sitting livestream will remain on MCI’s YouTube
