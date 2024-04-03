@@ -18,7 +18,7 @@ for the editorial policy of vernacular news media pertaining to guest writers;
 is aware of the content produced by Mr Philip Chan Man Ping for the “Crossroads”
 series of articles; and (d) whether public funding of SPH Media Trust will
 be tied to a criterion of not encouraging foreign interference.</p>
-<p><strong>Answer: </strong>
+<p><strong>Answer:</strong>
 </p>
 <p>1. The Ministry of Communications and Information does not set the editorial
 policy for news media outlets.</p>
