@@ -8,3 +8,16 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<h3>Parliament Sitting on 3 April 2024</h3>
+<h3>QUESTION FOR WRITTEN ANSWER</h3>
+<p><strong>26. Ms Hazel Poa:</strong> To ask the Minister for Communications
+and Information whether SPH Media Trust has raised funding from sources
+other than the Government and, if so, how much.</p>
+<p></p>
+<p><strong>Answer:</strong>
+</p>
+<p>1. Government funding provided to SPH Media Trust (SMT) is intended to
+support its talent, technology, and vernacular capabilities. Outside of
+this, SMT may independently raise funding from other sources, based on
+its business decisions and operating needs. Information on SMT’s finances
+can be obtained from ACRA.</p>
