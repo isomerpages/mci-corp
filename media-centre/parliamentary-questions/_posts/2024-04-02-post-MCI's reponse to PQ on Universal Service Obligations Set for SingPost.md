@@ -9,7 +9,7 @@ variant: tiptap
 ---
 <h3>Parliament Sitting on 6 March 2024</h3>
 <h3>QUESTION FOR WRITTEN ANSWER</h3>
-<p><strong>*28. Mr Chua Kheng Wee Louis: </strong>To ask the Minister for
+<p><strong>28. Mr Chua Kheng Wee Louis: </strong>To ask the Minister for
 Communications and Information (a) what are the quantitative and qualitative
 Universal Service Obligations set by IMDA for SingPost, including the provision
 and maintenance of posting boxes and post offices throughout Singapore;
