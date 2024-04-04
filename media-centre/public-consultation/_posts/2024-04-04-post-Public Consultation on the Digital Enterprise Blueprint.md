@@ -27,7 +27,7 @@ emerging technologies;</p>
 <p>(c) Equip enterprises to be safer by improving their cyber resilience;
 and</p>
 <p>(d) Continue investing in our workers as core enablers of digitalisation.</p>
-<p>The full consultation paper can be downloaded here.</p>
+<p>The full consultation paper can be downloaded <a href="/files/Public Consultation 2024/Digital_Enterprise_Blueprint_MCI_Public_Consultation_4_April_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p><strong><u>INVITATION TO PROVIDE FEEDBACK</u></strong>
 </p>
 <p>5. <strong>MCI is seeking further feedback from the public, industry, and TACs on these recommendations. MCI is also seeking partners to drive collaborations and initiatives outlined in this consultation paper.</strong>
