@@ -8,9 +8,10 @@ image: ""
 variant: tiptap
 ---
 <p>1. The Ministry of Communications and Information (MCI) is seeking public
-feedback on the Digital Enterprise Blueprint (DEB). The public consultation
-period is from 04 April to 22 April 2024.</p>
-<p>Background</p>
+feedback on the <strong>Digital Enterprise Blueprint (DEB)</strong>. The
+public consultation period is from <strong>04 April to 22 April 2024</strong>.</p>
+<p><strong><u>Background</u></strong>
+</p>
 <p>2. MCI is developing a Digital Enterprise Blueprint (DEB) to chart the
 next bound of digitalisation for enterprises, amidst a rapidly evolving
 technological landscape and fast-growing digital economy.</p>
