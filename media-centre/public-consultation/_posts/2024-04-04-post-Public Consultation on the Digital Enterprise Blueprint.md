@@ -7,3 +7,28 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>1 The Ministry of Communications and Information (MCI) is seeking public
+feedback on the <strong>Digital Enterprise Blueprint</strong>. The public
+consultation period is from <strong>4 April to 22 April 2024</strong>.</p>
+<p><strong><u>Background</u></strong>
+</p>
+<p>2 The Ministry of Communications and Information (MCI) is developing a
+Digital Enterprise Blueprint to chart the next bound of digitalisation
+for enterprises, amidst a rapidly evolving technological landscape and
+fast-growing digital economy.</p>
+<p>3 MCI has consulted extensively with industry and trade association partners,
+as well as enterprises from the Infocomm Media Development Authority (IMDA)’s
+Digital Leaders Programme, and the Cyber Security Agency of Singapore (CSA)’s
+programme partners. With insights from the consultations and MCI agencies’
+regular engagements and adoption surveys with the industry and sector leads,
+MCI has developed an interim set of recommendations to support enterprises
+and workers in their digitalisation journey.</p>
+<p>4 The recommendations focus on four key shifts to:</p>
+<p>(a) Empower enterprises to be smarter in the way they work by leveraging
+emerging technologies;</p>
+<p>(b) Support enterprises to scale faster through digital solutions;</p>
+<p>(c) Equip enterprises to be safer by improving their cyber resilience;
+and</p>
+<p>(d) Continue investing in our workers as core enablers of digitalisation.</p>
+<p>The full consultation paper can be downloaded here.</p>
+<p></p>
