@@ -35,7 +35,7 @@ and</p>
 <p>6. Feedback should be submitted via the <a href="https://go.gov.sg/debconsultation" rel="noopener noreferrer nofollow" target="_blank">online form</a> by 22 April 2024.
 Alternatively, the form can be accessed via the QR code below.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="online form" src="/images/Public Comms/deb_qr_code.png">
+<img style="width: 40%;" height="auto" width="100%" alt="online form" src="/images/Public Comms/deb_qr_code.png">
 </div>
 <p>7. Please note that all submissions received may be published and attributed
 to the respective respondents unless they explicitly request MCI not to
