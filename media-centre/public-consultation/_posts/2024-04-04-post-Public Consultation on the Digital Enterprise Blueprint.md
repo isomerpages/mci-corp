@@ -8,11 +8,9 @@ image: ""
 variant: tiptap
 ---
 <p>1. The Ministry of Communications and Information (MCI) is seeking public
-feedback on the <strong>Digital Enterprise Blueprint (DEB)</strong>. The
-public consultation period is from <strong>04 April to 22 April 2024.</strong>
-</p>
-<p><strong><u>Background</u></strong>
-</p>
+feedback on the Digital Enterprise Blueprint (DEB). The public consultation
+period is from 04 April to 22 April 2024.</p>
+<p>Background</p>
 <p>2. MCI is developing a Digital Enterprise Blueprint (DEB) to chart the
 next bound of digitalisation for enterprises, amidst a rapidly evolving
 technological landscape and fast-growing digital economy.</p>
@@ -29,3 +27,20 @@ emerging technologies;</p>
 and</p>
 <p>(d) Continue investing in our workers as core enablers of digitalisation.</p>
 <p>The full consultation paper can be downloaded here.</p>
+<p><strong><u>INVITATION TO PROVIDE FEEDBACK</u></strong>
+</p>
+<p>5. <strong>MCI is seeking further feedback from the public, industry, and TACs on these recommendations. MCI is also seeking partners to drive collaborations and initiatives outlined in this consultation paper.</strong>
+</p>
+<p>6. Feedback should be submitted via the <a href="https://go.gov.sg/debconsultation" rel="noopener noreferrer nofollow" target="_blank">online form</a> by 22 April 2024.
+Alternatively, the form can be accessed via the QR code below.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="online form" src="/images/Public Comms/deb_qr_code.png">
+</div>
+<p>7. Please note that all submissions received may be published and attributed
+to the respective respondents unless they explicitly request MCI not to
+do so. As such, if respondent would like (i) their whole submission, or
+part of it, or (ii) their identity, or both, to be kept confidential, please
+state so in the submission. In addition, MCI reserves the right not to
+publish any submissions received where MCI considers it not in the public’s
+interest to do so, such as if the submission appears to be libellous or
+offensive.</p>
