@@ -52,8 +52,5 @@ towards dialect content and are prepared to lift the restrictions when
 the need arises, such as during the Covid-19 pandemic to facilitate health-related
 information dissemination.</p>
 </li>
-<li>
-<p></p>
-</li>
 </ol>
 <p></p>
