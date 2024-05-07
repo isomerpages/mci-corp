@@ -170,4 +170,5 @@ and for your commitment to advancing our digital economy, especially in
 AI. Together, we will continue to push the boundaries of what is possible,
 ensuring that Singapore remains a global hub for technology and innovation.</p>
 <p>18. Thank you.</p>
-<p></p>
+<p><a href="/files/Speeches 2024/speech_by_sms_tan_at_aws_singapore_summit_7_may_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">PDF version of the speech</a>
+</p>
