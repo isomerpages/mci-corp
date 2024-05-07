@@ -6,6 +6,7 @@ date: 2019-10-01
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 **“Making Cyber Resilience the New Boardroom Priority”**
 
@@ -88,4 +89,4 @@ Good afternoon.
 [^1]: [https://www.brookings.edu/research/why-5g-requires-new-approaches-to-cybersecurity/](https://www.brookings.edu/research/why-5g-requires-new-approaches-to-cybersecurity/)  
 [^2]: [https://news.microsoft.com/apac/2018/05/18/cybersecurity-threats-to-cost-organizations-in-asia-pacific-us1-75-trillion-in-economic-losses/](https://news.microsoft.com/apac/2018/05/18/cybersecurity-threats-to-cost-organizations-in-asia-pacific-us1-75-trillion-in-economic-losses/)  
 [^3]: [https://www2.deloitte.com/us/en/insights/industry/financial-services/cybersecurity-maturity-financial-institutions-cyber-risk.html](https://www2.deloitte.com/us/en/insights/industry/financial-services/cybersecurity-maturity-financial-institutions-cyber-risk.html)  
-[^4]: [https://www.nacdonline.org/about/press\_detail.cfm?ItemNumber=63800](https://www.nacdonline.org/about/press_detail.cfm?ItemNumber=63800)
+[^4]: [https://www.nacdonline.org/all-governance/governance-resources/governance-surveys/surveys-benchmarking/2018-2019-NACD-Public-Company-Governance-Survey/](https://www.nacdonline.org/all-governance/governance-resources/governance-surveys/surveys-benchmarking/2018-2019-NACD-Public-Company-Governance-Survey/)
