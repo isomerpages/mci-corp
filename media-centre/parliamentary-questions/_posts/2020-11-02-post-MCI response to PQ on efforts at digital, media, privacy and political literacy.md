@@ -5,6 +5,7 @@ date: 2020-11-02
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### Parliament Sitting on 2 November 2020
 
@@ -21,7 +22,7 @@ QUESTION FOR WRITTEN ANSWER
   
 3. For example, MCI consulted stakeholders, including subject matter experts from the Media Literacy Council, to launch the [Digital Media and Information Literacy Framework](https://www.mci.gov.sg/literacy) in July 2019, which aims to inculcate an appreciation of the benefits and risks of technology. A review of the framework is underway and expected to be completed by the first quarter of 2021.  
   
-4. The Cyber Security Agency of Singapore (CSA) runs the annual National Cybersecurity Awareness Campaign, which provides tips for internet users to safeguard their digital assets.  CSA also published the [Safer Cyberspace Masterplan](https://www.csa.gov.sg/news/publications/safer-cyberspace-masterplan) in October 2020 to secure Singapore’s core digital infrastructure, safeguard activities in cyberspace, and promote good cyber hygiene practices.  
+4. The Cyber Security Agency of Singapore (CSA) runs the annual National Cybersecurity Awareness Campaign, which provides tips for internet users to safeguard their digital assets.  CSA also published the [Safer Cyberspace Masterplan](https://www.csa.gov.sg/Tips-Resource/publications/2020/safer-cyberspace-masterplan) in October 2020 to secure Singapore’s core digital infrastructure, safeguard activities in cyberspace, and promote good cyber hygiene practices.  
   
 5. The Personal Data Protection Commission (PDPC) launched the [Data Protection Competency Framework and Training Roadmap](https://www.pdpc.gov.sg/Help-and-Resources/2020/03/DPO-Competency-Framework-and-Training-Roadmap) in 2019 to enable Data Protection Officers to strengthen data protection practices in their organisations.  MCI and PDPC have recently completed a review of the [Personal Data Protection Act](https://www.pdpc.gov.sg/) and will propose amendments to enhance organisational accountability in the protection of personal data.  
   
