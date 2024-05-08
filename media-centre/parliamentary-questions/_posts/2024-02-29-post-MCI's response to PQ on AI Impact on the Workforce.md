@@ -9,15 +9,15 @@ variant: tiptap
 ---
 <h3>Parliament Sitting on 29 February 2024</h3>
 <h3>QUESTION FOR ORAL ANSWER</h3>
-<p><strong>*3</strong>. Mr Yip Hon Weng: To ask the Minister for Communications
-and Information (a) whether there are concerns that the extent of artificial
-intelligence (AI)-driven job losses in Singapore may be underestimated
-with Singapore being the fastest adopter of generative AI in the Asia-Pacific;
-(b) whether the Ministry will be conducting assessments to evaluate the
-potential scale and scope of job displacement due to AI adoption; and (c)
-how is the Ministry engaging with stakeholders to encourage and incentivise
-proactive investment in upskilling programmes for their employees in anticipation
-of AI adoption.</p>
+<p><strong>*3</strong>.<strong> Mr Yip Hon Weng:</strong> To ask the Minister
+for Communications and Information (a) whether there are concerns that
+the extent of artificial intelligence (AI)-driven job losses in Singapore
+may be underestimated with Singapore being the fastest adopter of generative
+AI in the Asia-Pacific; (b) whether the Ministry will be conducting assessments
+to evaluate the potential scale and scope of job displacement due to AI
+adoption; and (c) how is the Ministry engaging with stakeholders to encourage
+and incentivise proactive investment in upskilling programmes for their
+employees in anticipation of AI adoption.</p>
 <p><strong>Answer:</strong>
 </p>
 <ol data-tight="true" class="tight">
