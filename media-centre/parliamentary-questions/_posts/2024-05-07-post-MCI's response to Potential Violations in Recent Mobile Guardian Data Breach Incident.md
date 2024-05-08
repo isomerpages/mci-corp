@@ -10,7 +10,7 @@ variant: tiptap
 ---
 <h3>Parliament Sitting on 7 May 2024</h3>
 <h3>QUESTION FOR WRITTEN ANSWER</h3>
-<p><strong>28. Assoc Prof Jamus Jerome Lim </strong>asked the Minister for
+<p><strong>*28. Assoc Prof Jamus Jerome Lim </strong>asked the Minister for
 Communications and Information (a) whether the Personal Data Protection
 Commission (PDPC) will be conducting an investigation into potential violations
 of the Personal Data Protection Act in relation to the data breach of a
