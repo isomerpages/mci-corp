@@ -475,4 +475,6 @@ consider new international best practices as they emerge.</p>
 <p>With that, Mr Speaker, I beg to move.</p>
 </li>
 </ol>
+<p><a href="/files/Speeches 2024/Opening_Speech_by_SMS_Janil_Puthucheary_for_2R_of_Cybersecurity__Amendment__Bill__7_May_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">PDF version of the speech</a>
+</p>
 <p></p>
