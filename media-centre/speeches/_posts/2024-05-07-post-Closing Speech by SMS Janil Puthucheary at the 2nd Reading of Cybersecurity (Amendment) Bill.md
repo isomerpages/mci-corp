@@ -476,8 +476,10 @@ the Government proposes to strengthen our legislation so that we can ensure
 the cybersecurity of systems and entities that are important to Singapore’s
 national interests. I thank Members for their support of this Bill. Mr
 Speaker, I beg to move.</p>
+<p></p>
 <p><a href="/files/Speeches 2024/Closing_Speech_by_SMS_Janil_Puthucheary_for_2R_of_Cybersecurity__Amendment__Bill.pdf" rel="noopener noreferrer nofollow" target="_blank">PDF version of the speech</a>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Infographic on 2nd Reading of Cybersecurity (Amendment) Bill" src="/images/Media Centre/Infographic_on_2R_of_Cybersecurity__Amendment__Bill.jpg">
 </div>
