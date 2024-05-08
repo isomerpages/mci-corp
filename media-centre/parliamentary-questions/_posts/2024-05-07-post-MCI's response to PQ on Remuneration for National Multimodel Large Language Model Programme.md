@@ -10,7 +10,7 @@ variant: tiptap
 ---
 <h3>Parliament Sitting on 7 May 2024</h3>
 <h3>QUESTION FOR WRITTEN ANSWER</h3>
-<p><strong>77. Ms Usha Chandradas </strong>asked the Minister for Communications
+<p><strong>*77. Ms Usha Chandradas </strong>asked the Minister for Communications
 and Information (a) whether IMDA has plans to remunerate writers, authors
 and publishers who contribute their works for the purpose of training the
 National Multimodal Large Language Model (LLM) Programme and, if not, why
