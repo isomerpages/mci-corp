@@ -229,8 +229,6 @@ or partly in Singapore.</p>
 <li>
 <p>We will also be updating CII-related provisions to address the inventiveness
 of malicious cyber actors.</p>
-</li>
-</ol>
 <p>a. Under the principal Act, a CII owner is generally only obliged to report
 cybersecurity incidents relating to the CII, or computers or computer systems
 that are interconnected with or communicate with the CII. CSA needs such
@@ -240,12 +238,11 @@ and prevent the spread of similar attacks. Such reports serve to sound
 the alarm.</p>
 <p>b. As the tactics and techniques of malicious actors evolve to target
 systems at the periphery or along supply chains, we must also start placing
-our alarms at those places. Clause 12 will therefore amend section 14 to
-require CII owners under Part 3 to additionally report incidents that affect:
-(i) other computers</p>
-<p>6</p>
-<p>under the owner’s control, and (ii) computers under the control of a supplier
-that are interconnected with or communicates with the CII.</p>
+our alarms at those places. <u>Clause 12 </u>will therefore amend section
+14 to require CII owners under Part 3 to additionally report incidents
+that affect: (i) other computers under the owner’s control, and (ii) computers
+under the control of a supplier that are interconnected with or communicates
+with the CII.</p>
 <p>i. The former requirement will help us be better prepared should any of
 our essential services be targeted in the same manner as in the SolarWinds
 case.</p>
@@ -257,13 +254,16 @@ owned by the provider of essential service. This is a practical approach.
 In situations where a third party owns the CII, the provider of essential
 service is unlikely to have visibility of the third party’s suppliers to
 be able to report any incident to CSA.</p>
-<p>15. We will also expand the Act to regulate a new type of system called
-Systems of Temporary Cybersecurity Concern, or STCC, so as to address the
-evolution of our threat landscape.</p>
-<p>a. Clause 15 inserts a new Part 3B to regulate the cybersecurity of STCCs,
-which are systems that for a time-limited period, are at high risk of cyber-attacks,
-and if compromised would have a serious detrimental effect on Singapore’s
-national interests.</p>
+<p></p>
+</li>
+<li>
+<p>We will also expand the Act to regulate a new type of system called Systems
+of Temporary Cybersecurity Concern, or STCC, so as to address the evolution
+of our threat landscape.</p>
+<p>a. <u>Clause 15</u> inserts a new Part 3B to regulate the cybersecurity
+of STCCs, which are systems that for a time-limited period, are at high
+risk of cyber-attacks, and if compromised would have a serious detrimental
+effect on Singapore’s national interests.</p>
 <p>i. The COVID-19 pandemic drove home the importance of being able to secure
 such systems. During the pandemic, many governments around the world developed
 temporary systems to support the tracking and distribution of vaccinations,
@@ -273,13 +273,12 @@ we need to be in the position to secure the systems critical to our crisis
 response.</p>
 <p>ii. Another potential group of STCCs could include systems supporting
 high-key international events in Singapore, such as the Trump-Kim Summit
-in 2018, or the Youth Olympic Games in 2010. Such</p>
-<p>7</p>
-<p>international events could be attractive targets for cyber-malicious actors
-seeking a global stage. The Tokyo Olympics of 2021, for example, was reported
-to have encountered 450 million cyber attacks. We need to take the cybersecurity
-of such systems and such events seriously to maintain Singapore’s reputation
-as a safe and reliable place to host such events.</p>
+in 2018, or the Youth Olympic Games in 2010. Such international events
+could be attractive targets for cyber-malicious actors seeking a global
+stage. The Tokyo Olympics of 2021, for example, was reported to have encountered
+450 million cyber attacks. We need to take the cybersecurity of such systems
+and such events seriously to maintain Singapore’s reputation as a safe
+and reliable place to host such events.</p>
 <p>iii. Before the Commissioner of Cybersecurity can designate a system an
 STCC, the Commissioner must be satisfied that, for a limited period, the
 system is at a high risk of a cybersecurity threat or incident; and the
@@ -292,9 +291,12 @@ will impose on STCC owners cybersecurity obligations similar to those for
 CII owners, where practicable. Part 3B will allow CSA to be proactive in
 raising the cybersecurity posture of the STCC, depending on the operating
 context and the time period for which the STCC is needed.</p>
-<p>16. Finally, provisions will be introduced to expand the ambit of the
-Act to other new entities beyond the current CII regulatory regime.</p>
-<p>a. Clause 16 introduces a new Part 3C, that will allow CSA to regulate
+<p></p>
+</li>
+<li>
+<p>Finally, provisions will be introduced to expand the ambit of the Act
+to other new entities beyond the current CII regulatory regime.</p>
+<p>a. <u>Clause 16</u> introduces a new Part 3C, that will allow CSA to regulate
 entities that could be particularly attractive targets for malicious threat
 actors, because the disruption of the function they perform, or the disclosure
 of sensitive information their computer systems contain, will have a significant
@@ -304,10 +306,9 @@ to as “Entities of Special Cybersecurity Interest”, or ESCIs.</p>
 <p>i. One example of potential ESCIs could be universities. Universities
 are popular targets of malicious actors, given their standing in society,
 the sensitive research they may do, and the data they may possess. For
-instance, in 2019, the Australian National University detected a</p>
-<p>8</p>
-<p>database breach, reportedly by a state actor, which resulted in unauthorised
-access to extensive personal information, including bank records, tax details
+instance, in 2019, the Australian National University detected a database
+breach, reportedly by a state actor, which resulted in unauthorised access
+to extensive personal information, including bank records, tax details
 and passport information of students and staff dating back almost two decades.
 Senior Australian officials feared that such data could be used to exploit
 or recruit students and alumni as informants.</p>
@@ -334,8 +335,7 @@ national interest resulting from cyber attacks on ESCIs may not be as severe
 compared to the impact from cyber attacks on CIIs or STCCs. This ensures
 that regulatory obligations are commensurate with the cybersecurity risks
 posed.</p>
-<p>9</p>
-<p>b. Clause 17 introduces a new Part 3D, to cover the last new category
+<p>b. <u>Clause 17</u> introduces a new Part 3D, to cover the last new category
 of entities that CSA proposes to regulate for cybersecurity – providers
 of “Foundational Digital Infrastructure service”, or FDI service. Our ability
 to operate normally, and to enable citizens to meet their day-to-day needs
@@ -365,62 +365,67 @@ be in place. These providers will also be required to report prescribed
 cybersecurity incidents that: (i) result in a disruption or degradation
 of the designated provider’s FDI service in Singapore, or (ii) have a significant
 impact on the major FDI service provider’s business operations in Singapore.
-Recognising that major FDI service providers</p>
-<p>10</p>
-<p>provide services to clients across sectors, and often across borders,
-CSA has been consulting closely with industry and sector leads to develop
-inter-operable standards, codes, and operating parameters. We are mindful
-about compliance costs for these major providers and are committed to keeping
-them reasonable.</p>
+Recognising that major FDI service providers provide services to clients
+across sectors, and often across borders, CSA has been consulting closely
+with industry and sector leads to develop inter-operable standards, codes,
+and operating parameters. We are mindful about compliance costs for these
+major providers and are committed to keeping them reasonable.</p>
 <p>iv. The same appeal avenues available to those designated as CII owners
 under the Act today will be extended to providers of essential services
 under Part 3A, STCC owners, ESCI and major FDI service providers that CSA
 designates. For example, any entity that receives a designation notice
 may appeal against the designation, and regulated entities can appeal CSA’s
 decisions, orders, and directions as well. This is encapsulated in the
-new section 35B introduced by Clause 19.</p>
-<p>17. The proposed scope of the Bill is targeted and affects only providers
+new section 35B introduced by <u>Clause 19</u>.</p>
+<p></p>
+</li>
+<li>
+<p>The proposed scope of the Bill is targeted and affects only providers
 of essential services, owners of STCCs, ESCI and major FDI providers. These
 are a known and finite set, and CSA will be working closely with them.
 The Bill does not impose cybersecurity obligations on the larger business
 community.</p>
-<p>II. Strengthening the Administration of the Act</p>
-<p>18. We will also enhance the Act to strengthen the administration of the
-Act:</p>
+<p><em><u>II. Strengthening the Administration of the Act</u></em>
+</p>
+<p></p>
+</li>
+<li>
+<p>We will also enhance the Act to strengthen the administration of the Act:</p>
 <p>a. To improve CSA’s ability to enforce the Act against recalcitrant CII
-owners regulated under Part 3 of the Act, Clause 13(b) will amend section
-15(4) to empower CSA to inspect the CII if it appears to the Commissioner
+owners regulated under Part 3 of the Act, <u>Clause 13(b)</u> will amend
+section 15(4) to empower CSA to inspect the CII if it appears to the Commissioner
 that the CII owner has not complied with its obligations or has provided
 information requested under section 10 of the Act that is false, misleading,
 inaccurate or incomplete. This is because wilful non-compliance by CII
-owners could</p>
-<p>jeopardise our national security and survival.</p>
+owners could jeopardise our national security and survival.</p>
 <p>b. Currently, Part 5 of the Act regulates persons who provide licensable
-cybersecurity services. Clause 18 will provide monitoring powers for licensing
-officers, for the purposes of executing Part 5. In the absence of such
-powers, CSA could face difficulties in seeking information from uncooperative
-licensed cybersecurity service providers to verify their compliance with
-the conditions of their licences. The new provisions will give CSA powers
-of entry and</p>
-<p>11</p>
-<p>inspection, and to require the production of records, accounts and documents
-from licensed cybersecurity service providers. Non-compliance with such
-requirements without reasonable excuse will be a criminal offence.</p>
+cybersecurity services. <u>Clause 18</u> will provide monitoring powers for
+licensing officers, for the purposes of executing Part 5. In the absence
+of such powers, CSA could face difficulties in seeking information from
+uncooperative licensed cybersecurity service providers to verify their
+compliance with the conditions of their licences. The new provisions will
+give CSA powers of entry and inspection, and to require the production
+of records, accounts and documents from licensed cybersecurity service
+providers. Non-compliance with such requirements without reasonable excuse
+will be a criminal offence.</p>
 <p>c. While we seek to strengthen CSA’s ability to act and enforce the law
 as the national cybersecurity authority, we recognise that there are criminals
-looking to exploit this authority through impersonation scams. Clause 7
-will make it an offence for any person to use CSA’s gazetted symbols or
-representations without the Commissioner’s prior written permission.</p>
-<p>d. Clause 22 allows the Commissioner to grant an extension of time to
-any person required to do any action under relevant parts of the Act, as
-long as there are good reasons to do so. This was borne out of our experience
+looking to exploit this authority through impersonation scams. <u>Clause 7</u> will
+make it an offence for any person to use CSA’s gazetted symbols or representations
+without the Commissioner’s prior written permission.</p>
+<p>d. <u>Clause 22</u> allows the Commissioner to grant an extension of time
+to any person required to do any action under relevant parts of the Act,
+as long as there are good reasons to do so. This was borne out of our experience
 where there were valid reasons, at times, for regulated entities to not
 be able to comply with the obligations of the Act under business-as-usual
 timelines. With this amendment, we will be able to grant time extensions
 if regulated entities experience extenuating circumstances.</p>
-<p>III. Revised Penalty Regime</p>
-<p>19. If these proposed amendments are passed, they will expand the range
-of cybersecurity obligations placed on CII owners under the existing Part
+<p><em><u>III. Revised Penalty Regime</u></em>
+</p>
+</li>
+<li>
+<p>If these proposed amendments are passed, they will expand the range of
+cybersecurity obligations placed on CII owners under the existing Part
 3 and regulate four new classes of systems and entities for cybersecurity,
 while accounting for the varying degrees of risk posed to Singapore and
 Singaporeans. Thus, the Bill also recommends a key revision to the penalties
@@ -434,27 +439,40 @@ We needed to underscore the gravity if there was any non-compliance.</p>
 Part 3, such as the new reporting requirements relating to peripheral systems,
 as well as the proposed provisions covering new classes of systems and
 entities.</p>
-<p>12</p>
-<p>c. With a wider set of proposed obligations, Clause 20 gives the Commissioner
-the flexibility to bring an action in court for civil penalties with the
-Public Prosecutor’s consent. In making a recommendation to the Public Prosecutor,
-CSA will consider a range of factors, including the risks created by the
-non- compliance, the egregiousness, and the facts of the case.</p>
-<p>(D) Conclusion</p>
-<p>20. Mr Speaker Sir, the Bill is a major update to the Cybersecurity Act
-given the significant shifts in the digital domain. The amendments will
-allow CSA to:</p>
+<p>c. With a wider set of proposed obligations, <u>Clause 20</u> gives the
+Commissioner the flexibility to bring an action in court for civil penalties
+with the Public Prosecutor’s consent. In making a recommendation to the
+Public Prosecutor, CSA will consider a range of factors, including the
+risks created by the non- compliance, the egregiousness, and the facts
+of the case.</p>
+<p><strong><u>Conclusion</u></strong>
+</p>
+<p></p>
+</li>
+<li>
+<p>Mr Speaker Sir, the Bill is a major update to the Cybersecurity Act given
+the significant shifts in the digital domain. The amendments will allow
+CSA to:</p>
 <p>a. Keep pace with developments in technology and business practices;</p>
 <p>b. Respond to evolving cybersecurity challenges in our cyber threat landscape;</p>
 <p>c. Extend its regulatory oversight to other important systems and entities
-and use</p>
-<p>a risk-based approach to regulating entities for cybersecurity; and</p>
+and use a risk-based approach to regulating entities for cybersecurity;
+and</p>
 <p>d. Administer the Act more effectively.</p>
-<p>21. This Bill will strengthen our national cybersecurity, and increase
-trust in using online services in Singapore and in our highly-digitalised
-nation. It is calibrated to address the risks to the nation, our economy
-and our way of life, while balancing compliance costs. In implementing
-the proposed new laws, our experience with the 2018 Act will serve us well,
-and we will continue to refine our approach, in consultation with stakeholders
-and consider new international best practices as they emerge.</p>
-<p>22. With that, Mr Speaker, I beg to move.</p>
+<p></p>
+</li>
+<li>
+<p>This Bill will strengthen our national cybersecurity, and increase trust
+in using online services in Singapore and in our highly-digitalised nation.
+It is calibrated to address the risks to the nation, our economy and our
+way of life, while balancing compliance costs. In implementing the proposed
+new laws, our experience with the 2018 Act will serve us well, and we will
+continue to refine our approach, in consultation with stakeholders and
+consider new international best practices as they emerge.</p>
+<p></p>
+</li>
+<li>
+<p>With that, Mr Speaker, I beg to move.</p>
+</li>
+</ol>
+<p></p>
