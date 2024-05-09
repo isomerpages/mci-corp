@@ -17,7 +17,8 @@ National Multimodal Large Language Model (LLM) Programme and, if not, why
 not; (b) what steps are being taken for the launch of the National Multimodal
 LLM Programme; and (c) which communities is IMDA engaging with to obtain
 feedback on the creation of the Programme.</p>
-<p><strong>Mrs Josephine Teo</strong>:</p>
+<p><strong>Answer:</strong>
+</p>
 <p>The National Multimodal Large Language Model Programme (NMLP) was launched
 in December 2023 as a research programme to build up Singapore’s capabilities
 in developing LLMs that can better understand the multi-lingual and multicultural
