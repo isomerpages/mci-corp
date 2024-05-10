@@ -226,4 +226,5 @@ So work hard, but always invest in yourself and improve yourself.</p>
 <p>Thank you very much.</p>
 </li>
 </ol>
-<p></p>
+<p><a href="/files/Speeches 2024/Speech_by_SMS_Tan_Kiat_How_at_NCS___ITE_Partnership_on_Internship___Industry_Attachment_Opportunities__10_May_.pdf" rel="noopener noreferrer nofollow" target="_blank">PDF version of the speech</a>
+</p>
