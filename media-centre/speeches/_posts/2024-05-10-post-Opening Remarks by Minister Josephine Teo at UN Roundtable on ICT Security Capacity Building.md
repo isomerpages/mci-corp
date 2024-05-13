@@ -8,16 +8,20 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>Your Excellencies</p>
-<p>
-<br>Chef de Cabinet of the President of the 78th General Assembly Ambassador
-Kelapile</p>
-<p></p>
-<p>Secretary General of the ITU, Ms Doreen Bogdan-Martin</p>
-<p>
-<br>Administrator of the UNDP, Mr Achim Steiner</p>
-<p>
-<br>Colleagues and friends</p>
+<p>Your Excellencies
+<br>
+</p>
+<p>Chef de Cabinet of the President of the 78th General Assembly Ambassador
+Kelapile
+<br>
+</p>
+<p>Secretary General of the ITU, Ms Doreen Bogdan-Martin
+<br>
+</p>
+<p>Administrator of the UNDP, Mr Achim Steiner
+<br>
+</p>
+<p>Colleagues and friends</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Good morning, and I am honoured to address you at today’s UN Global Roundtable
@@ -56,7 +60,7 @@ Capacity building enable States, as responsible members of the international
 community, to perform our international obligations. This includes developing
 an understanding of how existing international law applies in cyberspace
 so that we can take actions to uphold it, as well as call out actions that
-undermine the rules- based order.</p>
+undermine the rules-based order.</p>
 </li>
 </ol>
 <p><strong><u>Cybersecurity as an Economic Enabler</u></strong>
