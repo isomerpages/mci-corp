@@ -11,6 +11,7 @@ variant: tiptap
 <p>Mr Thaddeus Koh, Programs Director and Co-founder, e27,</p>
 <p>Distinguished Guests,</p>
 <p>Ladies and Gentlemen,</p>
+<p></p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Good morning.</p>
