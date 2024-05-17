@@ -3,6 +3,7 @@ title: Political Office Holders
 permalink: /who-we-are/about-us/political-office-holders/
 description: ""
 third_nav_title: About Us
+variant: markdown
 ---
 <div align="center">
 
@@ -13,5 +14,7 @@ third_nav_title: About Us
 <br>
 <br>	
 <img style="height:300px; width:225px;" src="/images/POHes/tan%20kiat%20how%20495x660.jpeg"><b>Senior Minister of State</b><br>Tan Kiat How
-
+<br>
+<br>	
+<img style="height:300px; width:225px;" src="/images/POHes/mos_rahayu_495x660.jpg"><b>Minister of State</b><br>Rahayu Mahzam
 </div>
