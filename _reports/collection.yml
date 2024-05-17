@@ -1,4 +1,5 @@
 collections:
   reports:
     output: true
-    order: []
+    order:
+      - Digital Enterprise Report.md
