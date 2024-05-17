@@ -84,8 +84,8 @@ considers AI a strategic national priority. Here’s what I say.</p>
 <li>
 <p>Usually, I start off with some facts as anchors.</p>
 <p>a. For example, the fact that in 1960, before Singapore became an independent
-country, our per capita GDP was about US$4001. Today, it has grown 200
-times, to around US$80,000.</p>
+country, our per capita GDP was about US$400. Today, it has grown 200 times,
+to around US$80,000.</p>
 <p>b. For a mature economy like ours, sustaining wage growth for the broad
 middle is no easy task. And yet over the last 10 years, real median wages
 have continued to grow at around 2% per annum.</p>
@@ -149,7 +149,8 @@ and other digital technologies more broadly to be more efficient.</p>
 and more efficient for citizens to transact across all government digital
 services. You don’t need to establish a new identity for government service
 that you transact online.</p>
-<p>b. Another way is to improve data access and use to better inform policy-making.</p>
+<p>b. Another way is to improve data <u>access and use</u> to better inform
+policy-making.</p>
 <p></p>
 </li>
 <li>
