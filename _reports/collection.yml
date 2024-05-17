@@ -1,0 +1,5 @@
+collections:
+  reports:
+    output: true
+    order:
+      - Digital Enterprise Report.md
