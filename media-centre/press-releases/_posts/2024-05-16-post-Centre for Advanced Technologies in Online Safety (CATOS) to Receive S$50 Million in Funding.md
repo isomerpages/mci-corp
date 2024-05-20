@@ -38,31 +38,24 @@ to build a safer online ecosystem for Singapore users.</p>
 </p>
 <p>4. The additional S$30 million investment will primarily support the following
 new initiatives by CATOS:</p>
-<p>a) Developing new technological capabilities to detect online harms that
-can be harmful to individuals and our society. This includes online hate,
-discrimination, harm to health and well-being, and threats to personal
-and community safety. CATOS will develop advanced technologies to identify
-and detect online content that is unhealthy or unsafe, or that contains
-hate or discrimination, which could undermine our racial and religious
-harmony.</p>
-<p>b) Continuing investment in research to stay ahead of evolving challenges
-in the OTS space. The online space evolves rapidly, and our ability to
-respond must not fall behind. CATOS will seek to foster innovation and
-attract talent through a range of initiatives. This includes issuing open
-calls for research proposals to solicit high-quality proposals and ideas,
-to address emerging problems and threats in the OTS space. CATOS will also
-engage the community through various initiatives, such as hackathons and
-innovation challenges.</p>
-<p>c) Establishing a sandbox environment to test and refine new technologies
-aimed at combating online harms while safeguarding the integrity and security
-of online platforms. The CATOS sandbox will provide developers with a controlled
-virtual space to testbed solutions to address various harms online.</p>
-<p>This sandbox will facilitate rapid experimentation of new technologies
-in real-world scenarios, without compromising the underlying operational
-environment.</p>
-<p>For solutions that have been proven to be effective, CATOS will work with
-developers to facilitate their deployment through licensing or service
-agreements.</p>
+<p>a) <strong>Developing new technological capabilities to detect online harms that can be harmful to individuals and our society. This includes online hate, discrimination, harm to health and well-being, and threats to personal and community safety. </strong>CATOS
+will develop advanced technologies to identify and detect online content
+that is unhealthy or unsafe, or that contains hate or discrimination, which
+could undermine our racial and religious harmony.</p>
+<p>b) <strong>Continuing investment in research to stay ahead of evolving challenges in the OTS space. </strong>The
+online space evolves rapidly, and our ability to respond must not fall
+behind. CATOS will seek to foster innovation and attract talent through
+a range of initiatives. This includes issuing open calls for research proposals
+to solicit high-quality proposals and ideas, to address emerging problems
+and threats in the OTS space. CATOS will also engage the community through
+various initiatives, such as hackathons and innovation challenges.</p>
+<p>c) <strong>Establishing a sandbox environment to test and refine new technologies aimed at combating online harms while safeguarding the integrity and security of online platforms. </strong>The
+CATOS sandbox will provide developers with a controlled virtual space to
+testbed solutions to address various harms online. This sandbox will facilitate
+rapid experimentation of new technologies in real-world scenarios, without
+compromising the underlying operational environment. For solutions that
+have been proven to be effective, CATOS will work with developers to facilitate
+their deployment through licensing or service agreements.</p>
 <p>5. Enhancing online trust and safety requires a collaborative approach,
 and CATOS has been actively fostering collaborations with key stakeholders
 in the OTS ecosystem. At this forum, CATOS announced the signing of a Memorandum
