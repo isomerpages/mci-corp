@@ -291,6 +291,7 @@ in the world for AI innovation.</p>
 <p>Thank you and have an enjoyable evening!</p>
 </li>
 </ol>
-<p><a href="/files/Speech_by_Minister_for_Communications_and_Information__Josephine_Teo__at_the_Committee_of_Supply_Debate_on_1_March_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">PDF version of the speech</a>
+<p><a href="/files/Speech_by_Minister_for_Communications_and_Information__Josephine_Teo__at_the_Committee_of_Supply_Debate_on_1_March_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">PDF version of th</a>
+<a href="/files/Speeches 2024/Speech_by_Minister_Josephine_Teo_at_Singapore_Business_Awards.pdf" rel="noopener noreferrer nofollow" target="_blank">PDF version of the speech</a><a href="/files/Speech_by_Minister_for_Communications_and_Information__Josephine_Teo__at_the_Committee_of_Supply_Debate_on_1_March_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">e speech</a>
 </p>
 <p></p>
