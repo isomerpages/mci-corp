@@ -296,6 +296,6 @@ make the Internet a safer place for all.</p>
 <p>Thank you very much for being here.</p>
 </li>
 </ol>
-<p><a href="/files/Speech_by_Minister_for_Communications_and_Information__Josephine_Teo__at_the_Committee_of_Supply_Debate_on_1_March_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">PDF version of the speech</a>
+<p><a href="/files/Speeches 2024/Speech_by_Minister_Josephine_Teo_at_Online_Trust_and_Safety_Forum.pdf" rel="noopener noreferrer nofollow" target="_blank">PDF version of the speech</a>
 </p>
 <p></p>
