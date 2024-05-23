@@ -2,4 +2,5 @@ collections:
   reports:
     output: true
     order:
+      - Digital Enterprise Blueprint/Digital Enterprise Blueprint.md
       - Digital Enterprise Blueprint/.keep
