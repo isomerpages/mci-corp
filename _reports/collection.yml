@@ -2,5 +2,6 @@ collections:
   reports:
     output: true
     order:
+      - Digital Enterprise Blueprint/Digital Enterprise Blueprint Report.md
       - Digital Enterprise Blueprint/What is the Digital Enterprise Blueprint.md
       - Digital Enterprise Blueprint/.keep
