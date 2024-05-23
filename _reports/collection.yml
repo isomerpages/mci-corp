@@ -2,7 +2,7 @@ collections:
   reports:
     output: true
     order:
-      - Digital Enterprise Blueprint/Pledge Partner Commitments.md
       - Digital Enterprise Blueprint/.keep
       - Digital Enterprise Blueprint/What is DEB.md
       - Digital Enterprise Blueprint/DEB Report.md
+      - Digital Enterprise Blueprint/Pledge Partner Commitments.md
