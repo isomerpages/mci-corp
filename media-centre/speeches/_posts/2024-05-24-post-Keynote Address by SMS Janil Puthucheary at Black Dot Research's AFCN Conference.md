@@ -139,35 +139,59 @@ the necessary tools for this essential skill set.</p>
 misinformation and disinformation: leveraging the strengths of partners
 in the information ecosystem.</p>
 <p>13. In a saturated information landscape awash with content that may be
-AI-generated,</p>
-<p>audiences may find it difficult to separate truths from falsehoods. Hence,
-we have to work</p>
-<p>with partners in the information ecosystem to effectively combat misinformation
-and</p>
-<p>disinformation.</p>
+AI-generated, audiences may find it difficult to separate truths from falsehoods.
+Hence, we have to work with partners in the information ecosystem to effectively
+combat misinformation and disinformation.</p>
 <p>14. One partner is our local news media platforms such as Straits Times,
-CNA, and our</p>
-<p>vernacular outlets. They play an important role as trusted interlocutors
-to engage and</p>
-<p>inform citizens on issues of the day, providing a factual basis for public
-discussions. Their</p>
-<p>ability to remain trusted by our public is a testament to the work that
-they put in despite</p>
-<p>ongoing attempts by various malicious actors to exploit the online space
-for a variety of</p>
-<p>reasons. Shout out to our teams here who have been able to maintain and
-strengthen the</p>
-<p>trust that the public has in them as a timely and authoritative source
-of information that</p>
-<p>citizens can turn to, to verify dubious information they might have encountered
-elsewhere.</p>
+CNA, and our vernacular outlets. They play an important role as trusted
+interlocutors to engage and inform citizens on issues of the day, providing
+a factual basis for public discussions. Their ability to remain trusted
+by our public is a testament to the work that they put in despite ongoing
+attempts by various malicious actors to exploit the online space for a
+variety of reasons. Shout out to our teams here who have been able to maintain
+and strengthen the trust that the public has in them as a timely and authoritative
+source of information that citizens can turn to, to verify dubious information
+they might have encountered elsewhere.</p>
 <p>15. Another partner is our network of fact-checkers, which includes many
-of you here</p>
-<p>today.</p>
-<p>a. We recognise that providing high-quality fact-checks is extremely resource-</p>
-<p>intensive, which makes it challenging for fact-checkers to work alone.
-This is</p>
-<p>why collaborations amongst fact-checkers are important, to synergise efforts
-to</p>
-<p>address falsehoods.</p>
+of you here today.</p>
+<p>a. We recognise that providing high-quality fact-checks is extremely resource-intensive,
+which makes it challenging for fact-checkers to work alone. This is why
+collaborations amongst fact-checkers are important, to synergise efforts
+to address falsehoods.</p>
+<p>b. I am glad to see that the Asian Fact-Checkers Network (AFCN) has brought
+together fact-checkers and stakeholders from diverse sectors, including
+the Government, technology companies, the media and academia to connect
+as well as exchange knowledge and best practices with one another.</p>
+<p>c. I hope that through platforms like this conference, you will forge
+new partnerships and initiate new cross-sector collaborations, which will
+enable us to strengthen our collective response to misinformation and disinformation.</p>
+<p>16. Beyond the important work that the Asian Fact-Checkers Network is
+doing, I would also like to acknowledge the contributions of new players
+in our fact-checking ecosystem. It's not an easy space to get into, and
+the fact that people are willing to step forward and bring their resources,
+personnel, and efforts to bear in this space is something to be applauded
+and acknowledged. Thank you all very much for joining us in this effort.</p>
+<p><strong><u>Conclusion</u></strong>
+</p>
+<p>17. Let me conclude by reiterating that work to safeguard our infrastructure
+of fact has never been more critical.</p>
+<p>a. Without adequate measures to address the threats that misinformation
+and disinformation can pose to societies, we run the risk of greater polarisation
+and erosion of trust.</p>
+<p>b. But if we work together and draw on the strengths and expertise of
+different stakeholders to collectively address this issue, we will sustain
+cohesion and nurture a more informed and resilient society.</p>
+<p>18. I thank Black Dot Research for providing this platform to share ideas
+and best practices on tackling misinformation and disinformation and hope
+that you will have many insightful conversations later.</p>
+<p>19. Thank you.</p>
+<p><a href="/files/Speeches 2024/Keynote_Address_by_SMS_Dr_Janil_Puthucheary_at_Black_Dot_Research_s_Inaugural_Asian_Fact_Checkers_Network__AFCN__Conference_on_24_May_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">PDF version of the speech</a>
+</p>
+<hr>
+<p><sup>1</sup> Singapore Digital Society Report (2023).</p>
+<p><sup>2</sup> Digital 2024 Global Overview Report (2024). Link: <a href="https://wearesocial.com/sg/blog/2024/01/digital- 2024-5-billion-social-media-users/" rel="noopener noreferrer nofollow" target="_blank">https://wearesocial.com/sg/blog/2024/01/digital- 2024-5-billion-social-media-users/</a>
+</p>
+<p><sup>3</sup> Between 2020 and Q1 2023, at the height of the COVID-19 pandemic,
+approximately 55% of POFMA cases were COVID-19 related. Data retrieved
+from the POFMA Office website (<a href="https://www.pofmaoffice.gov.sg/files/tabulation_of_pofma_cases_and_actions.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.pofmaoffice.gov.sg/files/tabulation_of_pofma_cases_and_actions.pdf</a>)</p>
 <p></p>
