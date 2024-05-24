@@ -20,7 +20,7 @@ how our Word documents and Excel spreadsheets can be used more productively.
 I’m very happy to take the partnership to the next level with this programme.</p>
 <p></p>
 <p>Singapore has been using technology almost from the start. We started
-a national computerization programme very early on when computers were
+a national computerisation programme very early on when computers were
 not that pervasively used. In those days, computers were very different
 from computers today. In fact, the phone that you have in your pocket right
 now has more computing power, more memory and more resources compared to
@@ -128,8 +128,8 @@ keen, please tap on all the resources that government will be putting in
 place to support the reskilling and retraining of your tech team. We will
 be sharing more of these details at next week’s launch.</p>
 <p></p>
-<p>All of you here are leaders who own right, embracing digitalisation to
-create your own future, across all industries – even the more traditional
+<p>All of you here are leaders in your own right, embracing digitalisation
+to create your own future, across all industries – even the more traditional
 ones such as FnB. Experts are saying that “there is no such thing as sunset
 industry, only a sunset mindset”. I commend all of you and welcome all
 of you to tap on the various programmes that we're rolling out. You never
@@ -140,9 +140,12 @@ forward to working with all of you to create this future together.</p>
 <p>Lastly, MCI will be doing a name change. In Singapore, we don’t do a name
 change just for the sake of it – we also want to reflect the emphasis that
 we are already putting in place and will continue to focus on in the coming
-years. From 1st July, we will be known as MDDI, which stands for Ministry
-of Digital Development and Information. Hopefully, the next time I meet
-all of you, I would have started my project of having an AI-generated co-minister
-speak on my behalf.</p>
+years. We will soon be known as MDDI, which stands for Ministry of Digital
+Development and Information. Hopefully, the next time I meet all of you,
+I would have started my project of having an AI-generated co-minister speak
+on my behalf.</p>
 <p></p>
 <p>Thank you everyone.</p>
+<p></p>
+<p><a href="/files/Speeches 2024/Opening_Remarks_by_SMS_Tan_at_IMDAxMSFT_Luncheon.pdf" rel="noopener noreferrer nofollow" target="_blank">PDF version of the speech</a>
+</p>
