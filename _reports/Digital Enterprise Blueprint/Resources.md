@@ -17,3 +17,6 @@ this next phrase of their digitalisation journey.</p>
 <p>Digital Enterprise Blueprint Infographic (Chinese)</p>
 <p>Digital Enterprise Blueprint Infographic (Malay)</p>
 <p>Digital Enterprise Blueprint Infographic (Tamil)</p>
+<p>Visit IMDA's CTO-as-a-Service platform to find out how you can benefit
+from the Digital Enterprise Blueprint, whether you are a SME or a Infocomm
+Media (ICM) solution provider that serves SMEs.</p>
