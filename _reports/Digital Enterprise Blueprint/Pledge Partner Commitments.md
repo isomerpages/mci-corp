@@ -31,5 +31,24 @@ as well as tech companies such as <strong>Amazon Web Services (AWS)</strong>, <s
 <p></p>
 </div>
 </details>
-</div>
+<details class="isomer-details">
+<summary>Raise capabilities of solution providers that cater to a broad base of
+SMEs</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Cybersecurity</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Upskilling Workers</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<p>Further information on the initiatives can be found in this factsheet.</p>
