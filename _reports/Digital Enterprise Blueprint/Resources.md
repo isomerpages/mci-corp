@@ -16,5 +16,6 @@ find out how you can benefit from Singapore’s Digital Enterprise Blueprint.</p
 <h3>Download the report</h3>
 <p>Digital Enterprise Blueprint Report</p>
 <p>Digital Enterprise Blueprint Infographic
-<br>English | Chinese | Malay | Tamil (Coming soon)</p>
+<br><a href="/files/Digital Economy/Digital_Enterprise_Blueprint_Infographic__English_.pdf" rel="noopener noreferrer nofollow" target="_blank">English</a> |
+Chinese | Malay | Tamil (Coming soon)</p>
 <p></p>
