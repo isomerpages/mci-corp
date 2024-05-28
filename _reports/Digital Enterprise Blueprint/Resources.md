@@ -13,3 +13,8 @@ our SMEs and workers.</p>
 <p>Visit IMDA’s <strong><u>CTO-as-a-Service platform</u></strong> to find out
 how you can benefit from Singapore’s Digital Enterprise Blueprint.</p>
 <p></p>
+<h3>Downloads</h3>
+<p>Digital Enterprise Blueprint Report</p>
+<p>Digital Enterprise Blueprint Infographic
+<br>English | Chinese | Malay | Tamil</p>
+<p></p>
