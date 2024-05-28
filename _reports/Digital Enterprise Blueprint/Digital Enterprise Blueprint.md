@@ -23,4 +23,7 @@ integrated digital solutions,</p>
 cyber resilience, and</p>
 <p>(d) <strong><u>Upskill Workers</u></strong> to make full use of digital
 capabilities.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Four focus areas to power the next bound of digitalisation" src="/images/Digital Economy/DEB_Infographic.png">
+</div>
 <p></p>
