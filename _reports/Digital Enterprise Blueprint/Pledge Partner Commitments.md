@@ -22,12 +22,8 @@ enterprises and workers.</p>
 <details class="isomer-details">
 <summary>Building awareness</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<ol data-tight="true" class="tight">
-<li>
-<p>SBF has pledged to leverage its network of 30,000 SMEs to raise awareness
+<p>i. SBF has pledged to leverage its network of 30,000 SMEs to raise awareness
 on the initiatives and support outlined in this blueprint.</p>
-</li>
-</ol>
 </div>
 </details>
 <details class="isomer-details">
