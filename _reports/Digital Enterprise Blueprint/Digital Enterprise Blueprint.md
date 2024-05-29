@@ -6,6 +6,9 @@ description: ""
 third_nav_title: Digital Enterprise Blueprint
 ---
 <h3>About the Digital Enterprise Blueprint</h3>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_IGLlLmG6BI?si=UmQt93BkjlJ_gV2U"></iframe>
+</div>
 <p>The digital landscape is evolving at an unprecedented rate and this rapid
 transformation provides limitless opportunities for all. Our enterprises
 have made good progress on digitalisation, but we need to stay ahead of
