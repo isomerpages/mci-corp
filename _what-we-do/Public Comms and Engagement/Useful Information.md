@@ -19,9 +19,15 @@ Please indicate whether the news bureau will be engaging in other activities bes
 
 [Accounting and Corporate Regulatory Authority](https://www.acra.gov.sg/)
 
-10 Anson Road #05-01/15  
-International Plaza  
-Singapore 079903  
+**ACRA Corporate Office**
+#03-02, Revenue House   
+55 Newton Road, Singapore 307987
+
+**ACRA Service Counter (by appointment only)**
+Taxpayer and Business Service Centre  
+Level 1, Revenue House  
+55 Newton Road, Singapore 307987
+
 ACRA Helpdesk: (65) 6248 6028 (Mon to Fri, 8.30am to 6.00pm)  
 Email: [https://www.acra.gov.sg/enquiry/](https://www.acra.gov.sg/enquiry/)
 
