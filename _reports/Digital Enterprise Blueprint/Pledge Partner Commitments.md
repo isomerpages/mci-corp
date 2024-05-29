@@ -22,18 +22,18 @@ enterprises and workers.</p>
 <details class="isomer-details">
 <summary>Building awareness</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>SBF has pledged to leverage its network of 30,000 SMEs to raise awareness
 on the initiatives and support outlined in this blueprint.</p>
 </li>
-</ol>
+</ul>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Strengthening AI adoption</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>Microsoft, AI Singapore and Enterprise Singapore have jointly developed
 a programme to drive the adoption of Microsoft’s Copilot among SMEs. Copilot
@@ -59,13 +59,13 @@ Partner Network for technical expertise and support for their entire journey
 from tech discovery, development and deployment of GenAI solutions. entire
 journey from tech discovery, development and deployment of GenAI solutions.</p>
 </li>
-</ol>
+</ul>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Raising capabilities of solution providers</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>AWS has pledged to enhance the capabilities of IMDA’s pre-approved Infocomm
 Media (ICM) solution providers with tools and knowledge needed to stay
@@ -73,25 +73,25 @@ secure and scale up in the cloud. AWS will support them through initiatives
 such as security workshops, dedicated technical support for architecture,
 sharing of best practices on the cloud and cost management review exercises.</p>
 </li>
-</ol>
+</ul>
 <p>Additionally, AWS’s investment into Singapore’s cloud computing infrastructure
 will enable enterprises to access digital resources like compute and storage,
 and advanced capabilities like AI. This collaboration enriches the capabilities
 of our solution providers and cultivates a more resilient and innovative
 ecosystem.</p>
-<ol start="2" data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>Microsoft is partnering with IMDA to uplift IMDA’s pre-approved ICM solution
 providers with GenAI capabilities to scale up adoption of GenAI solutions
 by SMEs.</p>
 </li>
-</ol>
+</ul>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Raising cyber resilience</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>AWS, Google and Microsoft will work with CSA to expand on the existing
 multi-year collaboration on cloud security to include AI security as more
@@ -102,13 +102,13 @@ businesses use AI services on the cloud.</p>
 cyberspace will positively impact at least 2,000 SMEs in Singapore over
 the next three years.</p>
 </li>
-</ol>
+</ul>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Upskilling workers</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>SCS will partner with IMDA to expand the outreach of TechSkills Accelerator
 (TeSA) to more non-ICT sectors, so they can leverage AI in performing corporate
@@ -126,7 +126,7 @@ awareness and drive adoption of skills-based hiring practices amongst enterprise
 by encouraging them to commit to the Employers’ Pledge and implement hiring
 practices from the Handbook of Tech Roles.</p>
 </li>
-</ol>
+</ul>
 </div>
 </details>
 </div>
