@@ -378,29 +378,74 @@ at SIM University.</p>
 <p>63. This is an important shift that we are making. It is not just about
 looking at a candidate’s qualifications, but looking at skills and hiring
 someone for a job because he can do the job regardless of which piece of
-paper he is holding. And in a job, retooling and reskilling them so</p>
-<p>they can get better pay, better opportunities, as long as they're willing
-to work hard for them.</p>
+paper he is holding. And in a job, retooling and reskilling them so they
+can get better pay, better opportunities, as long as they're willing to
+work hard for them.</p>
 <p>64. And all these can’t be done without Partnerships, which leads me to
-the last slide. I'm very</p>
-<p>heartened that in the process of developing the DEB, we consulted widely,
-engaged widely</p>
-<p>with the industry players, with members of the public and we had very
-enthusiastic and</p>
-<p>positive responses about what we can do.</p>
+the last slide. I'm very heartened that in the process of developing the
+DEB, we consulted widely, engaged widely with the industry players, with
+members of the public and we had very enthusiastic and positive responses
+about what we can do.</p>
 <p>65. And I'm much more heartened, when people tell us it's a good thing
-to do, but also step</p>
-<p>forward and say, “I will do it together with you. Let's work on it together
-because we believe it</p>
-<p>makes an impact and it’s a win-win outcome.”</p>
+to do, but also step forward and say, “I will do it together with you.
+Let's work on it together because we believe it makes an impact and it’s
+a win-win outcome.”</p>
 <p>66. Today, we are starting off with seven partners. We are happy to have
-Singapore Business</p>
-<p>Federation with us who has committed to leveraging its network of 30,000
-SMEs to help to</p>
-<p>amplify initiatives in the blueprint and benefit more of its members and
-bring more of its</p>
-<p>members along in next phase of digitalisation.</p>
+Singapore Business Federation with us who has committed to leveraging its
+network of 30,000 SMEs to help to amplify initiatives in the blueprint
+and benefit more of its members and bring more of its members along in
+next phase of digitalisation.</p>
 <p>67. Secondly, we are very happy to have Microsoft, AWS and Salesforce
-to strengthen AI adoption</p>
-<p>in our ecosystem. For Microsoft, we heard about the Pinnacle AI programme,
-making sure</p>
+to strengthen AI adoption in our ecosystem. For Microsoft, we heard about
+the Pinnacle AI programme, making sure that co-pilots solutions are more
+accessible to more SMEs and also supporting SMEs to innovate. Salesforce
+is launching its Data+AI Boost programme to benefit at least 5,000 SMEs
+in the coming years and I look forward to this boost from Salesforce.</p>
+<p>68. Together with Microsoft and AWS, we are supporting the GenAI for Digital
+Leaders programme to support more than 400 of them to innovate and create
+solutions that work for them and scale up to a wider industry and beyond.</p>
+<p>69. Beyond working on strengthening AI adoption, we want to also raise
+capabilities of our digital solutions providers, because these are the
+important channels for enterprises in adopting digital solutions and I'm
+very heartened to have AWS and Microsoft work together with us to better
+equip their ecosystem of solution users riding on their platform to have
+new capabilities in AI and GenAI to be more cyber secure, and to reach
+out to more enterprises and have more opportunities to grow their business.
+It is a win-win outcome. Thank you very much for AWS and Microsoft in that.</p>
+<p>70. CSA is also partnering with AWS, Microsoft and Google on a few things.
+One is by expanding our existing collaboration on cloud security and giving
+a big push to scale faster through cloud, native architecture, and more
+adoption of cloud. We want to make sure cloud security is up there and
+enterprises have assurance that when they move their digital solutions
+on to a cloud environment, it is secure. We are working very closely with
+the cloud service providers to tighten the cybersecurity around the cloud
+offerings, as well as the digital solutions sitting on the cloud.</p>
+<p>71. Last but not least, I’m very thankful for our own tech industry associations,
+Singapore Computer Society (SCS) and SGTech for reaching out to our own
+tech community. Firstly, to raise awareness of our DEB and secondly, to
+bring in our tech enterprises and crowd them in to participate in many
+of the initiatives.</p>
+<p>72. For example, SGTech will place at least 300 TIP apprentices into good
+apprenticeship opportunities among its own network of companies - more
+than 1,400 of them. SGTech will also drive adoption of skill-based hiring,
+retention and development.</p>
+<p>73. For SCS, we’re very happy that they are expanding the outreach to
+non-ICT sectors. So it's not just at a government to government level,
+but at the industry association level, reaching out to non-tech sectors
+to bring everyone along, whether it's in manufacturing, accountants or
+legal services. We want to uplift everyone and SCS is playing its part
+to bring the rest of its brother industry associations along.</p>
+<p>74. And I was talking about non-sector to non-tech sector support. At
+this point in time, there is an MOU signing concurrently taking place right
+now, where IMDA is signing an MOU with the Singapore Academy of Law to
+develop a context based large language model using ChatGPT for the legal
+sector. It's not just about supporting our own sector but we're reaching
+out to bring every sector along, both at the government-to-government level,
+and at the industry association-to-industry association level.</p>
+<p>75. We welcome more partners to join us as we embark on next phase of
+digitalisation. We are launching the DEB today, but it's certainly not
+the end of a journey and is the start of the next chapter. There is much
+more work to be done as we equip our enterprises to be smarter, safer,
+scale faster and upskill our workers, creating better jobs, better opportunities,
+and better outcomes for our economy. Thank you very much and we welcome
+more partners.</p>
