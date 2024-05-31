@@ -16,6 +16,8 @@ find out how you can benefit from Singapore’s Digital Enterprise Blueprint.</p
 <h3>Download resources</h3>
 <p><a href="https://file.go.gov.sg/deb-report-2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Digital Enterprise Blueprint Report</a>
 </p>
-<p><a href="/files/Digital Economy/digital_enterprise_blueprint_infographic_english.pdf" rel="noopener noreferrer nofollow" target="_blank">Digital Enterprise Blueprint Infographic (English)</a>
+<p>Digital Enterprise Blueprint Infographic</p>
+<p><a href="/files/Digital Economy/Digital_Enterprise_Blueprint___Infographic__30_May_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">English</a> |
+<a href="/files/Digital Economy/Digital_Enterprise_Blueprint___Infographic__Chinese_.pdf" rel="noopener noreferrer nofollow" target="_blank">Chinese</a>| <a href="/files/Digital Economy/Digital_Enterprise_Blueprint___Infographic__Malay_.pdf" rel="noopener noreferrer nofollow" target="_blank">Malay</a> |
+<a href="/files/Digital Economy/Digital_Enterprise_Blueprint___Infographic__Tamil_.pdf" rel="noopener noreferrer nofollow" target="_blank">Tamil</a>
 </p>
-<p>(Other languages coming soon)</p>
