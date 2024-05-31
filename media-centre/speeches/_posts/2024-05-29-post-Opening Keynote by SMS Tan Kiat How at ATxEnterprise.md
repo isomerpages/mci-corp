@@ -331,32 +331,24 @@ providers that you can tap on? And what are the government grants that
 you can avail yourself to?</p>
 <p>52. So please make full use of this digital skills training roadmap. It's
 not just about adopting a digital solution, but please train your workers
-on how best to use these digital solutions.</p>
-<p>Choose a training provider wisely, and there's government support for
-you to do so.</p>
+on how best to use these digital solutions. Choose a training provider
+wisely, and there's government support for you to do so.</p>
 <p>53. So that's the first thing we are doing, and we will tie it more closely
-with our partners, whether</p>
-<p>it’s NTUC, e2i, SkillsFuture Singapore, or different agencies coming together
-on this collective</p>
-<p>effort.</p>
+with our partners, whether it’s NTUC, e2i, SkillsFuture Singapore, or different
+agencies coming together on this collective effort.</p>
 <p>54. The second thing we are doing is really about making sure that there's
-enough tech talent</p>
-<p>and tech professionals in this ecosystem to support all the things we
-want to do, in terms of</p>
-<p>innovating tech, deploying, or just operating and maintaining systems.</p>
+enough tech talent and tech professionals in this ecosystem to support
+all the things we want to do, in terms of innovating tech, deploying, or
+just operating and maintaining systems.</p>
 <p>55. We need tech professionals and there is a global shortage. Over the
-last five years, we've</p>
-<p>created and have extra 50,000 new jobs from around 155,000 tech professionals
-a few</p>
-<p>years ago to more than 200,000 today. And we still have vacancies. At
-any one point in time,</p>
-<p>probably 10,000 vacancies in the market.</p>
+last five years, we've created and have extra 50,000 new jobs from around
+155,000 tech professionals a few years ago to more than 200,000 today.
+And we still have vacancies. At any one point in time, probably 10,000
+vacancies in the market.</p>
 <p>56. How are we supporting our enterprises in this regard? There are two
-aspects. One is about</p>
-<p>retooling and reskilling our existing 200,000 IT professionals to pick
-up new skills about</p>
-<p>cloud, mobility, new ways of developing software or AI.</p>
+aspects. One is about retooling and reskilling our existing 200,000 IT
+professionals to pick up new skills about cloud, mobility, new ways of
+developing software or AI.</p>
 <p>57. We are retooling and reskilling our tech professionals under our TechSkills
-Accelerator (TeSA)</p>
-<p>programme and we aim to reskill at least 18,000 of them in the coming
-years with all these</p>
+Accelerator (TeSA) programme and we aim to reskill at least 18,000 of them
+in the coming years with all these</p>
