@@ -449,3 +449,5 @@ more work to be done as we equip our enterprises to be smarter, safer,
 scale faster and upskill our workers, creating better jobs, better opportunities,
 and better outcomes for our economy. Thank you very much and we welcome
 more partners.</p>
+<p><a href="/files/Speeches 2024/SMS_Tan_Kiat_How_s_Opening_Keynote_at_ATxEnterprise__29_May_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">PDF version of the speech</a>
+</p>
