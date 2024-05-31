@@ -37,21 +37,39 @@ and trade associations and chambers. The DEB outlines our support for SMEs
 and workers in four focus areas:</p>
 <p></p>
 <p>(i) Focus Area 1: Empower enterprises to Be Smarter. We will catalyse
-the</p>
+the adoption of emerging technologies, especially AI-enabled solutions,
+to enable SMEs to improve their productivity and innovate.</p>
+<p>(ii) Focus Area 2: Enable enterprises to Scale Faster. We will accelerate
+the adoption of cloud-based and integrated digital solutions to support
+the growth of SMEs.</p>
+<p>(iii) Focus Area 3: Equip enterprises to Be Safer. We will improve SMEs’
+cyber resilience and strengthen trust in our digital ecosystem.</p>
+<p>(iv) Focus Area 4: Support enterprises to Upskill Workers. We will provide
+opportunities for SMEs to upskill and reskill their workers and encourage
+SMEs to adopt inclusive, skills-based hiring practices.</p>
+</li>
+<li>
+<p>Speaking at the opening of ATxEnterprise, SMS Tan announced that seven
+partners have pledged their commitment to supporting SMEs and workers through
+the DEB by partnering MCI, the Infocomm Media Development Authority (IMDA)
+and the Cyber Security Agency of Singapore (CSA) to:</p>
+<p>(i) Build Awareness of the DEB (Singapore Business Federation)</p>
+<p>(ii) Strengthen AI adoption (Amazon Web Services, Microsoft, Salesforce)</p>
+<p>(iii) Raise capabilities of solution providers (Amazon Web Services, Microsoft)</p>
+<p>(iv) Raise cyber resilience of SMEs (Amazon Web Services, Google, Microsoft)</p>
+<p>(v) Upskill workers (Singapore Computer Society, SGTech)</p>
+<p><em>More information on the seven pledge partners’ initiatives and quotes at Annex A.</em>
+</p>
+</li>
+<li>
+<p>Together with the initiatives across the four focus areas (Be Smarter,
+Scale Faster, Be Safer and Upskill Workers), the Government will continue
+to build a vibrant and resilient ecosystem for the continued growth of
+our digital economy. This will enable our enterprises and workers to seize
+opportunities in the age of AI.</p>
+</li>
+<li>
+<p>For more information on the DEB, please visit <a href="https://www.mci.gov.sg/digital-enterprise-blueprint" rel="noopener noreferrer nofollow" target="_blank">https://www.mci.gov.sg/digital-enterprise-blueprint</a>.</p>
 </li>
 </ol>
-<p>adoption of emerging technologies, especially AI-enabled solutions, to</p>
-<p>enable SMEs to improve their productivity and innovate.</p>
-<p>(ii) Focus Area 2: Enable enterprises to Scale Faster. We will accelerate
-the</p>
-<p>adoption of cloud-based and integrated digital solutions to support the</p>
-<p>growth of SMEs.</p>
-<p>(iii) Focus Area 3: Equip enterprises to Be Safer. We will improve SMEs’
-cyber</p>
-<p>resilience and strengthen trust in our digital ecosystem.</p>
-<p>(iv) Focus Area 4: Support enterprises to Upskill Workers. We will provide</p>
-<p>opportunities for SMEs to upskill and reskill their workers and encourage</p>
-<p>SMEs to adopt inclusive, skills-based hiring practices.</p>
-<p>4 Speaking at the opening of ATxEnterprise, SMS Tan announced that seven</p>
-<p>partners have pledged their commitment to supporting SMEs and workers
-through</p>
+<p></p>
