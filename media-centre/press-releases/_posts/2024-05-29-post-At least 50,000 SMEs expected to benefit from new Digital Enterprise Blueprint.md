@@ -32,15 +32,14 @@ monthly wages from $5,512 in 2017 to $7,376 in 2022.</p>
 of technologies such as Generative AI (GenAI) and the increased exposure
 of our SMEs to cyber threats. To thrive in this dynamic environment, the
 Government has co-created the DEB in consultation with various stakeholders
-in the ecosystem,</p>
-</li>
-</ol>
-<p>including SMEs, solution providers, industry leaders, and trade associations
-and</p>
-<p>chambers. The DEB outlines our support for SMEs and workers in four focus
-areas:</p>
+in the ecosystem, including SMEs, solution providers, industry leaders,
+and trade associations and chambers. The DEB outlines our support for SMEs
+and workers in four focus areas:</p>
+<p></p>
 <p>(i) Focus Area 1: Empower enterprises to Be Smarter. We will catalyse
 the</p>
+</li>
+</ol>
 <p>adoption of emerging technologies, especially AI-enabled solutions, to</p>
 <p>enable SMEs to improve their productivity and innovate.</p>
 <p>(ii) Focus Area 2: Enable enterprises to Scale Faster. We will accelerate
