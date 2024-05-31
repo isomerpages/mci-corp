@@ -50,7 +50,7 @@ and the Cyber Security Agency of Singapore (CSA) to:</p>
 <p>(iii) Raise capabilities of solution providers (Amazon Web Services, Microsoft)</p>
 <p>(iv) Raise cyber resilience of SMEs (Amazon Web Services, Google, Microsoft)</p>
 <p>(v) Upskill workers (Singapore Computer Society, SGTech)</p>
-<p><em>More information on the seven pledge partners’ initiatives and quotes at Annex A.</em>
+<p><em>More information on the seven pledge partners’ initiatives and quotes at <a href="/files/Press Releases 2024/Press_Release_Launch_of_Digital_Enterprise_Blueprint.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex A</a>.</em>
 </p>
 <p>5. Together with the initiatives across the four focus areas (Be Smarter,
 Scale Faster, Be Safer and Upskill Workers), the Government will continue
