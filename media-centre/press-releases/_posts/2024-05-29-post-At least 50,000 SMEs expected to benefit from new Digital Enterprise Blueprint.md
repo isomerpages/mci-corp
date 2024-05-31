@@ -7,3 +7,52 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>At least 50,000 SMEs expected to benefit over the next five years from
+new Digital Enterprise Blueprint</p>
+<p>Singapore, 29 May 2024 – The Digital Enterprise Blueprint (DEB) was officially
+launched by Mr Tan Kiat How, Senior Minister of State, Ministry of Communications
+and Information (MCI), at the opening of ATxEnterprise today. It outlines
+the Government’s support for enterprises and workers in harnessing digital
+technologies, particularly Artificial Intelligence (AI), to drive growth,
+innovation and resilience. The DEB is set to benefit at least 50,000 SMEs
+over the next five years.</p>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p>In recent years, our Small and Medium-sized Enterprises (SMEs) have made
+significant progress in digitalisation, with technology adoption rate increasing
+from 74% in 2018 to 95% in 2023, boosting productivity and fostering innovation.
+This has contributed to a vibrant digital economy, generating a value-add
+of $106 billion dollars in 2022, equivalent to 17% of Singapore’s nominal
+Gross Domestic Product (GDP). With the demand for tech-related skills across
+the economy, tech professionals have enjoyed steady growth in their median
+monthly wages from $5,512 in 2017 to $7,376 in 2022.</p>
+</li>
+<li>
+<p>The tech landscape is evolving rapidly, particularly with the emergence
+of technologies such as Generative AI (GenAI) and the increased exposure
+of our SMEs to cyber threats. To thrive in this dynamic environment, the
+Government has co-created the DEB in consultation with various stakeholders
+in the ecosystem,</p>
+</li>
+</ol>
+<p>including SMEs, solution providers, industry leaders, and trade associations
+and</p>
+<p>chambers. The DEB outlines our support for SMEs and workers in four focus
+areas:</p>
+<p>(i) Focus Area 1: Empower enterprises to Be Smarter. We will catalyse
+the</p>
+<p>adoption of emerging technologies, especially AI-enabled solutions, to</p>
+<p>enable SMEs to improve their productivity and innovate.</p>
+<p>(ii) Focus Area 2: Enable enterprises to Scale Faster. We will accelerate
+the</p>
+<p>adoption of cloud-based and integrated digital solutions to support the</p>
+<p>growth of SMEs.</p>
+<p>(iii) Focus Area 3: Equip enterprises to Be Safer. We will improve SMEs’
+cyber</p>
+<p>resilience and strengthen trust in our digital ecosystem.</p>
+<p>(iv) Focus Area 4: Support enterprises to Upskill Workers. We will provide</p>
+<p>opportunities for SMEs to upskill and reskill their workers and encourage</p>
+<p>SMEs to adopt inclusive, skills-based hiring practices.</p>
+<p>4 Speaking at the opening of ATxEnterprise, SMS Tan announced that seven</p>
+<p>partners have pledged their commitment to supporting SMEs and workers
+through</p>
