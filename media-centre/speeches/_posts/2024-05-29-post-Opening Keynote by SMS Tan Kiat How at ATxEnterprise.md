@@ -351,4 +351,56 @@ professionals to pick up new skills about cloud, mobility, new ways of
 developing software or AI.</p>
 <p>57. We are retooling and reskilling our tech professionals under our TechSkills
 Accelerator (TeSA) programme and we aim to reskill at least 18,000 of them
-in the coming years with all these</p>
+in the coming years with all these in-demand skills.</p>
+<p>58. Reskilling and retooling is necessary, but not sufficient. We need
+a pipeline of new talent coming in, especially in emerging technology like
+AI.</p>
+<p>59. Earlier, we committed to training 15,000 AI professionals over the
+coming years. So retooling and rescaling the existing workforce as tech
+professionals, but also creating new pathways with in-demand skills in
+emerging technology areas.</p>
+<p>60. We are very heartened because it is not just about programmes. When
+it comes to manpower, it's not just about progress and initiatives. It
+is making a difference in somebody's life and knowing that someone has
+successfully walked that journey using the initiatives that we have rolled
+out. And I was very heartened to have seen two individuals.</p>
+<p>61. One is Christopher, who wasn’t trained in Science, Technology, Engineering
+and Mathematics (STEM). He was an optometrist for 15 years, but he has
+an interest in technology and decided to take the plunge and went through
+all the programmes under TeSA. Now, he has been reskilled as a cloud and
+software engineer, and meaningfully deployed in developing and deploying
+technology.</p>
+<p>62. It is also not just looking at a person and where his starting point
+is, but also working a journey with him. Haikal graduated from ITE and
+went through Higher NITEC, polytechnic that was supported by his employer
+under a work-study programme, and he is now studying cybersecurity management
+at SIM University.</p>
+<p>63. This is an important shift that we are making. It is not just about
+looking at a candidate’s qualifications, but looking at skills and hiring
+someone for a job because he can do the job regardless of which piece of
+paper he is holding. And in a job, retooling and reskilling them so</p>
+<p>they can get better pay, better opportunities, as long as they're willing
+to work hard for them.</p>
+<p>64. And all these can’t be done without Partnerships, which leads me to
+the last slide. I'm very</p>
+<p>heartened that in the process of developing the DEB, we consulted widely,
+engaged widely</p>
+<p>with the industry players, with members of the public and we had very
+enthusiastic and</p>
+<p>positive responses about what we can do.</p>
+<p>65. And I'm much more heartened, when people tell us it's a good thing
+to do, but also step</p>
+<p>forward and say, “I will do it together with you. Let's work on it together
+because we believe it</p>
+<p>makes an impact and it’s a win-win outcome.”</p>
+<p>66. Today, we are starting off with seven partners. We are happy to have
+Singapore Business</p>
+<p>Federation with us who has committed to leveraging its network of 30,000
+SMEs to help to</p>
+<p>amplify initiatives in the blueprint and benefit more of its members and
+bring more of its</p>
+<p>members along in next phase of digitalisation.</p>
+<p>67. Secondly, we are very happy to have Microsoft, AWS and Salesforce
+to strengthen AI adoption</p>
+<p>in our ecosystem. For Microsoft, we heard about the Pinnacle AI programme,
+making sure</p>
