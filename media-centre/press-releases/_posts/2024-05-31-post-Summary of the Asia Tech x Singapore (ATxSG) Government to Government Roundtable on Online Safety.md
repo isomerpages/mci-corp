@@ -9,31 +9,21 @@ image: ""
 variant: tiptap
 ---
 <p>Summary of the Asia Tech x Singapore (ATxSG) Government-to-Government
-Roundtable on</p>
-<p>Online Safety by Chair and Minister for Communications and Information</p>
-<p>Mrs Josephine Teo, Friday, 31 May 2024</p>
+Roundtable on Online Safety by Chair and Minister for Communications and
+Information Mrs Josephine Teo, Friday, 31 May 2024</p>
 <p>Sentosa, Singapore: Ministers and senior government officials from around
-the world met today at</p>
-<p>the ATxSummit for a closed-door Government-to-Government Roundtable discussion
-on Online</p>
-<p>Safety (“Roundtable”). Minister for Communications and Information and
-Second Minister for</p>
-<p>Home Affairs Mrs Josephine Teo, who Chaired the Roundtable, released the
-following Chair’s</p>
-<p>Summary:</p>
+the world met today at the ATxSummit for a closed-door Government-to-Government
+Roundtable discussion on Online Safety (“Roundtable”). Minister for Communications
+and Information and Second Minister for Home Affairs Mrs Josephine Teo,
+who Chaired the Roundtable, released the following Chair’s Summary:</p>
 <p>“At the Government-to-Government Roundtable on 31 May, we discussed the
-topic of online safety,</p>
-<p>with a focus on children safety, and AI-generated misinformation and deepfakes.
-There was broad</p>
-<p>consensus that there is an urgent need to curb the threat of online harms,
-especially for vulnerable</p>
-<p>groups, and for regulations to keep pace with advances in technologies,
-such as generative AI. We</p>
-<p>had a constructive exchange of views on how governments and policymakers
-can foster a positive</p>
-<p>and inclusive online environment that promotes trust, respect, and meaningful
-participation for all</p>
-<p>users.”</p>
+topic of online safety, with a focus on children safety, and AI-generated
+misinformation and deepfakes. There was broad consensus that there is an
+urgent need to curb the threat of online harms, especially for vulnerable
+groups, and for regulations to keep pace with advances in technologies,
+such as generative AI. We had a constructive exchange of views on how governments
+and policymakers can foster a positive and inclusive online environment
+that promotes trust, respect, and meaningful participation for all users.”</p>
 <p>On online safety, with a focus on children safety, the Roundtable participants
 reflected their</p>
 <p>concern that children, who are spending more time online for learning,
