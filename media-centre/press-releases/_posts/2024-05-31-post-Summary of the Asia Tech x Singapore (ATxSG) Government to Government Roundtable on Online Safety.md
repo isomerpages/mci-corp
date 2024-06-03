@@ -25,39 +25,26 @@ such as generative AI. We had a constructive exchange of views on how government
 and policymakers can foster a positive and inclusive online environment
 that promotes trust, respect, and meaningful participation for all users.”</p>
 <p>On online safety, with a focus on children safety, the Roundtable participants
-reflected their</p>
-<p>concern that children, who are spending more time online for learning,
-entertainment and</p>
-<p>connecting with others, are particularly vulnerable when exposed to inappropriate
-content and</p>
-<p>social interaction online. While industry has taken active steps in recent
-years to combat online</p>
-<p>harms on social media, participants agreed that tech companies, civil
-society, and academia can</p>
-<p>and should do more to put in place additional protections for children
-or raise awareness of online</p>
-<p>harms that they might face. They also highlighted the importance of education
-and partnerships to</p>
-<p>equip citizens, especially children and their parents, with the knowledge
-and skills to use the</p>
-<p>Internet responsibly and manage potential online harms. Participants reiterated
-their commitment</p>
-<p>to international collaboration, especially with the increasingly borderless
-nature of online harms.</p>
+reflected their concern that children, who are spending more time online
+for learning, entertainment and connecting with others, are particularly
+vulnerable when exposed to inappropriate content and social interaction
+online. While industry has taken active steps in recent years to combat
+online harms on social media, participants agreed that tech companies,
+civil society, and academia can and should do more to put in place additional
+protections for children or raise awareness of online harms that they might
+face. They also highlighted the importance of education and partnerships
+to equip citizens, especially children and their parents, with the knowledge
+and skills to use the Internet responsibly and manage potential online
+harms. Participants reiterated their commitment to international collaboration,
+especially with the increasingly borderless nature of online harms.</p>
 <p>On AI-generated misinformation and deepfakes, the Roundtable participants
-shared that an online</p>
-<p>environment saturated with untrustworthy information can breed polarisation
-and erode trust in</p>
-<p>institutions. Participants emphasised the need to develop national and
-global governance</p>
-<p>frameworks to mitigate the misuse of AI in deepfakes and misinformation,
-while still allowing</p>
-<p>maximal space for innovation to take advantage of the opportunities which
-AI offers. They also</p>
-<p>shared the belief that developing technological safeguards and improving
-digital literacy among</p>
-<p>citizens can strengthen a country’s resilience to AI-generated misinformation
-and deepfakes. A</p>
-<p>coordinated approach that taps into the strength of all stakeholders is
-imperative to nimbly</p>
-<p>respond to these unprecedented harms in the information landscape.</p>
+shared that an online environment saturated with untrustworthy information
+can breed polarisation and erode trust in institutions. Participants emphasised
+the need to develop national and global governance frameworks to mitigate
+the misuse of AI in deepfakes and misinformation, while still allowing
+maximal space for innovation to take advantage of the opportunities which
+AI offers. They also shared the belief that developing technological safeguards
+and improving digital literacy among citizens can strengthen a country’s
+resilience to AI-generated misinformation and deepfakes. A coordinated
+approach that taps into the strength of all stakeholders is imperative
+to nimbly respond to these unprecedented harms in the information landscape.</p>
