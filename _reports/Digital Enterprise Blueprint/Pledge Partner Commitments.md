@@ -2,7 +2,11 @@
 title: Pledge Partner Commitments
 permalink: /pledge-partner-commitments/
 variant: tiptap
-description: ""
+description: The Digital Enterprise Blueprint brings together various
+  stakeholders in the ecosystem (including Government agencies, trade
+  associations and chambers, tech industry and institutes of higher learning) to
+  provide SMEs and workers with the right expertise, resources, networks and
+  technologies.
 third_nav_title: Digital Enterprise Blueprint
 ---
 <p>A trusted, cohesive and digitally resilient ecosystem enables our SMEs

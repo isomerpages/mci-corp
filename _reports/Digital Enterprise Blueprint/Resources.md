@@ -2,7 +2,7 @@
 title: Resources
 permalink: /resources/
 variant: tiptap
-description: ""
+description: Download the full Digital Enterprise Blueprint Report here.
 third_nav_title: Digital Enterprise Blueprint
 ---
 <h3>Partner with us</h3>
