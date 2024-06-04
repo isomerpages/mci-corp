@@ -306,4 +306,5 @@ discussions, and help shape Singapore’s sustainable digital future. Thank
 you all very much.</p>
 </li>
 </ol>
-<p></p>
+<p><a href="/files/Speeches 2024/1__Factsheet_IMDA_Green_DC_Roadmap.pdf" rel="noopener noreferrer nofollow" target="_blank">Charting green growth pathways at scale for data centres in Singapore (Factsheet)</a>
+</p>
