@@ -97,8 +97,8 @@ temperatures, and as a result, have realised significant energy savings.</p>
 <li>
 <p>One of my portfolios is to work with the Government Technology Agency
 to coordinate what we do for IT across government — building products and
-running the computer for the data centre services for Singapore. GovTech
-too is an early adopter of this approach. I am pleased to share that GovTech
+running the compute and data centre services for Singapore. GovTech too
+is an early adopter of this approach. I am pleased to share that GovTech
 has successfully trialled the Tropical Data Centre standard at one of its
 data centres. Increasing operating temperatures by 2 degrees Celsius and
 reducing the energy required to operate the data centre cooling infrastructure
