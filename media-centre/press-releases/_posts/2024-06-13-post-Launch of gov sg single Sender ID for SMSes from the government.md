@@ -9,7 +9,8 @@ variant: tiptap
 ---
 <p><strong>Launch of gov.sg - a single Sender ID for SMSes from the government</strong>
 </p>
-<p>This will be fully implemented across government agencies by 1 July 2024</p>
+<p><em>This will be fully implemented across government agencies by 1 July 2024</em>
+</p>
 <p>1. The Singapore Government is introducing a new single SMS Sender ID, <strong>gov.sg</strong>,
 to be used by all government agencies. From 1 July 2024, the public can
 expect SMSes from government agencies to come from a single <strong>gov.sg</strong> SMS
@@ -23,20 +24,20 @@ Singapore, to safeguard the <strong>gov.sg</strong> Sender ID from being
 spoofed.</p>
 <p>3. Limited exceptions will be made for communications about National Service
 matters and emergency services. Details of these limited exceptions can
-be found in Annex A.</p>
+be found in <strong><a href="/files/Press Releases 2024/Annex_A___Exceptions.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex A</a></strong>.</p>
 <p>4. A non-exhaustive list of examples of government SMS communications
 that will be sent through the <strong>gov.sg</strong><a href="http://gov.sg" rel="noopener noreferrer nofollow" target="_blank"> </a>Sender ID
-can be found in Annex B.</p>
+can be found in <strong><a href="/files/Press Releases 2024/Annex_B___List_of_Agencies.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex B</a></strong>.</p>
 <p>5. SMS remains a key platform for government communications to the public
 in Singapore, due to widespread adoption of mobile phones. Annually, over
 100 million SMSes are sent by various government agencies<sup>1</sup> to
 notify recipients of policy changes, provide transaction updates, and more.</p>
-<p>6. Mr Sim Feng-Ji, Deputy Secretary (Smart Nation Group), said, “This
-consolidated <strong>gov.sg</strong> SMS Sender ID is designed to give the
-public added confidence and ease of mind when it comes to identifying legitimate
-SMSes from government agencies. It exemplifies the Government's commitment
-in stamping out malicious attempts that undermine the public’s trust in
-government communications.”</p>
+<p>6. <strong>Mr Sim Feng-Ji, Deputy Secretary (Smart Nation Group)</strong>,
+said, “This consolidated <strong>gov.sg</strong> SMS Sender ID is designed
+to give the public added confidence and ease of mind when it comes to identifying
+legitimate SMSes from government agencies. It exemplifies the Government's
+commitment in stamping out malicious attempts that undermine the public’s
+trust in government communications.”</p>
 <p>7. By 1 July 2024, identifying official communications from the government
 will get easier, with government SMSes coming from a single <strong>gov.sg</strong> SMS
 Sender ID. This will be progressively rolled out beginning from 18 June
@@ -46,6 +47,9 @@ ID in government SMSes.</p>
 <p>8. More information on the <strong>gov.sg</strong> SMS Sender ID can be
 found at <a href="http://sms.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sms.gov.sg</a>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Infographic on gov.sg single sender ID" src="/images/Press Releases 2024/BTN_Infographic.png">
+</div>
 <hr>
 <p><sup>1</sup> Open Government Products, Building Trusted Networks Campaign
 Numbers, 2024</p>
