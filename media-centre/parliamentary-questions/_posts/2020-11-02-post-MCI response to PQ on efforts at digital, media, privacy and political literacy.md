@@ -26,7 +26,7 @@ QUESTION FOR WRITTEN ANSWER
   
 5. The Personal Data Protection Commission (PDPC) launched the [Data Protection Competency Framework and Training Roadmap](https://www.pdpc.gov.sg/Help-and-Resources/2020/03/DPO-Competency-Framework-and-Training-Roadmap) in 2019 to enable Data Protection Officers to strengthen data protection practices in their organisations.  MCI and PDPC have recently completed a review of the [Personal Data Protection Act](https://www.pdpc.gov.sg/) and will propose amendments to enhance organisational accountability in the protection of personal data.  
   
-6. The MLC runs the annual [Better Internet Campaign](https://www.betterinternet.sg/) which covers issues such as cyber safety, discernment of online information, and cyber bullying.  This is reinforced by the National Library Board’s “Source. Understand. Research. Evaluate” ([S.U.R.E.](https://sure.nlb.gov.sg/)) programme, which teaches students, working adults and the general public to be responsible producers and consumers of information.  
+6. The MLC runs the annual Better Internet Campaign which covers issues such as cyber safety, discernment of online information, and cyber bullying.  This is reinforced by the National Library Board’s “Source. Understand. Research. Evaluate” ([S.U.R.E.](https://sure.nlb.gov.sg/)) programme, which teaches students, working adults and the general public to be responsible producers and consumers of information.  
   
 7. Ground-up campaigns initiated by our citizens are an important complement to government’s efforts.  For example, a group of students from the Nanyang Technological University ran a campaign called “Sure Anot” earlier this year to combat fake news.  We look forward to more of such efforts.  
   
