@@ -249,7 +249,7 @@ that you will have many insightful conversations later.</p>
 </p>
 <hr>
 <p><sup>1</sup> Singapore Digital Society Report (2023).</p>
-<p><sup>2</sup> Digital 2024 Global Overview Report (2024). Link: <a href="https://wearesocial.com/sg/blog/2024/01/digital- 2024-5-billion-social-media-users/" rel="noopener noreferrer nofollow" target="_blank">https://wearesocial.com/sg/blog/2024/01/digital- 2024-5-billion-social-media-users/</a>
+<p><sup>2</sup> Digital 2024 Global Overview Report (2024). Link: <a href="https://wearesocial.com/sg/blog/2024/01/digital-2024-5-billion-social-media-users/" rel="noopener noreferrer nofollow" target="_blank">https://wearesocial.com/sg/blog/2024/01/digital-2024-5-billion-social-media-users/</a>
 </p>
 <p><sup>3</sup> Between 2020 and Q1 2023, at the height of the COVID-19 pandemic,
 approximately 55% of POFMA cases were COVID-19 related. Data retrieved
