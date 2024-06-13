@@ -26,8 +26,8 @@ spoofed.</p>
 matters and emergency services. Details of these limited exceptions can
 be found in <strong><a href="/files/Press Releases 2024/Annex_A___Exceptions.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex A</a></strong>.</p>
 <p>4. A non-exhaustive list of examples of government SMS communications
-that will be sent through the <strong>gov.sg</strong><a href="http://gov.sg" rel="noopener noreferrer nofollow" target="_blank"> </a>Sender ID
-can be found in <strong><a href="/files/Press Releases 2024/Annex_B___List_of_Agencies.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex B</a></strong>.</p>
+that will be sent through the <strong>gov.sg</strong> Sender ID can be found
+in <strong><a href="/files/Press Releases 2024/Annex_B___List_of_Agencies.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex B</a></strong>.</p>
 <p>5. SMS remains a key platform for government communications to the public
 in Singapore, due to widespread adoption of mobile phones. Annually, over
 100 million SMSes are sent by various government agencies<sup>1</sup> to
