@@ -29,8 +29,8 @@ that will be sent through the <strong>gov.sg</strong><a href="http://gov.sg" rel
 can be found in Annex B.</p>
 <p>5. SMS remains a key platform for government communications to the public
 in Singapore, due to widespread adoption of mobile phones. Annually, over
-100 million SMSes are sent by various government agencies 1 to notify recipients
-of policy changes, provide transaction updates, and more.</p>
+100 million SMSes are sent by various government agencies<sup>1</sup> to
+notify recipients of policy changes, provide transaction updates, and more.</p>
 <p>6. Mr Sim Feng-Ji, Deputy Secretary (Smart Nation Group), said, “This
 consolidated <strong>gov.sg</strong> SMS Sender ID is designed to give the
 public added confidence and ease of mind when it comes to identifying legitimate
@@ -46,4 +46,6 @@ ID in government SMSes.</p>
 <p>8. More information on the <strong>gov.sg</strong> SMS Sender ID can be
 found at <a href="http://sms.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sms.gov.sg</a>
 </p>
-<p></p>
+<hr>
+<p><sup>1</sup> Open Government Products, Building Trusted Networks Campaign
+Numbers, 2024</p>
