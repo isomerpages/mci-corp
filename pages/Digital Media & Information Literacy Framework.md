@@ -2,6 +2,7 @@
 title: Digital Media & Information Literacy Framework
 permalink: /digital-media-information-literacy-framework/
 description: ""
+variant: markdown
 ---
 # **Digital Media and Information Literacy Framework**
 The Digital Media and Information Literacy Framework guides digital literacy programme owners and public agencies in planning media literacy and information literacy programmes.
@@ -153,10 +154,10 @@ This [checklist](/files/selfassessment%20checklist%208%20july%202019.pdf) will h
 Check out the resources below to learn more about how online platforms and digital technologies work, including topics on facial recognition and geolocation.
 
 On digital footprints:
-*   Media Literacy Council -&nbsp;[Think Before You Share](https://www.betterinternet.sg/-/media/Resources/PDFs/Youth-Guides/MLC-FB-MediaSmart--Think-Before-You-Share.pdf)
+*   Media Literacy Council -&nbsp;[Be SURE before you Share](https://www.digitalforlife.gov.sg/Learn/Resources/All-Resources/Be-SURE-before-you-Share-all)
 
 On digital advertising:
-*   Media Literacy Council -&nbsp;[Digital Advertising](https://www.betterinternet.sg/Resources/Resources-Listing/Youth---digital-advertising)
+*   Media Literacy Council -&nbsp;[Digital Advertising](https://www.digitalforlife.gov.sg/home/learn/resources/all-resources/adults---digital-advertising)
     
 Additional resources coming soon!
 
@@ -164,12 +165,12 @@ Additional resources coming soon!
 
 Check out the following resources on:&nbsp;
 Evaluating sources for credibility:
-*   Media Literacy Council -&nbsp;[Types of Fake News Tipsheet](https://www.betterinternet.sg/-/media/MLC/Files/SID-2018/Quick-Tips/1_How-to-spot-Fake-News_Tipsheet.pdf)
+*   Media Literacy Council - Types of Fake News Tipsheet
 
 Identifying fake news:
-*   Media Literacy Council -&nbsp;[Get Smart with Sherlock](https://www.betterinternet.sg/Resources/Resources-Listing/Get-Smart-with-Sherlock)
-*   Media Literacy Council -&nbsp;[News and Media Literacy Toolkit](https://www.betterinternet.sg/Resources/Resources-Listing/Educators---CSE-Toolkit)
-*   Media Literacy Council -&nbsp;[Quick Tips on Fact-Checking](https://www.betterinternet.sg/Resources/Resources-Listing/Fact-checking-tips)
+*   Media Literacy Council - Get Smart with Sherlock
+*   Media Literacy Council - News and Media Literacy Toolkit
+*   Media Literacy Council -&nbsp;[Quick Tips on Fact-Checking](https://www.digitalforlife.gov.sg/home/learn/resources/all-resources/quick-tips-on-fact-checking)
 
 Additional resources coming soon!
 
@@ -178,7 +179,7 @@ Additional resources coming soon!
 Use digital technologies safely and responsibly by finding out more about:&nbsp;
 
 Cyber wellness:
-*   Media Literacy Council -&nbsp;[Quick Tips to Deal with Cyber-Bullying](https://www.betterinternet.sg/Resources/Resources-Listing/Cyber-bullying-tips)
+*   Media Literacy Council -&nbsp;[Quick Tips to Deal with Cyber-Bullying](https://www.digitalforlife.gov.sg/home/learn/resources/all-resources/quick-tips-to-deal-with-cyber-bullying)
 
 Fighting online scams:
 *   Scam Alert -&nbsp;[Let’s Fight Scams!](https://www.scamalert.sg/)
