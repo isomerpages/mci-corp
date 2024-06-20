@@ -1,9 +1,8 @@
 ---
 title: Resources
-permalink: /resources/
+permalink: /digital-enterprise-blueprint/resources/
 variant: tiptap
 description: Download the full Digital Enterprise Blueprint Report here.
-third_nav_title: Digital Enterprise Blueprint
 ---
 <h3>Partner with us</h3>
 <p>Digitalisation will continue to be a work in progress. We strongly encourage

@@ -5,7 +5,6 @@ variant: tiptap
 description: The Digital Enterprise Blueprint, co-created with key ecosystem
   stakeholders, sets out our ambition for the next bound of digitalisation and
   aims to establish Singapore as a nation of empowered enterprises and workers.
-third_nav_title: Digital Enterprise Blueprint
 ---
 <h3>About the Digital Enterprise Blueprint</h3>
 <div class="iframe-wrapper">
