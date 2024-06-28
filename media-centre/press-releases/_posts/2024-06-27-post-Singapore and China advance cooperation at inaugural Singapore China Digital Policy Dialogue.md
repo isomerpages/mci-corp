@@ -56,11 +56,10 @@ Republic of China Li Qiang in April 2023.</p>
 <li>
 <p>Following this, the establishment of the DPD by MCI and the National Development
 and Reform Commission (NDRC) of the People’s Republic of China was formally
-announced at the 19th Joint Council for Bilateral Cooperation (JCBC) meeting
-co-chaired by then-Deputy Prime Minister Lawrence Wong and Vice Premier
-Ding Xuexiang in Tianjin, China on 7 December 2023. The DPD will facilitate
-high-level discussions on developments and policy matters in the digital
-domain.</p>
+announced at the <a href="https://www.pmo.gov.sg/Newsroom/DPM-Lawrence-Wong-at-the-19th-JCBC-and-Related-Joint-Steering-Council-Meetings" rel="noopener noreferrer nofollow" target="_blank">19th Joint Council for Bilateral Cooperation (JCBC) meeting</a> co-chaired
+by then-Deputy Prime Minister Lawrence Wong and Vice Premier Ding Xuexiang
+in Tianjin, China on 7 December 2023. The DPD will facilitate high-level
+discussions on developments and policy matters in the digital domain.</p>
 </li>
 <li>
 <p>Singapore and China’s longstanding relationship predates the establishment
@@ -75,4 +74,7 @@ such as green development and the digital economy.</p>
 <p>The second DPD is scheduled to take place in Singapore next year.</p>
 </li>
 </ol>
+<hr>
+<p><sup>1</sup>  <a href="https://www.mfa.gov.sg/SINGAPORES-FOREIGN-POLICY/Countries-and-Regions/Northeast-Asia/Peoples-Republic-of-China" rel="noopener noreferrer nofollow" target="_blank">https://www.mfa.gov.sg/SINGAPORES-FOREIGN-POLICY/Countries-and-Regions/Northeast-Asia/Peoples-Republic-of-China</a>
+</p>
 <p></p>
