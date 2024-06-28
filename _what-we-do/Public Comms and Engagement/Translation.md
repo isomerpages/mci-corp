@@ -79,12 +79,6 @@ variant: markdown
 <li>Launched in 2018, the TTDS is an initiative to support Singaporean translation and interpretation (T&amp;I) practitioners from the private sector in deepening their skills.</li>
 <li>Awarded recipients can receive up to S$10,000, to offset 90 per cent of the expenses incurred in their participation of capability development programme(s) related to translation, interpretation and/or languages in Singapore and overseas.</li>
 
-</ul>
-<div style="position:relative;padding-top:56.25%;"> <iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" align="center" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Lcflsk1blxA?si=I-YO_L03DRH0VaeQ" height="315" width="560"></iframe> </div>
-&nbsp;
-
-<img alt="TTDS Image" src="https://www.mci.gov.sg/images/TD/ttds%20brochure.png">
-
 <style>  
   details { 
     border: 1px solid #ccc;  
@@ -168,7 +162,7 @@ on interview performance.
 <img alt="Testimonials" src="/images/TD/ttds_testimonials_27Mar.png">
 	
 </details>
-</section>
+</ul></section>
 &nbsp;
 
 <section id="community-in-translation-events-grant">
