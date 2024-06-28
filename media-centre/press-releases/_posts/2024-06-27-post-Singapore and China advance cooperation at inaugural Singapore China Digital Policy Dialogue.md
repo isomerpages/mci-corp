@@ -8,24 +8,23 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>Singapore and China advance cooperation in trusted commercial data flows
-and AI governance at inaugural Singapore-China Digital Policy Dialogue</p>
-<p>Singapore, 27 June 2024 – The inaugural Singapore-China Digital Policy
-Dialogue (DPD) was held today in Beijing, China. Co-chaired by Senior Minister
-of State for Communications and Information (MCI), Tan Kiat How, and Head
-of National Data Administration of the People’s Republic of China, Liu
-Liehong, the DPD gathered participants from Government, industry, and academia
-to facilitate high-level discussions on developments and policy matters
-in the digital domain.</p>
+<p><strong>Singapore and China advance cooperation in trusted commercial data flows and AI governance at inaugural Singapore-China Digital Policy Dialogue</strong>
+</p>
+<p><strong>Singapore, 27 June 2024</strong> – The inaugural Singapore-China
+Digital Policy Dialogue (DPD) was held today in Beijing, China. Co-chaired
+by Senior Minister of State for Communications and Information (MCI), Tan
+Kiat How, and Head of National Data Administration of the People’s Republic
+of China, Liu Liehong, the DPD gathered participants from Government, industry,
+and academia to facilitate high-level discussions on developments and policy
+matters in the digital domain.</p>
 <ol start="2" data-tight="true" class="tight">
 <li>
 <p>Building on the existing multifaceted cooperation and robust economic
 ties between Singapore and China, the first DPD sought to foster discussions
 in two key areas:</p>
 <p>(i) Advancing Singapore’s interests in trade and business facilitation
-through trusted commercial data flows; and</p>
-<p>(ii) Enhancing mutual understanding of approaches to Artificial Intelligence
-(AI) Governance.</p>
+through <u>trusted commercial data flows</u>; and</p>
+<p>(ii) Enhancing mutual understanding of approaches to <u>Artificial Intelligence (AI) Governance</u>.</p>
 </li>
 <li>
 <p>Under the reporting of the work group for Trusted Flow of Commercial Data,
