@@ -101,3 +101,5 @@ come together to adopt this framework to implement projects and drive innovation
 representatives from the five cities at this closed-door government dialogue
 today. May our bilateral digital cooperation start on a good foundation
 and be taken to greater heights with the support of 刘局长 and his team.</p>
+<p><a href="/files/Speeches 2024/Transcript_of_Opening_Remarks_by_SMS_CI__Tan_Kiat_How_at_inaugural_Singapore_China_Digital_Policy_Dialogue__27_June_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">PDF version of the speech</a>
+</p>
