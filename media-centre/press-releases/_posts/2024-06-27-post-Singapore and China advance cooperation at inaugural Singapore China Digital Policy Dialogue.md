@@ -64,10 +64,9 @@ discussions on developments and policy matters in the digital domain.</p>
 <p>Singapore and China’s longstanding relationship predates the establishment
 of diplomatic ties in 1990, and bilateral cooperation between Singapore
 and China has since grown in depth and scope<sup>1</sup>. China has been
-Singapore’s largest merchandise</p>
-<p>trading partner while Singapore has been China’s largest foreign investor
-since 2013 and we continue to make progress in new areas of cooperation
-such as green development and the digital economy.</p>
+Singapore’s largest merchandise trading partner while Singapore has been
+China’s largest foreign investor since 2013 and we continue to make progress
+in new areas of cooperation such as green development and the digital economy.</p>
 </li>
 <li>
 <p>The second DPD is scheduled to take place in Singapore next year.</p>
