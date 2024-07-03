@@ -10,7 +10,7 @@ variant: tiptap
 ---
 <h3>Parliament Sitting on 2 July 2024</h3>
 <h3>QUESTION FOR ORAL ANSWER</h3>
-<p><strong>59. Ms He Ting Ru</strong> asked the Minister for Communications
+<p><strong>*59. Ms He Ting Ru</strong> asked the Minister for Communications
 and Information (a) what specific breakthroughs or advancements in data
 centre efficiency, liquid cooling, and tropical operations have been achieved
 by Singapore companies and research institutes during the 2019-2022 moratorium
